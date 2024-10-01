@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_SHORT_DESC">
+      <Text>滿洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_KHAN">
+      <Text>努爾哈赤</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_DESCRIPTION">
+      <Text>眾神與諸王擴充包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_NAME">
+      <Text>擴充：眾神與諸王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_DESCRIPTION">
+      <Text>世宗大王統治的朝鮮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_NAME">
+      <Text>朝鮮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_DESCRIPTION">
+      <Text>成吉思汗統治的蒙古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_NAME">
+      <Text>蒙古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_DESCRIPTION">
+      <Text>探險家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_NAME">
+      <Text>探險家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_DESCRIPTION">
+      <Text>混合國家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_NAME">
+      <Text>混合國家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_DESCRIPTION">
+      <Text>混合大洲地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_NAME">
+      <Text>混合大洲地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_DESCRIPTION">
+      <Text>美麗新世界擴充包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_NAME">
+      <Text>擴充：美麗新世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_DESCRIPTION">
+      <Text>尼布甲尼撒統治的巴比倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_NAME">
+      <Text>巴比倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_DESCRIPTION">
+      <Text>晉升資料1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_NAME">
+      <Text>晉升1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ACE_PATROL_PROMO">
+      <Text>ACE PATROL登陸STEAM！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_DESCRIPTION">
+      <Text>藍牙哈拉爾統治的丹麥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_NAME">
+      <Text>丹麥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_DESCRIPTION">
+      <Text>伊莎貝拉統治的西班牙和帕查庫提統治的印加帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_NAME">
+      <Text>西班牙和印加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_DESCRIPTION">
+      <Text>上古的輝煌</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_NAME">
+      <Text>上古奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVWORLD">
+      <Text>馬上開始文明世界！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENMARK_DLC_AVAILABLE">
+      <Text>維京海盜擴充包強勢來襲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DLC_AVAILABLE">
+      <Text>新地圖擴充包火熱推出</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DLC_MAP_PACK_2_AVAILABLE">
+      <Text>混合大洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DLC_MAP_PACK_3_AVAILABLE">
+      <Text>混合國家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_DESCRIPTION">
+      <Text>征服新世界豪華版</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_NAME">
+      <Text>征服豪華版</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_DESCRIPTION">
+      <Text>卡美哈梅哈一世之玻里尼西亞帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_NAME">
+      <Text>玻里尼西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_WONDERS_AVAILABLE">
+      <Text>朝鮮與古代奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_WONDERS_SHORT_AVAILABLE">
+      <Text>朝鮮與奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOW_AVAILABLE">
+      <Text>火熱推出</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIA_DLC_AVAILABLE">
+      <Text>波里尼西亞擴充包上線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPMAPPACK_DLC_AVAILABLE">
+      <Text>地圖擴充包火熱發售中</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_BATU">
+      <Text>拔都</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_BERKE">
+      <Text>別兒哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_GENGHIS">
+      <Text>成吉思</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_GUYUK">
+      <Text>貴由</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_HULEGU">
+      <Text>旭烈兀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_KUBLAI">
+      <Text>忽必烈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE">
+      <Text>蒙哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE_TEMUR">
+      <Text>蒙哥帖木兒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_OGEDEI">
+      <Text>窩闊台</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOLIAN_KHAN_TEMUR_KHAGAN">
+      <Text>鐵穆耳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE">
+      <Text>高效訓練</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
+      <Text>獲取強化所需經驗加快50%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL">
+      <Text>強力回復</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+      <Text>此單位及所有相鄰單元格的單位每回合[COLOR_POSITIVE_TEXT]額外回復2點生命值[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
+      <Text>怯薜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_MONGOL_KHAN">
+      <Text>汗</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

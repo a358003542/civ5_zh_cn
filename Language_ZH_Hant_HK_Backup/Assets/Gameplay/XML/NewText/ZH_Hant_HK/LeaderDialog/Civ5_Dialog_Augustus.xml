@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_2">
+      <Text>好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_5">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_6">
+      <Text>這是必須的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_1">
+      <Text>愚蠢地浪費時間浪費金錢，你會後悔的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
+      <Text>你完全失算了，末日將至。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
+      <Text>勇氣可嘉但愚不可及。真希望你的頭腦能配得上勇氣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_1">
+      <Text>真是豈有此理，你要為侮辱強大的羅馬而付出代價，準備受死吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
+      <Text>我的國庫空虛、士兵躁動，只好拿你開刀了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
+      <Text>以我天父，朱里亞斯神的精神為據，我發誓你的死期將近，準備應戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_1">
+      <Text>恭喜您獲得勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_2">
+      <Text>你是一個終結者。我們戰敗了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_3">
+      <Text>上帝不再眷顧羅馬，我們被打敗了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_ANGRY">
+      <Text>想要活命，就立即給我們這些東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_HAPPY">
+      <Text>請給我們這些東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_NEUTRAL">
+      <Text>快拿出我們想要的，否則後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_4">
+      <Text>當然是不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_1">
+      <Text>您好！我是奧古斯都，羅馬的皇帝與教皇。如果您是羅馬的朋友，那歡迎您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_2">
+      <Text>歡迎！羅馬對盟友真誠，對敵人兇狠。你是敵是友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_3">
+      <Text>歡迎！羅馬因您的蒞臨而倍感榮耀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_6">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_5">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_6">
+      <Text>有甚事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_1">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_2">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_3">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_4">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_6">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_7">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LOSEWAR_1">
+      <Text>你的士兵打了一場漂亮仗，恭喜您獲得勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
+      <Text>我接收時的羅馬是磚塊砌成的；我留給後世的是一座大理石的城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
+      <Text>欲速則不達。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_3">
+      <Text>我需要的是智勇雙全指揮官，而非莽夫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_1">
+      <Text>條件還不夠好。你就不能再給個好點的提議？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+      <Text>您真是如我妻子莉薇婭般節儉。不能稍微提高點價碼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>這是不夠的，能提高點價碼不？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能不能稍微提高點價碼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_ANGRY">
+      <Text>以戰神馬爾斯長流之血，你的提議是對羅馬的侮辱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_HAPPY">
+      <Text>令人遺憾的是，這個計畫出現了不利的前兆。 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_NEUTRAL">
+      <Text>我認為不可行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_ANGRY">
+      <Text>算是成交吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_HAPPY">
+      <Text>太好了，成交了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_NEUTRAL">
+      <Text>成交。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_ANGRY">
+      <Text>請考慮一下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_HAPPY">
+      <Text>我提出這樣的提議讓您考慮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_NEUTRAL">
+      <Text>我們的提議就是這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
+      <Text>你定會先我而去。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
+      <Text>我不能這麼不經意地把羅馬的寶藏交出去。 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
+      <Text>你欲求一死？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_ANGRY">
+      <Text>我同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_HAPPY">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_NEUTRAL">
+      <Text>好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_1">
+      <Text>哈，你還真有些骨氣，我以前還不信。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_2">
+      <Text>對我虛張聲勢。幹得漂亮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_3">
+      <Text>太遺憾了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_4">
+      <Text>十分令人失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_5">
+      <Text>確定？鼠目寸光之徒命不久矣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_6">
+      <Text>你真傻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
+      <Text>很好。後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
+      <Text>戰神馬爾斯再次對著我們微笑，所有羅馬敵人灰飛煙滅！</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

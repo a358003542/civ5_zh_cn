@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER">
+      <Text>亞歷山大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA">
+      <Text>阿斯基亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS">
+      <Text>奧古斯都·凱撒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BARBARIAN">
+      <Text>蠻族</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK">
+      <Text>俾斯麥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE">
+      <Text>凱薩琳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS">
+      <Text>大流士一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH">
+      <Text>伊莉莎白</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI">
+      <Text>甘地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN">
+      <Text>哈倫·拉希德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA">
+      <Text>海華沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA">
+      <Text>蒙特祖馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON">
+      <Text>拿破崙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_NOBUNAGA">
+      <Text>織田信長</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES">
+      <Text>拉美西斯二世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
+      <Text>蘭甘亨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN">
+      <Text>蘇萊曼一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON">
+      <Text>華盛頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
+      <Text>武則天</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

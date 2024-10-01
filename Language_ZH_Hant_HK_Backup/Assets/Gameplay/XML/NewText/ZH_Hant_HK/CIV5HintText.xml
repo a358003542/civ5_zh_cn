@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_HINT_13">
+      <Text>當你的文明遭到攻擊時，優異的道路網將能發揮極為重要的功能。例如，在合適的狀況下，只要有道路可以通行，擁有2點移動力的遠程單位，便能夠在一個回合內趕到前線、攻擊敵方單位然後撤回到更強的單位後方休整。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_14">
+      <Text>除非城外還有其他單位進行防禦，否則只要三個力量中等的任意類型單位，便幾乎能攻佔任何城市——無論它有多堅固。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_2">
+      <Text>想要能擁有更進步的文明，請建造神廟、劇場和其他文化建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_3">
+      <Text>一旦將某個區域納入一個文明邊界之內，它就會一直是該文明的領土。想要奪取該區域的唯一辦法，就是佔領或摧毀控制該區域的城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_6">
+      <Text>斥侯的視野比其他早期單位還要多出一格，除了適於探索世界，也適於監看。因此您可以考慮在帝國邊境的丘陵上部署一些斥候。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_7">
+      <Text>絕對不要用刀子挑戰拿槍的對手。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_8">
+      <Text>請時刻注意帝國的幸福度。如果帝國處於幸福度低落的狀態，城市便會停止成長，直到您獲得新的幸福度來源為止。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

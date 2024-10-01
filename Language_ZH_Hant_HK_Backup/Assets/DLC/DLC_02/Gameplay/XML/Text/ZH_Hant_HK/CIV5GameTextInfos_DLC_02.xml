@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_DAWN_INCA_TEXT">
+      <Text>      噢！您忠實的臣民問候您，改變世界的國王帕查庫提！您統治著印加人，從庫斯克的小國家開始，印加人就已展現了他們潛在的偉大。出征許多戰役，粉碎敵人的軍隊，從厄瓜多爾到智利，打造成自己偉大的帝國。他們的確是建立了哥倫比亞發現美洲前最偉大的帝國。不但是士兵，您的人民更是偉大的建設家和藝術家，他們所遺留下來的作品仍驚艷及啟發著現今的世界。[NEWLINE][NEWLINE]國王帕查庫提，您「憾地者」的名號真是實至名歸！您能夠再一次呼喚大地與您並肩作戰嗎？您的軍隊正等著您發號施令。您能夠再次回復帝國的光輝嗎？您能建起一個經得住時間考驗的文明嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_INCA_TITLE">
+      <Text>印加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SPAIN_TEXT">
+      <Text>祝福您伊莎貝拉，主的僕人，神聖的卡斯提亞雷昂女王，您的子民向您致意及歡呼！您是西班牙這美麗古老之國的統治者，地處歐非交界之處，與歐洲同位於地中海岸，與非洲相隔於洶湧的大西洋。西班牙的人民融合多種文化，其根源來自穆斯林與基督徒世界。其是海的子民，偉大的探險家找到並征服了大部分的新世界。幾世紀以來所得的金銀為西班牙來帶來無以倫比的財富與力量，使西班牙招致了全世界嫉羨的眼光。[NEWLINE][NEWLINE]噢！公平又貞潔的伊莎貝拉！您能否重建西班牙帝國，讓世界再次見識您子民的偉大？您願意披上神聖的皇家戰袍，在天堂的注視下擊敗您的敵人？崇拜您的子民們正在等著您下令出征。您能建起一個經得住時間考驗的文明嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SPAIN_TITLE">
+      <Text>西班牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD">
+      <Text>進入丘陵單元格時單位忽略地形對移動力的影響。位於丘陵的改良設施無需維護費用；位於其他地形則費用減半。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
+      <Text>印加路網</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+      <Text>發現自然奇觀時獲得[ICON_GOLD]金幣獎勵（率先發現者會獲得更多）。自然奇觀提供的[ICON_CULTURE]文化值、[ICON_HAPPINESS_1]幸福度和產出物加倍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+      <Text>黃金七城</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

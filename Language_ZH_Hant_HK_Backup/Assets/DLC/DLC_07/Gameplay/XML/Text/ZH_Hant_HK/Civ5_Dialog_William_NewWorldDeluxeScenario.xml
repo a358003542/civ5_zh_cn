@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_1">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_2">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_4">
+      <Text>朕必將為之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_1">
+      <Text>沒有人能容忍這種肆意漠視生命的行為。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_2">
+      <Text>...那就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_3">
+      <Text>你自稱為統治者，但我看到的卻是一個身著錦衣的野蠻人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_1">
+      <Text>你已證明自己不是一個稱職的統治者，而我也無法再忍受你人民的哀嚎。我會將他們從暴政中解放出來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_2">
+      <Text>你應該知道你干了些什麼，才讓我們做出…如此不幸的舉動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_3">
+      <Text>正如我討厭戰爭，我認為除掉你算是社區服務的一種形式。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_1">
+      <Text>上帝，請憐憫我的靈魂；上帝，請憐憫我可憐的人民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_2">
+      <Text>也許這樣更好，至少現在我不用親眼目睹你毀滅我深愛的國家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_3">
+      <Text>詛咒你！我曾希望將我的人民從所有異國的統治中解救出來，但他們似乎將繼續在你的統治下遭受痛苦。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
+      <Text>如果你滿足我的要求，我就繼續讓你在那痛苦的人生中生存下去。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，您的協助將讓我不勝感激。您的仁慈慷慨遠近聞名。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
+      <Text>此刻您若能聊表您的感謝之情，我將不勝感激。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_1">
+      <Text>我意拒絕之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_2">
+      <Text>...不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_3">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_4">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_5">
+      <Text>您說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_6">
+      <Text>休提此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_7">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_1">
+      <Text>我是奧蘭治的威廉，來自荷蘭。你需要什麼？我可是很忙的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_2">
+      <Text>你到荷蘭來做什麼？我是奧蘭治的威廉，荷蘭至高無上的統治者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_3">
+      <Text>歡迎來到「荷蘭之父」奧蘭治威廉的宮廷。別只是站在那，說你想要什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_1">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_2">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_3">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_4">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_5">
+      <Text>言畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_6">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_1">
+      <Text>保重。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_2">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_3">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_4">
+      <Text>嗨，又見面了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_5">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_6">
+      <Text>您想要幹什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_1">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_2">
+      <Text>沒問題。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_3">
+      <Text>言之即可。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_5">
+      <Text>大聲點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_1">
+      <Text>…不可思議！你用什麼樣的伎倆打敗了我？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_2">
+      <Text>我不會忘記這件事的。記住我的話。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_1">
+      <Text>我敢肯定的一點便是，我絕不會看到我的國家化為廢墟--直到最後一刻，我也會奮戰到底。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_2">
+      <Text>沒必要為行動而期望；也沒必要為堅持而成功。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
+      <Text>你開始讓我想起了我的第二任妻子，她是相當的瘋狂…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
+      <Text>那還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我無法問心無愧地接受這提議，還不行…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>我還是不懂你怎麼會覺得我會對這提議感興趣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>你能再給點好處嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_ANGRY">
+      <Text>我開始懷疑這是某種針對我所設的陰謀。滾開！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_HAPPY">
+      <Text>...不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_NEUTRAL">
+      <Text>我毫無興趣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_ANGRY">
+      <Text>可以。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_HAPPY">
+      <Text>可以。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_NEUTRAL">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_ANGRY">
+      <Text>我的人民遠比我的自尊心來得重要，不管這樣做讓我多麼難受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_HAPPY">
+      <Text>我相信這樣的提議一定可以使我們雙方互利互惠。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
+      <Text>來吧，我相信我有你感興趣的東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_ANGRY">
+      <Text>天堂下所有這樣的條款都不會被同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
+      <Text>這次不行，朋友。我們還有自己的麻煩要處理。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
+      <Text>…你剛才是認真的？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_ANGRY">
+      <Text>...好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
+      <Text>我們總是樂於幫助任何需要援手的盟友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
+      <Text>這將是最後一次，我保證！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_1">
+      <Text>真是浪費時間。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_2">
+      <Text>這真是荒謬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_3">
+      <Text>此等愚夫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_1">
+      <Text>願這會給你一點教訓，希望你會銘記於心。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_2">
+      <Text>你跟一個可悲的外國傭兵沒兩樣。想要打敗我，你還有很長的路要走。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

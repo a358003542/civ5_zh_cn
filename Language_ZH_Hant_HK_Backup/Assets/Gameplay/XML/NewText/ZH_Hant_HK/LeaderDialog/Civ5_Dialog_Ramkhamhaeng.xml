@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_2">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_5">
+      <Text>哦，非常好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_6">
+      <Text>我想我必須同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_1">
+      <Text>我猜想你也干不出好事來，我們早已準備。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_2">
+      <Text>你好大的膽子！我要讓你為侮辱我人民血債血償！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_3">
+      <Text>無所謂，我們會毀了你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_1">
+      <Text>上次你羞辱了我們。準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_2">
+      <Text>你這無恥而又無禮的舉動讓我無從選擇：準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_3">
+      <Text>下流的垃圾！我要為你的無恥與傲慢徹底毀了你！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_1">
+      <Text>除了榮譽，我現在一無所有。我唯一可以做的就是對你說，後會無期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_2">
+      <Text>你終於打敗了我。我唯一可以做的就是對你說，後會無期！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_3">
+      <Text>恭喜你打敗了我。我唯一可做的榮耀之舉就是對你說，後會無期！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_ANGRY">
+      <Text>這是我的提議，不接受的話，你只有死路一條。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，您是否願意在此時幫我們一把？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_NEUTRAL">
+      <Text>如果你還想活命，你最好接受我的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_4">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+      <Text>歡迎來到暹羅，陌生人。我是蘭甘亨，您的來訪讓我們倍感榮幸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+      <Text>很榮幸與您結識。我是暹羅的蘭甘亨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+      <Text>您好！我是蘭甘亨，暹羅的國王。您的拜訪是敝國的榮耀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_6">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_7">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_5">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_6">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_1">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_2">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_3">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_4">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_6">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_7">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LOSEWAR_1">
+      <Text>你這只是一時獲勝。我總會回來復仇的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_1">
+      <Text>我本來還對你多少有點期望，但你的提議既不公平又無恥。請提出更好的條件否則免談。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我知道您不是在羞辱我，但您的提議對我的人民實在不夠公平。我想您一定會增加您的條件吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>你的提議是如此的不公平，如果我接受了，我將在我人民面前丟盡顔面。請添加更好的條件吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_ANGRY">
+      <Text>沒有人願與無恥之徒交易的。現在請離開我的視線。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_HAPPY">
+      <Text>我知道您不會對我不敬，但是我實在無法接受你的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_NEUTRAL">
+      <Text>我覺得你的提議對暹羅人民是種侮辱。我拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_ANGRY">
+      <Text>喔，好吧。我接受你的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_HAPPY">
+      <Text>您的建議讓我們倍感榮幸，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_NEUTRAL">
+      <Text>一個公平的協定可榮耀雙方。我同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_ANGRY">
+      <Text>這是我的提議，我建議你最好接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_HAPPY">
+      <Text>如果您接受此項提議，將使我榮耀萬分。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_NEUTRAL">
+      <Text>您好！我相信此項交易對我們來說都很公平，您覺得呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_ANGRY">
+      <Text>滾吧，無用之輩！你的出現讓我四處蒙羞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_HAPPY">
+      <Text>雖然我極不情願，但是我不得不拒絕您的請求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_NEUTRAL">
+      <Text>我死也不會接受如此羞辱！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_ANGRY">
+      <Text>你這傲慢的畜生！我會為此羞辱復仇的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY">
+      <Text>您是我的賓客也是我的朋友，我不會拒絕您的請求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_NEUTRAL">
+      <Text>好吧，看來我別無選擇。但我發誓，我會為此羞辱復仇的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_1">
+      <Text>你這是在佛祖手心里撒野。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_2">
+      <Text>很好。但下次我可不會這麼客氣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_3">
+      <Text>多令人失望啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_4">
+      <Text>真太讓人失望了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_5">
+      <Text>是嗎？我想你可沒辦法活到為你的短視而後悔的時候了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_6">
+      <Text>你太蠢了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WINWAR_1">
+      <Text>你看，你已經被我打得落花流水了，那你打算如何面對此等屈辱呢？</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

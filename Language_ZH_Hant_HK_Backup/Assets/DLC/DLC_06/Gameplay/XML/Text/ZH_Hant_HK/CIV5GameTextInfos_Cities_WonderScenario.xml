@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_ADAB">
+      <Text>阿達布</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AKSHAK">
+      <Text>阿科薩克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALACAHOYUK">
+      <Text>阿拉卡霍亞克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALALAKH">
+      <Text>阿拉拉克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARINNA">
+      <Text>阿林那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAD_TABIRA">
+      <Text>巴德-塔比拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DILBAT">
+      <Text>迪爾巴特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ENEGI">
+      <Text>埃尼基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERIDU">
+      <Text>埃利都</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAZIURA">
+      <Text>加茲烏拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GIRSU">
+      <Text>吉爾蘇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAKPIS">
+      <Text>哈克皮斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HALAB">
+      <Text>哈拉布</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HANHANA">
+      <Text>漢哈那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HATTUSA">
+      <Text>哈圖沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUBUSNI">
+      <Text>胡布斯尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ISIN">
+      <Text>伊辛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JEMDET_NASR">
+      <Text>珍迪特納什爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARCHEMISH">
+      <Text>卡爾切米什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KISH">
+      <Text>基什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KISIGA">
+      <Text>基西加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUMMANI">
+      <Text>庫曼尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUSSARA">
+      <Text>庫沙拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUTU">
+      <Text>庫圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAGASH">
+      <Text>拉加什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LANDA">
+      <Text>蘭達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LARAK">
+      <Text>拉萊克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LARSA">
+      <Text>拉爾薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUSNA">
+      <Text>魯斯那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARAD">
+      <Text>馬拉德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NENASSA">
+      <Text>尼那沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NERIK">
+      <Text>尼瑞克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NESA">
+      <Text>尼沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NIBRU">
+      <Text>尼布魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NINA">
+      <Text>尼納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PURUSHANDA">
+      <Text>普魯山達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_QADESH">
+      <Text>卡迪什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMUHA">
+      <Text>沙姆哈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SARISSA">
+      <Text>薩利沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHURUPPAK">
+      <Text>蘇魯帕克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUNIP">
+      <Text>圖尼普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUWANUWA">
+      <Text>圖瓦努瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ULLAMA">
+      <Text>烏拉瑪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UMMA">
+      <Text>烏瑪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UR">
+      <Text>烏爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_URUK">
+      <Text>烏魯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZABALAM">
+      <Text>扎巴蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZIMBIR">
+      <Text>津比爾</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

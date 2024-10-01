@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_1">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_2">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_4">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_1">
+      <Text>你竟敢無視神聖的碎槳法律？我們的分歧深深令我難過，但我必須保護我的人民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_2">
+      <Text>我終於醒悟，悔不該輕信你並分享我們的恩澤與好運。不會讓你繼續為害他人的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_3">
+      <Text>你利用了我的熱情好客然後還以欺騙！現在才明白你的真實意圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_1">
+      <Text>遠古的熾焰劃破長空，預示著這一天的到來，但我仍癡癡地期待那是別的含義。準備接受滅亡吧，朋友！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_2">
+      <Text>我已舉起那霸之石證明自己名為正宗，但你卻仍舊與我對抗。預言宣稱我必將一統天下江山，而你郤處處於我掣肘。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_3">
+      <Text>最後一次違背碎漿法律。如同懲戒孩子的父親一樣，滅掉你之後我會潸然落淚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_1">
+      <Text>星群預言我將成為「領袖殺手」。這並非我所期待的結果，只是預言必須實現。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_2">
+      <Text>我的人民將編排新的草裙舞來祝賀你的勝利。或許有一天我們會明白眾神背棄我們的真正原因。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_3">
+      <Text>月明星稀，硬殼蟹量產，慧星（災星）的後代開始黯淡，現在卡那羅亞正為我而來！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_ANGRY">
+      <Text>對即將來臨的盛宴進行適當的捐贈是非常必要的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_HAPPY">
+      <Text>朋友，您還沒有付草裙舞宴會的那份參加費呢！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_NEUTRAL">
+      <Text>朋友，我們需要您的幫助！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_1">
+      <Text>不，不可能。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_2">
+      <Text>我拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_3">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_4">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_5">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_6">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_7">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_1">
+      <Text>啊，新的旅行者！歡迎來到壯麗的玻里尼西亞群島！我，卡美哈梅哈大帝，邀請您一同參加篝火盛宴。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
+      <Text>歡迎您，陌生人！我是卡美哈梅哈，玻里尼西亞國王。來吧，我們舉辦一個盛大的草裙舞會來慶祝這次相遇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
+      <Text>致敬並祝福您，朋友。我是卡美哈梅哈，玻里尼西亞國王，讓我們和諧地共享資源、攜手合作。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_1">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_2">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_3">
+      <Text>再會，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_4">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_5">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_6">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_1">
+      <Text>愿您有愉快的一天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_2">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_3">
+      <Text>朋友，歡迎您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_4">
+      <Text>這是我的榮幸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_5">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_6">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_1">
+      <Text>我們聽看看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_3">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_1">
+      <Text>或許星象意義被誤解了…我必須向卡呼那斯請教這件事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_2">
+      <Text>蓓蕾以舞蹈表示對你的敬意。你同時也鸁得了她的好感，但朋友，別期待她的眼睛會一直盯在你身上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_1">
+      <Text>我不明白你為何要騙我。請提高你的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>很遺憾，條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我視您為兄弟，但就算是一家人也不可以如此厚顏無恥。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>我很重視我們的友誼，但您還是得提出更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_ANGRY">
+      <Text>你想用卡呼那斯祭祀來嚇唬我？這是沒用的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_HAPPY">
+      <Text>千萬感謝，但，我不答應。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_NEUTRAL">
+      <Text>我沒興趣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_ANGRY">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_HAPPY">
+      <Text>但這是一定的！這裡！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_NEUTRAL">
+      <Text>非常肯定！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_ANGRY">
+      <Text>過去我們之間的確有一些分歧，而現在是時候進行彌補了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_HAPPY">
+      <Text>來吧，讓我們的子民一起開始饕殄盛宴！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_NEUTRAL">
+      <Text>這個提議是不是像我一樣友善？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_ANGRY">
+      <Text>如果答應這些要求，卡呼那斯定會摘下我的項上人頭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_HAPPY">
+      <Text>今天的玩笑話還真是挺多啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_NEUTRAL">
+      <Text>恐怕這次我沒有額外的恩澤可施，你只能空手而還了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_ANGRY">
+      <Text>星象告知我應該同意，但我完全不理解其個中原因。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_HAPPY">
+      <Text>當然，作為朋友就應該有福同享。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_NEUTRAL">
+      <Text>分享自己的財富是好事，只是我希望你提出的時候語氣客氣一點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1">
+      <Text>下次，也許…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2">
+      <Text>朋友，走路的時候小心點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_3">
+      <Text>你比卡呼那斯所評價的還要聰明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_1">
+      <Text>在這場紛爭中，苦大神是站在我這邊的。祂的願望是讓我們即刻結束爭吵，別再惹怒祂。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_2">
+      <Text>你想承擔玻里尼西亞的災難？以後還要做有勇無謀的舉動之前，請務必詢問卡呼那斯的意見。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

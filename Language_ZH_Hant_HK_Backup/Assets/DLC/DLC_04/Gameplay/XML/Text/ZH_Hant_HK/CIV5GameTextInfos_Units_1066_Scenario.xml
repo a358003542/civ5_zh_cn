@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT">
+      <Text>諾曼騎士</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL">
+      <Text>皇家侍衛隊</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

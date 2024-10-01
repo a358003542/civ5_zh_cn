@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
+      <Text>阿拉木圖已被蒙古軍團擊敗。我們已經徵召其{1_NumUnits}名騎手至麾下。您可以在哈拉和林附近找到他們，偉大的汗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_ABBASIDS_TEXT">
+      <Text>第三任的伊斯蘭哈里發，以首都位於巴格達的阿拔斯王朝統治著這個王國。哈里發是由穆罕默德先知（西元750年）的後代所建立。並且傳承了數百年。阿拔斯王朝持續掌權了數個世紀，但他們對於地方省份的控制力隨著時間逐漸消失。西元1258年蒙古人進攻哈里發並洗劫了巴格達，將阿拔斯王朝的政治勢力消滅。隨後阿拔斯僅僅掌控一小部分的宗教領導權，哈里發至此正式消失。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_CRUSADERS_TEXT">
+      <Text>在西歐十字軍東征聖地期間，在西元十二到十三世紀間建立了許多小的封建國家。第一次四個十字軍國家建立在黎凡特，一個位於地中海東岸的地區。隨後在第3次十字軍東征，由獅子王查理建立了塞浦路斯王國，一直到西元1571年都是基督教部隊的基幹。蒙古軍團從未真正攻擊過這些十字軍國家，他們大部分是在16世紀時由奧圖曼帝國所發動的進攻中被消滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAI_VIET_TEXT">
+      <Text>越南的黃金時代於大越時期開始也就是西元1009年賴王朝時建立。此時正是當這個國家描繪了一個明確而有策略的願景並開始較著重在建立繁榮的經濟以及完成民生建設計畫的時期。由於注意到鄰近有如此有價值的寶藏，蒙古軍團分別於西元1257、1284以及1288年試圖攻擊大越並獲得成功。大越盡力做到大部分這個時期的其他國家做不到的，他們在空曠地帶避開蒙古優勢兵力，並且只有在佔上風時對抗他們的騎兵，最終保全了他們國家的獨立。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DALI_TEXT">
+      <Text>位居現代中國的雲南省境內，歷經一段動盪與較小的王朝後大理王國在西元937年建立。這個國家的領土大小很自然地依防守的範圍而決定，同時據說只要幾個人便能把守山谷數年。這項說法看來有幾分可信度，當蒙古軍團不斷試圖進攻這個王國時全都失敗了。文獻顯示最後蒙古軍隊抓到一個大理國的叛徒，並且由這個叛徒帶領他們經由秘密通道穿越群山，終於給了他們打破這堅不可摧的防禦的方法。西元1253年蒙古軍團成功攻克這個國家，最後在西元1274年建立了雲南省。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+      <Text>劇本描述[NEWLINE]偉大的汗，中亞高原上統領所有部落的新主人！您將蔑兒乞、奈曼人、克烈人及韃靼人納入了您的麾下，並帶著您的蒙古怯薛一族加入他們。現在您掌管著五個部落的騎手，是時候讓歐亞大陸剩下的地方收歸蒙古的統治之下了。但別認為這理應是件簡單的任務──您得讓您那貪婪的族人們保持開心。他們已發誓對成吉思汗法典效忠，只要您能提供他們適當的戰利品。所以我們不能再浪費時間了：開始您橫越乾草原的旅途，並開始您的征討！[NEWLINE][NEWLINE]勝利條件[NEWLINE]在100個回合內，征服四個以上的主要文明，即可獲得勝利。（在親王以上的難度，您必須征服多於四個文明。）猶豫超過規定時間，您的同胞們將會失去耐心，並導致您的偉大帝國分崩成爭權的封地。[NEWLINE][NEWLINE]特殊規則[NEWLINE]您會從征討過程中獲得為數可觀，各式各樣的戰利品，這些東西全都會增強您需要的戰力和提供資源。舉例來說，尚武城邦的軍隊會加入您的勢力；文化城邦會提供給您一項無償的社會政策；而一個沿海城邦可提供額外的金幣給您的國庫。最棒的是，若征服了一個主要文明，您將可任選一個科技及獲得更可觀的財富！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GEORGIA_TEXT">
+      <Text>這區域從石器時代便有人居住，完整的統御則是在西元十一世紀時，巴格拉特三世所領導。喬治亞新帝國迅速地蓬勃發展，並在短短的一世紀後，達到了鼎盛。喬治亞文藝復興對這個區域帶來了大量的成長，包含哲學、史詩格式的突破及精美的教堂建築。儘管發展得快速又成功，這段喬治亞黃金時代仍邁向終結，肇因於1236年蒙古入侵；最後此帝國在十五世紀末徹底瓦解。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE">
+      <Text>拜占庭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_TEXT_1">
+      <Text>
+古老的希臘城市，拜占庭，註定要被兩個不同國家的統治，是在西元前667年，由一位名叫Byzas的希臘開拓者所建立。即使拜占庭的早年歷史，常常伴隨著希臘神話，但歷史學家相當確信這些開拓者從希臘邁加拉城啟程，航越了愛琴海。[NEWLINE][NEWLINE]位於連結歐洲與亞洲間交易道路附近，同時具備地理戰略價值，拜占庭的規模迅速壯大及快速成長繁榮。在西元324年，君士坦丁大帝選擇重建拜占庭，並根據羅馬的形象，建造了東羅馬帝國的首都。（在現代稱為拜占庭帝國）今後這座城市也被人們喚作君士坦丁堡，並一直是拜占庭帝國的首都，直到約1000年後的衰落。[NEWLINE][NEWLINE]1453年，鄂圖曼帝國奪取君士坦丁堡城市，敲響了拜占庭帝國的喪鐘。鄂圖曼的統治者，穆罕默德二世，卻聲稱其為鄂圖曼帝國的新首都，此方式讓君士坦丁堡的傳奇得以延續。即使土耳其人稱它「伊斯坦堡」，但那也是1930年後的正式命名。[NEWLINE][NEWLINE]從拜占庭，君士坦丁堡，以及伊斯坦堡，這塊小小的希臘殖民地，已經自幼苗茁壯成世界上最大最繁榮的城市之一。現代伊斯坦堡已普遍被當作是個「大城市」，超過1300萬人口居住，成為土耳其最大的城市。名列聯合國教育科學及文化組織世界遺產的一員，現今伊斯坦堡透過每年大量且多樣的社會藝文活動安排，繼續保有他們的傳統。
+   </Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_HUNGARY_TEXT">
+      <Text>匈牙利，歐洲上最古老的國家之一，創立於西元895年。幾世紀以來，匈牙利帝國邊境不停地反叛，並造就了全大陸最富有的國王，匈牙利國王的收入一度是英格蘭君主的兩倍之多。在1217年時，國王領著十字軍第五次東征荷蘭，意圖建立十字軍歷史上最大規模的皇家軍隊。然而，即使是如此強大的軍隊，也無法阻止橫掃大陸的蒙古帝國。1241年，蒙古人入侵了匈牙利，並殘暴地殺害了半數以上的匈牙利人，為數約100萬人。匈牙利國王貝拉四世，下令在邊境建造數以百計的防禦工事，以阻擋較小的勢力入侵，但最大的傷害早已造成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_KOREA_TEXT">
+      <Text>與蒙古帝國同時，高麗正被高麗王朝所統治著，後者在西元918年取得政權。高麗在這段執政期蓬勃發展：律法編篆成法典；引入公民服務系統；而金屬活字印刷更讓她的文化發展突飛猛進。然而從1230年代開始，高麗便開始被蒙古勢力所威脅，後者在往後幾十年仍保持著高度的入侵意圖。1259年，高麗要求談和，於是與蒙古簽訂了合約：高麗將可保有國家主權，而蒙古帝國則併吞了高麗北方省份的一大部分。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM">
+      <Text>金朝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_TEXT_1">
+      <Text>
+金朝（或稱女真王朝）創立於西元1115年，發跡於中國東北，也就是歷史上的滿洲地區。女真族，源自早期居住在此地區的靺鞨部落，主要以採集狩獵為生，是遼國的附屬國。由於完顏部落的首領，完顏阿骨打的統御，女真族得以迅速地征服遼國及許多中國北方地區。完顏以「金」為他的朝代命名，意味著「黃金的」。[NEWLINE][NEWLINE]與蒙古人如出一轍，女真族也是以他們聞之喪膽的騎兵揚名。有人說他們的天賦，是由於部落間根深柢固的狩獵傳統而導致的結果。在與宋朝合力擊潰遼國後，女真便侵入了宋國領土，並導致了近20年的長期戰爭。1141年，紹興合約的簽訂，使得兩國得以在淮河建立界線，並保持和平。[NEWLINE][NEWLINE]在金朝的顛峰時期，已有超過3000萬人民在整個中國北方環繞著。然而，成吉思汗的倔起，為臨近的蒙古帝國帶來了新的統御，蒙古人也立即開始了他們傳奇性的亞洲征途，其中金朝也是目標之一。在成吉思汗去世的1227年前，蒙古人已大量削弱金朝的勢力。然而，金朝的驍勇戰士於成吉思汗死後，仍在蒙古統治之下，盡力奮戰了七年，最後於1234年臣服於蒙古勢力。
+   </Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_UIGHUR_TEXT">
+      <Text>西元742年，正值黃金時代的維吾爾帝國創立並迅速地崛起，往後延伸到八世紀後期。然而，840年吉爾吉斯征服了這年輕的菜鳥王國，而維吾爾族便分散成三個王國：甘肅、吐魯番及喀喇汗國。這樣的情形使吐魯番地區的維吾爾族感到憂心，這個十分成功的部落王國最終存活至1389年蒙古入侵為止。蒙古人最後在維吾爾族成為了附屬國後，採用了他們的字體。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_WESTERN_XIA_TEXT">
+      <Text>西夏王朝，或稱為党項王朝，創立於西元1038年，起自一位党項族長將自己命為大夏的皇帝。不久，這個國家被成吉思汗所領軍的蒙古人，進行多次大規模地破壞，22年間6次不同的攻擊。成吉思汗死於最後一波進攻行動（死因仍有爭議）。1227年，這激憤的游牧民族便開始蹂躪整個首都，破壞建築和文字紀錄，殺害了皇帝，整個過程中屠殺了成千上萬的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
+      <Text>1224 AD-1282 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_NAME">
+      <Text>米海爾八世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_SUBTITLE">
+      <Text>拜占庭帝國領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_LIVED">
+      <Text>1168 AD-1208 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_NAME">
+      <Text>金章宗完顏璟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_SUBTITLE">
+      <Text>金帝國領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVSALIVE">
+      <Text>待摧毀主要文明數：{1_CivsRemaining}[NEWLINE]剩餘回合： {2_TurnsRemaining}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CULTURED_FALLEN">
+      <Text>一個文化城邦已被我們蒙古勢力擊敗。從這些人民身上我們解鎖了一項新社會政策的秘密。請在您空閒時，選擇一項無償政策，偉大的汗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
+      <Text>大理國已被我們蒙古勢力擊敗。我們已募徵其{1_NumUnits}名長槍兵納入我們麾下，您可在哈拉和林附近找到他們，偉大的汗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_DESC">
+      <Text>與成吉思汗和他的蒙古鐵騎策馬馳騁，去建立史上擁有最大疆域的帝國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
+      <Text>征服一個主要文明，可無償選擇一項科技。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_KOREA_FALLEN">
+      <Text>高麗已落入我們蒙古的手中。我們已募徵了{1_NumUnits}名弩兵至麾下。您將可在哈拉和林附近找到他們，偉大的汗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_1">
+      <Text>我，米海爾八世，振興拜占庭帝國的統治者，歡迎您。願您可以證明自己是鑒定的同盟，或是可敬的敵手！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_2">
+      <Text>您好！很高與見到您！我是米海爾八世巴列奧略，拜占庭的統治者。願您能比第四次東征的十字軍，更仁慈地對待我們的土地！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_3">
+      <Text>歡迎您，陌生人！我是米海爾八世，拜占庭帝國的振興者。我們歡迎您來到我們才從第四次十字軍的拉丁騎士手中奪回的領土！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+      <Text>我有嘉宾，鼓瑟吹笙。朕乃金章宗。汝之拜訪，實大幸也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+      <Text>汝之幸會，朕榮也。朕乃北國金朝天子，章宗是也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+      <Text>敬安。朕乃金朝天子，章宗是也。汝之拜訪，乃北國之大幸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN">
+      <Text>恭喜，另一主要文明已被我們蒙古騎兵擊敗。我們已從其國庫中掠奪了大量的財寶（{1_NumGold}金幣）。我們也透過對他們的學習解鎖了一項新科技。請在您空閒時選擇一項無償科技，偉大的領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN_TO_ALLY">
+      <Text>藉著其他勢力的協助，另一主要文明已被擊敗。我們已從其國庫中掠奪了一些財富（{1_NumGold}金幣）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_MARITIME_FALLEN">
+      <Text>一個沿海城邦被我們的蒙古勢力所擊敗。在這土地上平庸的人們，已支付可觀的贖金（{1_NumGold}金幣）以求活命。 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_TITLE">
+      <Text>蒙古的崛起</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
+      <Text>西夏已被蒙古軍團擊敗。我們已將其{1_NumUnits}騎手納入麾下。在汗的都城哈拉和林附近，可以找到他們。[NEWLINE][NEWLINE]為了能夠獲取貿易收入，建議您建立一條連結此城市與您首都的道路。您也可派遣弱小單位進駐該城市，以增加市民幸福度。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_TECH_ACOUSTICS_TITLE">
+      <Text>聲學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_TITLE">
+      <Text>高級彈道學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_AGRICULTURE_TITLE">
+      <Text>農業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ALPHABET">
+      <Text>字母</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY">
+      <Text>畜牧業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE">
+      <Text>畜牧業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ARCHAEOLOGY_TITLE">
+      <Text>考古學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ARCHERY_TITLE">
+      <Text>弓術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ASTRONOMY_TITLE">
+      <Text>天文學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ATOMIC_THEORY_TITLE">
+      <Text>原子理論</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BALLISTICS_TITLE">
+      <Text>彈道學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BANKING_TITLE">
+      <Text>銀行業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BIOLOGY">
+      <Text>生物學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BIOLOGY_TITLE">
+      <Text>生物學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BRONZE_WORKING">
+      <Text>冶銅術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_BRONZE_WORKING_TITLE">
+      <Text>冶銅術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CALCULUS_TITLE">
+      <Text>微積分</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CALENDAR_TITLE">
+      <Text>曆法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHEMISTRY">
+      <Text>化學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHEMISTRY_TITLE">
+      <Text>化學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHIVALRY">
+      <Text>騎士制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHIVALRY_TITLE">
+      <Text>騎士制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CIVIL_SERVICE_TITLE">
+      <Text>行政事務</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_COMBUSTION_TITLE">
+      <Text>內燃機</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_COMPASS">
+      <Text>羅盤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_COMPASS_TITLE">
+      <Text>羅盤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_COMPUTERS_TITLE">
+      <Text>電腦科技</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CONSTRUCTION">
+      <Text>建造學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CONSTRUCTION_TITLE">
+      <Text>建造學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CURRENCY_TITLE">
+      <Text>貨幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_DYNAMITE">
+      <Text>炸藥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_DYNAMITE_TITLE">
+      <Text>炸藥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ECOLOGY_TITLE">
+      <Text>生態學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ECONOMICS">
+      <Text>經濟學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ECONOMICS_TITLE">
+      <Text>經濟學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_EDUCATION">
+      <Text>教育制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_EDUCATION_TITLE">
+      <Text>教育制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ELECTRICITY">
+      <Text>電力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ELECTRICITY_TITLE">
+      <Text>電力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ELECTRONICS_TITLE">
+      <Text>電子學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ENGINEERING">
+      <Text>工程學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ENGINEERING_TITLE">
+      <Text>工程學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_FERTILIZER_TITLE">
+      <Text>化肥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_FLIGHT_TITLE">
+      <Text>航空</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_FUTURE_TECH">
+      <Text>未來科技</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE">
+      <Text>未來科技</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_GLOBALIZATION_TITLE">
+      <Text>全球化</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_GUNPOWDER">
+      <Text>火藥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_GUNPOWDER_TITLE">
+      <Text>火藥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING">
+      <Text>騎術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE">
+      <Text>騎術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_INTERCHANGEABLE_PARTS">
+      <Text>可互換部件</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_IRON_WORKING">
+      <Text>冶鐵術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_IRON_WORKING_TITLE">
+      <Text>冶鐵術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_LASERS_TITLE">
+      <Text>雷射</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MACHINERY">
+      <Text>機械</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MACHINERY_TITLE">
+      <Text>機械</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MASONRY">
+      <Text>砌造術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MASONRY_TITLE">
+      <Text>砌造術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MASS_MEDIA_TITLE">
+      <Text>大眾傳播</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MATHEMATICS">
+      <Text>數學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MATHEMATICS_TITLE">
+      <Text>數學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MEDICINE">
+      <Text>醫學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_METAL_CASTING">
+      <Text>金屬鑄造術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_METAL_CASTING_TITLE">
+      <Text>金屬鑄造術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_METALLURGY">
+      <Text>冶金術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_METALLURGY_TITLE">
+      <Text>冶金術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE">
+      <Text>軍事科學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MILITARY_SCIENCE_TITLE">
+      <Text>軍事科學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MINING">
+      <Text>採礦業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_MINING_TITLE">
+      <Text>採礦業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_NANOTECHNOLOGY_TITLE">
+      <Text>奈米科技</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_NAVIGATION_TITLE">
+      <Text>導航術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_TITLE">
+      <Text>核裂變</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_NUCLEAR_FUSION_TITLE">
+      <Text>核聚變</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_OPTICS_TITLE">
+      <Text>光學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PARTICLE_PHYSICS_TITLE">
+      <Text>粒子物理學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PATRONAGE_TITLE">
+      <Text>贊助制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PENICILIN_TITLE">
+      <Text>盤尼西林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PHILOSOPHY_TITLE">
+      <Text>哲學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PHYSICS">
+      <Text>物理學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PHYSICS_TITLE">
+      <Text>物理學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PLASTICS_TITLE">
+      <Text>塑膠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_POTTERY">
+      <Text>製陶術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_POTTERY_TITLE">
+      <Text>製陶術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PRINTING_PRESS_TITLE">
+      <Text>印刷術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_PUBLISHING_TITLE">
+      <Text>出版業</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RADAR_TITLE">
+      <Text>雷達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RADIO_TITLE">
+      <Text>無線電</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RAILROAD">
+      <Text>鐵路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RAILROAD_TITLE">
+      <Text>鐵路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_REFRIGERATION_TITLE">
+      <Text>冷藏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE">
+      <Text>可替換部件</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RIFLING">
+      <Text>膛線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_RIFLING_TITLE">
+      <Text>膛線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ROBOTICS_TITLE">
+      <Text>機器人學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_ROCKETRY_TITLE">
+      <Text>火箭學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_SAILING">
+      <Text>航海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_SAILING_TITLE">
+      <Text>航海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_SATELLITES_TITLE">
+      <Text>衛星</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_SCIENTIFIC_METHOD">
+      <Text>科學方法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_TITLE">
+      <Text>科學理論</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_STEALTH_TITLE">
+      <Text>隱形技術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_STEAM_POWER">
+      <Text>蒸汽動力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_STEAM_POWER_TITLE">
+      <Text>蒸汽動力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_STEEL">
+      <Text>煉鋼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_STEEL_TITLE">
+      <Text>煉鋼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_TELEGRAPH_TITLE">
+      <Text>電報</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_THE_WHEEL_TITLE">
+      <Text>車輪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_THEOLOGY_TITLE">
+      <Text>神學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_TRADE_HEADING4_TITLE">
+      <Text>貿易</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_TRAPPING_TITLE">
+      <Text>誘捕術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_WRITING">
+      <Text>書寫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_WRITING_TITLE">
+      <Text>書寫</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

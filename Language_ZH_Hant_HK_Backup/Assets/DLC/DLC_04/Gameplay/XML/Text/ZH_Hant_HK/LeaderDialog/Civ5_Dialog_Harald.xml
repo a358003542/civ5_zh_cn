@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_1">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_2">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_3">
+      <Text>當然，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_4">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_1">
+      <Text>啊喲，長能耐了是吧；那你還算是有點希望！看看你都能玩出些什麼花樣來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_2">
+      <Text>蹦跳的小老鼠非要幻想自己是只猛撲的獅子。可你知否，雄獅亦會命喪我的劍鋒之下。讓我來看看你的分量吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_3">
+      <Text>你的確顯示出了些許優秀維京人的氣魄！不幸的是我也許不得不除掉你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_1">
+      <Text>這些無用的嘮叨真是讓人煩躁異常。我們還是在戰場上解決我們的爭端吧，以真漢子的方式！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_2">
+      <Text>這應該是個開始偉大戰役的時機，你有幸成為了我的下一個對手！幹得漂亮！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_3">
+      <Text>我的軍人很無聊，我的倉庫很空虛。稍微讓他們歷練一下也是不錯的，您覺得呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_1">
+      <Text>諸神的黃昏已經駕臨於我們了，這是失敗的唯一解釋。享受你們在這世界的最後一點時光吧。我會在阿斯嘉等待你們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_2">
+      <Text>這算哪門子的背叛？洛基一定幫助了你，因為單憑人類不可能擊敗我。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_3">
+      <Text>你們已經證明自己是真正的戰士！作為離開人世前的最終之事，我要賜與你們維京人的榮譽稱號─領主。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_ANGRY">
+      <Text>我蠻喜歡你們最近得到的東西。它會恰如其分地點綴我的大廳。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_HAPPY">
+      <Text>來吧，朋友。是時候表現你覺得我有多優秀了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_NEUTRAL">
+      <Text>一刹那我居然厭倦了掠奪。現在趕緊給我這些物品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_1">
+      <Text>我必須拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_2">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_3">
+      <Text>哈，不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_4">
+      <Text>恐怕不是今天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_5">
+      <Text>不行，你這傻子！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_6">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_7">
+      <Text>我向眾神發誓，老兄，真的不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_1">
+      <Text>您好，陌生人！我是哈拉爾·藍牙，丹麥人的統治者。喜歡我的長船嗎？它替我粉碎了數以千計的敵人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_2">
+      <Text>喲嗬，矮小的領導者，你面前的是偉岸的哈拉爾·藍牙。嗯，今天我該用哪位勇士的故事來作為迎接你到來的致辭呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_3">
+      <Text>噢，太好了，新的挑戰者！哈拉爾·藍牙歡迎你來到他的土地。也許我們有幸能一起打打拳！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_1">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_2">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_3">
+      <Text>一路順風，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_4">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_5">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_6">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_1">
+      <Text>向您致敬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_2">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_3">
+      <Text>再次歡迎您！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_4">
+      <Text>啊，又回來啦。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_5">
+      <Text>噢，又是你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_GREETING_6">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_1">
+      <Text>我們聽看看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_3">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_5">
+      <Text>什麼事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_1">
+      <Text>借索爾的雷錘之力，您充分證明了自己是個可敬的對手。祝賀您！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_2">
+      <Text>你給我留下了一個值得反復回味的美麗疤痕。或許某天我也應該回敬你一個。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_1">
+      <Text>我會在我自己兄弟的面前嘲笑這種提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_3">
+      <Text>哈，還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_1">
+      <Text>無論我如何喜歡您，那種提議可無法滿足我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？我老媽都比您會做生意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_3">
+      <Text>嗯，很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>你勾起了我的興趣，但是你得再加把勁才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_ANGRY">
+      <Text>不行，我看出來這是洛基的傑作搞的鬼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_HAPPY">
+      <Text>哈，也許……不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_NEUTRAL">
+      <Text>抱歉，不感興趣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_ANGRY">
+      <Text>好，同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_HAPPY">
+      <Text>同意！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_NEUTRAL">
+      <Text>很好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_ANGRY">
+      <Text>如果不是答應了顧問必須要試試看，我才不會用交易這種娘娘腔的方式來獲得想要的東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_HAPPY">
+      <Text>很好的交易呀！有什麼理由拒絕呢，即便是頭腦簡單的乞丐也會同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_NEUTRAL">
+      <Text>我的顧問向我保證說這對你絕不是差得離譜的交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_ANGRY">
+      <Text>上帝也會詛咒你這哥們，這不是在叫我搶自己的老母嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_HAPPY">
+      <Text>哈，簡直是個爭強好鬥的小魔鬼。不行的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_NEUTRAL">
+      <Text>哈哈，你真是個非常有趣的小傢伙。我還不知道我們已經更換了表演的小丑呢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_ANGRY">
+      <Text>我很佩服你的鬥志，但是別以為你可以欺人太甚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_HAPPY">
+      <Text>我喜歡你的精氣神。擁有它對你來說是再合適不過了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_NEUTRAL">
+      <Text>你真是讓我歡樂開懷，矮小的領袖。我倒要看看你會如何處置這些我慷慨贈與的禮物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_1">
+      <Text>幹得不錯，兄弟。我更期待我們在戰場上的相見！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_2">
+      <Text>你看起來像是有銅頭鐵臂！很快我就可以試試你這塊鋼煉得怎麼樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_3">
+      <Text>呃，似乎我的顧問對你的評價才是對的。或許，我給他們發的工資還不夠啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_1">
+      <Text>咦，我聽到了什麼聲音？等等，那不是你女人的哭號嗎！哈！我又贏得了一場勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_2">
+      <Text>在好日子里打了一場漂亮仗，你不覺得嗎？改天我們應該再好好打一場。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

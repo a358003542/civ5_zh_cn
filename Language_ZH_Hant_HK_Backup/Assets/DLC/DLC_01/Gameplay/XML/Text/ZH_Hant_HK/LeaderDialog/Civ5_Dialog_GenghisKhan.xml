@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_AGREE_SHORT_1">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_AGREE_SHORT_2">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_AGREE_SHORT_4">
+      <Text>沒問題。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_1">
+      <Text>你定然已成瘋癲。我就幫世界除掉你這禍害。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_2">
+      <Text>你會為傲慢付出慘重的代價。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_ATTACKED_3">
+      <Text>好！那我們就以戰士的方式來解決吧!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_1">
+      <Text>我們會不可避免地大打出手，沒有比現在更好的時機了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_2">
+      <Text>軟弱無能的傢伙，受死吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DECLAREWAR_3">
+      <Text>你死期將至。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_1">
+      <Text>你比我還強大。祝賀你獲勝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_2">
+      <Text>我失敗了，所以得承擔後果。我等著，引刀成一快。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEFEATED_3">
+      <Text>在我倒下之後，無人便可阻擋你前進的步伐。當你在披荊斬棘征服世界的時候，請別忘記我這個對手。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEMANDTRIBUTE_ANGRY">
+      <Text>給我們想要的東西，否則便受死。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEMANDTRIBUTE_HAPPY">
+      <Text>維持我們的友誼是需要代價的，這就是了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DEMANDTRIBUTE_NEUTRAL">
+      <Text>滿足我們的需求，否則後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_1">
+      <Text>亡靈在我耳邊說「不」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_2">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_3">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_4">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_5">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_6">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_DISAGREE_SHORT_7">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_1">
+      <Text>驕傲而好戰的蒙古人民歡迎你。請尊重我們，這樣才可以保你活過今日。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_2">
+      <Text>我是鐵木真，草原的主人、城市的征服者。如果你情願，可以拜倒在恐怖的腳下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_FIRSTGREETING_3">
+      <Text>你好！我是鐵木真，希望你能證明自己是堅定的朋友，或是可敬的敵人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_1">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_2">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_3">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_4">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_5">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GOODBYE_6">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_4">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_5">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_GREETING_6">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_1">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_3">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LETSHEARIT_5">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_LOSEWAR_1">
+      <Text>太低估你了，我不會重蹈覆轍的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_1">
+      <Text>別浪費我的時間了，傻狗。要么給出更好的條件，要麼滾。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_1">
+      <Text>如果我的族長們看到我如此輕易就放棄了財寶，他們會叛亂的。您得提出更好的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>「別把我當傻瓜：我可是做了一輩子的馬匹生意。你必須提出更好的提議。」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_ANGRY">
+      <Text>為何要花錢購買稍後便唾手可得的東西?不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_HAPPY">
+      <Text>幸好我們是朋友，否則我會因這吝嗇的提議而感到奇恥大辱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_NO_NEUTRAL">
+      <Text>真是瘋癲，居然用如此的提議來羞辱我。我們不可能同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_ANGRY">
+      <Text>有何不可？如果我們改變主意，隨時便可將其收回。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_HAPPY">
+      <Text>樂意之至！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_YES_NEUTRAL">
+      <Text>這看起來很合理。我們接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_ANGRY">
+      <Text>我相信你會同意我們公平合理的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_HAPPY">
+      <Text>這次交易您有興趣嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRADEREQUEST_NEUTRAL">
+      <Text>建議你接受這次交易，因為我很少如此慷慨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_ANGRY">
+      <Text>你這蠢貨是在自尋死路。有多遠滾多遠。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_HAPPY">
+      <Text>你是在挑釁我們開戰嗎？加把勁，你就馬上就要成功了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_NO_NEUTRAL">
+      <Text>你愚蠢的威嚇讓我忍俊不禁，所以這次你不會因傲慢而喪命。快滾吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_ANGRY">
+      <Text>極好—這會減輕你最終的滅亡的苦痛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_HAPPY">
+      <Text>恭喜—勒索我們可是需要極大勇氣的。同意你們這次的要求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_TRIBUTE_YES_NEUTRAL">
+      <Text>較之於你，我們現在處於劣勢。我只能同意，暫時。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_1">
+      <Text>祝賀你的莽夫之勇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_2">
+      <Text>你這瞎了狗眼的白痴會因此後悔終生。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_WARBLUFF_3">
+      <Text>你有腦子嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GENGHIS_WINWAR_1">
+      <Text>我讓你苟活於世，算是大幸了。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

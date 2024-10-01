@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_LIONS_GATE_HELP">
+      <Text>此城市獲取新單元格所需的[ICON_CULTURE]文化值和[ICON_GOLD]金幣降低25%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LIONS_GATE_STRATEGY">
+      <Text>獅門是西臺帝國的獨特建築，用以取代城牆。獅門會增加城市的防禦力，讓城市難以攻克。此外，獅門也會增加25%城市文化邊界擴張率，以及提供+2[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NILOMETER_HELP">
+      <Text>+15%[ICON_FOOD]食物。每個已工作的氾濫平原單元格都會提供+1[ICON_GOLD]金幣。[NEWLINE][NEWLINE]城市需位於河流旁。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NILOMETER_STRATEGY">
+      <Text>水位計是埃及的特色建築，替代水力磨坊。水位計會提高城市的食物和金幣產出，若城市位於河畔則應該建造該建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ZIGGURAT_STRATEGY">
+      <Text>金字形神塔是蘇美人特有的建築物，以取代神廟。金字形神塔可提搞城市的文化值，加速邊界拓展及獲得社會政策。金字形神塔也能提供城市科技值加成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_LIONS_GATE_TEXT">
+      <Text>獅門坐落於西臺帝國的首都哈圖沙，是西元前14世紀左右所建造的一座巨大拱門。門的兩側各有一隻酷似獅子的大石像，獅子在西臺文化中具有重要的象徵意義，而其形象也常出現在許多西臺的建築和紀念物上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_NILOMETER_TEXT">
+      <Text>尼羅河水位計是古埃及人於每年汛期確定尼羅河水位時所使用的一種測量工具。過去古埃及人仰賴尼羅河一年一度氾濫的洪水，為尼羅河兩岸的氾濫平原帶來肥沃的淤泥。這種淤泥非常適合栽種農作物，但如果汛期水量過大，兩岸農田的設施會遭到沖毀，水量過少又會導致大規模的饑荒。因此，古埃人就會使用尼羅河水位計的水位數據，來決定該年應向農民徵稅的額度。[NEWLINE][NEWLINE]一般的尼羅河水位計是一根石柱，有些則是一段通向水井的台階，這兩種水位計上都標有刻度以便觀察水位，而且古埃及人會詳細記錄歷年的水位數據進行比較。其中一個最古老的尼羅河水位計位於開羅的洛達島，據信此水位計是在西元9世紀時由波斯天文學家阿爾法甘尼所建造。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_ZIGGURAT_TEXT">
+      <Text>金字形神塔是蘇美爾、巴比倫和亞述文明的標誌性建築，早期是建築在高台上的神廟，後來才逐漸發展而來的（高臺可能是為了防止洪水肆虐）。典型金字形神塔的最高層是一座大型祭壇，這座祭壇只允許祭司和其他神職人員進入。金字形神塔是大型神廟建築群的一個重要組成部分，但確切用途如今已經無從得知。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HITTITE_WARCHARIOT_TEXT">
+      <Text>西臺戰車是由現有戰車的設計演進而來，與埃及軍隊常用的戰車相比更為龐大和堅固。西臺戰車的整體重量較輕，輪軸更靠近前方，一臺戰車上可同時乘載多達三名戰士。這種戰車通常用於衝破敵方防線、突圍以及追擊潰逃的步兵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SUMERIAN_PHALANX_TEXT">
+      <Text>蘇美人是最早運用方陣的文明族群之一，由扛著大盾牌和長矛的士兵形成一個密集的團隊，在被攻擊時有效保護彼此，並可一體行動以反擊敵人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CULT_OSIRIS">
+      <Text>來自所有提供[ICON_CULTURE]文化值的建築物的+1[ICON_CULTURE]文化值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CULT_OSIRIS_SHORT">
+      <Text>歐斯瑞斯教派</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_FIRST_2_IRON">
+      <Text>戰略資源提供[ICON_PRODUCTION]生產力+1；提供雙倍馬匹和鐵礦資源。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_FIRST_2_IRON_SHORT">
+      <Text>首要鐵拳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TWO_RIVERS">
+      <Text>當您研究出書寫科技後，可獲得無償大科學家。所有單位記入任何臨河單元格只消耗1點移動力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TWO_RIVERS_SHORT">
+      <Text>兩河之地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT">
+      <Text>重型戰車</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_HELP">
+      <Text>強大的古代近戰單位，在開闊地形上極為強悍。已強化「衝擊一級」的能力。僅限西臺生產，以取代弓弩戰車。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HITTITE_WARCHARIOT_STRATEGY">
+      <Text>重型戰車是西臺文明的特色單位，藉以取代弓弩戰車。與弓弩戰車不同，重型戰車是一種專門用以衝鋒和突破敵軍前線的近戰攻擊單位，此單位一開始便已強化「衝擊一級」的能力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX">
+      <Text>方陣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX_HELP">
+      <Text>古代的近戰單位，對抗騎乘單位效果極佳。其擁有對騎乘單位（100）的戰鬥力加成強化，僅限蘇美生產。相較於取代的長矛兵，這種單位的[ICON_STRENGTH]戰鬥力更高。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SUMERIAN_PHALANX_STRATEGY">
+      <Text>方陣是蘇美人的特色單位，取代原本的長矛兵。相較於長矛兵，方陣可以在較早的技術就取得（採礦，而不是青銅鑄造）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_HELP">
+      <Text>總督府能顯著增加一座城市的金幣產出和幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_BUILDING_SATRAPS_COURT_STRATEGY">
+      <Text>總督府是波斯的特色建築。替代市場。如同市場一樣，它也能增加城市的財富產出。然而，總督府還能增加文明的幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_BUILT_BY">
+      <Text>已在{@1_CivName}的{@2_CityName}城中建成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CAPTURED_BY">
+      <Text>已被{@1_CivName}[ICON_OCCUPIED]佔領</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_HITTITES_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_HITTITES_TEXT_1">
+      <Text>安納托利亞（小亞細亞）和部分敘利亞與埃及接壤的地區，跨越大片土地的西臺帝國，於西元前1500年左右達到權力高峰。西臺帝國由哈圖西里一世於西元前1700年建立，爾後面對五百多年軍事上成敗的起起落落。西臺人以善用戰車著名，征服了週遭的競爭對手，直到在著名的卡迭石戰役與埃及部隊棋逢對手，此役可能是歷史上最大規模的戰車對決。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_SUMERIA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_SUMERIA_TEXT_1">
+      <Text>古代蘇美人的文明是西元前六千年建立在美索不達米亞平原（特別在現代伊拉克的部分），有著近三千年的蓬勃發展。在他們的歷史裡，現代考古學家發現了許多由蘇美人製作的重大進步，特別是在農業、數學和寫作的領域。[NEWLINE][NEWLINE]蘇美人以運用先進的農業技術而著名，包括使用灌溉和全年農作物種植，蘇美人利用肥沃土壤的優勢，在這區域的新月形沃土永久定居。[NEWLINE][NEWLINE]還有更重要的是，蘇美人開發了世界最早的書寫語言之一：「楔形文字」，考古學家在整個地區的遺址已經發現數百片出土的泥板。「吉爾伽美什史詩」被認為是文學發明以來早期最偉大的作品之一，記載了蘇美國王吉爾伽美什冒險的事蹟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_ARABIA_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_EGYPT_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_GREECE_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_OTTOMANS_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_PERSIA_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_DAWN_TEXT">
+      <Text>劇本描述[NEWLINE]哦，偉大的領袖，愿恢宏壯觀出類拔萃的遠大美景導引您的統治！您羽翼未豐的文明擁有絕佳的時機定居並開墾這片富饒的新月沃土。經年累月，您的人民將建立起繁榮的城市，通過戰爭、貿易、科研和藝術等途徑發展壯大。自然而然，您會建造偉大的紀念碑來慶祝這些成就！但您應該知悉的是，當您在建造世界上最輝煌的奇跡之際，您的對手們並不會袖手旁觀；因此您應該先打造好您的城市，以準備建造這些奇跡。只有擁有最壯麗的紀念碑，以及聞名世界的最宏偉奇跡的文明，才會流芳百世傳誦千年！[NEWLINE][NEWLINE]勝利條件[NEWLINE]直到所有九個奇跡均建成為止遊戲才會結束。優勝者是當時得分最高的文明。盡可能多建造奇跡來獲得大量分數；攻佔其他文明建有奇跡的城市也有助於達成勝利。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研究與政策取得的速度被減緩了，因此您可以沉浸在這遙遠的年代。城市不會被焚毀，因此奇跡也不會被摧毀。奇跡不再通過研究來解鎖。查看奇跡資訊視窗以獲知解鎖每個奇跡的信息。遊戲初始即可建造祭司神殿，以偉人探訪，能暫時顯示其他玩家建造奇跡的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_FUJI_TEXT">
+      <Text>亞拉拉特山是土耳其東部的一座休眠火山，其間有土耳其最高峰16,854呎（5,137公尺）高。亞拉拉特山據說是聖經中大洪水過後，諾亞方舟的最後歸宿；就像希臘神話中的奧林匹斯山，它也是亞美尼亞神話中的諸神之家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_GIBRALTER_TEXT">
+      <Text>奧林匹斯山是傳說中希臘神話裡面的諸神之家，其間有希臘最高峰米蒂卡斯，9570呎（2,917公尺）高，還有50座以上的山峰。神話中的「泰坦之戰」就發生在奧林匹斯山和周圍地區，這是由宙斯為首的萬神殿眾神與老泰坦巨人們為爭奪霸權而戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_GRANDMESA_TEXT">
+      <Text>卡帕多細亞位於土耳其中部，以其突出的自然奇觀著名。岩石高聳的尖頂被稱為「石林」或「童話故事裡煙囪高聳的尖頂」。它位於內夫謝希爾省，是當地觀光業頗受歡迎的吸引點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV5_FEATURES_KRAKATOA_TEXT">
+      <Text>錫拉島火山噴發也稱為米諾斯噴發，是指毀滅性強大的火山爆發，發生在希臘東南沿海的米諾斯小島，摧毀了島上許多村落。這大約發生在西元前1600年左右，被視為是人類歷史上威力最強大的噴發之一；火山爆發的規模指數由1至8，而這場噴發高達7級。今天，從火山口形成的島嶼鏈統稱為聖托里尼島，是愛琴海上的熱門的旅遊目的地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE">
+      <Text>參拜祭司神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE_ACTIVE">
+      <Text>祭司神殿揭露了哪些文明即將建成奇跡！（剩餘{1_TurnsRemaining} 回合）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CONSULT_ORACLE_HELP">
+      <Text>派遣一位偉人到{@1_CityName}郊外去參拜祭司神殿。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CULTURAL_WONDER_HEADING">
+      <Text>文化（[ICON_CULTURE]文化值）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_DESC">
+      <Text>許多文明將在豐饒的新月沃土上崛起。您的人民能成為上古世界各大奇跡的建造者而名留青史嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+      <Text>{1_Num}來自所擁有的奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_DIPLO_MY_SCORE_WONDERS">
+      <Text>來自建成的奇跡的{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_ECONOMIC_WONDER_HEADING">
+      <Text>經濟（[ICON_GOLD]總收入）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_FIXED_MAP">
+      <Text>史實</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_HARUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>你在神與蘇美人面前無處藏身。如果你想開戰，你便是自尋死路。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_LIVED">
+      <Text>約2500 BC-不詳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_SUBTITLE">
+      <Text>蘇美人的國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_TEXT_1">
+      <Text>傳奇性的蘇美國王吉爾伽美什，是眾所周知的「吉爾伽美什史詩」的主角；這本書是文學史上最早為人所知的作品之一。吉爾伽美什大約在西元前2500年執政，是烏魯克的國王，這是一個城邦，在烏魯克時期（蘇美文明的初期階段）是首都。雖然吉爾伽美什的許多戰功被視為是神話故事，但建造烏魯克城牆仍應歸功於他，而歷史參考資料的考據印證在此期間城市人口日益增加並建設了有城牆的城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_1">
+      <Text>歡迎！我是蘇美人民的領袖-吉爾伽美什。來吧－讓我們一起來欣賞我豪華的宮殿！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_2">
+      <Text>啊！一個新星出現在地平線上。我是蘇美的吉爾伽美什！我將寫一首史詩，慶祝我們歷史性的面會！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN_FIRSTGREETING_3">
+      <Text>歡迎您，陌生人！我是蘇美的統治者吉爾伽美什。來吧－告訴我有關你帝國的事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_LIVED">
+      <Text>約1320 BC-約1294 BC</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_SUBTITLE">
+      <Text>西臺國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_TEXT_1">
+      <Text>在西元前14世紀，穆瓦塔利斯作為西臺國王20多年，雖然他統治的歷史記錄是有限的。穆瓦塔利斯最為人所知的是在西元前1274年攻打埃及法老王拉美西斯二世，如史詩般的卡迭石戰役，以取得敘利亞的更大控制權。在卡迭石古戰場遺址附近，此役以參與的戰車數量據稱有數千之多而著名。雖然戰鬥的真正結果未知，而證據顯示對於埃及人有利，但是兩方最終仍因蒙受重大損失而雙雙撤軍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_1">
+      <Text>誠摯的向您致意，我很高興見到你！我是穆瓦塔利斯，我是強大的西臺人的領袖！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_2">
+      <Text>西臺人民問候你，陌生人！我是穆瓦塔利斯！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_3">
+      <Text>您好，陌生人！我是穆瓦塔利斯，我是西臺人的領袖！讓我們以盛宴慶祝這樣的盛況！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_GREETING_NEUTRAL_HELLO_1">
+      <Text>歡迎蒞臨西臺帝國，這裡是文明的寶石。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_GREETING_POLITE_HELLO_1">
+      <Text>啊，歡迎回來。西臺帝國向來樂意招待她的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN_RESPONSE_REQUEST_1">
+      <Text>西臺帝國似乎遇到不順遂之事。我可以請一個很好的朋友幫忙嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED">
+      <Text>[ICON_LOCKED]鎖定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_LOCKED_BY">
+      <Text>對{@1_CivName}[ICON_LOCKED]鎖定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_MILITARY_WONDER_HEADING">
+      <Text>軍事（大將軍誕生進度）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_MYSTICAL_WONDER_HEADING">
+      <Text>神秘奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ASK_CONSULT_ORACLE">
+      <Text>是否讓{@1_UnitName}參拜祭司神殿？[NEWLINE][NEWLINE]該行動將持續{2_ConsultDuration}回合。之後這位偉人將再也不能參拜祭司神殿，但並不會被消耗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_BUILT">
+      <Text>{@1_CivName}已建成祭司神殿！要參拜祭司神殿，請將一位偉人派至{@3_CityName}周圍的{2_HexDist}單元格內。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_CONSULTED">
+      <Text>顯示：參拜祭司神殿後所揭露的資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_CONSULTED_BY">
+      <Text>{@1_CivName}已經參拜了祭司神殿！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_ORACLE_EXPIRED">
+      <Text>顯示：您的文明已知的資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_POPUP_WONDER_UNLOCKED">
+      <Text>歸功於您不斷獲得的成就，您的文明已經可以建造{@1_WonderName}了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_RANDOM_MAP">
+      <Text>內海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_SCIENTIFIC_WONDER_HEADING">
+      <Text>科技（已研究技術）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_SULEIMAN_EXPANSION_SERIOUS_WARNING_1">
+      <Text>拜託，你認為你在干什麼？為什麼要擴張得離西臺帝國如此之近？請立即停止這樣做。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_SULEIMAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>告訴我。你是否是打在偉大的西臺帝國的主意？你軍隊部署的位置看來說明了這一切。我給你點建議—這將是你犯下的天大錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_TITLE">
+      <Text>上古的輝煌</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_UNDER_CONSTRUCTION">
+      <Text>正於{@1_CityName}建造</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_UNDER_CONSTRUCTION_BY">
+      <Text>正由{@1_CivName}於{@1_CityName}建造</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED">
+      <Text>解鎖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_UNLOCKED_BY">
+      <Text>由{@1_CivName}解鎖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_FLAVOR_TIME">
+      <Text>在文明的發祥地中群立的宏偉奇跡昭示了您的勝利，這些豐功偉績將向您的對手和無窮盡的子孫們傳頌著您的無上光榮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_TIME">
+      <Text>奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_VICTORY_TIME_BANG">
+      <Text>建成奇跡！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_WONDER_ORACLE_HELP">
+      <Text>獲得一項無償的社會政策。[NEWLINE]將一位偉人派至擁有祭司神殿的城市附近，將會揭露其他玩家建造奇跡的進度。任何玩家都可以透過這樣的方式參拜祭司神殿。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_WONDER_STATUS">
+      <Text>奇跡資訊</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

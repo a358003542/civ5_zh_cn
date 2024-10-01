@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_HELP">
+      <Text>所在城市邊界擴張所需的[ICON_CULTURE]文化值與[ICON_GOLD]金幣成本減少25%。[NEWLINE][NEWLINE]所有城市都需要有神廟，且必須是美洲文明。帝國的城市數量越多建造成本越高。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_STRATEGY">
+      <Text>美洲文明用來將宗教從少數人口稠密城市傳播到世界各地的重要建築，同時也能加快所在城市的邊界擴張速度。文明在建造布萊斯凹刻地畫前必須先在所有城市建造神廟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CASTLE_STRATEGY">
+      <Text>城堡是中世紀的建築，它能夠提升城市 12 的防禦力以及 25 的生命值。在城市開始建築城堡時，必須先把城牆建造完成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
+      <Text>所在城市開發的每處莊園產生+1[ICON_GOLD]金幣，可可莊園則提供+3[ICON_GOLD]。[NEWLINE][NEWLINE]城市周邊必須至少有一個莊園。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
+      <Text>巧克力館只能建造於周邊有莊園的城市中。巧克力館能使每座莊園的[ICON_GOLD]金幣產出+1，建造了改良設施的可可資源[ICON_GOLD]其金幣產出還能額外+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_HELP">
+      <Text>在建造火器單位時+15%[ICON_PRODUCTION]生產力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_STRATEGY">
+      <Text>槍砲工房可以增加所在城市生產火器單位的速度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_HELP">
+      <Text>每條在您的文明與城邦之間建立的商路都可+5%[ICON_PRODUCTION]生產力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_STRATEGY">
+      <Text>集會所可使你的文明連結城邦的每條商路提供[ICON_PRODUCTION]生產力。商路連接的城市對象不拘，沒有建造集會所的城市亦可。只有在信奉集會所信仰的城市中可以建立。只能通過[ICON_PEACE]信仰值購買此建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_BLYTHE_INTAGLIOS_TEXT">
+      <Text>布萊斯凹刻地畫是位於大瑪莉亞山脈東方，科羅拉多沙漠當中的數十個巨大圖畫，年代至少可以追溯至西元前1000年，凹刻地畫的作畫方式是挖開地表，露出顏色較淺的岩層。直到1930年代以前，人們都未能發覺凹刻地畫的真正面貌，而其中最大的一幅地畫甚至有171英呎長。這些地畫據信是奇楚與莫哈韋部族的儀式產物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
+      <Text>巧克力是西班牙人在1585年首次由新世界引進的產物，但到了西元1643年才傳入法國宮廷，自此蔚為風行，在往後十年席捲了整個歐洲。全世界第一家巧克力館於1657年在倫敦揭幕，提供由巧克力製成的飲品與甜點。這類場所很快就成為歐洲大陸上流社會間最熱門的聚會場所。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_GUNSMITH_SHOP_TEXT">
+      <Text>槍砲工匠是專職於設計、改造、製作及修理火器的工匠。在1790年代伊萊．惠特尼的米爾河兵工廠落成，以及19世紀中葉塞繆爾．柯爾特在哈特福（美國）及倫敦（英國）開始利用工廠量產手槍以前，槍砲工房是任何殖民者「文明」都不可或缺的設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_MEETING_HOUSE_TEXT">
+      <Text>在新世界中，集會所是大多數新教徒殖民地的社交與文化中心。集會所既是開拓者的信仰場所，也是公眾彼此交流的地點。對於許多早期的貴格派、孟諾派、唯一神教派、清教徒、浸信派及其他聚落而言，集會所也是實質上的市政中心，用於進行政治辯論、投票及決策。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_HELP">
+      <Text>精通快攻與防禦軍事和宗教單位的騎乘單位。僅限美洲文明能通過施行平原騎手政策獲得該單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_STRATEGY">
+      <Text>僅限美洲文明能通過施行平原騎手政策獲得科曼奇騎兵。該單位有滿月獵手（+1移動力）與生存一級（在友邦領土外每回合恢復的生命值+5，防禦+25%）強化。他們可被部署於城市內或附近來阻止其他宗教的傳教士傳教。該單位不消耗戰略資源。（因為槍枝與馬匹都是歐洲文明帶給美洲文明的）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_GREAT_ADMIRAL_STRATEGY">
+      <Text>海軍上將有能力迅即修復同一格位以及鄰近格位內的所有海上和海運單位。海軍上將可以進行大商業家的「貿易任務」，但效果較低。進行任何此類動作後，海軍上將會消耗掉。海軍上將還能為周圍2格內的所有己方海上單位提供15%的戰鬥力加成。提供此加成不會消耗海軍上將。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_LANCER_STRATEGY">
+      <Text>槍騎兵是啟蒙時代的騎兵部隊，處於騎士之後。他們比騎士更快也更強，可以橫掃地圖上那些曾經不可一世的兵種。槍騎兵不需任何花費就能劫掠敵人的設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_HELP">
+      <Text>擁有神秘武器的近戰單位，武器的能力將於單位在首次戰鬥後才能獲知。也可被遠程攻擊觸發。只能通過城邦贈與取得。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_STRATEGY">
+      <Text>進行近戰戰鬥前，神秘戰士會先擲茅攻擊，這種攻擊方式可於雙方人馬接觸前先對敵方單位造成傷亡。進行一次戰鬥之後，神秘戰士將會獲得另一項晋升。只能通過與軍事城邦結盟的方式獲得此種單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_HELP">
+      <Text>近戰海上單位，擅長於海洋探索。[ICON_MOVES]移動力比卡拉維爾帆船高，抵達中國時可獲得[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_STRATEGY">
+      <Text>此海上近戰單位精於探索。此單位抵達中國後可提供[ICON_GOLD]金幣，但單位將會消失。該單位可用於探索地圖，以發現其他玩家的位置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_HELP">
+      <Text>專精於攻擊沿海城市以獲得金幣與俘虜敵方船艦的海上單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_STRATEGY">
+      <Text>專職於攻擊沿海城市以獲得金幣與俘虜敵方船艦的海上單位，可在己方領土外恢復生命值。一開始便有前兩個海岸侵襲強化，可藉由攻擊沿海城市獲得金幣。能俘虜戰敗的敵方海上單位做為獎勵船隻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_HELP">
+      <Text>探索時代最強大的海上單位，用於爭奪制海權。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_STRATEGY">
+      <Text>風帆戰艦的遠程攻擊力略高於巡防艦，基礎攻擊力也較高。它的射程比巡防艦要來得遠，因此可以主宰更寬廣的海域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_CHICHEN_ITZA_HELP">
+      <Text>僅限美洲文明建造。[ICON_GOLDEN_AGE]黃金時代延長50%。叢林單元格提供[ICON_PEACE]信仰值+2。所在城市被征服時，此建築將被摧毀。[NEWLINE][NEWLINE]城市須未建造在丘陵上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_MACHU_PICHU_HELP">
+      <Text>僅限美洲文明建造。[ICON_CONNECTED]商路[ICON_GOLD] 金幣+25%。所在城市被征服時，此建築將被摧毀。[NEWLINE][NEWLINE]城市2個方格內須有山嶽，且山嶽必須在你的領土中。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_FACT_1">
+      <Text>巴加爾在古典馬雅語中的意思為「盾」或「太陽盾」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_2">
+      <Text>早年經歷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_3">
+      <Text>復興帕倫克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_4">
+      <Text>歷史評價</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_LIVED">
+      <Text>603 AD-683 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_NAME">
+      <Text>巴加爾二世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_SUBTITLE">
+      <Text>馬雅領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_1">
+      <Text>人稱「巴加爾大帝」的瑪雅國王巴加爾二世也許是最著名的瑪雅統治者。巴加爾二世年僅12歲便登基，在位將近70年，在大動盪的時期繼承帕倫克城邦。雖然他統治時的歷史細節大多模糊，但他最出名的作為是復興前任統治者時期飽受蹂躪的城市。巴加爾領導監督了領土內許多廣大而精細的建築工程，最有名的是被稱為銘文神廟的巴加爾陵墓，擁有以瑪雅象形文字記載國王一生歷史的精雕細刻。神廟內有數量驚人且保存完好的碑刻，讓當代考古學家得以觀察到這個一度失傳的偉大瑪雅城市的歷史和文化。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_2">
+      <Text>巴加爾的母親扎克庫克夫人是少數幾個曾獨立統治瑪雅城邦的女性。通常王位只傳給國王的兒子，但在沒有合適的男性繼承人的情況下，扎克庫克夫人以先後的孫女之名繼承王位。到巴加爾成年時她在位僅3年，這個偏離傳統父系王位傳承的過程導致巴加爾在後來將他的統治和家族世系合法化做出了不少努力。[NEWLINE][NEWLINE]巴加爾在西元615年登上王位，帕倫克城邦是處於一個動盪的狀態，一度是鄰國卡拉克穆爾頻繁入侵的目標。巴加爾在位初期便對帕倫克的敵人立威，派出自己的掃蕩部隊俘虜卡拉克穆爾的領袖並以他們來獻祭做為報復。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_3">
+      <Text>巴加爾意圖讓帕倫克重拾昔日輝煌並建立他統治的合法性，開始在城市各地建築宏偉的紀念碑歌頌自己的王朝血統。他建築了一些令人印象深刻的建築物，包括伯爵神廟以及地處中央稱為「宮殿」的大型建築，其特色為馬雅國內首度出現的奇特四層高塔。然而，他在位期間的許多華麗建築中，沒有一個是淩駕於銘文神廟之上的。巴加爾在生命晚年開始建造自己的陵墓階梯金字塔，並一直延續到他的繼任者強·巴魯姆二世。[NEWLINE][NEWLINE]神廟以錯綜複雜的雕刻和象形文字為特色，最出名要屬巴加爾華麗的石棺。墨西哥考古學家於1952年首次發現神廟，巴加爾陵墓低層的牆上有著迄今為止最長的瑪雅象形雕文。然而當今對於雕文的主要解釋似乎是描述了巴加爾的一生和其後嗣的重大事件。[NEWLINE][NEWLINE]石棺本身設有一個精巧細緻的石蓋，刻有代表行星和幾個星座象的形文字。特別是這些天體元素，引發了與古埃及金字塔類似的外星人介入瑪雅文化的爭議性理論。雖然那些權威研究者相信石棺描繪了巴加爾到陰間的旅程，其他人則解釋這個圖像代表了巴加爾控制準備發射的太空船。考古學家在石棺內發現了巴加爾的遺骸，戴著一個精雕細琢的玉石鑲嵌而成得面具。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_4">
+      <Text>根據帕倫克四處可見卓越的紀念碑和雕像，史學家認為巴加爾大帝是瑪雅歷史上最受尊敬的領袖。當他在位時，城中建築了將近1000座建築物，消耗了重達15噸的石材。雖然關於他的過往仍未為當今世人所知，我們可以確定的是，他努力的恢復帕倫克王國成就了瑪雅文明中最偉大的建築藝術。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TITLES_1">
+      <Text>國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_1">
+      <Text>關於威廉一世的別號「沉默者威廉」有兩個主要的推論。有一派論調認為，這綽號的來自於在他身為查理五世大臣時，議論朝政總是極為謹慎；另一派認為來自於他任職公務時的冷靜態度，這讓他保持沉默卻又不失精明，而根據我們所知的流傳下來的歷史，兩個推論都貌似有道理。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_2">
+      <Text>威廉三世是威廉一世的後代，他於光榮革命期間在荷蘭入侵英格蘭後成為了英格蘭的國王，繼而詹姆斯二世遭到罷黜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_2">
+      <Text>貴族教育</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_3">
+      <Text>叛亂的根源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_4">
+      <Text>叛亂開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_5">
+      <Text>戰爭爆發</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_6">
+      <Text>獨立的起源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_7">
+      <Text>暗殺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_8">
+      <Text>歷史評價</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_LIVED">
+      <Text>1533 AD-1584 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_NAME">
+      <Text>奧蘭治的威廉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_SUBTITLE">
+      <Text>荷蘭領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_1">
+      <Text>奧蘭治親王威廉是荷蘭的國父與解救者，世人也稱他「沉默者威廉」，他在16世紀中葉成功帶領反叛軍對抗控制了荷蘭低地國的西班牙哈布斯堡王朝。他曾是西班牙國王腓力二世忠實的僕人，然而對西班牙對荷蘭新教徒壓迫的厭惡逐漸增加已經到了不能忍受的地步，最後成為反叛軍中最突出的領導者。他與其他貴族同儕高舉反叛旗號，因而成為西班牙君主眼中的惡徒，他帶領荷蘭軍隊打下無數勝仗，最後在1584年時死於暗殺者槍下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_2">
+      <Text>威廉一世出生於1533年，父親是拿騷的威廉伯爵，在11歲時，他的表哥雷納過世後無人繼承頭銜及名下土地，他因而繼承了其表哥奧蘭治親王的身分。在這個時期，荷蘭是在神聖羅馬帝國查理五世的掌控之下，他是哈布斯堡王朝的領袖，也是西班牙的國王。威廉在接受了貴族該受的教育和培訓之後，成為了宮廷中極受青睞的大臣。而這時皇帝與西班牙皇位間的關聯，成為日後威廉帶領荷蘭擺脫西班牙控制的關鍵。[NEWLINE][NEWLINE]他靠著在軍中晉升，在二十出頭時已是帝國軍隊的指揮官，同時是皇帝的顧問大臣也身兼多職外交官。然而，威廉為表現對皇帝的忠誠犧牲了自己的信仰，捨棄了原先路德教派的思想，轉而信仰羅馬天主教以便爭取更高的權力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_3">
+      <Text>1555年時，查理五世讓渡西班牙皇位給兒子腓力二世。腓力對於治下的新徒教相當冷酷無情，他毫不認同他們的信仰，並且加強宗教裁判所對宗教改革的審判。在侍奉新主腓力二世時，威廉發現這位國王對於用盡一切手段來滅絕新教徒的行為完全不會感到內疚。雖然威廉在接受教育過程中皈依天主教，但他從小就是接受路德教派的思想，並且他也認為每個人都有選擇信仰的權利。隨著勢態演變，在一次狩獵活動中，威廉不小心聽到腓力二世與法蘭西國王亨利二世的對話，討論如何將兩國境內的新教徒趕盡殺絕。據說是這次事件，使威廉日後決定要對抗腓力二世，帶領荷蘭擺脫西班牙。[NEWLINE][NEWLINE]為了要鎮壓荷蘭境內的新教徒，並且逼他們逃亡或者陷入更糟的境況，腓力二世策劃出一個名為「告示牌」的制度。這些告示牌會公告天下，信仰路德教派和喀爾文教是種犯罪行為，會遭受折磨致死的刑罰。這種壓迫行為太過極端，導致許多荷蘭的天主教徒都加入新教以反抗腓力二世的政策。[NEWLINE][NEWLINE]威廉也開始公開批評國王、闡述自己的論點，並且鼓勵大家挺身而出對抗腓力二世的鎮壓政策。1566年時，由荷蘭貴族組成的「貴族和解團」向西班牙攝政帕爾馬的瑪格莉特請願，希望能結束荷蘭境內對新教徒的鎮壓。然而他們的和平訴求卻付諸流水，腓力二世拒絕答應請求，因此荷蘭境內便爆發聖像破壞運動，境內天主教塑像都遭到新教徒叛軍的破壞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_4">
+      <Text>因為聖像遭受破壞，又有越來越多新教徒公開進行被禁止的禮拜，腓力二世遂派遣有「鐵腕公爵」之稱的阿爾瓦公爵費爾南多·阿爾瓦雷斯·德·托雷多前往荷蘭鎮壓暴動並與反叛軍交戰。在他率軍來到後，成立了除暴委員會來監督對新教徒叛軍和領袖的審判和處刑，之後則被新教徒稱為「血腥委員會」。許多遭委員會點名的人都消聲匿跡，當中也包括了威廉，但據說仍有約1000名又或者是更多的新教徒遭鐵腕公爵審判並處刑。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_5">
+      <Text>威廉回到家鄉拿騷資助起義活動，同時他與同伙也成立數支軍隊攻擊西班牙多處邊境。這群反抗西班牙的流亡新教徒和荷蘭貴族後來被稱為「乞丐」，而當中最突出的則是名為「海乞丐」的一支軍隊。威廉運用自己的財富資助這些海乞丐，為他們的船添購軍備，讓他們能像私掠船般攻擊荷蘭的沿岸城市。[NEWLINE][NEWLINE]威廉的兄弟，拿騷的路易斯，則派尚·德林帶領僱傭兵和法國休京諾派（法國新教徒）對抗西班牙軍隊，而自己表面仍維持一名忠於腓力二世的荷蘭貴族。雙方軍隊於1568年碰面時，在荷蘭北方省份格羅寧根爆發海利赫萊戰役，路易斯擊潰了西班牙軍隊，但尚·德林卻陣亡。威廉和路易斯還有個兄弟叫阿道夫，不幸的是，他在率領荷蘭騎兵作戰時慘遭殺害。歷史學家將這場歷史性的戰役稱為八十年戰爭（荷蘭獨立戰爭）的序曲。[NEWLINE][NEWLINE]在不久後的耶姆明根戰役，路易斯的軍隊在試圖佔領格羅寧根市時遭西班牙擊潰，被迫撤軍。威廉本身則是親上前線，帶領荷蘭軍隊打下數場勝仗，因為從西班牙手中奪回荷蘭越來越多城市，更加激發人民的鬥志。雖然接下來的十年荷蘭捷報連連，佔領了北方多數的領地，但西班牙在南荷蘭的統治權仍然屹立不搖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_6">
+      <Text>1573年時，在荷蘭北方城市烏得勒支成立了烏得勒支聯盟，聯合北方各省共抗西班牙。雖然國家尚未完全獨立，但這個聯盟的成立明顯是對抗西班牙統治中的一大轉捩點。即便西班牙仍握有南方領土的統治權，但聯盟在1581年時簽署荷蘭獨立宣言，正式宣告低地國家脫離腓力二世的掌控。不幸的是，威廉一世並無法見到荷蘭完全脫離西班牙掌握的那天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_7">
+      <Text>就在腓力二世出重金懸賞威廉的人頭之後，胡安·德·豪雷吉在1582年首先行動，他開槍打傷了他的脖子。雖然威廉傷勢沉重，但他仍然撐了過來，不過緩慢的復原過程讓他無法全力參與到反叛軍的行動中。不到兩年，威廉再次遭受暗殺，這次動手的是個名叫巴爾塔薩·杰拉德的法國羅馬天主教徒。巴爾塔薩是在威廉的宅邸向他下手，他開了三槍，致命的一槍命中威廉的胸口。[NEWLINE][NEWLINE]在接下來的幾天，巴爾塔薩接受了審判並被判處死刑。他的行刑過程慘無人道，整整折磨了一週才了結。最後斷頭之時，是巴爾塔薩解脫的一刻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_8">
+      <Text>威廉一世不僅被世人敬為荷蘭獨立運動的發起者也是國父。威廉一世鼓舞了荷蘭民眾起義對抗西班牙的統治，反抗新教徒遭受的壓迫和不公，他窮畢生之力追求開明的思想，認為人民有自由選擇信仰的權利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TITLES_1">
+      <Text>奧蘭治王子</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_POLDER">
+      <Text>建立圩田</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CASTLE_STRATEGY">
+      <Text>城堡是中古時代的建築，其可提升城市12點防禦力以及25點耐久度。在城市開始建築城堡時，必須先把城牆建造完成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_HELP">
+      <Text>所有在此城市出生的傳教士可傳播宗教三次。[NEWLINE][NEWLINE]必須建造在 [ICON_CAPITAL] 首都之內。必須先在所有城市建造寺廟，而且必須是歐洲文明。帝國的城市數量越多建造成本越高。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_STRATEGY">
+      <Text>歐洲文明用以將宗教從少數人口稠密城市傳播到世界各地的重要建築，必須建造在首都之內。在此城市出生的傳教士可傳播宗教三次。文明在建造大神廟前必須先在所有城市建造神廟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_HELP">
+      <Text>城市已改良的每一處森林單元格+1[ICON_PRODUCTION]生產力與+1[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_STRATEGY">
+      <Text>長屋是易洛魁文明的特色建築，用來取代工作坊。它能增加城市範圍內每一處森林的 [ICON_PRODUCTION] 生產力與 [ICON_PEACE] 信仰值產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID_STRATEGY">
+      <Text>馬雅金字塔是馬雅的遠古時代特色建築，替代神龕。它能提高城市的[ICON_RESEARCH]科技值與[ICON_PEACE]信仰值，從而加快研發和創立您的宗教。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
+      <Text>修道院可以提升城市的[ICON_CULTURE]文化值，從而加快城市領土的擴張以及獲得新類型社會政策。修道院讓城市的文化邊界成長率增加到四倍。只有在信奉修道院信仰的城市中可以建立。可使用[ICON_PEACE]信仰值購買此建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_HELP">
+      <Text>為帝國生產的所有海上單位治癒壞血病。建有航海學校的城市內的所有單位在其回合開始時都將移除「壞血病」這項強化。奇蹟所在城市附近出現一位海軍上將。須先在所有城市建造大學。[NEWLINE]只有歐洲文明可以建造。城市只能建在海岸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_STRATEGY">
+      <Text>建造航海學校國家奇觀，可以確保未來所有的海上部隊不會受到「壞血病」所苦，而已經感染的部隊，只要在回合開始時停泊在建有這座奇觀的城市內就能治癒。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_TEXT">
+      <Text>製圖員，造船工人和受過教育的船長不會無中生有－這其中許多的學者與勞工，都在像是航海學校這樣的機構中受訓而成。有經驗的船長與飽學之士，都能在學校中分享他們所累積的海洋知識，將智慧傳授給這些較缺乏經驗的人。繪製新路線的氣候型態，指導繪圖員使用最新與最棒的設備，並且設計與建造新型的船隻。[NEWLINE][NEWLINE]大家都相信葡萄牙的領航員，哈利，在他位於薩格雷斯的別墅中，創建了第一所航海學校。雖然他有一大群製圖師繪製非洲部分地區的海岸線，尚無有力證據證明有航海家和學者為主的學校。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_HELP">
+      <Text>提供2單位[ICON_RES_HORSE]馬匹。帝國中最多可以擁有5座這類建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_STRATEGY">
+      <Text>每個馬廄提供 2 單位 [ICON_RES_HORSE] 馬。帝國中最多可以擁有 5 座這類建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT">
+      <Text>這些令人印象深刻的馬雅金字塔建築，是將近3000年前為祭典儀式所建。馬雅工匠手工雕刻的石塊，組成金字塔「階梯式」的外觀。長梯沿著金字塔的一面向上延伸通往頂部供奉馬雅神祇的神廟。最大的馬雅金字塔位於埃爾米拉多，高度幾達260英呎。從體積（9900萬立方英呎）看來，為世界上最大的金字塔之一。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
+      <Text>圩田只能建在氾濫平原和濕地之上。其可立即提高食物產量。在研究「經濟學」之後，將會提供[ICON_PRODUCTION]生產力+1，以及[ICON_GOLD]金幣+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_TEXT">
+      <Text>圩田是被有排水溝的堤壩包圍的一片低漥地。通常，圩田是由湖或海床、氾濫平原或濕地開墾而成的。排乾水的土地下沉，以至圩田一般低於周圍水位。正因如此，水會滲入圩田，所以必須要抽出或以其他方式排出。堤壩通常是由現成材料如泥土或沙子所建成；現代則可能在其表面覆蓋混凝土或完全由混凝土所建成。排水土地非常地肥沃，適合成為牧場或農田。[NEWLINE][NEWLINE]儘管防水用的堤防設施可上溯至羅馬人時期，而最早填海而成的圩田則在西元11世紀。荷蘭人在開墾沼澤甚至海床方面有悠久的歷史，並擁有半數全歐洲的圩田。雖然圩田在歐洲其他國家、亞洲和北美也可見到，而荷蘭擁有最多3千多塊圩田，佔全國土地面積的百分之27左右。阿姆斯特丹大部分就建在圩田之上。如荷蘭的名言所說：「上帝創造了世界，而荷蘭人創造了荷蘭。」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_HEADING">
+      <Text>逸聞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_TEXT">
+      <Text>馬雅文明當中的祭師，經常肩負著給予各種醫藥治療的任務，治療方式有許多，其中包括草藥或是類似桑拿的「汗浴」。[NEWLINE][NEWLINE]現代的馬雅女子會穿著傳統的上衣，也就是民族式的連衣裙。這種服裝特色是配色鮮豔而且上頭有著代表各地村莊的專屬圖紋。[NEWLINE][NEWLINE]有人認為馬雅人是古代熱巧克力的創始者。可可豆主要產於馬雅的領地，它們經過曬乾和磨碎後，再與其他原料混合製成糊狀，加上水後就成了巧克力飲品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_10">
+      <Text>馬雅曆法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_11">
+      <Text>殖民帝國的入侵與衰落</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_12">
+      <Text>現代馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_2">
+      <Text>氣候和地形</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_3">
+      <Text>馬雅歷史時期</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_4">
+      <Text>馬雅偉大城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_5">
+      <Text>衰落</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_6">
+      <Text>馬雅階級制度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_7">
+      <Text>農耕與狩獵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_8">
+      <Text>酬神祈福</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_9">
+      <Text>馬雅文化</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_1">
+      <Text>馬雅人在3至10世紀間主要居住在現今墨西哥、瓜地馬拉和貝里斯等地區，他們生活在各自獨立的王國，但是卻共享相同的文化和宗教。然而他們的先祖來源仍然是一個謎，對於馬雅文明的起源，世人有相當多的推論。根據考古記載，有明確記錄的最早馬雅城市是建立於西元前2000年。馬雅社會從不懂農耕的族群發展成為廣大的城市中心，之後馬雅城邦的食糧來源與貿易就開始依賴在複雜的農耕技術之上。雖然在1000年左右時，許多馬雅城鄉因不明原因而沒落，但許多城市還是存活至16世紀西班牙征服者到來的時期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_10">
+      <Text>在馬雅眾多值得注意的文化中，曆法是最為著名的，主要是因為人們對他們曆法的用途有無數推論。在馬雅使用的三種曆法中，長紀曆是十分複雜的系統，而另外兩種分別為哈布曆和卓爾金曆。[NEWLINE][NEWLINE]2012年末日論就出自於長紀曆，它是馬雅用來記載自遠古人類世界創造後的歷史記錄。根據這項曆法，人類文明始於西元前3114年的8月11號，然後有些人認為接下來的末日會發生在2012年12月21號，這些末日論者相信馬雅人透過曆法預言了世界末日的日子，但多數的研究人員認為這只是一個週期的結束，隨後就又開啟另一個新的週期，而不是一般所認為的世界末日。[NEWLINE][NEWLINE]較鮮為人知的哈布曆會與長紀曆搭配使用，它是一個365天週期的曆法，大約就是地球繞太陽週期，而卓爾金曆是為260天週期的曆法，用以判斷收割與儀式的季節。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_11">
+      <Text>西班牙的到來迅速使得北方馬雅城市迎向毀滅，儘管在現今墨西哥和其他中南美洲地區仍有馬雅族群存在，但他們的文化和歷史大多都因西班牙征服而消失。16世紀初期，西班牙派遣遠征隊進入猶加敦半島以求能建立長久居住的城鄉。然而，原本散佈四地的馬雅城邦，剛好使得馬雅人能個別抵抗西班牙的入侵，使西班牙耗費了將近200年才完全征服當地的馬雅人民。[NEWLINE][NEWLINE]在征服馬雅時期，西班牙人想盡辦法要馬雅人轉而信仰羅馬天主教。這當中最為惡名昭彰的，即是羅馬天主教位於猶加敦教區的西班牙主教迪亞哥·德·蘭達所採取的行動。據說德·蘭達在馬尼這個小城鄉進行了審判，他為了將馬雅原有信仰連根拔除，焚燒了馬雅的神靈塑像和罕見的書冊。雖然他的舉動遭受世人的鄙視，有些歷史學家還是注意到，他在遊歷這地區時，有將他親身所見的馬雅宗教和語言詳細記載下來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_12">
+      <Text>現在在墨西哥、貝里斯、瓜地馬拉、洪都拉斯和薩爾瓦多等地，估計約有七百萬的馬雅人居住於此，當中有許多仍然保持著傳統流傳下來的文化。雖然他們各部族間有超過20種不同的語言隔閡，但就像他們的祖先一樣，他們靠著共同的文化和傳統聯繫著彼此，也一起慶祝古馬雅的文化遺產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_2">
+      <Text>馬雅城鄉大多都位於貝里斯和瓜地馬拉，其餘的則在猶加敦半島上的墨西哥各州內，如金塔納羅奧州、坎佩切州和猶加敦州。馬雅領地內地形地貌相當豐富，從高山高原到溼地和低窪乾地，從茂密的叢林到廣濶的平原。[NEWLINE][NEWLINE]而馬雅領地裡的熱帶雨林，可以提供他們種類繁多的動植物群用以農耕生產，也提供當地少有的淡水資源。在森林裡，年降雨量超過100英吋是相當常見的事，而充滿水份的土壤使得雨水可以滙聚在石灰岩洞，也就是「溶洞」中，積水成池讓水資源更加容易取得。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_3">
+      <Text>對於馬雅人民的起源，有相當多不同的理論，一直到最近五十年考古學家研究中美洲後，才得以拼湊出早期馬雅文化的時間表。馬雅歷史原先因為缺乏文字記錄只能加以揣測，但在20世紀60和70年代對馬雅文字解讀有所突破後，這方面的研究再又度興起。[NEWLINE][NEWLINE]馬雅文明可清楚區分為數個時期：前古典時期、古典時期和後古典時期。在前古典時期的初期，推測第一批聚落是在西元前2000至1500年形成，當時馬雅人最早的先祖從原先狩獵和採集的生活型態轉化為群居的務農。隨著時光推移，這些早期聚落也日漸發展成複雜的社會結構，他們不僅使用了進步的農耕技術和貿易網絡，更創造了偉大的藝術作品和建築。[NEWLINE][NEWLINE]馬雅文明的巔峰約略是處於西元250年至900年左右，這時期也就是古典時期。在古典時期，馬雅發展出一些最為人所知的特色，漸而轉為大規模的獨立城邦，每一座龐大的城市中心都設有許多神靈和國王的紀念碑。[NEWLINE][NEWLINE]後古典期時間始於南馬雅領土主要城市衰落之時，不明原因的沒落使得他們放棄許多偉大的城市。不過，許多北方城鄉在接下來的一千年都保持著繁榮發展。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_4">
+      <Text>雖然馬雅各城有著共同文化在聯繫，但他們也是各自獨立，經常為了領土、貿易和政治等問題而交戰。而雖然他們各自獨立，但所有的偉大馬雅城市對文化都有所影響，每座城都發展出獨特的特色。[NEWLINE][NEWLINE]一般都認為卡米納爾胡是美洲各地至今發現存在最久的城鄉，它在西元前1500年至1200年是大批馬雅居民的故鄉。在過去一世紀，有數十位考古學家在這裡進行挖掘考察，發現這座城市或許是當時這個地區黑曜石和玉的主要產地，在這裡也發現超過100座土墳和古代建築的遺跡。可惜的是，19至20世紀時，附近地區開始大興土木建造商業建築，大肆破壞了這座偉大的古代城市，只留下些許殘磚破瓦。[NEWLINE][NEWLINE]埃爾米拉多興起於約西元前600年至西元100年，是另一座馬雅偉大古城。埃爾米拉多是座規模龐大的城市，它最著名的是有許多隆起的道路，馬雅人稱為「沙庫貝」。沙庫貝是用以連接城內各建築和貿易商城的道路，是馬雅貿易網絡中重要的一環。沙庫貝就與現代的堤道類似，路面在不平坦的土地上凸起，它涵蓋的範圍相當廣，最長的一段連接了古城科巴和較小的城市亞祖拿，長約60英哩（96公里）。[NEWLINE][NEWLINE]蒂卡爾或許是馬雅古典時期中最著名的城市，它是強盛城邦蒂卡爾的首都，這個城邦具大極大的野心和侵略性，經常與鄰近的敵對城邦開戰。一般認為蒂卡爾的統治時間長達將近2000年，在巔峰時期，境內的人口約有10萬人。蒂卡爾有一項較不為人知的發明，稱之為「阿瓜達」，它是一種精巧的儲水系統，可以將泥牆上漏下來的雨水加以收集。[NEWLINE][NEWLINE]契琴伊薩是倖存至最後的馬雅城市之一，也是保存最完善的遺跡之一。契琴伊薩面積龐大，佔地超過2·5平方英哩（6·5平方公里），它的獨特之處在於它擁有各式各樣的馬雅建築，包括了石階金字塔、數個球場和裝飾華麗的神廟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_5">
+      <Text>在接近9世紀時，許多最南方的馬雅城市進入一個衰落期，而原因至今仍然不明。這時期被稱為古典馬雅衰落期，這些偉大王國瓦解、城市被遺棄的原因，引起各家爭論。人口過多、環境破壞、戰爭和疾病，這些似乎都是可能的原因，但在較大型的城邦中，可能性似乎較偏向於各種原因的總和，導致城市遭到遺棄。[NEWLINE][NEWLINE]在南方，這些神祕的衰落影響了馬雅的城市，但在北方，多數的城邦在接下來的一千年依舊發展繁榮。衰落期之後、契琴伊薩崛起，馬雅正式邁入後古典時期。契琴伊薩存在了數百年之久，之後在14世紀左右，才陷入與馬雅潘的毀滅性內戰。馬雅潘、烏斯馬爾和科巴，都是衰落期之後北方少數僅存的馬雅城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_6">
+      <Text>儘管馬雅從未統一成為一個帝國，而是像古希臘一樣以城邦的型式存在，但每個獨立城邦之中，還是有著類似的階級制度。大約始於西元前3世紀，除非無適合的繼承人選，否則馬雅一般就是實行世襲制。貴族階級是由國王、皇親國戚和其他上層階級市民所組成。在貴族之下，由巫師組成的祭司階級則是第二階層，他們負責引導馬雅國王和人民進行每一年的儀式和典禮。在這些階層之下，是由多數馬雅人民組成的平民階層，像是農民、工匠和工人。但還有更低階的階層，主要是由奴隸組成的最下階級，他們都是戰俘和罪犯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_7">
+      <Text>因為地下水資源取得不易，馬雅人運用許多農耕技術，來將領土內的肥沃土壤做最大利用。「米勒帕」是一種作物輪耕制度，在中美洲許多社會中都有使用，對馬雅人更是特別有效用。這是一種刀耕火種的方式，馬雅人會在同一塊地上種植數種不同作物，之後再讓那塊土地休耕。一般來說，這樣的輪耕時間都是種植達二至三年，之後再休耕六至八年。馬雅的主要農作物為玉米、南瓜和豆子，一般統稱為「三姐妹」。[NEWLINE][NEWLINE]馬雅人不僅從事農耕，他們還擅長於狩獵和捕魚。馬雅人靠著許多工具和武器，主要狩獵鹿、兔子和西貒，一種雨林中長得像豬的生物。馬雅人還發明了梭鏢投射的器械，稱為「阿爾塔勒」，會將它運用在狩獵和戰爭中。阿爾塔勒的一端是有凹槽的托柄，然後將矛（或是鏢）放置在上面，再依靠自然的動力，矛就會因為它造成的額外張力，以更高的速度發射出去。阿爾塔勒發射出去的矛據說可以達到時速每小時100英哩（160公里），讓馬雅人能獵捕體型更大、速度更快的獵物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_8">
+      <Text>跟世界上其他的多神信仰社會一樣，馬雅祭祀以伊察姆那為主的眾多神明。其中又以掌管天空的神明最為重要，尤其是太陽神「基尼奇阿郝」和月神「伊希切爾」。馬雅信仰中也有司管氣候、農作物和社會各專業技能的神明。在他們發展的後期，農作物成為生活的主食，因此玉米神的重要性變得更加崇高。[NEWLINE][NEWLINE]在一整年內，馬雅會依照他們的天文和曆法知識，舉行許多儀式來祭祀神明。在眾多以人類獻祭的文化中，馬雅已算是很輕微的，不過在最重要的儀式當中，他們仍然會進行放血和活人獻祭等行為。活人獻祭是為了祈求作物豐收，在已知的儀式中，馬雅人會將人丟進淡水水潭中以奉獻給雨神「查克」。著名的「聖潭」就位於契琴伊薩，在馬雅古典時期中有許多人為此犧牲。[NEWLINE][NEWLINE]跟其他許多中美洲文化一樣，馬雅人會進行儀式性的蹴球賽，在比賽中他們會用臀部將實心的膠球（重約5至10磅）擊進垂直掛立的石環。球賽具有休閒和儀式兩種用途，也是用來解決領地紛爭的手段，賽後輸的一方極有可能要受死。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_9">
+      <Text>在馬雅文化的強盛時期，工匠都會將自己所處城市的地方特色融入他們的偉大作品當中，尤其是在石頭和玉上所作的精細雕刻和浮雕。馬雅人也利用叢林中的可用資源，發展出許多不同的顏料和染料，最著名的顏色為「馬雅藍」，它是一種用靛藍染料所創造的鮮藍色彩，在馬雅社會衰落之後，這種顏色也隨之被歐洲殖民者運用在他們的作品中。[NEWLINE][NEWLINE]在馬雅建築中，最為顯著的即是石階金字塔，有好幾十座都是馬雅文明後期的產物。就如同其名，石階金字塔由數層石階形成，而在上方有個平臺，是舉行宗教儀式的地點。有人認為中美洲的石階金字塔是建造在墳墓或更早期的神廟之上，而且可能因為根據曆法的週期而經過重建。最著名的石階金字塔位於猶加敦半島上契琴伊薩的遺址，在墨西哥政府的管理之下，仍然保存完好。[NEWLINE][NEWLINE]而馬雅的文字系統，因為與古埃及文字類似，因此他們的書寫經常使用到字形或象形文字。在他們領地各處都可以找到刻寫了文字的作品，而在過去一世紀內也慢慢解譯成功，這些作品是用來記錄他們各種層面的文化。雖然有證據顯示，馬雅書寫的文本是用樹皮和動物皮革製成的裝訂本，但這樣的作品在16世紀西班牙入侵殖民時，因為被視為異端所以大多數都遭受破壞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TITLE">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_HEADING">
+      <Text>逸聞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_TEXT">
+      <Text>鬱金香是荷蘭最大宗的出口貨物之一，在全國各地都有種植生產。在17世紀荷蘭經濟的高峰時期時發生了「鬱金香狂熱」事件，這事件是因為在鬱金香貿易中引起大規模的投機買賣和價格操控，使得罕有種鬱金香的價格飆至超高點，最後導致崩潰。[NEWLINE][NEWLINE]全球可見的海尼根啤酒，其首次生產是在1873年的阿姆斯特丹，它紅綠相間的顯眼標籤，已經是象徵荷蘭的代表性商品。[NEWLINE][NEWLINE]英文中的「Holland」（荷蘭）是源自於荷蘭文的「holtland」，意思是指「林地」或是「樹木繁茂之地」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_10">
+      <Text>貿易霸主</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_11">
+      <Text>海上霸權的角力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_12">
+      <Text>王國的建立</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_13">
+      <Text>世界戰爭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_14">
+      <Text>現代荷蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_15">
+      <Text>文化象徵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_2">
+      <Text>地理和氣候</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_3">
+      <Text>史前時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_4">
+      <Text>羅馬佔領時期</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_5">
+      <Text>弗里斯蘭人和法蘭克人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_6">
+      <Text>帝國更替</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_7">
+      <Text>權力轉移</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_8">
+      <Text>新教改革</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_9">
+      <Text>起義對抗西班牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_1">
+      <Text>尼德蘭王國經常簡稱為荷蘭，在許多野心勃勃的王國的影響下，它從北歐的小省份發展為世界首要的貿易中心之一。一切始於羅馬帝國的征服，之後又歷經法蘭克和神聖羅馬帝國的崛起，荷蘭共和國經常成為擴張中歐洲王國的目標。不過，沒有國家造成的傷害比西班牙哈布斯堡王朝還大，腓力國王對荷蘭新教徒進行迫害，這是八十年戰爭爆發的直接導火線。荷蘭人民和西班牙君主間的獨立抗戰長達將近一世紀，當荷蘭擺脫西班牙的統治時，荷蘭共和國的人民就努力不懈地要建立自己的國家。就在這新成立的共和國發展成為重要的經濟強國時，許多文化和科學領域的偉大人物也在這個新的國度崛起。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_10">
+      <Text>歷經八十年戰爭以及荷蘭共和國在北方成立之後，荷蘭迅速就成為歐洲的貿易霸主。在跨國企業荷蘭東印度公司帶領之下，荷蘭貿易商人在全球建立起新的貿易路線和殖民地。這個時代就是「荷蘭黃金時代」，它也見證了荷蘭科學進步和軍事革新，在境內藝術和音樂的文化也蓬勃發展。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_11">
+      <Text>因為荷蘭與英格蘭、法國和西班牙各國殖民地之間的貿易，嚴重束縛了英格蘭的貿易和利益，在1651年時，英格蘭議會透過一連串的法案想要控制荷蘭船運的範圍。這些法案稱為「航海法案」，用以規定限制荷蘭到英格蘭所屬港口之間的航運。英格蘭為了控制海上霸權所做的努力，成為了17至18世紀間英荷戰爭的直接導火線。在接下來至18世紀中期的100年間，荷蘭因為無數的海上戰爭導致艦隊規模和火力的縮減，這使得荷蘭在政治圈和世界貿易領域兩方面的權力都大幅削弱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_12">
+      <Text>在拿破崙戰爭期間，整個荷蘭於1795年落入法國統治之下，之後形成短暫存在的法國傀儡國巴達維亞共和國。在1814年楓丹白露條約簽署之後，拿破崙在歐洲的征服正式宣告終結，荷蘭人民能夠再次宣布獨立，成立荷蘭聯合王國。不久之後，原本一直是荷蘭屬地的比利時，在1830年自己獨立成國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_13">
+      <Text>自從荷蘭成為主權國家之後，他們在政策上都是盡可能維持中立。也因為這樣，在第一次世界大戰這樣的巨大衝突之中，荷蘭一直是保持中立不介入任何戰爭，不過與交戰的雙方陣營仍然保持緊密的經濟合作。[NEWLINE][NEWLINE]在第二次世界大戰之中，在衝突爆發時，荷蘭也是再次宣布其中立的立場。然而，這次德國就決心不放過荷蘭的領土。納粹於1940年入侵時，遭遇到荷蘭軍隊的頑強抵抗，但荷蘭落敗並遭第三帝國佔領。在德國佔據期時，荷蘭政府逃至境外成為流亡政府，整個國家就陷入納粹的掌控之中。雖然納粹佔領後生活日漸嚴苛而導致荷蘭境內發生抵抗活動，納綷還是成功屠殺了成千上萬名荷蘭境內和從德國逃亡過來的猶太人，當中包括了安妮·法蘭克，而她的日記也記錄了猶太人大屠殺的經過，世人廣為閱讀。[NEWLINE][NEWLINE]在1944年時，荷蘭與德國隔著萊茵河和馬士河，而為了控制這兩條河上的橋梁，同盟國發動了史上最大規模的空軍行動，史稱市場花園行動。同盟國在這個區域空投上千名傘兵，但行動成效並不大。同盟國將領將這次的失敗歸咎於氣候不良與通訊問題。因此，荷蘭之後就一直在處於納粹掌控之下，一直到1945年的春天德國投降。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_14">
+      <Text>現今的荷蘭王國是一個君主立憲國家，並且由選舉出來的議會與攝政女王碧翠斯共理國家大事。作為歐盟的創辦會員國之一，荷蘭一直致力為聯盟貢獻，為歐洲地區帶來和平關係和穩定經濟。海牙是荷蘭的第三大城，是荷蘭中央政府和聯合國國際法院的所在地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_15">
+      <Text>綜觀荷蘭的歷史，曾誕生不少世上最受尊敬的藝術家、科學家、研究人員和學者，他們當中有許多為現代的發展奠定了基礎，都是在各自的領域不可或缺的人物。知名畫家林布蘭與文森·梵谷都是荷蘭人，至今他們的作品是世上最受推崇、最珍貴的畫作之一。而科學家方面，像是最早發現土星光環的克里斯蒂安·惠更斯和有「微生物學之父」之稱的雷文霍克，都為後世的科學發現做出莫大的貢獻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_2">
+      <Text>荷蘭王國位於北歐沿岸，其統治領地包括了阿魯巴、庫拉索以及位於加勒比海的聖馬丁。而位於歐洲的荷蘭省份海拔都極低，因此得大量使用堤防來與海水爭奪領土。雖然荷蘭國土相較之下較小，只有大約美國紐澤西州的兩倍大，但它的人口卻達超過1600萬人。因為可用土地狹小，荷蘭很早之前就建立了城市計畫和發展的概念，荷蘭許多人民都是住在繁密的都市，這包括了首都阿姆斯特丹。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_3">
+      <Text>在西元前1世紀羅馬人來到之前，荷蘭這地區上面的居民是許多不同部落的日耳曼民族。這些部族都是從附近區域移居至此，尤其是從斯堪地納維亞，而他們也是凱爾特人的後代子孫，其起源來自於鄰近的奧地利和德國。巴塔維族就是這些部族之一，他們住在萊茵河畔的一座島上，是最有權力和威嚴的部族。雖然巴塔維族在貿易和工匠方面並不突出，但他們驍勇善戰的威望使得他們成為周遭部族間的霸主。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_4">
+      <Text>位於荷蘭最南端的下日耳曼尼亞為羅馬帝國行省，西元1世紀時遭到羅馬軍隊佔領。在尤利烏斯·凱撒所著的「高盧戰記」中，記載了巴塔維族成為羅馬帝國的傭兵，隨著他們征戰歐洲各地。巴塔維族最後因為羅馬的控制日漸嚴苛而起兵反叛，但卻被鎮壓。之後羅馬統治該地區，無風無浪長達將近400年，直至整個帝國瓦解。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_5">
+      <Text>雖然關於這時期的書面記載相當少，但在羅馬帝國衰落之後，原本羅馬帝國在荷蘭地區掌控的領土，很快地就落入法蘭克人和弗里斯蘭人手中。雖然這些部族在同一地區也存在了數世紀之久，但一直到羅馬帝國式微之後，他們擴張的機會才大大增加。最後除了位於北岸的弗里斯蘭王國之外，法蘭克王國幾乎吞併了整個荷蘭和德國的領土。因為國土交界過近，法蘭克和弗里斯蘭最終成了死敵，爆發一連串的戰爭來解決領土問題。734年時，法蘭克於伯昂戰爭中獲勝，導致弗里斯蘭王國的解體，並且併入了法蘭克王國的領土。之後法蘭克王國在查理大帝統治時對義大利的征戰，導致數個王國的誕生，包括了法蘭西王國和日耳曼王國，而荷蘭在接下來的數個世紀處於它們的統治之下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_6">
+      <Text>在查理大帝於814年逝世之後，法蘭克王國就分裂成中法蘭克、東法蘭克和西法蘭克三個王國。大部分荷蘭領土劃入中法蘭克的範圍，受洛泰爾一世的統治，而這個曾經幅員遼闊的帝國又分裂為日耳曼王國（後來成為神聖羅馬帝國）以及法蘭西王國，兩個國家繼續為荷蘭的統治權及領地爭戰不休。15世紀時，雖然大部分領土最終都落入神聖羅馬帝國的掌控之中，但有著法蘭西皇室旁系分支身分的勃艮第公爵們也開始對荷蘭虎視眈眈。[NEWLINE][NEWLINE]也就在這個時期，荷蘭第一次遭受多次嚴重的水患侵襲，有成千上萬人死亡，大多數的基礎建設也都被破壞殆盡。1287年時，嚴重的聖露西亞水災襲擊了荷蘭，奪走5萬條人命，並將一座小湖泊變成與北海連接的海灣，稱之為須德海。須德海是到20世紀時才終於又與北海分隔開來，重回它原本淡水湖的樣貌。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_7">
+      <Text>在14和15世紀時，荷蘭和鄰近的比利時幾乎都是受勃艮第歷代公爵的統治。在15世紀，法蘭西公爵們繼續透過聯姻和繼承、定時收購以及吞併等方式取得更多荷蘭低地國的領土。[NEWLINE][NEWLINE]勃艮第在荷蘭的屬地之後由哈布斯堡王朝繼承，是由奧地利公爵馬克西米利安一世與勃艮第的瑪麗聯姻後取得，雖然他繼承勃艮第領土一事遭到法蘭西國王的反對，但領土最終還是傳給了瑪麗的兒子腓力一世，確保了權力傳移至哈布斯堡王室。[NEWLINE][NEWLINE]1521年時，哈布斯堡王室分裂成西班牙與奧地利哈布斯堡兩大家族，西班牙哈布斯堡家族繼續統治荷蘭，而奧地利哈布斯堡則以神聖羅馬帝王的身分統領德國和週遭地區。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_8">
+      <Text>歐洲在宗教改革時期，傳統的羅馬天主教教會遭受質疑，而新教運動則在荷蘭建立了強壯的根基。而荷蘭境內新教的傳播，引起信仰天主教的君主相當大的擔憂，這始於查理五世統治之時，而到他的兒子西班牙的腓力二世掌權之後，情況更加嚴重。腓力二世對荷蘭新教徒的迫害益發嚴重，導致接下來幾年荷蘭人民的強烈不滿。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_9">
+      <Text>這時荷蘭境內對腓力二世的政策怨聲四起，而反抗的人物中最突出的就是奧蘭治的威廉，他以宗教寬容的支持者身分崛起。威廉小時候是位新教徒，但在受貴族教育時轉為信仰天主教。而不論他本身的宗教觀點，他堅信所有人都有選擇自己信仰的權利。因為威廉是荷蘭的貴族也是西班牙的忠臣，因此一開始時他很猶豫是否要反抗國王。然而，後來腓力二世並無意安撫荷蘭人民，因此威廉被迫不得不行動。1567年之前，就已經有發生一些小規模的叛亂，而威廉因為選擇背叛腓力二世並且資助起義，而受到西班牙的追捕。[NEWLINE][NEWLINE]就在威廉領軍與西班牙作戰並且取得數次勝利後，1581年時自由的北方成立了聯省共和國。然而這些一開始的成功，只是長期抗戰八十年戰爭的序幕，在戰爭時間，西班牙仍保有荷蘭南方的統治權。威廉一世在1584年時，遭一個忠於腓力二世的天主教教徒刺殺，而戰爭持續至1648年，直至這年荷蘭共和國才全面擺脫西班牙的控制。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TITLE">
+      <Text>荷蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_POLICY_CITIZENSHIP_HEADING">
+      <Text>公民權</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
+      <Text>文藝復興時代的海上單位，用以攻擊歐洲勢力和搶奪財寶。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_STRATEGY">
+      <Text>私掠艦需要研究海盜行為後才能生產，同時這項技術也是能讓歐洲勢力宣戰的前置條件。用私掠艦來攻擊敵人的航運與搶奪財寶單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_TEXT">
+      <Text>不停歇的在海上尋找他下一個受害者，私掠艦是合法的海盜，在戰爭時期，帶著統治者的許可，襲擊敵人的船艦。私掠艦的主要目標是為搗亂敵人的貿易路線，傷害他們的經濟或擁有海軍或陸軍的能力。通常來說，私掠艦是自行創業的商人，他已經擁有自己的船隻，受過訓練的船員，而且他瞭解海洋與貿易路線。一般來說，私人武裝船主獨自作業，但有時候他們會集結在一起組成大型船隊，以便能夠奪下較重型的目標。[NEWLINE][NEWLINE]私掠艦為的不是要讓敵方的艦艇沉沒，而只是要獵取它與它所承載的貨物。贓物往往被拍賣掉，所得款由私掠艦，任何投資者以及君主共同享益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_POLICY_CITIZENSHIP">
+      <Text>公民權</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+      <Text>單位在面臨近戰攻擊時將撤退。遭遇高移動力敵方單位或後方缺少開闊地形時撤退幾率將降低。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_MYSTIC_WARRIOR_TEXT">
+      <Text>許多北美部族的勇士們在戰時都會接受複雜而神秘的儀式祝福，為的就是增加他們的勇氣、力量、技巧，以及生還的機會。關於這類的「神祕戰士」，最早期的記錄來自於原住民與英國殖民者之間爆發的佩科特戰爭（西元1634-1638年），但在東北及平原印地安人的歷史中，這類的例子更比比皆是。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER">
+      <Text>這種肖松尼特色單位在戰場上以探索見長，且令人聞風喪膽，替代斥侯。該單位的強化能力使其在發現自然奇觀時獲得[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_HELP_INQUISITOR">
+      <Text>可用來廢除城市內的其他宗教。只能通過[ICON_PEACE]信仰值購買。[COLOR_POSITIVE_TEXT]不需要維護費。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER_STRATEGY">
+      <Text>探路者替代斥侯，僅限肖松尼生產。這種單位擁有斥侯的探索能力，且戰鬥力幾乎與戰士相同，此單位發現自然奇觀時能獲得[ICON_PEACE]信仰值加成，但其生產成本比斥侯高。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_DESC">
+      <Text>西元2005年發現於俄亥俄州西南方的莫爾赫之圈（又稱「巨木陣」）是落成於約2000年前的古蹟，年代介於西元前40年到西元130年之間，建造者可能是荷普威爾文化的部族之一。莫爾赫之圈是由三道呈同心圓狀排列的木柱所組成，高度約計15英呎，外圈部分有200根左右的木柱，分布直徑約200英呎，應為儀式用途，但實際狀況仍屬未知。最近，該處又挖掘出一個裝有紅土的中央祭壇，以及相鄰的一處長寬為40乘50英呎的長方形建築物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_HELP">
+      <Text>僅限美洲文明建造。增加額外的商路，且該城市獲得商隊。所在城市被征服時，此建築將被摧毀。[NEWLINE][NEWLINE]城市必須建造在草原或草原地形旁。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「這座圓圈可能是他們儀式生活的中心...同時也是人們長途跋涉而來的理由之一。」[NEWLINE][TAB][TAB] - 羅伯特．萊爾頓[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_DESC">
+      <Text>特斯科金哥的年代可以追溯至阿茲特克帝國的後古典時期。鄰近首都特斯科科的特斯科金哥，是皇室御用的避暑花園。它是由西元15世紀的君主內薩瓦爾科約提所建設的，敬奉對象為雨神特拉洛柯。特斯科金哥華麗而先進的灌溉系統，使該地搖身一變成為貴族的休閒天堂、展示帝國各處植物的展覽場、藥草園以及聖地。占地122公頃的這座花園，可說是世界上第一座植物園，也是令西班牙征服者嘆服不已的一項奇觀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_HELP">
+      <Text>僅限美洲文明建造。所在城市無償獲得花園。所在城市被征服時，此建築將被摧毀。[NEWLINE][NEWLINE]城市必須建造在河流或湖泊旁。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「以他們對花鳥寶石之美的敏銳，以及宗教意識的強度來看...這些古代墨西哥人其實是相當有文化的一群人。」[NEWLINE][TAB][TAB]-雅克．蘇斯泰爾[NEWLINE][TAB]</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

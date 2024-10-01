@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA">
+      <Text>澳大利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DESC">
+      <Text>澳大利亞地圖，地形採隨機生成，開始位置為海岸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DUEL">
+      <Text>澳大利亞 - 决鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_SMALL">
+      <Text>澳大利亞 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_STANDARD">
+      <Text>澳大利亞 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_TINY">
+      <Text>澳大利亞 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA">
+      <Text>加拿大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DESC">
+      <Text>加拿大地圖，由北方的雪原和凍土地帶，以及隨機生成的帶狀平原、草地與森林構成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DUEL">
+      <Text>加拿大 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_LARGE">
+      <Text>加拿大 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_SMALL">
+      <Text>加拿大 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_STANDARD">
+      <Text>加拿大 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_TINY">
+      <Text>加拿大 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA">
+      <Text>中國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DESC">
+      <Text>中國地圖，陸地輪廓維持固定不變，其他內部地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DUEL">
+      <Text>中國 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_LARGE">
+      <Text>中國 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_SMALL">
+      <Text>中國 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_STANDARD">
+      <Text>中國 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_TINY">
+      <Text>中國 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE">
+      <Text>法國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DESC">
+      <Text>法國地圖，陸地輪廓維持固定不變，其他內部地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DUEL">
+      <Text>法國 - 决鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_HUGE">
+      <Text>法國 - 極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_LARGE">
+      <Text>法國 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_SMALL">
+      <Text>法國 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_STANDARD">
+      <Text>法國 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_TINY">
+      <Text>法國 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY">
+      <Text>義大利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_DESC">
+      <Text>義大利地圖，陸地輪廓與阿爾卑斯山脈維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_SMALL">
+      <Text>義大利 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_STANDARD">
+      <Text>義大利 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN">
+      <Text>日本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DESC">
+      <Text>日本地圖，陸地輪廓與重要山嶽維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DUEL">
+      <Text>日本 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_LARGE">
+      <Text>日本 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_SMALL">
+      <Text>日本 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_STANDARD">
+      <Text>日本 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_TINY">
+      <Text>日本 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA">
+      <Text>俄羅斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DESC">
+      <Text>俄國地圖，陸地輪廓維持固定不變，其他內部地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DUEL">
+      <Text>俄羅斯 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_HUGE">
+      <Text>俄羅斯 - 極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_LARGE">
+      <Text>俄羅斯 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_SMALL">
+      <Text>俄羅斯 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_STANDARD">
+      <Text>俄羅斯 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_TINY">
+      <Text>俄羅斯 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN">
+      <Text>斯堪地那維亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_DESC">
+      <Text>斯堪地納維亞地圖，除部分重點地貌外其他均隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_LARGE">
+      <Text>斯堪地那維亞 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_SMALL">
+      <Text>斯堪地那維亞 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_STANDARD">
+      <Text>斯堪地那維亞 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY">
+      <Text>土耳其</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DESC">
+      <Text>土耳其地圖，陸地輪廓維持固定不變，其他內部地形則基於山嶽結構隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DUEL">
+      <Text>土耳其 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_HUGE">
+      <Text>土耳其 - 極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_LARGE">
+      <Text>土耳其 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_SMALL">
+      <Text>土耳其 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_STANDARD">
+      <Text>土耳其 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_TINY">
+      <Text>土耳其 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK">
+      <Text>英國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_DESC">
+      <Text>英國地圖，內含英格蘭、蘇格蘭和北愛爾蘭，所有地形皆隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_DUEL">
+      <Text>英國 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_LARGE">
+      <Text>英國 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_SMALL">
+      <Text>英國 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_STANDARD">
+      <Text>英國 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_UK_TINY">
+      <Text>英國 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_DESC">
+      <Text>混合國家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_TITLE">
+      <Text>混合國家</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

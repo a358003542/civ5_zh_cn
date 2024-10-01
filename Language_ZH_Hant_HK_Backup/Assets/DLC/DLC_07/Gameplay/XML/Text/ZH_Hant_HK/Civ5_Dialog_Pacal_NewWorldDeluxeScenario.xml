@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_1">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_2">
+      <Text>為何不呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_4">
+      <Text>朕必將為之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_1">
+      <Text>沒錯！我必須做出無可比擬的獻祭！我將用你所有人的鮮血來擦拭眾神的眼淚！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_2">
+      <Text>何苦還用這等謎題與邪惡舞蹈來混淆視聽？這一切早已無所謂了，一切都無所謂了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_3">
+      <Text>我可以感覺到，輪回即將結束。這僅僅是個開始，你已為時間的終結而哭泣了吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_4">
+      <Text>這算什麼？你已經活得不耐煩了？那好，讓我們一起用盡一切來摧毀這個註定毀滅的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_1">
+      <Text>只能有一人可以存活下來以見證長曆法輪回的結束，但肯定不會是像你這種愚蠢毫無信仰的人！準備受死吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_2">
+      <Text>有希望，還有希望。如果我打敗了你，也許我可以重興神之信仰，以阻止這滾滾而來的毀滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3">
+      <Text>沒錯！我必須做出無可比擬的獻祭！我將用你所有人的鮮血來擦拭眾神的眼淚！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_1">
+      <Text>末日已臨！我感覺到了天空中星之隕落時的悲鳴！你註定要與世界一同毀滅，而我，卻可以免於跌入如此悲命。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_2">
+      <Text>在你不多的時日里，盡情享受你美麗的國度吧…一切都無所謂了。我無所謂…你也無所謂…貓頭鷹！我聽見了貓頭鷹！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_3">
+      <Text>當天堂也被洪水湮沒，你也別想逃離被沖走的命運。你真是幫了我個大忙，我無須親眼目睹這一悲景。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_4">
+      <Text>你或許擊敗了我。但你無法阻止已註定的天命。我們的命運已刻於石上，唯有神之淚水可以洗去其印記。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_ANGRY">
+      <Text>願悲鳴與毀滅降臨於那些無法滿足我要求的人！末日近在眼前，我必須精心準備一次儀式，予以獻祭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
+      <Text>天際，天際渴求鮮血！請幫助我，否則基辛與其惡魔將前來毀滅我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
+      <Text>我的先祖明示我須為眾神獻出更多財富。答應我的請求吧，讓我們一起可以活著見證一切的終結。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_1">
+      <Text>我意拒絕之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_2">
+      <Text>不，我不這麼想。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_3">
+      <Text>不，這行不通。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_4">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_5">
+      <Text>您說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_6">
+      <Text>休提此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_7">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_1">
+      <Text>您好，不羈的人。我名巴加爾。您是帶著神之訊息而來嗎？我感覺到了他們，這冰冷的氣息環繞著我的頸項。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_2">
+      <Text>你好，陌生人。你可稱呼我為「巴加爾大帝」。其實這也無所謂…因為我想我們也不會再次交談。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_3">
+      <Text>你為萬能的巴加爾帶了何種陰鬱與絕望？我很想招待你茶點，但我有個啟示得好好準備。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_1">
+      <Text>我懷疑我們還會再見面。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_2">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_3">
+      <Text>再會，也許永別了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_4">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_5">
+      <Text>言畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_6">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_1">
+      <Text>願您有美好的一天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_2">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_3">
+      <Text>您願意與我一同實現啟示嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_4">
+      <Text>嗨，又見面了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_5">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_6">
+      <Text>您想要幹什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_1">
+      <Text>我們聽看看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_2">
+      <Text>這不重要，說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_3">
+      <Text>言之即可。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_5">
+      <Text>現在想說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_1">
+      <Text>想要什麼就拿走吧，一切都無所謂了。難道你看不見地平線上有什麼嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_2">
+      <Text>哈哈，你這個白癡！在你的不多時日里盡情享受一切吧。當你腳下大地崩裂時，那所有的一切會將你拖入深淵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
+      <Text>除非你想成為在我祭壇中噴灑鮮血之人，重新考慮你的提議吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
+      <Text>那還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了，鄉巴佬…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
+      <Text>即使世界末日快到了，但我還是得保持顏面。提出更好的條件吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>時間所剩無幾，為何你還要騙我？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>你能再給點好處嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_ANGRY">
+      <Text>願先祖的災禍降臨於你！你的厚顏無恥已觸怒了眾神。走吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_HAPPY">
+      <Text>謝謝你，但我的答案是不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_NEUTRAL">
+      <Text>這行不通。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_ANGRY">
+      <Text>同意，反正都無所謂了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_HAPPY">
+      <Text>可以。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_NEUTRAL">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_ANGRY">
+      <Text>雖然我想要的無非是你濺在神聖的祭壇上的鮮血，但我仍然會先禮貌地詢問你，僅此一次。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_HAPPY">
+      <Text>朋友，我想我已經找到拯救我們所有人的萬全之策！看看吧，接受我的提議吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
+      <Text>接受我的提議吧，不然小心神的怒火會降臨於你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_ANGRY">
+      <Text>雖然這很快變得不重要，但純粹出於憎恨，我拒絕你的要求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_HAPPY">
+      <Text>你為何想行竊於巴加爾呢？在世界灰飛煙滅之前，你就不能利用時間做些好事嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
+      <Text>這多荒謬啊？你難道不用進行獻祭嗎？你該多花謝時間在這上面。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_ANGRY">
+      <Text>是的，張開雙手迎接自己的毀滅吧！眾神在嘲笑你的貪婪！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_HAPPY">
+      <Text>什麼？是的！我知道接受這慷慨提議會使我更臨近於眾神！想要什麼就拿吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_NEUTRAL">
+      <Text>好吧，拿走吧。反正長曆法結束時，這一切可都幫不了你什麼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_1">
+      <Text>你這簡直是自尋死路！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_2">
+      <Text>你真是太令人失望了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_3">
+      <Text>你觸怒了死神。他已醒來！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_4">
+      <Text>等著吧。死神的貓頭鷹跟快就會為你而來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_5">
+      <Text>我知道這根本就是浪費時間…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_1">
+      <Text>是的，沒錯！眾神眷戀著我！我應擁有至高無上的權利，統治一切直到末日！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_2">
+      <Text>你看，正如我所言，當大洪水來臨時，一切都毫無意義可言了。所有可能的獻祭都浪費了。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

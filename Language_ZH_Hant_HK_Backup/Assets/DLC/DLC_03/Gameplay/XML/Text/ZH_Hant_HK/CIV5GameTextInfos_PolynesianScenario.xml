@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_HELP">
+      <Text>在火藥科技出現之前，是玻里尼西亞最強的戰鬥單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
+      <Text>毛利勇士是玻里尼西亞戰場的主宰者。這些強大的戰士擁有「哈卡戰舞」，這種強化能力可以威嚇鄰近敵人，降低鄰近敵方單位的[ICON_STRENGTH]戰鬥力。隱藏他們可以輕鬆擊敗戰士和長矛兵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_HELP">
+      <Text>在此單元格建造一個摩艾石像（+1[ICON_CULTURE]文化值）。沿著海岸建造一排摩艾石像可獲得額外的文化值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_REC">
+      <Text>它可讓此單元格產生[ICON_CULTURE]文化值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_HEROIC_EPIC_HELP">
+      <Text>城市中所有新生產的單位獲得[COLOR_POSITIVE_TEXT]兩棲作戰[ENDCOLOR]的強化能力，可以取消登陸或跨河進攻的戰鬥減益。[NEWLINE][NEWLINE]所有城市必須建成軍營。帝國的城市愈多，成本也會愈高。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_HEROIC_EPIC_STRATEGY">
+      <Text>這個國家奇觀讓城市所生產的所有單位獲得「兩棲作戰」的強化能力，能讓他們從水域發動攻擊而不受減益。還能提供+1文化值。建造民族史詩前，文明內的所有城市都必須擁有軍營。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
+      <Text>增加這座城市的[ICON_RESEARCH]科技值產出。在這個劇本中不需要鄰近山嶽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CAPTAIN_COOK">
+      <Text>庫克船長</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CEREMONY_TITLE">
+      <Text>卡胡納巫醫：屬於{2_CivName:textkey}的{1_PlayerName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA">
+      <Text>希瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_TEXT_1">
+      <Text>在他們當地語言中，希瓦是指「人間樂土」。馬克薩斯群島是法屬波里尼西亞的一部分，位於波里尼西亞的東緣。[NEWLINE][NEWLINE]這些表面不平坦的火山島嶼還很年輕，是由死火山堅硬的玄武岩核心所構成。整年氣候溫和，只有一次雨季，作者自己都希望自己當時就在那裡。[NEWLINE][NEWLINE]馬克薩斯群島大約是出現在約西元100年的波里尼西亞邊緣，據語言學及人類學的證據顯示其開拓者是來自東加及薩摩亞。[NEWLINE][NEWLINE]希瓦曾多次被西方強權佔領及控制。它們最早是在1595年被西班牙探險家阿瓦羅·德曼達納·德里拉發現並佔領（他以贊助者之名將島嶼命名為馬克薩斯群島），之後希瓦在1870年分別被美國（美國人將它命名為華盛頓群島）及法國佔有。希瓦是波里尼西亞島嶼中因為疾病失去最多人口的地方。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA">
+      <Text>薩摩亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_TEXT_1">
+      <Text>薩摩亞位於傳統波里尼西亞的中心，且是主要波里尼西亞文化的發源地之一。這個群島已經被殖民了3500年，當地居民多次與來自區域及國際強權對抗，在後殖民時期成為新興國家。[NEWLINE][NEWLINE]就像大多數的波里尼西亞群島，薩摩亞擁有溫暖、溫和的氣候，和短暫的暴風雨季。薩摩亞群島位於南太平洋，面積約為1100平方英哩，而波里尼西亞地區的人們將它視為文化領域的中心。[NEWLINE][NEWLINE]薩摩亞可能在西元前1500年左右為拉皮塔人（Lapitans）所開拓。最早的薩摩亞人建立大規模的土墩以及石頭建築物。當時薩摩亞扮演波里尼西亞國家彼此間貿易時的十字要道。[NEWLINE][NEWLINE]在1898年，根據三方協定的結果薩摩亞分屬德國與美國的殖民地，而薩摩亞內戰的後果也因為外國殖民介入而惡化。雖然德屬薩摩亞已經在1962年成為獨立國家，但是美屬薩摩亞仍是美國的保護地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI">
+      <Text>大溪地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI_TEXT_1">
+      <Text>大溪地是社會群島中最大的島嶼，現今毫無疑問的是前法屬波里尼西亞的中心。大溪地一直被認為是波里尼西亞文化中最友善及開放的島嶼。[NEWLINE][NEWLINE]大溪地由兩個島嶼所組成，分別是大大溪地（Tahiti Nui）及小大溪地（Tahiti Iti）。這兩個島嶼的大小很容易就辨別的出來。這裡的終年氣候溫暖及溫和，而大溪地就座落在靠近波里尼西亞的東緣。[NEWLINE][NEWLINE]作為波里尼西亞最東邊的島嶼之一，大溪地的開拓相對較晚，大約在西元約300到800年間才由波里尼西亞人進入開拓，遠落後於拉皮塔（Lapitan）文明。[NEWLINE][NEWLINE]最早到訪大溪地的西方人是在1767的英國人。英國人立刻被島上居民隨意、開放及慷慨的天性所吸引。但是西方人引入的疾病幾乎消滅大溪地人，而且雖然傳教士紀錄並保存當地的土話，卻不鼓勵實行最傳統的文化。查爾斯·達爾文（Charles Darwin）在其小獵犬號的航程中造訪大溪地。法國在1847年佔領大溪地，直到1946年，大溪地人才成為真正的法國公民。今日法語仍是大溪地的官方語言。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA">
+      <Text>東加王國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_TEXT_1">
+      <Text>東加是波里尼西亞較大的文化群之一，並與其它的地區文明競爭太平洋群島的優勢地位。東加王國在14世紀達到極盛時期成為地區強權，在當時對區域內的酋長及航海家有領導權。東加王國群島是由太平洋上176個島嶼組成，面積超過70萬平方英呎，位於紐西蘭的東北邊及夏威夷島的西南邊。[NEWLINE][NEWLINE]很難找出人類到達東加群島的確切日期。人類最早定居的地點被發現是在東加塔布島（Tongatapu）上的豌豆村，距今約3000年前。雖然在東加發現拉皮塔（Lapita）時期的陶器文明，但這只代表這個文明有優越的航海技術。[NEWLINE][NEWLINE]雖然最有名的會面是發生在詹姆士·庫克（James Cook）在研究太平洋的旅程中，但最早接觸東加王國的西方人是1616年的荷蘭人。因為東加人的好客，庫克稱東加為「友誼群島」。讓人好奇的是，東加人似乎計畫要殺害庫克，雖然他們不承認有計畫要這麼做，而且庫克也平安離開繼續他即將完成的航程。在18世紀末到19世紀初，歐洲傳教士企圖讓東加人信仰基督教。[NEWLINE][NEWLINE]而因為一位大酋長在1799年遭到暗殺使東加陷入長達五十年的內戰。但於1845年，戰士陶法阿豪（Taufa'ahau）自稱為最高首領，並命名為喬治·圖普一世（King George Tupou I）。之後他解放最低社會階層的人、創建法典，並限制其他酋長的權力，還與英國簽訂友好條約結成盟友。東加從來沒有變成英國的屬地，而是擁有自主權並受英國的軍事保護。[NEWLINE][NEWLINE]東加位於南太平洋的十字要道，所以在第二次世界大戰期間具有區域戰略重要性。東加士兵曾參與所羅門群島（Solomon Islands）戰爭，而東加塔布島也成為從北美到紐西蘭及澳洲的重要補給站。現今，東加是個獨立的君主立憲國家（波里尼西亞區唯一沒有放棄君主制度的國家），包括民主改革及進行政府現代化。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_DAWN_POLYNESIAN_TEXT">
+      <Text>您好，偉大的波里尼西亞國王！目前您統治著您的人民所居住的島嶼之一。雖然生氣蓬勃，但是熱帶天堂卻與世無爭，您渴望乘風破浪成就更多的偉業。 您的子民學會了航路探索的能力，這是一種根據星象、鳥類以及太平洋洋流的相關知識而衍生的複雜導航體系。您英勇的航海家們已經準備好登上雙體獨木舟，乘風破浪遠航百哩去尋找新的殖民島嶼。您可以成功挺過滔天巨浪，在自己的海岸小屋之外找到落腳之地嗎？ 您可以傳播您的島嶼文化並統治浩瀚無垠的太平洋嗎？[NEWLINE][NEWLINE]勝利條件[NEWLINE]勝利屬於最早可以採用所有社會政策，在波里尼西亞文化里佔統治地位的文明。[NEWLINE][NEWLINE]特殊規則[NEWLINE]太平洋劇本設置有相應的全新科技和社會政策體系。四個主要文明皆始於同一個文化特色，而且可以透過研究獲得波里尼西亞的特色加成（改良設施：摩艾石像及單位：毛利勇士）。請毫無顧忌地擴張您的帝國；社會政策的消耗不會因為帝國城市的數量增加而增加。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
+      <Text>摩艾石像只能在海岸建造。如果摩艾石像相互鄰近，會提供額外的[ICON_CULTURE]文化值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_LIVED">
+      <Text>10世紀 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_NAME">
+      <Text>阿霍埃圖依</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_SUBTITLE">
+      <Text>圖依東加帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_TEXT_1">
+      <Text>阿霍埃圖依是紐爾的女兒依拉荷瓦-范埃波普，與天神東加洛阿-埃圖馬圖普所生的長子。阿霍埃圖依有四個同父異母的兄弟，他們因為嫉妒他生得如此俊俏，便一起暗中將阿霍埃圖依的頭砍下，藏在毒灌木叢下，再將身體其餘部分烤熟吃掉。[NEWLINE][NEWLINE]後來天神東加洛阿-埃圖馬圖普從天而降，質問四兄弟阿霍埃圖依的下落，羞愧又後悔的四兄弟便請求天神讓阿霍埃圖依重生。東加洛阿-埃圖馬圖普於是讓四兄弟將吃下的東西吐出到一個大碗裡，再用蓆子蓋住大碗，然後施展法術，讓阿霍埃圖依再次復活。[NEWLINE][NEWLINE]阿霍埃圖依的四個兄弟也受到東加洛阿-埃圖馬圖普的懲罰，他們四人及其後代都要在東加島上服侍阿霍埃圖依，這也就是阿霍埃圖依成為第一任圖伊東加帝國皇帝的經過。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_LIVED">
+      <Text>約300 AD-800 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_NAME">
+      <Text>霍圖·瑪圖阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_SUBTITLE">
+      <Text>希瓦探險家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_TEXT_1">
+      <Text>霍圖·瑪圖阿是拉帕·努伊島（即復活節島）的大祭司，他帶領著族人，乘著巨大的雙體獨木舟從希瓦出發航向東方。他們將發現的土地稱為「提-皮托-歐-特-開恩加」，意為「彈丸之地」，非常適合這個位於大洋中的蕞爾小島。[NEWLINE][NEWLINE]領航員哈烏·馬卡曾夢到他的靈魂替酋長霍圖·瑪圖阿找到了一塊新土地，哈烏·馬卡在夢中看到了三個島嶼、一個巨大的火山口，島上還有二十八個對霍圖和他族人而言會有意義重大的居住地。霍圖聽說了哈烏·馬卡所做的夢之後，便命令哈烏·馬卡乘著大型獨木舟朝東出發去尋找他夢中的土地，而哈烏·馬卡也在那裡找到了他夢中的島嶼。[NEWLINE][NEWLINE]但當霍圖·瑪圖阿帶著族人航向「提-皮托-歐-特-開恩加」時，他不共戴天的對頭也偷偷地跟在後面航行，這個叫做奧羅伊的人是霍圖的死對頭，曾在希瓦殺害多位霍圖的親人。跟蹤在後的奧羅伊並未被發現，他抵達島嶼後，便殺害了霍圖·瑪圖阿的孫子們，並設下陷阱想俘虜霍圖·瑪圖阿。霍圖·瑪圖阿自願落入陷阱，當奧羅伊用骨頭做的匕首向他撲去時，霍圖·瑪圖阿吟誦了咒語並殺死了奧羅伊。接著，霍圖·瑪圖阿便和自己的孩子吃掉了奧羅伊的屍體。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_LIVED">
+      <Text>不詳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_NAME">
+      <Text>馬列托亞·薩維亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_SUBTITLE">
+      <Text>薩摩亞國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_TEXT_1">
+      <Text>圖依東加帝國曾統治薩摩亞群島，而其中一個殘忍無情的專制暴君圖依東加·塔拉開法奇，則選擇定居在薩摩亞。[NEWLINE][NEWLINE]薩維亞、圖拿、法達三兄弟以及他們的侄子烏魯馬蘇挺身公開反抗塔拉開法奇的暴政。根據薩摩亞傳說，一開始原本只是民間抗命不服從，後來卻越演越烈，變成軍事戰爭。塔拉開法奇最後遭到俘虜，但薩維亞和他兄弟跟侄子以德報怨，赦免了暴君並用獨木舟將他遣送回東加。送走暴君後，薩維亞為了紀念這光榮的一刻，發表了精彩的演說，也因此被人尊稱為「馬列托亞」，意為「偉大的戰士」，並成為薩摩亞第一任國王。而「馬列托亞」的稱號，也就從此世代傳給薩摩亞群島的國王。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_LIVED">
+      <Text>1742 AD-1803 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_NAME">
+      <Text>波馬雷一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_SUBTITLE">
+      <Text>大溪地國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_TEXT_1">
+      <Text>波馬雷王朝是由塔拉霍伊·維拉托爾·泰納·波馬雷一世創立，他是在大約1742或1743年出生於派雷，是酋長提烏奧·圖紐埃提突的次子。繼位成為酋長後，波馬雷一世將塔大溪地島上三個不同的酋邦統一為一個王國。直到1791年波馬雷一世退位為止，他一直是大溪地、莫雷阿、梅海蒂亞和泰蒂亞羅阿諸島的國王，但從退位直到1803年去世為止，他仍是大溪地的攝政王。[NEWLINE][NEWLINE]波馬雷王朝與英國傳教士及太平洋上的商人們建立了相當密切的關係，而且即使法國在1880年代廢除了大溪地的君主制，波馬雷王朝仍舊握有控制權。直到今天，仍有不少人宣稱是波馬雷王室的後裔。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_FIJI_TEXT">
+      <Text>最早定居在斐濟的是約3500年前的拉匹坦人（Lapitan），東南亞的美拉尼西亞人和印度的尼西亞人則在西元前900到600年之間來到斐濟。斐濟的位置接近玻里尼西亞的正中心，因而成為貿易和文化交流的樞紐，島上的考古發現也證實了這個事實，因為島上除了有來自離斐濟數千英哩以外的石頭，也有玻里尼西亞十分少見的貿易商品和工具。圖依東加帝國的全盛時期也曾統治過斐濟。[NEWLINE][NEWLINE]在19世紀時，斐濟經常發生部落間的內戰，也遭到鄰近東加的入侵，戰火連綿不絕。斐濟酋長塞魯·埃佩尼沙·卡科包試圖合併部落並成為國王，同時也利用基督教傳教士（他本人是基督教徒）來擴張自己的勢力。但是卡科包卻因為挑釁美國領事、將土地賣給澳大利亞的農夫種植棉花，以及不斷舉債，而陷入麻煩，最後更在1874年將自己的領土割讓給英國人。[NEWLINE][NEWLINE]英國的首任臨時總督頒布了一系列獨特的開明法令，其中包括「斐濟人治理斐濟」政策，使得原住民仍舊掌控島上大部分的土地。英國殖民統治引進了許多來自印度的契約勞工（後來因包括聖雄甘地等許多人士的強烈反對而廢止），為斐濟增添了延續至今的文化新風貌。[NEWLINE][NEWLINE]斐濟在1970年獨立，此後經歷了一段經濟繁榮時期，可惜這樣的榮景卻在1987年戛然而止並幾乎完全停滯，後來又曾發生過兩次軍事政變和一次平民政變。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_GUADALCANAL_TEXT">
+      <Text>瓜達康納爾島是所羅門列島最大的島嶼，因為二戰期間美日兩軍在此進行過漫長而血腥的艱辛戰役而聞名於世。雖然西方世界自1568年起便知道此島的存在，但二戰期間這裡卻一躍成為極重要的戰略要地，因為日本人計劃要以此島作為據點，威脅同盟國往來澳洲的運輸線。[NEWLINE][NEWLINE]日本在中途島戰役失敗後，旋即開始在瓜達康納爾島的倫加峽修建大型機場。瓜達康納爾島是其外圍防線的一部分，目的是要鞏固日本在初期擴張所獲致的利益。為了反擊，盟軍發動了一場大規模的聯合軍事行動，先奪取機場和島嶼的控制權，後來並在日本軍方不斷派出增援部隊投入戰場時，堅守陣地鞏固了自身的利益。[NEWLINE][NEWLINE]雖然瓜達康納爾島漸漸銷聲匿跡於歷史洪流中，但那場戰役仍留下了許多偉大的故事和行動：美國海軍陸戰隊在敵軍優勢攻擊下仍頑強地捍衛倫加峽陣地；日軍使用驅逐艦瘋狂增派援軍的「東京快遞」行動；日後成為美國總統的約翰·甘迺迪，當時指揮PT-109魚雷快艇的不幸遭遇等等；所有這些不過是瓜達康納爾島的傳奇故事的一部分，在在吸引著無數歷史愛好者深入探索！
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_KIRIBATI_TEXT">
+      <Text>人類居住在吉里巴斯島已有至少700年的歷史，實際上可能還要更久，但由於考古記錄及口述歷史的不完整，因此難以判定確切的抵達時間。吉里巴斯最初的定居者可能是拉匹坦人（Lapitan），由於位置接近太平洋中心，因此與來自斐濟的美拉尼西亞人和來自薩摩亞和東加的玻里尼西亞人也都有接觸。[NEWLINE][NEWLINE]西方人是在16世紀開始來到島上，而與西方間的貿易導致島上的部落彼此爭戰，並迅速演變成殖民強權奪取島嶼控制權的藉口。吉里巴斯列島絕大部分最後陷入英國手中。[NEWLINE][NEWLINE]日本在二次世界大戰時佔領了吉里巴斯，並著手在島上建立防禦工事。塔拉瓦戰役是美國與日本在太平洋上中最血腥慘烈的一場戰役，4500名日軍將這個小小環礁變成一個堅實的碉堡，並在全軍覆沒前，重創了進攻的美國海軍陸戰隊，造成美軍嚴重的傷亡。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_MAJURO_TEXT">
+      <Text>馬久羅是馬紹爾群島的第一大島及首都，主環礁在至少兩千年前就有人定居。馬久羅原本是德意志帝國的領地，後來在1914年被日本佔領。不過大多數的殖民統治者都任由島民自理自治。[NEWLINE][NEWLINE]1944年1月30日，美國以大規模海上攻勢入侵馬久羅，登陸後才發現日軍早已疏散並撤退到鄰近的瓜加林和埃內韋塔克。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NAURU_TEXT">
+      <Text>位於西太平洋的諾魯又名「快樂島」（這個名字也適用於上千座其他太平洋島嶼），是現今世界上最小的島嶼國家，面積只有8平方英哩。這個島最初是由密克羅尼西亞人和玻里尼西亞人居住，後來成為多個殖民列強的領地，在二次世界大戰期間則被日本人佔領，不過太平洋戰爭期間，美國並未設法拿下這座小島碉堡。[NEWLINE][NEWLINE]諾魯之前最豐富的自然資源是大量的磷酸鹽礦。在1960年代諾魯重新取得採礦權後，便將採礦收歸國營，也因此有過一段短暫的光輝時期，擁有全球最高的國民平均所得。但隨著磷酸鹽礦的礦藏挖掘殆盡，資金又因為一系列失敗的投機投資而銳減，諾魯赫然發現國家財庫瀕臨破產，生態系統也遭到嚴重破壞。自此之後，諾魯政府曾經試著將島嶼打造成避稅天堂以及提供監獄供其他國家囚禁犯人等方式，試圖恢復衰弱不振的經濟。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NENDO_TEXT">
+      <Text>西玻里尼西亞的恩德群島又名聖克魯斯群島，約在3000年前始有人定居。1595年，西班牙人試圖在這裡建立殖民地，但並未成功。1942年10月26日，日本和美國在聖克魯斯群島附近展開了第四次航空母艦交戰，最後由日本贏得代價慘痛的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_POHNPEI_TEXT">
+      <Text>波納佩是加羅林群島的最大島嶼，也是密克羅尼西亞聯邦四個州中的一個，是在1828年由俄國海員發現後，才開始為歐洲人所知曉。波納佩島最引以為傲的便是島上的南馬都爾石城遺址，這座不凡的古城是舊時邵德雷爾王朝的首都，是由運河網連接許多人工小島構成。邵德雷爾王朝統治了將近一千年，才被來自另一座島嶼的酋長所征服。[NEWLINE][NEWLINE]波納佩最初由西班牙人佔據，後來又割讓給德意志帝國。在第二次世界大戰期間，日本人佔領了該島並建造了許多防禦工事，但美國海軍向日本進攻的途中繞過了該島，因此這裡沒有發生任何戰事。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_VANUATU_TEXT">
+      <Text>萬那杜地處西玻里尼西亞，是約4000年前拉匹坦人最早定居的其中一個島嶼，不過後來島上的主要族群則是美拉尼西亞人。首次發現萬那杜的西方人是葡萄牙探險家佩德羅·費爾南德斯·德·基羅斯，他旋即主張該島為西班牙領土，並將之命名為「埃斯皮里圖桑托島」（Espirtu Santo）。之後法國探險家布干維爾曾在1768年造訪本島，然後在1774年，英國人庫克船長又將其命名為新赫布里底群島。[NEWLINE][NEWLINE]和許多玻里尼西亞島嶼一樣，西方人的到來使得大批原住民死於未曾接觸過的新傳染病，而檀香木貿易又吸引了大批想致富的外來移民，使得情況更加惡化。在檀香木砍伐殆盡後，島上陸續曾嘗試種植棉花、咖啡、可可和香蕉等經濟作物，最後才因種植椰子樹使得該島的經濟較趨穩定。[NEWLINE][NEWLINE]歐洲殖民者持續掌控萬那杜的情況，一直要到二次世界大戰美國人到來之後才改觀。有錢又不拘小節的美國人，以及不斷載運士兵和水手前來的飛機和輪船，讓萬那杜人留下深刻的印象。沒多久，萬那杜人開始相信並期待會有一個名叫「約翰·弗洛姆」（John Frum）的救世主，帶著神奇的船貨降臨，讓萬那杜島永享自由與繁榮。時至今日，這樣的「船貨崇拜」仍興盛於萬那杜！
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DESC">
+      <Text>搭乘您的雙體獨木舟航行於太平洋廣闊的海域，去傳播您的島嶼文化並統治這個天堂。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_DEF_PACT_NO_TECH">
+      <Text>[NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_NEED_WRITING_TT">
+      <Text>[NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
+      <Text>[NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_ENCOUNTER_CAPTAIN_COOK">
+      <Text>您的島嶼天堂被詹姆士·庫克船長在奮進號（HMS Endeavour）的航程中所發現。這位和平造訪的旅行家為了大英帝國而正在進行科研航海。然而他的到來卻為波里尼西亞開啟了新紀元。採用這些遠到而來的陌生人的技術，依靠火藥的武器將很快得到運用。明智地使用這些新的秘密武器吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FIXED_MAP">
+      <Text>南太平洋地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_EASTER_ISLAND">
+      <Text>恭喜，您的探險家發現了拉帕努伊島（又稱為復活島）！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_HAWAII">
+      <Text>恭喜，您的探險家發現了夏威夷島！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_NEW_ZEALAND">
+      <Text>恭喜，您的探險家發現了紐西蘭，長白雲之鄉！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_ATTACKED_1">
+      <Text>就這樣吧。薩摩亞人民不會抵抗你的進攻。或許除了那些擁有所有武器的人以外。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DECLAREWAR_2">
+      <Text>我會送一批薩摩亞戰士代表到你的主要城市進行親善之旅。我相信他們會受到熱烈歡迎的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEFEATED_1">
+      <Text>你可以擊敗我們的軍隊，但是你永遠不可能征服薩摩亞的靈魂。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEMANDTRIBUTE_ANGRY">
+      <Text>薩摩亞誠心感謝您為了維護世界和平與安寧所贈之物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEMANDTRIBUTE_NEUTRAL">
+      <Text>薩摩亞很窮；您很富有。把這個給予我們，或許您正在擔憂的厄運將會煙消雲散。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_FIRSTGREETING_1">
+      <Text>以熱愛和平的薩摩亞人民的名義，我歡迎您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_FIRSTGREETING_3">
+      <Text>以薩摩亞人的名義，我會助你一臂之力！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_HOSTILE_HELLO_1">
+      <Text>雖然我不喜歡和你交談，但我希望能藉由溝通可以為薩摩亞帶來更美好的未來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_NEUTRAL_HELLO_1">
+      <Text>薩摩亞總是歡迎您的造訪。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
+      <Text>嗨，又見面了！親愛的朋友，薩摩亞熱烈歡迎您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_OPEN_BORDERS_EXCHANGE_1">
+      <Text>薩摩亞希望，透過粉碎離間我們的陰謀，能讓彼此的友誼更加牢固。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_RESPONSE_REQUEST_1">
+      <Text>我親愛的朋友，您可以給予薩摩亞一些物資嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>這對我們的島民並不公平。請提出更好的互惠提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRADE_NO_NEUTRAL">
+      <Text>這樣的協定並沒有顧及薩摩亞人民的最佳利益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRIBUTE_NO_NEUTRAL">
+      <Text>雖然我堅信非暴力的理念，但薩摩亞人民還沒有那麼開明。他們對你的要求放聲大笑。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_1">
+      <Text>您好，陌生人。我是波馬雷，大溪地國王。我們希望與所有人和平相處，但是我們並不畏懼戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_2">
+      <Text>我是波馬雷一世，大溪地人民的領袖。我歡迎您，希望我們雙方的偉大人民可以成為朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_3">
+      <Text>你好，大溪地的陌生人。我是波馬雷，但你可以簡稱我為圖-內-亞-依-特-阿圖啊-依-塔拉霍伊·維拉埃托奧·泰納·陂馬勒一世。我們希望與所有人和平相處，但是我們並不畏懼戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_1">
+      <Text>啊，又一位旅人！歡迎來到玻里尼西亞群島！我，勇敢的探險家霍圖·瑪圖阿，邀請您一起分享我的盛宴以及營火。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
+      <Text>歡迎您，陌生人！我是希瓦的領袖霍圖·瑪圖阿。來吧，我們應該跳起盛大的草裙舞慶祝我們的相遇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
+      <Text>向您致以問候與祝福，朋友。我是西瓦的國王霍圖·瑪圖阿。讓我們一起分享彼此的資源並融洽相處吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA_FIRSTGREETING_3">
+      <Text>我是阿霍埃圖依，東加王國的領袖！你是哪個民族的人？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICIES_TO_VICTORY">
+      <Text>贏取勝利所剩政策（您）：{1_YourPoliciesRemaining}[NEWLINE]贏取勝利所剩政策（{2_LeaderName}）：{3_LeaderPoliciesRemaining}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI">
+      <Text>酋長</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_DESC">
+      <Text>酋長（Ariki）是波里尼西亞社會給予族長或高貴階級的稱呼。各種較次要而高貴的族長則稱為小酋長在庫克群島稱作mataiapo或在毛利語中稱作rangatira，其地位低於酋長。據說族長統治人民的權力來自於因高貴的出身及偉大的功績而被賦予的神力。今日在庫克群島有稱為酋長院之議會組織，是莊嚴的諮詢機構，其部分成員企圖在21世紀初期發動政變（雖然沒有成功，但可能減少了酋長的神力）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]酋長[ENDCOLOR][NEWLINE]大將軍的誕生速度提高100%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY">
+      <Text>慶典</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY_CAP">
+      <Text>慶典</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]慶典[ENDCOLOR]可以提昇您帝國的幸福度並使之發展壯大。[NEWLINE][NEWLINE]採用慶典政策可以降低[ICON_CAPITAL]首都[ICON_CITIZEN]民眾33%的[ICON_HAPPINESS_4]不滿度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_HONOR_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]榮譽[ENDCOLOR]可以用各種方法提昇軍隊的戰鬥效率。[NEWLINE][NEWLINE]採用榮譽政策後，您所生產的所有地面戰鬥單位+15經驗值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS">
+      <Text>藝術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS_CAP">
+      <Text>藝術</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]藝術[ENDCOLOR]提昇您帝國的文化產出以便您可以採用更多政策。[NEWLINE][NEWLINE]採用藝術政策可提高紀念碑和神廟的[ICON_CULTURE]文化值產出各2點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_CEREMONY_TEXT">
+      <Text>慶典是社會用來標記重要事件並強化社會聯繫的儀式。這些儀式的範圍大到公共的典禮，例如卡瓦祭，更多是小的個人典禮，例如衝浪。他們可以根據神聖的程度分類，雖然有些是高度的禁忌，但有很多是非正式的。不管典禮的真正特質為何，它都可以強化文化的社會聯繫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA">
+      <Text>哈卡舞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_DESC">
+      <Text>哈卡舞是紐西蘭毛利人獨特的傳統舞蹈，特色為強烈而充滿活力的舞步，以及節奏感十足的吶喊吟頌。除了出征儀式外，平時在歡迎貴賓時也會跳哈卡舞（雖然有點威嚇的意味），表演者男女皆有，但舞蹈會因為舞群以及場合而稍有不同。在跳哈卡舞時，舞者會齜牙咧嘴地做出鬼臉，像是咧著嘴微笑並吐出舌頭等，這是為了要展現舞者體內充滿的強大瑪那神力。[NEWLINE][NEWLINE]紐西蘭橄欖球全黑隊在兩隊出場打招呼時跳的哈卡舞，是今日最負盛名的哈卡舞，不過許多其他團體（包括紐西蘭軍隊）也都各自有其獨特的哈卡舞。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]哈卡舞[ENDCOLOR][NEWLINE]每消滅一個敵方單位，就能為帝國貢獻等同於死亡敵軍的[ICON_STRENGTH]戰鬥力三倍的[ICON_CULTURE]文化值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING">
+      <Text>卡胡納療法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_DESC">
+      <Text>「卡胡納」在夏威夷語中是指玻里尼西亞祭司或巫醫，這些巫醫除了會用草藥治療人們以外，也會透過一種名為「何歐波諾波諾」（Ho'oponopono）的過程，調解人們與祖先、靈魂、神祇和與祈求者有誤會的人之間的糾紛。卡胡納療法強調的是積極尋求雙方的和解，以及個人的復原，可說對玻里尼西亞文化的和諧貢獻良多。目前卡胡納療法在夏威夷以及玻里尼西亞已有逐漸復甦的跡象。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]卡胡納療法[ENDCOLOR][NEWLINE]近戰單位獲得醫療能力強化。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA">
+      <Text>草裙舞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_DESC">
+      <Text>「草裙舞」（hula）是一種配合人聲詠唱和樂器演奏的夏威夷傳統舞蹈。在玻里尼西亞各地也有好幾種類似的舞蹈形式。自從接觸西方人後，舞蹈所搭配的詠唱和樂器也引入了新的元素，包括多聲部詠唱和烏克麗麗等等。草裙舞可以在很多種場合表演，從最莊嚴的宗教儀式到簡單的社交場合皆可見到它的蹤跡。草裙舞的舞者會透過手部舞動來表現詠唱的內容，包括大海的波濤、樹枝的搖曳，以及人物的情感等等。在草裙舞表演幾乎變成媚俗的平庸文化後，夏威夷已認真地展開行動，致力於復興傳統的草裙舞形式。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]草裙舞[ENDCOLOR][NEWLINE]開啟[ICON_GOLDEN_AGE]黃金時代所需要的[ICON_HAPPINESS_1]幸福度降低25%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA">
+      <Text>卡瓦汁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA_DESC">
+      <Text>「卡瓦汁」（Kava）是一種提取自「卡瓦胡椒」（Piper methysticum）樹根的飲料，是特定玻里尼西亞儀式與聚會上不可或缺的飲品。卡瓦汁具有輕微的鎮靜效果，以能讓飲用者感覺放鬆和愉悅而聞名。也因此，玻里尼西亞聚會經常一開始便供應卡瓦汁給參加者飲用，以營造輕鬆愉快的氣氛。玻里尼西亞地區各島嶼在飲用卡瓦汁上的確切習慣也不盡相同。近年來，人們開始研究卡瓦汁的有效成分，瞭解其藥理學優點，而在熱愛卡瓦汁這玩意的人之中，也出現非常大量非正式、非科學性的研究。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]卡瓦汁[ENDCOLOR][NEWLINE]立刻獲得10點[ICON_HAPPINESS_1]幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU">
+      <Text>盧奧盛宴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_DESC">
+      <Text>在卡美哈梅哈二世國王廢除某些宗教儀式後，夏威夷群島誕生了一種名為「盧奧」（luau）的盛大野外宴會，席間供應許多美味佳餚，氣氛歡樂，往往還伴隨歌舞表演。盧奧宴會的正式佳餚原本是以芋頭葉包裹椰子汁烹調的雞肉，但很快就演變成匯聚各式各樣美味珍饈的歡樂盛宴。王室舉辦的盧奧盛會規模便十分驚人，著名的「快樂君王」卡拉卡瓦每次邀請的客人數量之多，必須分成數百人分批供餐。如今在夏威夷和世界其他許多文化中，「盧奧」已經成了「派對」的代名詞。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]盧奧盛宴[ENDCOLOR][NEWLINE]各種奢侈品資源提供的[ICON_HAPPINESS_1]幸福度+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA">
+      <Text>瑪那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_DESC">
+      <Text>「瑪那」（Mana）是玻里尼西亞在靈性上的核心概念，是指世上萬物都具有的神秘力量或本質。雖然這個字在玻里尼西亞各地的詮釋稍有不同，但其重要性和中心思想都是一致的。瑪那會促使人們做出偉大行為與舉動，同時也會為完成這些舉止的人帶來瑪那。擁有瑪那的人，也就擁有它所帶來的權威、名望和力量，而失去瑪那也就等於失去力量。而且，如果沒有瑪那，也就很難施行任何咒語。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]瑪那[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE]偉人的誕生速度提高100%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI">
+      <Text>波伊芋泥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_DESC">
+      <Text>「波伊」（Poi）是玻里尼西亞的主食，是將芋頭煮熟並搗碎所做成的糧食。視烹調方式而定，芋泥可能會像濃湯一般成液狀，也可能會像麵團一樣成塊狀。人們對這種芋泥滋味的感受差異也很大，有人說「像醬糊一樣」，有人說「細膩而精緻」，也有人說「難以描述」。而經過發酵的酸芋泥，還可用於製作其他糧食。[NEWLINE][NEWLINE]在夏威夷文化中，芋頭在他們的創世神話中扮演了很重要的角色，因此人們相信當芋泥端上餐桌時，祖先的靈魂也會同家人同在。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]波伊芋泥[ENDCOLOR][NEWLINE]海運單位的[ICON_MOVES]移動力+1。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI">
+      <Text>袍希利儀式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_DESC">
+      <Text>毛利人接待貴賓的歡迎儀式「袍希利」（Powhiri）是一套相當複雜的儀式。傳統的歡迎儀式一開始是對貴賓進行「儀式性的威脅」（理所當然地這也成為歡迎儀式中最令人興奮的部分），一方面考驗來訪者的鎮定程度，一方面也展現東道主非凡的戰鬥力量，免得來者搞不清楚狀況。來訪者接著要接受象徵和平之神獻禮的「拉烏塔普」（rautapu），然後雙方要行「洪依」（hongi）招呼禮，也就是以鼻子對碰並一同呼吸，這樣整個儀式才算完成。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]袍希利儀式[ENDCOLOR][NEWLINE]贈予城邦[ICON_GOLD]金幣時會獲得額外25%的[ICON_INFLUENCE]影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO">
+      <Text>朗格朗格符文</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_DESC">
+      <Text>復活節島上的摩艾石像，並不是島上唯一神秘的東西。「朗格朗格」（rongo-rongo）符文是一組源於18世紀的浮雕刻寫板，刻有難以解讀的類文字符號。目前刻有朗格朗格符文的真品約有二十幾件，上面都刻有一致的字符，但即使運用最先進的統計學方法，都無法破解這些符文的意義。目前最盛行的理論，是認為朗格朗格是祭司或詠唱者用來輔助記憶的東西，因為「朗格朗格」這個字來自於拉帕努伊語（Rapa Nui），意為「吟誦、吟唱」。但朗格朗格之謎還有一個令人扼腕的意外發現，根據不計其數的報告指出，這類木板其實曾經大量存在，但隨著這種古老文字的秘密失傳，島民便將這些朗格朗格木板拿去造船、做漁網架甚至當柴燒掉了！
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]朗格朗格符文[ENDCOLOR][NEWLINE]提高圖書館及天文臺50%[ICON_RESEARCH]科技值產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING">
+      <Text>石雕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_DESC">
+      <Text>在玻里尼西亞人的裝飾藝術中，雕刻是最有成就的一種類型，雖然每個島嶼各有各的雕刻風格，但都充分運用了當地隨手可得的素材。在缺乏森林的島嶼上，石雕通常大行其道。除了「提基」（tiki）人像外，許多玻里尼西亞島嶼上也有風格迥異的石刻。最著名的玻里尼西亞石雕，則是拉帕·努伊島（即復活節島）上宏偉的摩艾石像。拉帕·努伊島上共有887座石像，全都是以簡單的石製工具雕鑿火山岩而成，再由許多工人拖運到數英哩之外的阿呼（ahu，毛利語石像平臺之意）上，好讓石像能以充滿「瑪那」力量的深邃眼神注視著拉帕·努伊島內。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]石雕[ENDCOLOR][NEWLINE]每個摩艾石像的[ICON_CULTURE]文化值產出+1。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING">
+      <Text>衝浪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_DESC">
+      <Text>西方世界第一個關於「衝浪」的描述，是英國探險家庫克船長率領皇家海軍「奮進號」進行遠洋探險時所記錄，但古代夏威夷人很早就掌握了他們稱為「赫埃那魯」（he'enalu）的這種乘浪滑行的技巧。最佳的衝浪海域和海灘通常只限上流階級享用，然而來自下層階級但技藝高超的衝浪者，也可能靠實力贏得在那些地方衝浪的權利。夏威夷長形衝浪板最長可達5·5公尺，重量超過一百磅，需要高超的技巧和非凡的勇氣才能駕馭。[NEWLINE][NEWLINE]從20世紀初到今日，衝浪已歷經過許多次流行「浪潮」，因為它總能吸引新一代的人去享受這種運動無窮的樂趣和強身健體的功效。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]衝浪[ENDCOLOR][NEWLINE]您的每座城市可以為帝國提供1點[ICON_HAPPINESS_1]幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH">
+      <Text>塔帕樹皮衣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH_DESC">
+      <Text>「塔帕」（Tapa）是以搗碎的樹皮纖維所製成的玻里尼西亞傳統裝飾花布，其中以斐濟、東加和薩摩亞的塔帕布藝術成就最高，不過在玻里尼西亞各地都可見到這類裝飾花布。傳統的塔帕布上具有色彩鮮明、形狀複雜的幾何圖案。製作塔帕布對玻里尼西亞諸島上的婦女而言，是非常重要的社交和儀式聚會。塔帕布也是財富的象徵，酋長贈予的塔帕布更代表著極高的榮譽。在今日，仍然在結婚典禮等正式場合看到塔帕布裝飾，但通常材料已經以更為耐用的棉花所取代。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]塔帕樹皮衣[ENDCOLOR][NEWLINE]每個城市的[ICON_CULTURE]文化值+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU">
+      <Text>塔普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU_DESC">
+      <Text>「塔普」（tapu）是與「瑪那」（mana）密切相關的一個概念，意思大概可以翻譯成「神聖」或「不可侵犯」，也有禁止的意味，這也是英語中「禁忌」（taboo）一詞的來源。「塔普」的東西是神聖不可侵犯的，如果加以擾亂，會因為褻瀆神靈而遭受懲罰，並失去自己的「瑪那」。在多數玻里尼西亞文化中，破壞「塔普」是非常嚴重的行為，會遭致嚴厲的懲罰。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]塔普[ENDCOLOR][NEWLINE]採用新政策所消耗的[ICON_CULTURE]文化值降低10%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_THE_ARTS_TEXT">
+      <Text>藝術是個人感情的抽象表現，是藝術家想像力的實體作品。透過藝術家所投注的心力，世界上所有的事物幾乎都可以提升至藝術等級。例如，簡單的樹皮布就是拿來做衣服，但是如果加上桑樹皮就可以讓同一件樹皮布變成藝術。藝術也是神化物件具有神力的方法，讓藝術家永垂不朽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI">
+      <Text>提基雕像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI_DESC">
+      <Text>「提基」（Tiki）是玻里尼西亞的人形雕像，通常刻畫的是酋長、英雄、神祇或其他傳奇人物的形象。提基人像可能是高而苗條，也可能是矮而粗壯，據說每種風格都代表描繪對象所擁有的純粹德性，當然也充滿「瑪那」靈力。例如，橫目吐舌的提基像據說是代表具有洞察力，而寬闊的前額則代表智慧。在二次世界大戰之後，玻里尼西亞文化廣為傳播，「提基」一詞也漸漸失去原有的含意，開始變成形容東西很有趣，並使用於很多商品上，但對古代的玻里尼西亞英雄而言，其中很多商品可是一點「瑪那」靈力也沒有。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]提基雕像[ENDCOLOR][NEWLINE]每回合獲得等同於[ICON_HAPPINESS_1]幸福度50%的額外[ICON_CULTURE]文化值，以解鎖社會政策。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_RANDOM_MAP">
+      <Text>隨機群島地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_SELECT_MAP">
+      <Text>選擇地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_DESC">
+      <Text>水產養殖和農業基本上是一樣的道理，只不過水產養殖是栽培水生的動植物，而農業是栽培陸生動植物。水產養殖是住在大小水域附近居民的主要糧食來源，但水產養殖也能栽培奢侈品，例如珍珠和觀賞魚。大規模捕撈野生魚類，以及作為嗜好的休閒垂釣，都不算是水產養殖。沿海民族常常將水產養殖當作更穩定可靠的生活糧食來源，而且通常會再輔以其它不同的野生海產捕撈方式。[NEWLINE][NEWLINE]在人類歷史進展中，有些不同的文明分別在不同時期各自發展出水產養殖的作法。水產養殖最早的考古證據，可能是澳洲的原住民岡迪吉馬拉人（Gunditjmara），他們很早便開始捕撈和養殖鰻魚。玻里尼西亞人則是沿著島嶼的海岸線用石頭圍成魚塘，捕捉由水閘游進來的魚類。雖然水產養殖獲得的糧食量不能與陸地的農業相比，但是例如捕撈野生成魚、採集魚卵、培育魚苗和貝類著床等水產養殖的作法，都已廣為散佈到世界各地。水產養殖也造成許多新物種被引入新環境，有時會對原生的動植物造成威脅。[NEWLINE][NEWLINE]自工業時代以來，越來越多人對水產養殖的商業應用感興趣。由於商業捕撈會使野生資源枯竭，因此對常見食用魚及貝類進行水產養殖，可以確保有穩定的供應量提供給世界各地的老饕，讓他們得以在餐桌上搭配醬汁與檸檬大啖美食。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_HELP">
+      <Text>提昇漁船的[ICON_GOLD]金幣產出。同時允許您在沿海城市建造[COLOR_POSITIVE_TEXT]海運碼頭[ENDCOLOR]，以提升水域資源的[ICON_PRODUCTION]生產力產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「水產養殖是一個高風險的業務。進入水產養殖不是為了錢，而是因為你喜愛它。」[NEWLINE][TAB][TAB]--麥可·馬修斯[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
+      <Text>海運單位的[ICON_MOVES]移動力+1。允許您建造[COLOR_POSITIVE_TEXT]天文臺[ENDCOLOR]，這是最早提昇科技值產出的建築。還能讓您建造[COLOR_POSITIVE_TEXT]燈塔[ENDCOLOR]及[COLOR_POSITIVE_TEXT]港口[ENDCOLOR]以提昇您來自水域單元格的[ICON_FOOD]食物產出，並搭建水上貿易航線。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_DESC">
+      <Text>玻里尼西亞文化缺少普遍通用的原生文字，因此主要是利用口頭傳播並配合各種輔助記憶的方法，例如儀式舞蹈和歌謠等。玻里尼西亞各地區的舞蹈也不相同。具有繁殖力儀式的慶典舞蹈經常出現於不同的場合中，以便向神靈致敬、讚頌酋長與英雄，以及歡迎尊貴的貴賓。與西方人的接觸後，這些原有舞蹈也往往會引進西方樂器並摻入西方音樂風格。[NEWLINE][NEWLINE]最著名的玻里尼西亞儀式舞蹈，大概就是夏威夷發展出來的草裙舞，以及紐西蘭毛利人的哈卡舞。草裙舞是以波浪般的吟唱與手勢聞名，而哈卡舞則是以充滿力量的踩踏、舞步及節奏感十足的吟誦知名。草裙舞又可以分成兩大類型：「古風草裙舞」是指尚未與西方社會接觸前的舞蹈，當地稱為「卡希科」（Kahiko），而形成於19及20世紀、風格較為現代的則是稱為「阿瓦那」（Auana）的摩登草裙舞。哈卡舞是由毛利族的男女一起表演，在從葬禮到戰爭等多種場合中都會表演。[NEWLINE][NEWLINE]時至今日，舞蹈依然是玻里尼西亞文化很重要的一環，在玻里尼西亞各地都有教授，讓後代子孫能藉由優雅的動作及合音等較為祥和平靜的表現方式，以及橄欖球隊有力而挑釁的招呼方式，體驗玻里尼西亞文化。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]毛利勇士[ENDCOLOR]，他們是遊戲中最強力的單位。還允許您建造[COLOR_POSITIVE_TEXT]民族史詩[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「我只相信一個懂跳舞的神。」[NEWLINE][TAB][TAB]--弗里德里希·尼采[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]卡拉維爾帆船[ENDCOLOR]，這是文藝復興時代最早的海上單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CONSTRUCTION_HELP">
+      <Text>允許您建造[COLOR_POSITIVE_TEXT]城牆[ENDCOLOR]，可以大幅提昇城市抵抗攻擊的防禦力。同時允許工人鋪設[COLOR_POSITIVE_TEXT]道路[ENDCOLOR]及建造[COLOR_POSITIVE_TEXT]堡壘[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
+      <Text>允許您建造提高[ICON_GOLD]金幣收入的[COLOR_POSITIVE_TEXT]市場[ENDCOLOR]，還能讓您建造[COLOR_POSITIVE_TEXT]交易站[ENDCOLOR]以改良單元格，以及讓您的城市將[ICON_PRODUCTION]生產力轉化為[ICON_GOLD]金幣，以取代建造建築或生產單位的行動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]火槍手[ENDCOLOR]，遊戲中第一種裝備火器的單位。當您與歐洲人的交流中獲得新技術時，還能提供給您大量的經濟利益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
+      <Text>允許您建造[COLOR_POSITIVE_TEXT]紀念碑[ENDCOLOR]，提昇城市的文化值產出。還能允許工人在[ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]大理石[ENDCOLOR]資源上建造採石場；以及[COLOR_POSITIVE_TEXT]清理濕地[ENDCOLOR]，以建造其它改良設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
+      <Text>允許工人建造[COLOR_POSITIVE_TEXT]礦場[ENDCOLOR]以提高單元格的[ICON_PRODUCTION]生產力，以及[COLOR_POSITIVE_TEXT]砍伐森林[ENDCOLOR]和[COLOR_POSITIVE_TEXT]砍伐叢林[ENDCOLOR]，以建造其它改良設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]三列槳戰船[ENDCOLOR]，這是劇本中最早的戰船。同時允許海運單位在受到攻擊時可以自保。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_OPTICS_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]巡防艦[ENDCOLOR]，這是劇本中最強力的艦艇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_DESC">
+      <Text>裝飾雕刻是玻里尼西亞主要的一種裝飾藝術。不論是貝殼、魚骨、木頭還是石頭，玻里尼西亞人都能利用手邊可得的材料，將它們變成出色的裝飾品。雕刻的應用不僅限於慶典或宗教用品，連例如凳子到湯匙的簡單日常工具以及屋樑等都會以雕刻裝飾，而且通常極為精緻細膩。[NEWLINE][NEWLINE]雖然雕刻在玻里尼西亞相當普遍，但每個地方的風格及偏好使用的材料卻大相逕庭。比如說，夏威夷盛產木材，所以在木刻方面有著極高的技巧與藝術表現，而在沒有什麼樹木的復活島上，居民則將島上的火山岩雕刻為雄渾莊嚴、想當然爾聞名天下的摩艾石像。[NEWLINE][NEWLINE]具有一定形式的提基人像，是這個地區最普遍的雕刻藝品，對於這些描繪英雄或祖先的雕像，人們相信其中蘊藏著「瑪那」這種神聖力量，例如張大的眼睛代表洞察力，而露出的牙齒則是力量與反抗的展現。一直要到二次世界大戰以後，「提基」（Tiki）才變成是膚淺藝術形式的意思。[NEWLINE][NEWLINE]除了裝飾雕刻藝品外，玻里尼西亞人在自己生活的島嶼上，也以岩石創作了非常多樣的石刻。這些石刻以及謎樣的「朗格朗格」類文字木板，仍舊是今日熱烈討論的研究主題之一，並不時會出現有趣的陰謀論。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_HELP">
+      <Text>允許工人在海岸單元格建造[COLOR_POSITIVE_TEXT]摩艾石像[ENDCOLOR]，以提昇這些單元格的[ICON_CULTURE]文化值產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「我在大理石中看見天使，然後雕刻直到使他自由。」[NEWLINE][TAB][TAB]--米開朗基羅[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
+      <Text>允許您生產工作船，可以用來收穫水中的資源，例如[ICON_RES_FISH] [COLOR_POSITIVE_TEXT]魚群[ENDCOLOR]及[ICON_RES_PEARLS] [COLOR_POSITIVE_TEXT]珍珠[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
+      <Text>這項技術並不會帶來任何利益。如果您在歐洲人到達太平洋之前完成剩下的中古時代科技樹，您就要研究這項科技。這代表在接觸較進步的文明之前波里尼西亞在技術上的停滯。一旦與詹姆士·庫克船長的船隊接觸，它就會被授予每一個文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_DESC">
+      <Text>紋身是在人身上創造永久性有色圖形的藝術，對波里尼西亞人來說象徵高雅並具有高度意義。這個字最早出現在英國博物學家約瑟夫·班克斯在1769年搭乘「奮進號」時所寫的航海日誌，是從波里尼西亞文的「tatau」轉化而來。[NEWLINE][NEWLINE]波里尼西亞人的紋身是大面積的，通常會大量分布在身體上。毛利人及西波里尼西亞人的紋身通常包含精緻的臉部紋身。紋身通常與社會階級及地位有關，所以最精細及複雜的紋身只保留給酋長及領袖們。設計當中有大量的線性幾何圖形並被認為對紋身者帶有精神意義。波里尼西亞人紋身的程序包括用野豬牙齒削尖做成的寬尖梳子刺在皮膚上，然後用喇嘛果燒成的灰燼染色。現代的紋身方法被認為是直接承襲波里尼西亞的程序，使用更多精密的工具但並沒有減少疼痛。[NEWLINE][NEWLINE]要接受紋身的年輕人必須在一段時間內參加幾個集會。男性的紋身比女性的更儀式化，雖然人們可以拒絕紋身或中止參加集會，但通常要付出成為社會恥辱的代價。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_HELP">
+      <Text>允許您建造[COLOR_POSITIVE_TEXT]軍營[ENDCOLOR]和[COLOR_POSITIVE_TEXT]英雄史詩[ENDCOLOR]等建築以強化您的軍隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「但無神之印者，神亦無視於他。」[NEWLINE][TAB][TAB]--伊班諺語[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
+      <Text>允許您建造[COLOR_POSITIVE_TEXT]神廟[ENDCOLOR]和[COLOR_POSITIVE_TEXT]圖書館[ENDCOLOR]以分別提昇您的[ICON_CULTURE]文化值及[ICON_RESEARCH]科技值產出。還能讓您建造[COLOR_POSITIVE_TEXT]法院[ENDCOLOR]，這種建築可以降低源自[ICON_OCCUPIED]被佔領城市的[ICON_HAPPINESS_4]不滿度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]長矛兵[ENDCOLOR]，一種強力的軍事單位。還能讓您的工人在[ICON_RES_DEER]鹿群、[ICON_RES_IVORY]象牙[ICON_RES_FUR]毛皮等資源上建造[COLOR_POSITIVE_TEXT]營地[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_DESC">
+      <Text>傳統的玻里尼西亞領航技巧又稱為「航路探索」，是一種非常複雜、以口頭傳播的知識體系，能讓玻里尼西亞人乘著開放式的小船橫渡廣闊的太平洋。這個系統運用了很多技術，包括利用星辰導航、洞察洋流的方向、瞭解鳥類和魚類的行為、航位推測法以及氣象觀測。「航路探索」是領航員這個行業專有的秘密領域，能夠讓玻里尼西亞人在沒有羅盤或天文鐘的幫助下，也能在海上航行超過數萬平方英哩。領航員學徒要向師父學習許多重要知識，像是星辰的運行、鳥類的行為，以及天氣的特徵（例如在地平線外島嶼上方形成的可見雲朵），而這些知識的傳授往往是透過吟誦、歌曲以及用簡單材料製作的概略海圖。[NEWLINE][NEWLINE]航路探索是口頭傳承的秘密技巧，而且具有鮮明的地方性，因此大部分的航路探索知識現在都已經失傳了。但太平洋地區至今還有玻里尼西亞傳統領航學校，例如所羅門群島的陶馬科島上。[NEWLINE][NEWLINE]以玻里尼西亞人相較之下規模甚小的帆船，以及玻里尼西亞人達成的航海成就來看，航路探索的功效以及玻里尼西亞領航員的技巧，往往為許多人大為稱許，有時甚至會無中生有地加油添醋。無論如何，玻里尼西亞人僅憑著幾乎不到一輛市內公車那麼長的開放式小船，就能航行到遙遠的小島上，他們的自信以及精熟的技藝不得不讓人肅然起敬。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_HELP">
+      <Text>您的文明已在劇本開始前完成了這項技術，解開了海運的秘密，征途直指大海。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「暗藍的海上，海水歡愉地潑濺著， 我們的心是自由的，我們的思想無際，迢遙，盡於風能吹到、浪波起沫之地， 量一量我們的版圖，看一看我們的家鄉！」[NEWLINE][TAB][TAB]--拜倫勛爵[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_THE_ARTS_TITLE">
+      <Text>提基雕像：屬於{2_CivName:textkey}的{1_PlayerName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TITLE">
+      <Text>發現天堂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TP_CULTURE_CITY_COST">
+      <Text>您所擁有的每座城市都不會影響社會政策的消耗。所以請隨心所欲地開拓新城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TURNSREMAINING">
+      <Text>該劇本中無回合限制。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
+      <Text>中古時代的海上單位被用來奪取海洋的控制權。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
+      <Text>在遊戲中三列槳戰船是文明最早可用的海上單位。它是一種的中等遠程攻擊力的遠程單位。它無法近戰。三列槳戰船擅長清剿本國水域中的蠻族船隻或是攻擊敵方的海運單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA">
+      <Text>來自[ICON_CITIZEN]人口數量的[ICON_HAPPINESS_4]不滿度減少25%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA_SHORT">
+      <Text>波里尼西亞之心</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS">
+      <Text>當您研究天文學後可以無償得到開拓者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS_SHORT">
+      <Text>霍圖·瑪圖阿的殖民者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE">
+      <Text>城邦[ICON_INFLUENCE]影響力降級到平常速率的三分之二，且復原速度比正常快50%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE_SHORT">
+      <Text>蒂烏湯加帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION">
+      <Text>所有地面和海上軍事單位（包含偵查兵）都+1視野。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION_SHORT">
+      <Text>樹鼩的航行</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

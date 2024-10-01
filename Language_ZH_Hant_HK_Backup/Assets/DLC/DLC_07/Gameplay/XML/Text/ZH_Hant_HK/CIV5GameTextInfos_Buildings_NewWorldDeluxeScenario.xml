@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE">
+      <Text>集會所</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_BLYTHE_INTAGLIOS">
+      <Text>布萊斯凹刻地畫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE">
+      <Text>巧克力館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GUNSMITH_SHOP">
+      <Text>槍砲工房</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID">
+      <Text>馬雅金字塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
+      <Text>航海學校</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_MOOREHEAD_CIRCLE">
+      <Text>莫爾赫之圈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_TEXCOTZINGO">
+      <Text>特斯科金哥</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

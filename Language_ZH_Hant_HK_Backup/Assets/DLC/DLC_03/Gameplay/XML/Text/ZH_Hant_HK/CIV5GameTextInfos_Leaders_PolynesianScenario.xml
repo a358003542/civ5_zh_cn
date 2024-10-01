@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_GANDHI_NAME">
+      <Text>馬列托亞·薩維亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HIAWATHA_NAME">
+      <Text>波馬雷一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_KAMEHAMEHA_NAME">
+      <Text>霍圖·瑪圖阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MONTEZUMA_NAME">
+      <Text>阿霍埃圖依</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI">
+      <Text>馬列托亞·薩維亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA">
+      <Text>波馬雷一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA">
+      <Text>霍圖·瑪圖阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA">
+      <Text>阿霍埃圖依</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

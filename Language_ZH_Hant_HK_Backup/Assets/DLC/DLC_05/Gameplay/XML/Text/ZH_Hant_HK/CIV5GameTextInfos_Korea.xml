@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
+      <Text>所有專家和偉人的改良設施[ICON_RESEARCH]科技值+2。每當一個科技型建築或奇跡在朝鮮首都建成後，便可獲得一次研究加速。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT">
+      <Text>玉宮學者</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

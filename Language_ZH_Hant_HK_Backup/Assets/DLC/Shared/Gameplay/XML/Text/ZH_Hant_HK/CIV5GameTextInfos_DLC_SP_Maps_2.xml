@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA">
+      <Text>非洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DESC">
+      <Text>非洲地圖，除部分重點地貌外其他均隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DUEL">
+      <Text>非洲 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_LARGE">
+      <Text>非洲 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_SMALL">
+      <Text>非洲 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_STANDARD">
+      <Text>非洲 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED">
+      <Text>南極洲融冰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED_DESC">
+      <Text>隨機生成的南極洲幻想地圖，只有少部分地區仍凍結於冰雪之中。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH">
+      <Text>類地球</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DESC">
+      <Text>全世界地圖，陸地輪廓與真實地球相同，但其上的地形地貌均為隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DUEL">
+      <Text>地球 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_HUGE">
+      <Text>地球 - 極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_LARGE">
+      <Text>地球 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_SMALL">
+      <Text>地球 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_STANDARD">
+      <Text>地球 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_TINY">
+      <Text>地球 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA">
+      <Text>東亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_DESC">
+      <Text>東亞地圖，陸地輪廓與喜馬拉雅山脈維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE">
+      <Text>東亞 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE_DESC">
+      <Text>大型東亞地圖，陸地輪廓與喜馬拉雅山脈維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL">
+      <Text>東亞 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL_DESC">
+      <Text>小型東亞地圖，陸地輪廓與喜馬拉雅山脈維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST">
+      <Text>中東</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DESC">
+      <Text>北起黑海，南至阿拉伯海的中東地圖，陸地輪廓維持固定不變，其他地形則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DUEL">
+      <Text>中東 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_LARGE">
+      <Text>中東 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_SMALL">
+      <Text>中東 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_STANDARD">
+      <Text>中東 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_TINY">
+      <Text>中東 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA">
+      <Text>北美</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC">
+      <Text>由哥倫比亞到阿拉斯加的北美地圖，陸地輪廓與北方凍土維持固定不變，其他地形地貌則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DUEL">
+      <Text>北美 - 決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_HUGE">
+      <Text>北美 - 極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_LARGE">
+      <Text>北美 - 大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_SMALL">
+      <Text>北美 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_STANDARD">
+      <Text>北美 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_TINY">
+      <Text>北美 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA">
+      <Text>大洋洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA_DESC">
+      <Text>類似於列島地圖，但略為偏向大陸風格，由諸多破碎的大洲、小島與大量的開放水域構成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS">
+      <Text>小塊陸地加強版</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS_DESC">
+      <Text>以原本的小塊陸地地圖為基礎，追加島鏈地形，並改善大洲的產生方式。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA">
+      <Text>南美</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC">
+      <Text>南美地圖，陸地輪廓維持固定不變，其他地形地貌則隨機生成，包括位置不定的山嶽在內。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_STANDARD">
+      <Text>南美 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_TINY">
+      <Text>南美 - 極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE">
+      <Text>西歐</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_DESC">
+      <Text>西歐地圖，陸地輪廓與山嶽維持固定不變，其他地形地貌則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL">
+      <Text>西歐 - 小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL_DESC">
+      <Text>小型西歐地圖，陸地輪廓與山嶽維持固定不變，其他地形地貌則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD">
+      <Text>西歐 - 標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD_DESC">
+      <Text>標準西歐地圖，陸地輪廓與山嶽維持固定不變，其他地形地貌則隨機生成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_DESC">
+      <Text>混合大洲地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_TITLE">
+      <Text>混合大洲</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

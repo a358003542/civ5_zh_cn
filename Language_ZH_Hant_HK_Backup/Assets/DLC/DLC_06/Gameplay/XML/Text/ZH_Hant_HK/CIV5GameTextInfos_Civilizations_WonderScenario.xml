@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_ADJECTIVE">
+      <Text>蘇美</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_DESC">
+      <Text>蘇美帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_SHORT_DESC">
+      <Text>蘇美</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+      <Text>西臺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_DESC">
+      <Text>西臺帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+      <Text>西臺</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

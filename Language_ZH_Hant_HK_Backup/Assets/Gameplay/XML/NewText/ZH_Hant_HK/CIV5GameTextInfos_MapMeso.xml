@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_MAP_MESO_HELP">
+      <Text>一個西起尼羅河溪谷東至底格里斯河和幼發拉底河的地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MESO_TITLE">
+      <Text>美索不達米亞</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

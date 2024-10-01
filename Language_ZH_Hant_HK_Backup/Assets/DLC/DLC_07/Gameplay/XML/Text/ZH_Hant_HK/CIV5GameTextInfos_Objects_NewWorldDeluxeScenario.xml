@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILD_TIPI">
+      <Text>建造[LINK=IMPROVEMENT_TIPI]提皮帳篷[\LINK]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_TIPI_HELP">
+      <Text>建造提皮帳篷能增加單元格的[ICON_FOOD]食物和[ICON_PEACE]信仰值產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_TIPI_REC">
+      <Text>將會增加此單元格的[ICON_FOOD]食物和[ICON_PEACE]信仰值產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_HELP">
+      <Text>提皮帳篷只能建造在平原單元格上（即使方格中有地貌亦可）。不能與另一個提皮帳篷相鄰。必須建造在肖松尼領土之內。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_TEXT">
+      <Text>提皮帳篷是一種由鞣製皮革及木桿搭建而成的圓錐形帳篷，攜帶方便，四處遷徙的北美平原印地安人自古以來便慣於使用這種帳篷。提皮一詞的來源是拉科塔語中的「居住」之意。肖松尼人常為提皮帳篷畫上華麗的彩繪，因為除了遮風蔽雨的功能以外，提皮帳篷也能作為不同部族之間的象徵標誌。[NEWLINE][NEWLINE]提皮帳篷只能建造在平原單元格上（即使單元格中有地貌亦可），而且彼此不能相鄰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_BELIZE_REEF">
+      <Text>貝里斯堡礁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_CHIMBORAZO">
+      <Text>欽博拉索山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_MT_TLALOC">
+      <Text>特拉洛柯山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_TSOODZIL">
+      <Text>綠松石山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURES_BELIZE_REEF_TEXT">
+      <Text>貝里斯堡礁是中美洲珊瑚礁系統的其中一段，長達 190 英里，其中孕育著超過 100 種的珊瑚以及 500 種魚類。它是世界上第三大的自然堡礁，於西元 1996 年獲指定為世界遺產，但卻因污染問題以及過於盛行的觀光、漁業與海運活動而有瀕危之勢，過去十年來可觀察到的活珊瑚面積已銳減 48%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURES_CHIMBORAZO_TEXT">
+      <Text>位於西安地斯山脈的欽博拉索山是海拔20,500英呎高的平流層火山（上次爆發時間為西元550年）。在發現喜馬拉雅山之前，歐洲人曾普遍認為這座山就是世界的最高峰，由厄瓜多爾當地嚮導帶領的英義聯合登山隊於1880年首次攻頂成功。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURES_MT_TLALOC_TEXT">
+      <Text>聳立於中墨西哥的特拉洛柯山擁有超過 13,600 英呎的高度，是阿茲特克人崇敬的聖山，山頂處設有供奉雨神的聖所。考古學研究顯示這座神龕與周邊地帶的寺廟之間存在著某種關係，可能是用來追蹤重要祭典日期的方式，而這些日期則與當地玉米的收成有關。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURES_TSOODZIL_TEXT">
+      <Text>對新墨西哥一帶的納瓦霍人而言，綠松石山是標示四大方位的四座聖山之一 (綠松石山為南方的代表)，同時也是其領土的南疆。如今，這座高達 4100 英呎的休眠平流層火山是以美國總統扎卡里．泰勒為名，而對納瓦霍人而言，這座山嶽則是黑神、綠松石之子及綠松石之女的居所。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
+      <Text>提皮帳篷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
+      <Text>過去馳騁於大平原地區，數量繁多的北美野牛，曾是許多原住民部族賴以為生的筋、肉、皮、骨等資源的主要來源。19世紀晚期，美國人的獵捕行動導致野牛近乎滅絕，但最近數十年以來，由於聯邦及各州野生動物保育計畫有成，野牛數量開始回升。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
+      <Text>可可豆是採收自原生於南美洲的可可樹的農產品。在前哥倫布時期的中美洲，可可豆是重要的商品，各部落文史中亦多有提及此項作物。西班牙人將其引進歐洲後，到了18世紀中葉，可可已在歐洲成為人氣極盛的飲料、食材，甚至還被作為藥材使用。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM">
+      <Text>梯田</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
+      <Text>野牛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
+      <Text>可可</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

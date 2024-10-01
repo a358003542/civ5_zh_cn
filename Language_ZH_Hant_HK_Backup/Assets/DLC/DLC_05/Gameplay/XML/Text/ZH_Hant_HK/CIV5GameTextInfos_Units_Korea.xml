@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_HEADING">
+      <Text>火廂車</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING">
+      <Text>龜船</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

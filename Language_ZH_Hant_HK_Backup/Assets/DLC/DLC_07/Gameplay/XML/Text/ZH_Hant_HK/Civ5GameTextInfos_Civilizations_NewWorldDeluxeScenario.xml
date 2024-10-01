@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_ADJECTIVE">
+      <Text>印加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_DESC">
+      <Text>印加帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_SHORT_DESC">
+      <Text>印加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
+      <Text>舊世界歐洲人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
+      <Text>舊世界歐洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
+      <Text>舊世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_ADJECTIVE">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_DESC">
+      <Text>馬雅帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_SHORT_DESC">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_ADJECTIVE">
+      <Text>荷蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_DESC">
+      <Text>荷蘭帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_SHORT_DESC">
+      <Text>荷蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_ADJECTIVE">
+      <Text>西班牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_DESC">
+      <Text>西班牙帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_SHORT_DESC">
+      <Text>西班牙</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

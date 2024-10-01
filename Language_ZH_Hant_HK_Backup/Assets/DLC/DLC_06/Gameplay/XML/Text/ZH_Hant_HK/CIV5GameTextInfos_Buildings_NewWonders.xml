@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_HALICARNASSUS">
+      <Text>摩索拉斯王陵墓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
+      <Text>宙斯神像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_TEMPLE_ARTEMIS">
+      <Text>阿蒂蜜絲神廟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS">
+      <Text>宙斯神像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS_HELP">
+      <Text>攻擊城市時[ICON_STRENGTH]戰鬥力+15%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_DESC">
+      <Text>哈利卡納蘇斯城的摩索拉斯王陵墓建於約西元前350年，摩索拉斯王是卡里亞（在今土耳其境內）的統治者。據說這座陵墓是由當時最優秀的雕塑家和工匠所設計和建造的，以精細的浮雕和龐大的規模而聞名於世，其高度將近有150呎（47公尺）。這座陵墓因西元1000年間該地發生一系列地震而被損毀，部分陵墓於19世紀中葉被英國考古學家所發掘。摩索拉斯王陵墓被譽為古文明世界的七大奇跡之一，如今西方語言中Mousoleum一詞的用法追溯就來源於此陵墓。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_HELP">
+      <Text>每消耗掉一位偉人可獲得100點[ICON_GOLD]金幣。此城市開發的每處[ICON_RES_MARBLE]大理石或[ICON_RES_STONE]石材資源會產出+2點[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MAUSOLEUM_HALICARNASSUS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「英雄人物以整個大地作為自己的陵墓，他們的英名不僅會鑿刻在有形的石碑上，也在千萬世人的心中留下了無形的印記。」[NEWLINE][TAB][TAB]--伯里克里斯[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_DESC">
+      <Text>宙斯神像矗立於古希臘奧林匹亞的宙斯神廟中，高度超過40呎（12公尺），是古文明世界的七大奇跡之一。據悉它由希臘雕塑家菲迪亞斯（約西元前440年）建造。宏偉的宙斯席黃金王座而坐，甚至連神廟本身幾乎都容不下這座龐大的雕像。大多數人認為雕像在西元425年宙斯神廟遭到焚毀時被一併破壞。但是，神像在當時是否倖免於難仍是一個備受爭議的話題。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_HELP">
+      <Text>攻擊城市時所有單位[ICON_STRENGTH]攻擊力+15%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「克羅諾斯之子言罷，彎頸點動濃黑的眉毛，塗著仙液的發綹從眾神之王永生的頭顱上順勢潑瀉，搖撼著巍峨的奧林匹斯山脈。」[NEWLINE][TAB][TAB]--伊利亞特[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEMPLE_ARTEMIS_DESC">
+      <Text>古希臘的阿蒂蜜絲神廟始建於西元前880年。這座神廟供奉的是司掌原野、狩獵與月亮的女神阿蒂蜜絲。阿蒂蜜絲神廟原本座落於以弗所城，據說曾遭受七次因天災或人禍的損毀而又再度重建。這座神廟位列古文明世界的七大奇跡之一，19世紀晚期英國考古學家使其遺址得以重見天日。如今，那裡只以一根以發掘廢墟殘留物構築的柱子作為地標。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEMPLE_ARTEMIS_HELP">
+      <Text>所有城市+10%[ICON_FOOD]成長。在建造遠程單位時+15%[ICON_PRODUCTION]生產力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TEMPLE_ARTEMIS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「森林在世人心中享有崇高的地位，並非僅僅因為它的美麗，還有一些微妙的元素，如純潔的空氣以及古老樹木所散發出的獨特氣息，能夠如此奇妙地讓人們從疲憊的精神狀態中重新振奮起來。」[NEWLINE][TAB][TAB]--羅伯特·路易斯·史蒂文森[NEWLINE][TAB]</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

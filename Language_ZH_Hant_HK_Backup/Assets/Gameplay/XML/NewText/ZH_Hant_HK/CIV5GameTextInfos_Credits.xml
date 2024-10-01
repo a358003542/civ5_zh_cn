@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CREDITS_1_0_0_0">
+      <Text>製作人員名單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_0_0_0">
+      <Text>Firaxis 遊戲公司</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_0_0">
+      <Text>設計團隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_1_0">
+      <Text>文明帝國原創者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_1_1">
+      <Text>席德梅爾（Sid Meier）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_2_0">
+      <Text>設計者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_2_1">
+      <Text>喬恩薜佛（Jon Shafer）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_0">
+      <Text>其他設計</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_1">
+      <Text>艾德比其（Ed Beach）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_2">
+      <Text>斯考特路易斯（Scott Lewis）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_0_0">
+      <Text>製作團隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_1_0">
+      <Text>製作人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_1_1">
+      <Text>丹尼斯雪克（Dennis Shirk）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_2_0">
+      <Text>助理製作人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_2_1">
+      <Text>麗莎米樂（Lisa Miller）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_0">
+      <Text>其他製作</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_1">
+      <Text>克林特麥克考爾（Clint McCaul）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_2">
+      <Text>蜜雪爾美娜（Michelle Menard）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_0">
+      <Text>文字作者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_1">
+      <Text>蜜雪爾美娜（Michelle Menard）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_2">
+      <Text>保羅墨菲（Paul Murphy）</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

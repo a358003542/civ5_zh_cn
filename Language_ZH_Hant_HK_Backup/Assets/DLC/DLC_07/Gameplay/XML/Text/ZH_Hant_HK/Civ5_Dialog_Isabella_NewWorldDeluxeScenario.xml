@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_2">
+      <Text>好的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_4">
+      <Text>天賜祝福與您同在。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_1">
+      <Text>你居然敢攻擊我！對天發誓，我要毀滅你！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_2">
+      <Text>你這令人厭惡的壞坯子會付出高昂的代價！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_3">
+      <Text>借上天之神力，我將毫無疑問地征服你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_1">
+      <Text>我將如天堂之劍斬破邪惡之盾般擊潰你！準備開戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_2">
+      <Text>上天也許會寬恕你的罪過，但我不會。準備受死！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_3">
+      <Text>我為你的靈魂祈禱。換句話說，你的肉身必須消亡。準備應戰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_1">
+      <Text>很好！這無疑是上天的旨意，我必須服從。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_2">
+      <Text>一切都失去了。邪惡勝利了—只是暫時。但請牢記，正義將獲得最終的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_3">
+      <Text>一切都失去了。邪惡勝利了—只是暫時。但請牢記，正義將獲得最終的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">
+      <Text>在世時多行善舉，或許會縮短你在地府中的刑期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，上天希望您將以下物品贈與我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
+      <Text>西班牙需要您提供這些物品來支援我們與邪惡之間的無盡戰鬥。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_1">
+      <Text>以天為證，我拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_2">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_3">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_4">
+      <Text>休提此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_5">
+      <Text>當然是不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_6">
+      <Text>休提此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_7">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_1">
+      <Text>承蒙全能上帝的恩典，我是伊莎貝拉，西班牙女王。你是公義的統治者嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_2">
+      <Text>願天堂的祝福降臨於應得之人！我是西班牙的伊莎貝拉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_3">
+      <Text>我是伊莎貝拉，受洗聖化的西班牙女王。你是異教徒，還是神的信徒？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_1">
+      <Text>願上天賜福於您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_2">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_3">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_4">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_5">
+      <Text>言畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_6">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_1">
+      <Text>祝福您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_2">
+      <Text>賜福於您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_4">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_5">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_6">
+      <Text>您想要幹什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_1">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_3">
+      <Text>言之即可。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_5">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LOSEWAR_1">
+      <Text>對敗軍之將施以恩澤，上天必將賜福於你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
+      <Text>貪婪是一種罪惡，將導致萬劫不復。我祈禱你能提出更好的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>那還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_1">
+      <Text>貪婪是一種罪過。您能提出更好的條件來嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>慷慨對靈魂有益，您難道不提出更好的提議嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_ANGRY">
+      <Text>毒舌之言不可輕信。你的提議被否決了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_HAPPY">
+      <Text>如果探尋靈魂深處，您會發現自己的提議完全不公平。因此我必須否決。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_NEUTRAL">
+      <Text>我是上天指派的人民財富看守者。您的提議並不公平，因此我必須恪盡職守地拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_ANGRY">
+      <Text>好了好了，同意。你快走吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_HAPPY">
+      <Text>您的確是個公平公正的談判者。我們同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_NEUTRAL">
+      <Text>你您的條件很公正。我們同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_ANGRY">
+      <Text>作為西班牙的統治者，職責所在便是有時和討厭的人進行談判。恰如此刻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
+      <Text>我親愛的朋友，相信這筆交易對我們雙方都有利，並可以讓我們的敵人煩躁不安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
+      <Text>希望這筆交易能得到您的垂青。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_ANGRY">
+      <Text>膽子不小！你沒有因如此的冒昧而遭天打雷劈，真是令人吃驚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_HAPPY">
+      <Text>現在沒法給你提供這些—但是我會為你的救贖而祈禱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_NEUTRAL">
+      <Text>你不值得我慷慨解囊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_ANGRY">
+      <Text>祈禱你那罪惡之心會因我們的無私慷慨而羞愧萬分。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_HAPPY">
+      <Text>當然，公義之人必須團結一致對抗無神論者！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
+      <Text>當然，上天命令我們必須對需要幫助的人慷慨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_1">
+      <Text>上天對你失望至極。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_2">
+      <Text>這個遊戲你輸不起的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_3">
+      <Text>很好。但下次我可不會這麼客氣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WINWAR_1">
+      <Text>萬幸，上天要我們廣行善舉，否則必將你粉身碎骨。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

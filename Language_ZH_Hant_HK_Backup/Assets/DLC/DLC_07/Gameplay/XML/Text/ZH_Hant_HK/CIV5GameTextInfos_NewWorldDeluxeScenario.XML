@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_AMERICAN_TITLE">
+      <Text>{2_CivName:textkey}的首領{1_PlayerName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ANASAZI_TEXT">
+      <Text>阿納薩齊是個古老的土著文化，也是現代古普韋布洛人的先驅。可以確定的是，阿納薩齊是梅薩維德峭壁的居民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_HELP">
+      <Text>文藝復興時代專用於海外探索和殖民的單位。任何文明帝國皆可生產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_CONQUISTADOR_STRATEGY">
+      <Text>征服者是多用途的單位，在陸地和海上的作戰能力都很高。作為替代騎士的單位，征服者在陸上擁有額外的視野，並能建立新城市。征服者還擁有海運防禦的強化能力，使其在對抗海上單位足以自保。與騎士不同，征服者在攻擊城市時不會受到減益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_HELP">
+      <Text>該單位擁有比火槍兵更強的[ICON_STRENGTH]戰鬥力，是遊戲中最強大的近戰單位。任何文明皆可生產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MUSKETEER_STRATEGY">
+      <Text>劍客團的戰鬥力比火槍兵高出許多，是遊戲中最強大的步兵單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_HELP">
+      <Text>文藝復興時代的強勢軍事單位。該單位擁有高[ICON_STRENGTH]戰鬥力，還擁有對騎乘單位加成（100）的強化能力。任何文明帝國皆可生產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_TERCIO_STRATEGY">
+      <Text>該單位的戰鬥力比火槍兵更高，而且對抗騎乘單位時戰鬥力加倍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EUROPEAN_CITYSTATE_FOUND">
+      <Text>你因為發現城邦而獲得{1_AdmiralPoints}海軍上將點數。利用它們來發現中國，或是進行「貿易任務」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EUROPEAN_MAJOR_CIV_FOUND">
+      <Text>您因為發現另一個文明而獲得{1_AdmiralPoints}海軍上將點數。利用它們來發現中國，或是進行「貿易任務」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EUROPEAN_NATURAL_WONDER_FOUNDFIRST">
+      <Text>你因為搶先所有其他歐洲文明發現自然奇觀而獲得{1_AdmiralPoints}海軍上將點數。利用它們來發現中國，或是進行「貿易任務」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EUROPEAN_TITLE">
+      <Text>{2_CivName:textkey}的{@1: gender feminine?女王; other?國王;}{1_PlayerName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_1">
+      <Text>我是葡萄牙王后暨攝政女王凱薩琳。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_3">
+      <Text>我是凱薩琳，閣下此行可是前來為雙方子嗣提議聯姻之事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_HAPPY">
+      <Text>妾身若是如此慷慨，我國的殖民大業怎能有所進展？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ABLTY_DECLARE_WAR_ALL">
+      <Text>允許對任何勢力宣戰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_AUTO_FAITH_PURCHASE_DISABLED">
+      <Text>[COLOR_NEGATIVE_TEXT]不可於較短的劇情中使用。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_MONASTERIES">
+      <Text>使用[ICON_PEACE]信仰值購買修道院（[ICON_PEACE]信仰值+3，[ICON_CULTURE]文化值+2，加上[ICON_RES_WINE]葡萄酒或[ICON_RES_INCENSE] 薰香則更多）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_HELP">
+      <Text>該城市獲得新單元格所需要[ICON_CULTURE]文化值消耗降低75%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CHOOSE_BELIEF_1">
+      <Text>選擇第一信條</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CHOOSE_BELIEF_2">
+      <Text>選擇第二信條</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ALGONQUIN_TEXT">
+      <Text>阿崗昆族，是一群住在魁北克的原住民。他們跟易洛魁族因皮草貿易上的競爭，成為世仇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ARAWAK_TEXT">
+      <Text>阿拉瓦克族，是一群位於西印度群島的原住民。他們是克里斯多福·哥倫布所發現的第一批原住民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CARIB_TEXT">
+      <Text>加勒比人，是一些位於西印度群島的原住民。他們參與了幾次早期對抗西班牙人的戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CHEROKEE_TEXT">
+      <Text>切羅基族土人，是一群位於美國東南部的原住民。他們與易洛魁族有著密切的關係，所以人們認為他們從史前時期的五大湖區移民而來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_AZTECS_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_ENGLAND_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_FRANCE_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_INCA_TITLE">
+      <Text>印加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_IROQUOIS_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_NEWWORLD_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_SPAIN_TEXT">
+      <Text>劇本描述[NEWLINE]時逢1492年。英國、法國與西班牙的皇室都派出了無畏的探險家，急欲橫跨大西洋，以尋找一條能夠抵達中國與印度的航路。他們能夠開拓出一條新的海上商路，並在亞洲的沿海發現不為人知的財富？或者他們是否會在半途擱淺於未被發現的土地上？原住民們是否能夠接受這些外來的知識與貿易願景？或者是與這些入侵家鄉的侵略者們對抗？在大洋彼岸有什麼富貴、名望與機會正等帶著這些劈波斬浪的人們？您又將駛向何方？而誰又能夠在這塊新大陸的爭霸中問鼎群雄？[NEWLINE][NEWLINE]勝利條件[NEWLINE]第一個達到1000勝利點數的文明將獲得勝利。派遣一艘探索用的卡拉維爾帆船航行至中國，並將財寶運回您的首都，這樣做能讓您獲得額外的勝利點數。請隨心所欲地使用六種不同的文明反復挑戰該劇本：在每一次開始新遊戲時，美洲地圖都會不一樣。[NEWLINE][NEWLINE]特殊規則[NEWLINE]所有在海上的單位都會受到壞血病的折磨，這種特殊的“強化“能力會讓他們在友好領土外結束回合時損失生命值。建造國家奇跡—航海學校以治愈這種疾病。遊戲初始歐洲各勢力之間無法相互宣戰，直至他們其中之一研究完成了海盜行為這項技術。當城市被焚毀時會產生財寶單位，而自然奇觀的黃金之國和波拖西也會如此（如果這些自然奇觀存在於該地圖上）。將這些平民單位移動至您的首都，以賺取金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_DAWN_SPAIN_TITLE">
+      <Text>西班牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HOPI_TEXT">
+      <Text>霍皮族，是一群位於美國西南部的原住民。他們第一次由科羅納多探征隊在1540年時所發現。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_HURON_TEXT">
+      <Text>休倫族，是一群位於加拿大的原住民。與歐洲人初次接觸時，他們主要居住在安大略湖北邊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INUIT_TEXT">
+      <Text>因紐特人，一群居住於北極圈格陵蘭與北美洲的原住民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_LAKOTA_TEXT">
+      <Text>拉科塔人，是一群位於北美洲平原上的原住民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAPUCHE_TEXT">
+      <Text>馬普切人，是一群位於智利與阿根廷的原住民。西班牙殖民者稱他們拉克尼人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT">
+      <Text>馬雅人，是一群位於猶加敦半島的原住民。一個具有算數技巧與星象知識的文明，他們也是精緻石雕金字塔的建造者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYAN_ATLATLIST_TEXT">
+      <Text>擲矛戰士是十分專精的射鏢武士，他們運用長型木製像矛的器械，以高速將鏢朝目標射去。這項器械稱為阿爾塔勒，它的一邊是有凹槽的托柄可以放置鏢，可以縮短力量傳導的距離。憑藉著阿爾塔勒，擲矛戰可以將鏢的射程拉長至超過300呎，速度也可達時速60哩，比一般用手投擲還要更遠更快。馬雅擲矛戰在視野清晰的情況之下，可以對遠方的敵人造成致命打擊。[NEWLINE][NEWLINE]阿爾塔勒的使用歷史最早大約可追溯至40萬年前，是已滅絕的海德堡人曾用過的器械。一般認為約在西元前15500年的舊石器時代晚期的智人，就已經有使用早期設計的阿爾塔勒。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUISCA_TEXT">
+      <Text>穆伊斯卡人，是一群位於哥倫比亞中部高地的原住民。他們於1537年與西班牙人第一次接觸，他們可能是傳奇黃金之城的始祖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MUSCOGEE_TEXT">
+      <Text>馬斯科吉族，是一些位於美國東南部的的原住民。他們是密西西比文化的後代。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SEMINOLE_TEXT">
+      <Text>塞米諾族，是一群位於羅里達的原住民。他們與馬斯可基族有著密切的關係（他們都是克里克族）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WABANAKI_TEXT">
+      <Text>瓦巴納基稱為「黎明之族」是一群位於加拿大東部沿海省份的原住民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_YANOMAMI_TEXT">
+      <Text>亞諾瑪米是一群位於亞馬遜河流域的原住民。他們是從石器時代就存在的文化，但一直都不為世人所知直到1929年與歐洲接觸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_LIVED">
+      <Text>西元 1507 - 1578 年</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_SUBTITLE">
+      <Text>葡萄牙王后</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_1">
+      <Text>卡斯提亞公主凱薩琳是卡斯提亞女王胡安娜與哈布斯堡王朝菲力普王子之女。她在18歲時（西元1525年）嫁給自己的第一代表親葡萄牙王胡安三世，後產下九子，其中只有兩人未夭折。胡安於1557年駕崩後，她成為繼任者，也就是她的孫兒塞巴斯提安的攝政者。1562年，她將攝政大權移交給小叔（胡安之弟）紅衣主教亨利。在王后及攝政女王任內，凱薩琳大力推動葡萄牙在巴西的擴張，以及在非洲的殖民事業。她在1578年2月過世，享壽71歲，距離塞巴斯提安國王在摩洛哥退位只有數月不到的時間。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED">
+      <Text>1494 AD-1547 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_SUBTITLE">
+      <Text>法國國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_1">
+      <Text>法蘭索瓦一世是西元1515至1547年間的法國國王，他在統治期間促成與鄂圖曼帝國的蘇萊曼一世結成法蘭科鄂圖曼同盟。神聖羅馬帝國的查理五世是法蘭索瓦的死對頭，雙方曾多次交戰。在1525年的帕維亞之戰中，法蘭索瓦一世曾被查理五世俘虜並囚禁超過一年，一直到他以兩個兒子亨利和法蘭索瓦交換做為人質後才獲得釋放。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DESC">
+      <Text>揚帆西行，尋找前往東方的航路，探索新世界。或者，您也可以扮演一個美洲土著文明，直面從海洋彼方而來的未知威脅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MAY_NOT_ATTACK_MOD">
+      <Text>在您研究海盜行為完成之前，您不能攻擊這位玩家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+      <Text>來自財寶的{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO1">
+      <Text>{1_Num} 來自於發現中國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO2">
+      <Text>{1_Num}來自於獲得的信仰值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_SCENARIO3">
+      <Text>{1_Num}來自於獲得的金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_MY_SCORE_WONDERS">
+      <Text>來自奇蹟的{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
+      <Text>這個劇本不允許簽訂研究協定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_0">
+      <Text>古樸時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_1">
+      <Text>形成時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_2">
+      <Text>森林時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_3">
+      <Text>古典時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_4">
+      <Text>晚地平線時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_5">
+      <Text>探索時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ERA_6">
+      <Text>啟蒙時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_CIRCUMNAVIGATION">
+      <Text>{@1_UnitName}已抵達中國！由於這項前所未有的環球航行壯舉，您獲得{3_VPAmount}勝利點數。還有兩位海軍上將可以藉由前往中國而獲得獎賞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_ENGLISH_EXPLORER">
+      <Text>卡伯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_FRENCH_EXPLORER">
+      <Text>委拉札諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_SPANISH_EXPLORER">
+      <Text>哥倫布</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+      <Text>歡迎！我是法蘭索瓦一世，文藝復興藝術的庇護者！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+      <Text>歡迎您，陌生人！我是法蘭索瓦一世，法國的國王！我對朋友忠心耿耿，對敵人冷酷無情。你是敵是友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+      <Text>啊。我們終於見面了。我是法蘭索瓦一世，法國的國王。來，讓我們討論一下，我們兩個偉大國家在大洋彼岸的土地的劃分問題</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+      <Text>您好！我是法蘭索瓦一世，法國瓦盧瓦王朝的國王。想要看看我的城堡嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MAYA_PANTHEON_CONFIRM">
+      <Text>你確定要採用這些信仰嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MAYA_PANTHEON_PARTIAL">
+      <Text>第一信仰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DAMAGED_ATTRITION">
+      <Text>壞血病</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_MISC_YOU_UNIT_WAS_DESTROYED_ATTRITION">
+      <Text>您的{@1_UnitName}因為壞血病而被消滅了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_NAU_CHINA">
+      <Text>您的克拉克帆船已抵達中國！您獲得{1_GoldAmount}[ICON_GOLD]金幣，克拉克帆船因此退役。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_OTHER_CIRCUMNAVIGATION">
+      <Text>一名來自{@1_PlyrName}的探險家已經找到中國。還有{2_Num}位海軍上將可以藉由前往中國而獲得勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE">
+      <Text>戰略撤退</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RO_STATUS_CAN_CREATE_PANTHEON">
+      <Text>可在首都奠立後的一回合創立次要宗教。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_SECOND_CIRCUMNAVIGATION">
+      <Text>{@1_UnitName}已抵達中國！由於這史上第二的環球航行壯舉，您獲得{3_VPAmount}勝利點數。還有一位海軍上將可以藉由前往中國而獲得獎賞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_DESC">
+      <Text>在最基本的形式下，帝國主義闡述國與國之間不對等的關係，前者對於後者有某種控制權，通常是以某種帝國型態出現。在世界歷史中，從中國到羅馬，乃至英國，帝國王朝無所不在。帝國王朝的概念，已存在數千年，基本上與政府的概念一樣的久。然而，「帝國主義」一詞直到十六世紀才廣為運用。它通常用來形容外國政策與國家的運作，如同西班牙、英國、比利時與荷蘭。他們快速的建立起與美洲之間的帝國主義關係。[NEWLINE][NEWLINE]雖然帝國主義在傳統上，與大型、偶像型態的軍事主義帝國密不可分，它也可能以一個更微妙的方式呈現。對弱小國家政府的正式控制，但不一定是必然的形式。一個較強大的文明，有時僅需透過非直接的經濟、政治或宗教方式來掌控一個較弱國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「一切帝國主義都是紙老虎」[NEWLINE][TAB][TAB]--毛澤東[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MATHEMATICS_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]投石車[ENDCOLOR]，一種強力的攻城武器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_DESC">
+      <Text>海軍傳統說明了文明對海上旅行與備戰海軍的熱忱，以及個各傳統以及這些海軍人員所慣用的風俗的重視。許多島嶼以及海上文明，例如英國和西班牙，長久以來擁有海軍傳統，因為海洋對於他們的經濟，與政治發展扮演著不可或缺的角色。正當一些內陸國家運用職業軍人來維護和平，與從事戰爭活動；有著海洋思維的文明，擁有船隊與軍鑑而非陸軍，無時無刻查看敵船與海盜的動靜。[NEWLINE][NEWLINE]今日的船員，到現在還沿用著，許多源自海外最早期海軍人員的傳統。有些甚至已經將影響力擴張至船隻以外的人們與土地上。某些慣例，像是穿著喇叭褲，以及在夾克上使用有裝飾性的袖扣；或是「注意禮貌」的話語都可回溯至海軍傳統。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_HELP">
+      <Text>新大陸的崛起</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「別跟我說有關海軍的傳統，它僅是甜酒、男色與鞭條。」[NEWLINE][TAB][TAB]--溫斯頓·邱吉爾[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVIGATION_HELP">
+      <Text>允許您建造[COLOR_POSITIVE_TEXT]航海學校[ENDCOLOR]，一種能治愈海上單位的壞血病的建築。還能讓沿海城市建造[COLOR_POSITIVE_TEXT]海運碼頭[ENDCOLOR]，可以讓海洋資源提供[ICON_PRODUCTION]生產力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_DESC">
+      <Text>在海上，有著侵擊、掠奪與難以言喻的暴力：一個海盜的生活就是很好的例子。經常被大眾電影與媒體給美化了，海盜就像傑克·使派羅船長般的機智與俏皮。海盜王娛樂著年輕大眾。這些海上的罪犯，以暴力的方式，自其他船隻奪取貨物，襲擊海濱城鎮，對所有類型的文明社會都是一種威脅。海盜，自從文明世界開始透過海洋運送人和貨物以來，就早已存在。最早的海盜活動記錄，可追溯回史前十三世紀。[NEWLINE][NEWLINE]有些最為人所知的海盜活動，來自於歐洲的海盜，他們恐嚇濱海城鎮。基本上，加勒比海的海盜，喜好劫持滿載黃金的西班牙寶藏船隻。這個「經典」的海盜時期，最常被描繪於電影與書本中。這個時期，從1560年開始一直持續至1720年。帶著腰間的配劍，與活潑樣式的帽子，這種海盜描述的方式，使用於現今的小說中，海盜活動在許多海域中頗為猖獗，尤其在阿拉伯半島外海上。然而，海盜不應與私人武裝船混為一談。它是一種由合法政府所授權的一種海軍襲擊形式，通常為戰爭時期時所使用。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]私掠艦[ENDCOLOR]，並允許歐洲勢力間互相宣戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「真正重要的規則只有：一個人能做什麼與不能做什麼…我可以將你淹死，但我無法獨自將這艘船帶往托爾地島，明白嗎？所以，你能夠在海盜的指揮下航行嗎？或者，你不能？」[NEWLINE][TAB][TAB]--傑克·史派羅船長[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_DESC">
+      <Text>職業的軍人比較下，優於一群大多數早期文明展現出的，隨便拼湊殘亂而成的自衛軍隊。這些職業軍人擁有較好的配備，更好的訓練，總而言之，他們比一般身穿皮短衣，手持草鈀的農夫，更為精良。羅馬帝國創造了世界上第一個，由職業軍人所組成的常備軍隊，他們對於在鋪天蓋地般的軍事勝利中，扮演著重要的角色。在歐洲，有些第一批的職業軍人在1445年時，受雇於法國國王查爾斯七世，而後又在1685年時，受雇於英國國王詹姆是二世[NEWLINE][NEWLINE]職業軍人為現代文明軍隊與防禦系統的支柱，在世界上，許多發達國家也使用此方式。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「雖然，我的職業是軍人，我從未鍾情於戰爭，也從未倡導過戰爭，除非，當它是和平的一種手段。」[NEWLINE][TAB][TAB]--尤里西斯·格蘭特[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_DESC">
+      <Text>世界上許多的宗教中，存在著特殊的聚落與有虔誠信仰的個體。 這些人離群而居，通常更能夠完全地依循他們特定的宗教信仰而生活。這些神職人員往往需要形體上的修道院，一座信徒能夠在其工作與生活的建築物或複合式建築。[NEWLINE][NEWLINE]有些宗教信仰的神職人員，能夠安居於他們的出生地國和在此地祈禱。但是，某些宗教的神職人員則是以擴張且對他人傳遞他們的宗教信仰為主要目的。位於美洲的耶穌會修道院正是如此。這些耶穌會修道士，遠跨大西洋，並在美洲土地上建立修道院與佈道會，於此，他們教導當地人們他們信仰的教條，以及西方的基本教育。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「這些我所知道的耶穌會會士，他們終其一生都是偉大的老師，他們卻鮮少為人所記得。」[NEWLINE][TAB][TAB]--丹尼爾·巴陵更[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_DESC">
+      <Text>通常由一群菁英武裝隨從而組成，皇家衛隊是傳統軍隊或儀隊單位，用來保護皇室或重要的神職人員。歷史上，這些菁英成員為雙重政治用途而服務，因為他們特殊的地位，使得他們能夠影響當權者的想法，或者在任何政變或暴動中，扮演舉足輕重的角色。[NEWLINE][NEWLINE]某些皇家衛隊軍團的盛名遠播至他們自己國家的領土之外，例如西班牙的皇室軍隊和法國的三劍客。法國的三劍客，技術上來說其實只是一個法國皇室禁衛軍的初級單位，位階在守衛軍之下。大部分的保鑣任務為守衛軍所執行。還有一部分要感謝大仲馬的作品，使法國三劍客成為最受歡迎，與最為人所知的文明世界的皇家衛隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_HELP">
+      <Text>允許您生產[COLOR_POSITIVE_TEXT]劍客團[ENDCOLOR]，一種常規火槍兵的強化版單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「這世界是一個充滿危險的不確定區域。榮耀因為追求權力而傷害值，強者壓迫弱者時犧牲了自由。但是，有人反對強權勢力，將他們的生命獻給真理，榮耀與自由。這些人叫作劍客。起義。」[NEWLINE][TAB][TAB]--路易斯國王[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TRAPPING_HELP">
+      <Text>允許您的工人在[ICON_RES_DEER]鹿群、[ICON_RES_IVORY]象牙與[ICON_RES_FUR]毛皮資源上建造[COLOR_POSITIVE_TEXT]營地[ENDCOLOR]，以提高該單元格的[ICON_GOLD]金幣產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_DESC">
+      <Text>當西班牙人到達美洲，並且開始運送他們新得到獵物與寶藏回到歐洲。為了能夠對抗日益增加，來自於海盜侵襲他們船隻的壓力，他們需要發展一項新的、更高效能的航運方式。西班牙財寶艦隊是他們的解決方法，一種特殊的船隻護航系統，能夠嚴謹的控管靠港與航行的運作模式。由美洲出發的船隻，沿著西班牙海而航行，都需要航行於一條特殊的海洋路徑，讓他們能夠獲得較小武裝軍隊的保護。這些船隻只能航行至限定與保護的海港城鎮（如塞維亞），以降低海盜侵略的風險。[NEWLINE][NEWLINE]自十六世紀至十八世紀，財寶艦隊成功的受雇於西班牙。它在歷史上，仍被視為獲利最佳，與最具成效的海軍行動之一。十八世紀時，在喪失某些沿著西班牙海的濱海城市後，鑑隊繼續存在的可能性飽受質疑。企圖抵抗這樣的情況，查爾斯國王三世於1765年，鬆綁了嚴苛的制度，並且在18世紀80年代，讓更多的殖民地能夠使用艦隊。但是，艦隊仍在1790年出航最後一次完整的任務，並且將兩大洲之間的載運的任務，移交給較小規模的船隻，以需求性的方式運行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_HELP">
+      <Text>所有地面單位獲得[COLOR_POSITIVE_TEXT]海運防禦[ENDCOLOR]的強化能力，允許他們能夠抵抗海上攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「黃金是一個寶藏，擁有它的人可以隨心所欲，在世界上做想做的事，並且成功的幫助所有的靈魂進入天堂」[NEWLINE][TAB][TAB]--克里斯多福·哥倫布[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_DESC">
+      <Text>當許多船隻製造為求能夠快速在海上航行，或是能夠在最小的空間中承載最大量的貨物，而戰船卻是為一個單一目的而設計，就是擊敗其他船隻。除了顯而易見的武裝配備（傳統上來說，像是大砲或攻城錘）外，戰船更是可以抵擋更多傷害。況且，與商船或客輪相較，戰船較為靈活。[NEWLINE][NEWLINE]當海軍技術往前邁進時，戰船也隨之進步。單層帆船與三列槳戰船為早期的戰船型態，能夠撞擊敵方，但是戰鬥仍由船上的軍隊執行。然而，當大砲能夠快速的填充子彈時，大型的帆船便粉墨登場。船的側邊，承載一排排的大砲。木造船最終由鋼鐵所製成的船隻所取代，蒸氣與核能也代替了風帆。雖然現代戰船與早期的戰船沒有多少共通之處，他們仍然保留著原本的基礎設計概念—就是在被破壞之前，先破壞他人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「該死的魚雷，全速前進！！」[NEWLINE][TAB][TAB]--艦隊司令 大衛·格拉斯哥·法拉古特[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_THIRD_CIRCUMNAVIGATION">
+      <Text>{@1_UnitName}已抵達中國！由於您完成了第三次環球航行壯舉，您獲得{3_VPAmount}勝利點數。航行至中國不會再獲得額外的獎勵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TITLE">
+      <Text>征服新世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TP_RELIGION_TOOLTIP">
+      <Text>在劇情開始時，所有歐洲文明均為天主教國家或者新教徒國家。即使聖城不在國境內，歐洲國家只要盡可能將自己的基督教信仰形式傳播到其他城市去，就能獲得創立者信條加成。基督教國家可以用信仰值生產傳教士與異端審問官。[NEWLINE][NEWLINE]美洲文明在首都奠立後的第一回合都能創立次要宗教。這些次要宗教是由一種（相當強大的）萬神殿信仰所構成，並且會散佈到每一個新建立的城市當中。這類宗教可以利用信仰值購買自己的特色單位與競技場，但無法獲得傳教士與異端審問官。[NEWLINE][NEWLINE]此劇情中不會出現大預言家，也沒有宗教壓力的設定。宗教只會透過傳教士活動而傳播。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+      <Text>原住民盟友</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD">
+      <Text>進入丘陵單元格時單位忽略地形對移動力的影響。位於丘陵的改良設施無需維護費用；位於其他地形則費用減半。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_GREAT_ANDEAN_ROAD_SHORT">
+      <Text>印加路網</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+      <Text>將森林和叢林視為道路（移動力加成只在己方領土有效）。鄰近城市未經改良的森林單元格獲得[ICON_PEACE]信仰值+1。鄰近3個或3個以上未改良的森林單元格時，城市[ICON_PEACE]信仰值+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LONG_COUNT">
+      <Text>在遊戲開始時創立次要宗教，將可獲得第二個萬神殿信仰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LONG_COUNT_SHORT">
+      <Text>雙子英雄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION">
+      <Text>可用商路增加50%。（向下取整）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_LUXURY_RETENTION_SHORT">
+      <Text>荷蘭西印度公司</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_OCEAN_MOVEMENT">
+      <Text>所有海上單位[ICON_MOVES]移動力+2。[ICON_GOLDEN_AGE]黃金時代持續時間延長50%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES">
+      <Text>發現自然奇觀時獲得[ICON_GOLD]金幣獎勵（率先發現者會獲得更多）。自然奇觀提供的[ICON_CULTURE]文化值、[ICON_HAPPINESS_1]幸福度和產出物加倍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TRAIT_SEVEN_CITIES_SHORT">
+      <Text>黃金七城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_CAPTURED_CITY">
+      <Text>佔領{@1_CityName}後已產生3份財寶。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_FOUND">
+      <Text>尋獲財寶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_NATURAL_WONDER">
+      <Text>在{@1_NWName}附近尋獲1份財寶。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RAZED_CITY">
+      <Text>焚毀{@1_CityName}後已產生1份財寶。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED">
+      <Text>財寶已送回{@1_CityName}，您獲得{2_GoldAmount}[ICON_GOLD]金幣和{3_VPAmount}勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TREASURE_RETURNED_SHORT">
+      <Text>財寶已運達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TURNSREMAINING">
+      <Text>剩餘回合數：{1_TurnsRemaining}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_HELP_MAYAN_ATLATLIST">
+      <Text>僅限馬雅生產。該單位比起所替代的普通弓箭手，成本更低、生產更快。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST_STRATEGY">
+      <Text>擲矛戰士是馬雅的特色單位，替代普通弓箭手。擲矛戰士造價比傳統弓箭手低廉，而且在研發弓術前就可以生產，所以出現時期將早於弓箭手。這項遊戲中的早期優勢使得玩家可優先研發其他重要科技。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_TREASURE_STRATEGY">
+      <Text>一個平民單位，為該劇本獨有，外觀為一支騾隊（海運時為一支財寶艦隊），裝載著來自新大陸的金銀。將它運至您的首都，以獲得金幣與勝利點數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_TEXT">
+      <Text>從礦坑到目的地，財寶單位包含整個位於新大陸的西班牙財寶艦隊系統。當金礦與銀礦在美洲的多處挖掘出來後，這些礦產由騾子與駱駝通過陸地運送的方式，經由規劃良好的路線，到達於西班牙海沿海特定的港口城鎮。從這些港口，將寶藏裝載至大型帆船與商船上。他們以一個大型護送隊的方式，一同航行，跨越大西洋。這些船隻，每一次在跨越大西洋海岸，航行至西班牙時都依循一條精準的路線。確使他們能夠輕易受到保護，不被海盜與竊盜所侵犯。這些財寶單位促使西班牙成為一個在當時最富裕的文明，並協助創造出世界上最令人驚艷的海軍行動之一。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_FUTURE_TECH">
+      <Text>財寶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO1">
+      <Text>發現中國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO2">
+      <Text>獲得信仰值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_SCENARIO3">
+      <Text>獲得黃金</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_VP_WONDERS">
+      <Text>奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_DAWN_AMERICAN_NEWWORLD_TEXT">
+      <Text>
+     劇情描述[NEWLINE]時間來到1492年。歐洲的宮廷湧入了許多無畏的探險家，他們渴望啟航穿越大西洋，尋找通往中國與印度的西向航線。他們是否能找出新航道，從亞洲的海岸帶回驚人的財富呢？又或者，他們會在途中發現前無來者的新天地？原住民是選擇接受他們帶來的知識與貿易機會，還是會起身對抗來勢洶洶的侵略者呢？究竟有何等的財富、名聲與機會，在等待著能夠征服未知水域的勇者？你會選擇哪一條路？誰能在新世界的爭霸戰中勝出呢？[NEWLINE][NEWLINE]勝利條件[NEWLINE]150回合後，分數最高者獲得勝利。利用海軍上將進行探索並抵達中國可獲得獎勵勝利點數。美洲文明可藉[ICON_PEACE]信仰值而獲得勝利點數，歐洲文明則可藉[ICON_GOLD]金幣而獲得勝利點數。你可以盡情嘗試登場的十個文明：美洲地圖每次都會變動。[NEWLINE][NEWLINE]特殊規則[NEWLINE]焚燬城市或是發現黃金國與富饒山這兩種自然奇觀時，將會出現財寶單位。除歐洲城市及美洲文明的最後一個城市以外，所有城市都可以被[ICON_RAZING]焚燬。美洲文明在首都建立後的第一回合都能創立次要宗教。這些次要宗教是由一種（相當強大的）萬神殿信條組成，並且會散佈到每一個新建立的城市當中。參見簡介畫面以了解特殊規則的完整細節。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_DAWN_NEWWORLDLOAD_TEXT">
+      <Text>
+     劇情描述[NEWLINE]時間來到1492年。歐洲的宮廷湧入了許多無畏的探險家，他們渴望啟航穿越大西洋，尋找通往中國與印度的西向航線。他們是否能找出新航道，從亞洲的海岸帶回驚人的財富呢？又或者，他們會在途中發現前無來者的新天地？原住民會甘心接受他們帶來的知識與貿易機會，還是會起身對抗登門踏戶的侵略者呢？究竟有何等的財富、名聲與機會，在等待著能夠征服未知水域的勇者？你會選擇哪一條路？誰能在新世界的爭霸戰中勝出呢？[NEWLINE][NEWLINE]勝利條件[NEWLINE]150回合後，分數最高者獲得勝利。利用海軍上將進行探索並抵達中國可獲得獎勵勝利點數。美洲文明可藉[ICON_PEACE]信仰值而獲得勝利點數，歐洲文明則可藉[ICON_GOLD]黃金而獲得勝利點數。您可以盡情嘗試登場的十個文明：美洲地圖每次都會變動。[NEWLINE][NEWLINE]特殊規則[NEWLINE]研發「海盜行為」科技前，歐洲文明彼此間不能宣戰。焚燬城市或是發現黃金國與富饒山這兩種自然奇觀時，將會出現財寶單位。海上單位將感染壞血病，這種疾病是以「強化」的形式存在。建造航海學校國家奇蹟以對抗此種惡疾。歐洲文明的目標是將他們的宗教傳播到新世界。參見簡介畫面以了解特殊規則的完整細節。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_CIV5_NEWWORLD_BRIEFING_TEXT">
+      <Text>
+     勝利條件[NEWLINE]150回合後，分數最高者獲得勝利。歐洲強權可以利用海軍上將進行探索並抵達中國以獲得獎勵勝利點數。[NEWLINE][NEWLINE]美洲文明每獲得2[ICON_PEACE]信仰值就能得到1點勝利點數，獲得信仰值的渠道有：[NEWLINE][ICON_BULLET]回合開始時獲得的信仰值[NEWLINE][ICON_BULLET]戰鬥殺敵獲得的信仰值[NEWLINE][ICON_BULLET]肖松尼探路者獲得的信仰值[NEWLINE][NEWLINE]歐洲文明每獲得12[ICON_GOLD]金幣就能得到1點勝利點數，獲得金幣的渠道有：[NEWLINE][ICON_BULLET]回合開始時的總金幣收入[NEWLINE][ICON_BULLET]戰鬥殺敵獲得的金幣[NEWLINE][ICON_BULLET]將財寶送回首都獲得的金幣[NEWLINE][ICON_BULLET]貿易任務產生的金幣[NEWLINE][ICON_BULLET]以克拉克帆船抵達中國所獲得的金幣.[NEWLINE][ICON_BULLET]來自西班牙獨特能力的金幣[NEWLINE][NEWLINE]特殊規則[NEWLINE]海上單位會感染壞血病，這種疾病是以「強化」的形式存在。建造航海學校國家奇跡以對抗此種惡疾。在研發出海盜科技前，歐洲文明彼此間不能宣戰。焚毀城市或是發現黃金國與富饒山這兩種自然奇觀時，將會出現財寶單位。除歐洲城市及美洲文明的最後一個城市以外，所有城市都可以被[ICON_RAZING]焚毀。所有海上單位視野都受到-1減益，但海軍上將擁有+2視野。用來產生海軍上將點數，除了每回合自動獲得以外，還能藉由探險成就來取得。只要將滑鼠遊標移動到畫面上方資訊列的信仰值資訊部分，就會顯示歐洲與美洲宗教的資訊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_DESC">
+      <Text>西向航行以找出通往東方世界之路，或是扮演美洲原住民文明來進行遊戲，對抗意想不到的海上威脅。改編自原本的征服新世界劇情，體驗新世界的不同風貌。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLDDLX_SCENARIO_TITLE">
+      <Text>征服新世界豪華版</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PEDIA_PROMOTION_SCURVY">
+      <Text>在友方領土外生命值減少</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_AMERICAN">
+      <Text>美洲文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_AMERICAN_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]美洲文明[ENDCOLOR][NEWLINE]可以建造世界奇跡。每座神廟提供+1[ICON_HAPPINESS_1]幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ARISTOCRACY_NWS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]貴族統治[ENDCOLOR][NEWLINE]建造奇蹟時+15%[ICON_PRODUCTION]生產力，每處工作坊產出+1[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM">
+      <Text>以物易物</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]以物易物[ENDCOLOR][NEWLINE]每個交易站與巴西紅木林場產出+1[ICON_GOLD]金幣。每個奢侈品資源+2[ICON_HAPPINESS_1]幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BARTER_SYSTEM_TEXT">
+      <Text>無論是原住民之間、原住民與歐洲開拓者之間，或是殖民者本身之間，都能透過以物易物的方式來彼此交換新世界流行的貨物或服務。在新世界的鑄幣事業開始前（西元1502年的聖多明各西班牙銅幣），以物易物向來是美洲經濟的基礎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_AMERICAN">
+      <Text>美洲文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_EUROPEAN">
+      <Text>歐洲文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITIZENSHIP_NWS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]公民權[ENDCOLOR][NEWLINE]購買建築花費[ICON_GOLD]金幣減少33%。需要改良後資源的每種建築提供+1[ICON_PEACE]信仰值。（巧克力館，馬戲場，煉冶廠，鑄幣廠和石工作坊）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITY_SACK">
+      <Text>攻城掠地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITY_SACK_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]攻城掠地[ENDCOLOR][NEWLINE]攻擊城市時+33%[ICON_STRENGTH]戰鬥力且財寶單位的移動力+1。（單位獲得「攻城掠地」強化，所有財寶單位在產生時都可額外獲得移動值+1的強化）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITY_SACK_TEXT">
+      <Text>在新世界中，歐洲入侵者會藉由劫掠佔領的城市來打擊原住民的士氣，雖然這是一種政策上的考量，但有時他們也會單純的為了搶奪財物而進行掠奪。西元1539年岡薩羅·皮薩羅對新印加首都維爾卡巴姆巴所進行的洗劫，便屬於前者的例子，海盜亨利·摩根在1671年洗劫巴拿馬市則屬於後者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_NWS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]集體統治[ENDCOLOR][NEWLINE][ICON_CAPITAL]首都訓練[COLOR_POSITIVE_TEXT]開拓者[ENDCOLOR]的速度提升50%，並在[ICON_CAPITAL]首都附近無償獲得一個開拓者。 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONQUEST">
+      <Text>征服新世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONQUEST_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]征服新世界[ENDCOLOR][NEWLINE]所有軍事單位在選擇此政策後的50回合內可獲得+25%的攻擊力加成。財寶提供的[ICON_GOLD]金幣加倍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONQUEST_TEXT">
+      <Text>新世界的探索時期過去之後，歐洲列強為增加自身的國力與財富，開始進入征服以及由國家贊助進行殖民的時期。在哥倫布發現新大陸後的200年之內，西班牙、葡萄牙、法國、英格蘭，甚至荷蘭與瑞典都加入了這場爭奪美洲廣大領土的競賽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM">
+      <Text>艦隊體系</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]艦隊體系[ENDCOLOR][NEWLINE]所有海上商路+6[ICON_GOLD]金幣收入。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONVOY_SYSTEM_TEXT">
+      <Text>雖然自西元9世紀以來，就有在戰時採用艦隊來保護軍隊的運輸船與進行入侵的記錄，但加勒比海盜與私掠船的猖獗卻是促成西班牙商人採用艦隊體系的主因。商人們利用艦隊體系保護從新世界運往歐洲的財富，後來連王室也起而效尤，開始編制艦隊。有些西班牙與葡萄牙艦隊的組成數量會高達數百艘商船，例如行駛於1520年代到1790年之間的西班牙黃金艦隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID">
+      <Text>雙重金字塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]雙重金字塔[ENDCOLOR][NEWLINE]每座神龕與神廟[ICON_PEACE]信仰值+1。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DOUBLE_PYRAMID_TEXT">
+      <Text>在帝國的全盛時期，阿茲特克人建造了許多雙重金字塔。這種金字塔是由巨大的金字塔平台所構成，並有兩道階梯分別通往兩座寺廟，有時候甚至寺廟本身也是金字塔。目前發現到最早的案例是特納尤卡的金字塔，當阿茲特克於西元1434年征服該城時，金字塔已經落成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_NWS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]企業家精神[ENDCOLOR][NEWLINE]出現大商業家。大商業家誕生速度加快100%。銀行提供+2[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_EUROPEAN">
+      <Text>歐洲文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_EUROPEAN_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]歐洲文明[ENDCOLOR][NEWLINE]如果你的[ICON_CAPITAL]首都保有原本的宗教，每回合可+50[ICON_PEACE]信仰值（英格蘭、法國與荷蘭為新教，葡萄牙與西班牙為天主教）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS">
+      <Text>平原騎手</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]平原騎手[ENDCOLOR][NEWLINE]6支部隊免維護費。立即獲得6個科曼奇騎兵（可以防禦宗教入侵的強力騎乘單位）。[ICON_CAPITAL] 首都提供+8[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_HORSEMEN_OF_THE_PLAINS_TEXT">
+      <Text>在西元1493年哥倫布進行第二次航行，並將馬匹帶進西印度群島之前，美洲大陸上並沒有馬科動物。後來，征服者所棄養的各品種馬匹開始在北美平原上快速的繁衍，原始的遊牧民族則很快就學會了如何駕馭馬匹，成為他們社會與文化的主軸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_NWS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]商人邦聯[ENDCOLOR][NEWLINE]與城邦相連的商路產出的[ICON_GOLD]金幣+2。每回合對你有商路往來的城邦增加4點[ICON_INFLUENCE] 影響力（在標準遊戲速度下）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE">
+      <Text>海外帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]海外帝國[ENDCOLOR][NEWLINE]獲得一名海軍上將。所有海軍上將[ICON_MOVES]移動力+2，視野+1。海軍上將誕生速度加快50%。海上單位[ICON_MOVES]移動力+2。新城市一開始便獲得額外3單位[ICON_CITIZEN]人口。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_OVERSEAS_EMPIRE_TEXT">
+      <Text>歐洲強權取得海外屬地的動機可能來自於許多因素 – 經濟成長受限、宗教狂熱、人口過剩、文化停滯、不容破壞的軍事平衡，諸如此類 – 因此，他們開始建立殖民帝國。從東方到非洲，歐洲君王們的勢力已經遍及全球，對他們而言，美洲大陸更是為帝國的擴張提供了無窮無盡的機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL">
+      <Text>停靠港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]停靠港[ENDCOLOR][NEWLINE]為所有城市提供港口，所有沿海城市+2[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PORTS_OF_CALL_TEXT">
+      <Text>停靠港是船隻商路上的中繼休息站，用於補給食糧、清水，並且轉運貨物及乘客。加勒比海的聖胡安與聖多明各、北美洲的聖奧古斯丁與費城，還有里約熱內盧及布宜諾斯艾利斯，這些殖民港口是歐洲文明稱霸新世界的關鍵所在。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PUKARA">
+      <Text>普卡拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PUKARA_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]普卡拉[ENDCOLOR][NEWLINE]城牆提供+1當地[ICON_HAPPINESS_1]幸福度、+1[ICON_GOLD]金幣與+1[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PUKARA_TEXT">
+      <Text>利用無榫眼的石材構築成的防禦工事，通常位於陡峭的山坡上，常見於中央安地斯山脈的原住民文化：瓦里、提瓦納庫，以及後來的印加。印加人也常利用這些防禦工事作為行政中心，例如守衛通往庫斯科要道之一的「普卡·普卡拉」（紅色要塞）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS">
+      <Text>眾神金字塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]眾神金字塔[ENDCOLOR][NEWLINE]每座世界奇跡提供+6[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PYRAMID_OF_THE_GODS_TEXT">
+      <Text>中美洲石階金字塔--較為類似於美索不達米亞的神塔，而非邊線平整的埃及金字塔--是奧爾梅克、阿茲特克、馬雅、薩波特克、塔拉斯堪等民族的重要建築形式，大多數的宗教建築都是以此種形式建成。這類建築上常有華麗的紋飾塑刻、雕飾、壁畫及馬賽克，大型金字塔建築（例如恰路拉大金字塔）更是永遠象徵著這些神權國家曾經有過的輝煌。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_RANSOM">
+      <Text>贖金</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_RANSOM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]贖金[ENDCOLOR][NEWLINE]每次殺敵均可獲得[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_RANSOM_TEXT">
+      <Text>按照歐陸自古以來的傳統，歐洲冒險家會俘虜原住民部族的領袖，用於勒索贖金，而且這類行動往往冠以國王的名義。舉例來說，法蘭西斯克．皮薩羅在西元1532年就從印加人手上獲得了一筆相當於今日20億美元價值的贖金，用於交換印加王子阿塔瓦爾帕（但是皮薩羅卻毀約並處決了王子）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SACRED_LAND">
+      <Text>聖地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SACRED_LAND_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]聖地[ENDCOLOR][NEWLINE]創始次要宗教後，可以額外獲得一個改革信條。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SACRED_LAND_TEXT">
+      <Text>許多北美原住民宗教都崇拜魂靈，並且認為自然界的萬物都是魂靈的化身，例如動物、植物、天氣現象，甚至連特定的場所也是如此。無論是豪德諾索尼（易洛魁）或是蘇族的拉科塔，對許多部族而言，保護聖地（例如科霍斯瀑布、黑山或沙斯塔山）不僅是信仰問題，同時也是部族的原則所在。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS">
+      <Text>眾神之廟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]眾神之廟[ENDCOLOR][NEWLINE]建造神廟所需時間減半。神廟可使城市的[ICON_GOLD]金幣產出增加25%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TEMPLE_OF_THE_GODS_TEXT">
+      <Text>許多早期的中美洲王國都是崇拜魂靈的神權政體，國家寺廟的地位就跟首都裡的宮殿同等重要。最早期的這類「眾神之廟」，其年代可以追溯至前古典時期（約介於西元前1800年到西元200年之間），當中有許多都是以金字塔的形式建成，用於祭祀美洲虎或蛇神。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNIFIED_NATION">
+      <Text>國家統一</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNIFIED_NATION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]國家統一[ENDCOLOR][NEWLINE]每座國家奇跡提供+1當地[ICON_HAPPINESS_1]幸福度與+1[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNIFIED_NATION_TEXT">
+      <Text>如同其他原住民一般，在某些地方，擁有共同文化及/或語言傳統的個別部族會聯合起來成為一個「國家」，例如歐奈達、切諾基與納瓦霍。促使這些長期敵對的部族統一起來的催化劑，往往是歐洲人的到來，因為某些原住民領袖看出了這些新移民對部族的威脅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE">
+      <Text>妖精武器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_NWS_HELP">
+      <Text>+2[ICON_MOVES]移動力和+1視野。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_NWS_HELP">
+      <Text>[ICON_MOVES]移動力+2。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_EMBARKATION_HELP">
+      <Text>能進入[COLOR_POSITIVE_TEXT]水域單元格[ENDCOLOR]。此單位每次移動到中立或敵對水域單元格都有10%的幾率受到來自於[COLOR_NEGATIVE_TEXT]壞血病[ENDCOLOR]的10點損傷（直到建造航海學校為止）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_NATIVE_TONGUE_HELP">
+      <Text>發現自然奇觀時獲得[ICON_PEACE]信仰值。（如果是第一個發現的文明，將會獲得更多的信仰值，但如果具有此強化能力的其他我方單位已經發現該自然奇觀，則不會獲得信仰值）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_SELL_EXOTIC_GOODS_HELP">
+      <Text>抵達中國可獲得[ICON_GOLD]金幣，但單位會消失。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS">
+      <Text>攻城掠地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_NEWWORLD_SCENARIO_STATUE_ZEUS_HELP">
+      <Text>攻擊城市時+33%[ICON_STRENGTH]戰鬥力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_OBSIDIAN_TIP">
+      <Text>黑曜石矛尖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SCURVY">
+      <Text>壞血病</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SCURVY_HELP">
+      <Text>如果在友方領土外結束回合，將有65%的機率受到1點傷害</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SMALLPOX">
+      <Text>天花</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SMALLPOX10_HELP">
+      <Text>+10%[ICON_STRENGTH]戰鬥力（親王以下或以上的每個難易度等級改變5%）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SMALLPOX15_HELP">
+      <Text>+15%[ICON_STRENGTH]戰鬥力（親王以下或以上的每個難易度等級改變5%）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SMALLPOX20_HELP">
+      <Text>+20%[ICON_STRENGTH]戰鬥力（親王以下或以上的每個難易度等級改變5%）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_SMALLPOX5_HELP">
+      <Text>+5%[ICON_STRENGTH]戰鬥力（親王以下或以上的每個難易度等級改變5%）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SHOSHONE_NATURAL_WONDER_FOUNDFIRST">
+      <Text>你因為率先發現自然奇觀而獲得 {1_FaithPoints} [ICON_PEACE] 信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SHOSHONE_NATURAL_WONDER_FOUNDLATER">
+      <Text>您的探路者在其他人之後發現了自然奇觀，獲得{1_FaithPoints}[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_1">
+      <Text>[COLOR_NEGATIVE_TEXT]你的土地屬於我。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_FAITH_FROM_KILLS">
+      <Text>每次殺敵均可獲得[ICON_PEACE]信仰值。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

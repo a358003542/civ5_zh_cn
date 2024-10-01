@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_BAYEUX">
+      <Text>巴約</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BIRSAY">
+      <Text>比爾塞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHESTER">
+      <Text>切斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHICHESTER">
+      <Text>奇切斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FISKAVAIG">
+      <Text>菲斯卡維格</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IONA">
+      <Text>愛奧那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LINCOLN">
+      <Text>林肯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NORTHAMPTON">
+      <Text>北安普頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAINT_VALERY">
+      <Text>聖瓦雷利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STAFFORD">
+      <Text>斯塔福德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STAMFORD">
+      <Text>斯坦福</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STORNOWAY">
+      <Text>斯托諾維</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THETFORD">
+      <Text>謝特福德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THURSO">
+      <Text>索爾薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WAREHAM">
+      <Text>瓦爾漢姆</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

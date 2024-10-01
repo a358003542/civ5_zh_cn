@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1">
+      <Text>甚好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2">
+      <Text>无妨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3">
+      <Text>誠然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4">
+      <Text>準。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5">
+      <Text>如此甚好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6">
+      <Text>朕必將為之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7">
+      <Text>深得朕意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1">
+      <Text>愚蠢！朕定將汝等開膛破肚挫骨揚灰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2">
+      <Text>夷蠻無知之徒，泱泱中華滅汝何難！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3">
+      <Text>汝天命盡失，唯有空留余恨度流年。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1">
+      <Text>君可知，狡兔死而走狗烹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2">
+      <Text>君曾聞，飛鳥盡而良弓藏？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3">
+      <Text>汝已觸怒天威，命不久矣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1">
+      <Text>朕已敗。汝之幸甚。若天運周轉，朕亦樂於亡汝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2">
+      <Text>朕之天下已亡。朕或將於地府東山再起，捲土重來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3">
+      <Text>汝乃多謀而賢能之敵。汝之勝利實至名歸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY">
+      <Text>汝欲救亡圖存，則上納此等貢品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY">
+      <Text>友鄰，中華盼求汝之援手。朕深知汝乃可靠之人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL">
+      <Text>朕望汝上納此等貢品，則無需再獻奢貴之物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1">
+      <Text>不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2">
+      <Text>不准。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3">
+      <Text>朕不允此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4">
+      <Text>休想。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5">
+      <Text>休提此事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6">
+      <Text>此話當真？!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7">
+      <Text>汝言之何物？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1">
+      <Text>幸會。朕乃武則天，中國之女皇。華夏子民天性平和，不與外爭。然犯我中華者，雖遠必誅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2">
+      <Text>久仰。朕乃女皇武則天。中華謀求四海昇平、共展宏圖之道。汝能否與朕把酒言歡？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3">
+      <Text>久仰。朕乃武則天，中國之女皇。神州大地祈盼天下太平、公允往來，且不吝於奮勇殺敵。望汝與朕同慮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1">
+      <Text>保重。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3">
+      <Text>告辭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5">
+      <Text>速速退下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6">
+      <Text>足矣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7">
+      <Text>無需再議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1">
+      <Text>有失遠迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2">
+      <Text>幸會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3">
+      <Text>久違了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4">
+      <Text>如何。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5">
+      <Text>汝為何事而來？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6">
+      <Text>有何指教？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1">
+      <Text>但言無妨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2">
+      <Text>言之即可。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3">
+      <Text>朕了然於胸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4">
+      <Text>甚？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5">
+      <Text>汝所言何事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6">
+      <Text>後事如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7">
+      <Text>速速道來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1">
+      <Text>天朝亦欣然與鄰邦息戰。此等不悅之事來日休要再提。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_1">
+      <Text>汝欺朕乃無知村婦？不受此等互易。長之方可再議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_2">
+      <Text>所貢不足。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_3">
+      <Text>汝仍須多貢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_1">
+      <Text>汝所提互易通商之事，朕難以受納，深感遺憾。待增之後複議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_2">
+      <Text>汝豈盡力耶？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_3">
+      <Text>彈指可破…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>朕不受納。請增之再議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>汝可否貢上更多？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>尚有不足。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>幾近可成…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY">
+      <Text>汝之傲慢與無知實相映成趣。此等互易之事令人不齒，朕不受納。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY">
+      <Text>值此多事之秋，朕恐難以與汝通商互易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL">
+      <Text>朕拒此等交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY">
+      <Text>允之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY">
+      <Text>然也。朕欽佩汝之決斷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL">
+      <Text>相得益彰。一言為定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY">
+      <Text>朕之所出如此。汝意下如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY">
+      <Text>摯友，此等互易汝可接受？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL">
+      <Text>朕深信彼此皆可獲益於公平往來。汝可認同此等互易？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY">
+      <Text>村野匹夫！汝妄圖神州進貢？汝若不速走，定受淩遲車裂之刑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY">
+      <Text>朕抱憾，此時無力應允汝之所求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL">
+      <Text>朕甚疑惑。汝是否心智已失，抑或長年愚癡，方才如此所求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY">
+      <Text>也罷。但朕亦會伺機尋仇。自此刻始，汝便枕戈待旦、和衣而眠即可。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY">
+      <Text>誠然。華夏亦樂於施恩於友邦。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL">
+      <Text>善哉。較之大動兵戈，此舉甚好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1">
+      <Text>汝居於危簷之下竟渾然不覺。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2">
+      <Text>也好。往後朕便不會如此禮讓！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3">
+      <Text>失盡朕意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4">
+      <Text>失望至極。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5">
+      <Text>此事當真？鼠目寸光之輩，朕堅信汝將無命為之後悔矣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6">
+      <Text>此等愚夫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1">
+      <Text>朕留汝等活口實乃天公作美。如若再犯，殺無赦！</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

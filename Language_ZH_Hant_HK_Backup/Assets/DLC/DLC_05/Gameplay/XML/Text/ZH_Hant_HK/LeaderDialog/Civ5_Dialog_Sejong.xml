@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_1">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_2">
+      <Text>甚好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_3">
+      <Text>然也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_4">
+      <Text>啊，甚好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_1">
+      <Text>你怎可背叛於我？原來你是如此無信無義之輩？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_2">
+      <Text>你實為鼠輩。朝鮮之先進科技將接踵而來，將你壓垮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_3">
+      <Text>幸哉，幸哉！我正欲尋一理由，以試我朝鮮軍隊之新型裝備，你此舉正合我意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_1">
+      <Text>集賢殿對此等小小伎倆實為厭煩。我朝鮮應前來解救你那受壓子民，以領其走向正殿。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_2">
+      <Text>時辰匆匆而逝，我已覺察前所未有之急迫。你擋我去路，我將先殺你而後快。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_3">
+      <Text>我之實驗欲行，我之研究欲成，而你如同古城牆般阻我去路，我必將你摧毀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_1">
+      <Text>而今，我子民可從何處尋覓指引？艱難險阻已降臨至此。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_2">
+      <Text>我求於科學之心，蒙我雙眼，使我錯判國家之實時威脅。可而今著實太晚，就將我遺留至這黑暗荒蕪之中吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_3">
+      <Text>不，我還欲成事更多…我還欲四處探索。而因你之貪婪，卻掘走了這世上光輝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_ANGRY">
+      <Text>你將為眾罪與蠢笨之舉動付出代價，這便是其中之一。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_HAPPY">
+      <Text>賢者們懇求您能慷慨協助，我朝鮮正值多需之秋。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_NEUTRAL">
+      <Text>你之身分當贈我同等大禮，方可享我大堂之儀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_1">
+      <Text>我意拒絕之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_2">
+      <Text>否。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_3">
+      <Text>否也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_4">
+      <Text>我朝拒絕之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_5">
+      <Text>實意否也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_6">
+      <Text>實乃無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_7">
+      <Text>你意為玩笑之？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_1">
+      <Text>歡迎來到我大朝鮮之國宮，友人。我已為我之子民成事甚多，你是否敢如此承說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_2">
+      <Text>幸會，我乃朝鮮世宗大王李祹是也。你到訪朝鮮，是否為我之智慧與文明而來？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_3">
+      <Text>歡迎來到我大朝鮮之國宮，崇敬的陌生之人。我乃世宗大王李祹，我子民賢明之領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_1">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_2">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_3">
+      <Text>再會！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_4">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_5">
+      <Text>言畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_6">
+      <Text>退下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_1">
+      <Text>願您萬安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_2">
+      <Text>幸會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_3">
+      <Text>幸會，友人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_4">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_5">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_6">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_1">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_2">
+      <Text>言之。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_3">
+      <Text>繼續說！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_4">
+      <Text>我洗耳恭聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_5">
+      <Text>之後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_1">
+      <Text>此為我之誤判。有則改之，無則加勉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_2">
+      <Text>你如何辦到？何種手段為你採用？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_1">
+      <Text>縱使你擅辯能言，如此辱人之提議，無人可以接受。命你立刻呈上更好提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_2">
+      <Text>實不為上好之提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_3">
+      <Text>你須為供有更佳之提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_4">
+      <Text>甚近也…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我欲接受你之提議，然則我已知我集賢殿將無可接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_2">
+      <Text>此為你之最佳提議？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_3">
+      <Text>你之提議甚近也…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>在你費心盡思引我興趣之前，你得先行完善你之請求。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>你能否為你之提議加碼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>實不為上佳之提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>甚近也…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_ANGRY">
+      <Text>縱使無知野童亦知此乃騙人之舉。滾吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_HAPPY">
+      <Text>對您萬分感謝，但是我無法苟同。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_NEUTRAL">
+      <Text>我毫無興趣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_ANGRY">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_HAPPY">
+      <Text>樂於接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_NEUTRAL">
+      <Text>很好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_ANGRY">
+      <Text>你之面目是如此可憎，但為我子民著想，我接受提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_HAPPY">
+      <Text>我之友人，你我之間還有事可談、有事可成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_NEUTRAL">
+      <Text>縱有萬千方法，也不及共享財富能為增進友誼之有效。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_ANGRY">
+      <Text>你為何事所騙，竟如此愚笨，以為這等提議可以實行？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_HAPPY">
+      <Text>我無言以示我之遺憾，然而我得失望於您了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_NEUTRAL">
+      <Text>以你之身分，要求著實過多。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_ANGRY">
+      <Text>此等舉動讓我倍感羞愧，但國之事務，我必將進行到底。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_HAPPY">
+      <Text>您已提出請求！智者之智在於願與其友朋共享收穫，此亦為我成功之道。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_NEUTRAL">
+      <Text>貪婪實不為你之道，其常引人下場悲慘。我願此乃你為崇高目標之舉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_1">
+      <Text>我本想此厭惡之舉乃楊平人所為，而非你也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_2">
+      <Text>你看似比我想像中頑強許多。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_3">
+      <Text>完全是費時之舉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_1">
+      <Text>精妙之技術；完美之計畫；絕頂之聰慧，皆使我再獲勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_2">
+      <Text>你之渺小，無處勝我集賢殿之智者。集我朝絕頂聰慧之眾人，同心協力，討伐於你。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

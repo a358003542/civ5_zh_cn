@@ -1,0 +1,55 @@
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
+      <Text>世界充满动荡不安的战争，许多伟大及强大的文明已灭绝，但您存活下来了－胜利就在眼前，这个世界将永远记得您那辉煌的成就！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
+      <Text>征服胜利替代方案</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
+      <Text>您已在战场中征服击败所有敌人获得胜利！敌人溃散而您占领了他们的城市，人民将永远记得您辉煌的胜利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
+      <Text>征服胜利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
+      <Text>透过您文明的力量，您取得胜利，您文明的伟大－壮丽的古迹及其建筑艺术－震惊世界！诗人会永远歌颂著为疲惫心灵带来快乐的您！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
+      <Text>文化胜利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_BULLET_TEXT">
+      <Text>[ICON_BULLET]亲身体验整套文明帝国5游戏[NEWLINE][NEWLINE][ICON_BULLET]带领十八个文明从史前时代时代走向太空时代。[NEWLINE][NEWLINE][ICON_BULLET]下载独家内容及模组，并可挑战来自全世界的玩家。[NEWLINE][NEWLINE][ICON_BULLET]您的文明帝国会是怎样的呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_TEXT">
+      <Text>您伟大及充满力量的文明会顺利的，但目前时间已走到尽头，但是您的人民不会绝望，因为他们知道您会回来，带领他们走向胜利之路！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
+      <Text>透过外交技巧，您已成功战胜您的敌人！您的熟练及智慧已为您得到很棒的朋友－在敌人中制造分化及混乱！您将永远被人民记得是为这疲惫世界带来和平的领袖！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TITLE">
+      <Text>外交策略胜利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
+      <Text>您已被击败，您的文明被许多敌人压倒，但您的人民并不绝望，因为他们知道有一天您会回来–再带领他们走向胜利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
+      <Text>损失</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TEXT">
+      <Text>透过对科学的掌握，您已取得胜利！您征服了大自然的奥秘并带领您的人民走向一个美丽新世界！只要星星依然在夜空中燃烧，您的胜利将会一直被记得！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TITLE">
+      <Text>科技胜利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXTENDED_GAME_DEMO">
+      <Text>购买完整版本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXTENDED_GAME_YES">
+      <Text>等等！再…来…一…回合…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GO_BEYOND_EARTH">
+      <Text>BEYOND EARTH</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

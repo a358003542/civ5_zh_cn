@@ -1,0 +1,1412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_ACTIVATE_BUTTON">
+      <Text>尋找戰鬥單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
+      <Text>佔領城市絕非易事。城市不僅防禦力強，而且會反擊、損害甚至消滅您的進攻單位。想要佔領敵方城市，需要多組強大單位在同一回合發動連續攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
+      <Text>圍攻城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_ACTIVATE_BUTTON">
+      <Text>尋找戰鬥單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
+      <Text>您附近的敵方單位處於駐紮狀態。這表示該單位已獲得特殊的防禦加成（以盾牌旗表示）。以單條的方式幾乎很難打敗駐紮單位，所以盡可能在同一回合使用多個單位進行攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
+      <Text>駐紮單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
+      <Text>戰事進展不如預期。也許再多做些準備，我們便可在戰場上重裝雄風。發動攻擊前，務必使用戰鬥預覽！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
+      <Text>這不是我們的最佳時機。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
+      <Text>或許我們應該重新考慮此次攻擊。您只能對敵人造成微不足道的傷害，而您的敵人卻會把您挫骨揚灰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
+      <Text>這種攻擊可能不會奏效</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
+      <Text>我們的國庫告罄，所以需要新的[ICON_GOLD]金幣來源！如缺少[ICON_GOLD]金幣，研究將就此停滯並導致我們落後於其他文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
+      <Text>破產！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
+      <Text>尋找蠻族的營地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
+      <Text>蠻族營地危機四伏，所以要盡快將其全部剷除！蠻族營地會不斷產生蠻族；越早將其摧毀，您的麻煩就越少。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
+      <Text>蠻族的營地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_BODY">
+      <Text>這是個危機四伏的世界，我們隨時都有可能遭受攻擊。建議您[COLOR_ADVISOR_HIGHLIGHT_TEXT]建立更多軍事單位[/COLOR]以探索世界並保衛我們的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
+      <Text>需要更多軍隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
+      <Text>我們的首都已經發展為一座繁忙的城市！現在或許是[COLOR_ADVISOR_HIGHLIGHT_TEXT]組成一隊開拓者[/COLOR]並建立另一座城市的好時機。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
+      <Text>新城市？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
+      <Text>城市是十分強大的目標，通常需要4支或以上的單位才能攻佔。在您對其發動近戰攻擊時，城市將對您的攻擊單位造成傷害。其還可對圍城單位進行遠程轟擊。您確定要繼續發動攻擊？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
+      <Text>攻擊城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_ACTIVATE_BUTTON">
+      <Text>尋找城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
+      <Text>城市可以轟擊附近敵軍，以損傷甚至消滅他們。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令您的城市轟擊敵軍單位吧！[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
+      <Text>城市轟擊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
+      <Text>我們首都已生產一支新單位。城市能夠生產單位、建造建築以及世界奇跡等，但同一時間只能進行一項工作。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
+      <Text>城市建設完成</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
+      <Text>這是城市視窗。您可在此變更這座城市正在興建的項目。在此視窗中，您也可以使用[ICON_GOLD]金幣買下城市周圍的單元格，以此擴張領土，還能指派市民到單元格中工作。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
+      <Text>城市視窗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
+      <Text>尋找友好城邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
+      <Text>我們和一個城邦間已經累積足夠[ICON_INFLUENCE]影響力，可以結為朋友！點擊城邦可查看我們所獲得的獎勵。我們的[ICON_INFLUENCE]影響力會隨時間逐漸下降，所以持續協助該城邦或是提供[ICON_GOLD]做為禮物，就可以維繫彼此的友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
+      <Text>看看與誰交了朋友！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_ACTIVATE_BUTTON">
+      <Text>尋找城邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_BODY">
+      <Text>您發現了一座城邦！城邦是小型國家，不會與您爭奪天下。您可以和他們進行外交互動，或者向他們宣戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_DISPLAY">
+      <Text>城邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_ACTIVATE_BUTTON">
+      <Text>尋找城邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_BODY">
+      <Text>有一座城邦前來求援！如果您提供協助，便可提高您對該城邦的影響力。當影響力達到一定程度，城邦將向您提供多種獎勵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_DISPLAY">
+      <Text>一座城邦需要幫助！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_ACTIVATE_BUTTON">
+      <Text>尋找擅自入境者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_BODY">
+      <Text>您可以將單位派入城邦境內，但是其對此不會感到高興。如果您想維持與城邦的正面關係，儘量不要讓您的單位進入其領土。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_DISPLAY">
+      <Text>擅自入境！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_ACTIVATE_BUTTON">
+      <Text>尋找城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
+      <Text>城市可像軍事單位一樣抵禦攻擊。一座城市的生命值降到零才會被佔領。在我們城市陷落前，指揮軍事單位去殲滅圍城的敵人吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_DISPLAY">
+      <Text>被圍攻！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
+      <Text>尋找戰鬥單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
+      <Text>您的一個軍事單位正在敵方單位附近。命令戰鬥單位進入敵軍所在單元格可進行攻擊。在戰鬥中，攻守兩方都可能受到傷害，其中一方可能會被消滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
+      <Text>近程戰鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_ACTIVATE_BUTTON">
+      <Text>尋找海上單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
+      <Text>想要探索並保護我們文明附近的海域，必須擁有一支強大的海軍。海上單位還能運用強大的遠程火力給敵人帶來滅頂之災！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
+      <Text>海上單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL">
+      <Text>顧問諮詢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
+      <Text>下一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_PREV">
+      <Text>前一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_NEXT">
+      <Text>下一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_PREV">
+      <Text>前一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_NEXT">
+      <Text>下一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_PREV">
+      <Text>前一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_PAGE_DISPLAY">
+      <Text>{1_Num}/{2_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_NEXT">
+      <Text>下一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_PREV">
+      <Text>前一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
+      <Text>顧問諮詢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_ACTIVATE_BUTTON">
+      <Text>尋找自然奇觀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
+      <Text>自然奇觀隱藏在世界的各個角落。發現它們可以讓您的文明更幸福。如果建立的城市鄰接自然奇觀，您可獲得大量獎勵。去探索世界、處處發掘吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
+      <Text>自然奇觀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
+      <Text>請不要再告訴我這個！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_ACTIVATE_BUTTON">
+      <Text>尋找可海運單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
+      <Text>您在研究上投注的心力將讓您未來所有軍事單位可進行「海運」強化，以移動跨越水域。要使用「海運」能力，可直接命令單位進入水域單元格。正在進行海運的單位沒有防禦能力，最好派軍艦進行護送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
+      <Text>海運單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
+      <Text>所有單位已接受指令，此回合已無需操作。請點擊「次回合」按鈕進入下一回合。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
+      <Text>點擊次回合</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
+      <Text>我們已有多處同樣的奢侈品資源得到了改良。在改良第一處奢侈品資源後，我們文明可獲得[ICON_HAPPINESS_1]幸福度；但其後同樣的奢侈品資源將不再繼續提供。我們可以將多餘的奢侈品與其他文明交換我們無法獲得的奢侈品（或其他資源）。與您的友邦交易多餘的奢侈品資源吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
+      <Text>交易奢侈品</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
+      <Text>尋找開拓者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
+      <Text>這是一個建立城市的好地方。食物和資源都相當充足。要建立城市，請在螢幕左方的單位操作面板中點擊開拓者的[COLOR_ADVISOR_HIGHLIGHT_TEXT]建立城市[/COLOR]按鈕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
+      <Text>建立一座城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+      <Text>尋找戰士</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
+      <Text>您可以考慮派遣您的戰士去[COLOR_ADVISOR_HIGHLIGHT_TEXT]探索新領土[/COLOR]。選擇單位之後，以滑鼠右鍵點擊單元格可以命令單位移至該處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
+      <Text>探索世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
+      <Text>尋找遺跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
+      <Text>遠古遺跡蘊藏著或許可以讓我們文明更加先進的秘密！[COLOR_ADVISOR_HIGHLIGHT_TEXT]派單位進入遠古遺跡[/COLOR]看看其中奧秘。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
+      <Text>遠古遺跡！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
+      <Text>做得好！我們沒受多少損傷，就把敵人擊潰了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
+      <Text>聰慧一擊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
+      <Text>這一步很聰明！這波攻擊會讓敵人受到重創，但自己的單位不會受到太多損傷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
+      <Text>聰慧一擊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_ACTIVATE_BUTTON">
+      <Text>尋找大將軍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
+      <Text>因為您在軍事上獲得的勝利，大將軍已經誕生！大將軍可以與軍事單位重疊，為周遭的單位提供強大加成！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
+      <Text>大將軍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
+      <Text>尋找偉人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
+      <Text>恭喜，您的文明誕生了一位偉人！這些光芒萬丈的個人可以為您達成下列任務：開啟一個黃金時代，建立獨特的改良設施，或是使用他們的獨特能力產生強大功效！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
+      <Text>偉人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
+      <Text>讓您的人民保持幸福，對提升文明的生產力至關重要。市民會產生[ICON_HAPPINESS_4]不滿度，而奢侈品資源與某些建築物則產生[ICON_HAPPINESS_1]幸福度以消除不滿。保持幸福的文明，則是一個健全的文明！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
+      <Text>幸福度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
+      <Text>尋找資源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
+      <Text>您的人民不再感到幸福了。[ICON_HAPPINESS_4]不滿度將使人口增長緩慢。如果您想時市民更幸福，請[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令您的工人在資源上建造改良設施[/COLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
+      <Text>您的人民不滿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
+      <Text>點選外交面板可瞭解更多我們與鄰邦間的關係。我們可在此得知所有與外交協定和條約相關的重要資訊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
+      <Text>外交面板</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_ACTIVATE_BUTTON">
+      <Text>尋找城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
+      <Text>如果您想與再次聯繫其他文明或城邦，可以直接點擊其城市名稱欄與其對話。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
+      <Text>與一個文明或城邦聯繫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_INFORMATION">
+      <Text>顧問資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+      <Text>尋找閒置單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_BODY">
+      <Text>您有一個單位好一陣子沒移動了。或許您應該派遣其去[COLOR_ADVISOR_HIGHLIGHT_TEXT]探索世界[/COLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_DISPLAY">
+      <Text>探索世界！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
+      <Text>尋找開拓者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
+      <Text>您需要建立一座城市，而且要快！盡快點擊開拓者的[COLOR_ADVISOR_HIGHLIGHT_TEXT]建立城市[/COLOR]按鈕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
+      <Text>建立一座城市！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
+      <Text>我們的領土缺少軍事單位的保護。在領土上部署多個的軍事單位，不但可擊退蠻族的襲擾，還能嚇阻其他企圖入侵我們的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
+      <Text>需要軍隊保衛！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
+      <Text>我們的國庫收入已增長，而且我們有錢可花。您可以用金錢購買單元格以擴張領土、造成城邦影響力、晉升單位或是收買其他文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
+      <Text>花一些金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
+      <Text>我們擁有太多軍事單位了，導致城市[ICON_PRODUCTION]生產力遲滯。[COLOR_ADVISOR_HIGHLIGHT_TEXT]停止生產新的軍事單位[/COLOR]，直到我們進行足夠基礎建設為止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
+      <Text>維護軍隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_CANCEL">
+      <Text>容我重新考慮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_CONFIRM">
+      <Text>我依舊想進攻</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_DONT_SHOW_ME_AGAIN">
+      <Text>謝謝您的訊息，但請不要再提醒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_TITLE">
+      <Text>戰鬥資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
+      <Text>尋找森林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
+      <Text>森林會拖慢單位的移動。進入森林單元格通常會消耗單位所有移動力。而且，森林還會遮蔽視野，讓單位無法看見森林後的狀況。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
+      <Text>移動：森林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
+      <Text>尋找丘陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
+      <Text>丘陵雖然會拖慢單位的移動，但其可提升單位的視野以穿越樹林及其他丘陵。進入丘陵單元格通常將消耗單位所有移動力。丘也會遮蔽視野，讓單位無法看見丘陵後的狀況。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
+      <Text>移動：丘陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
+      <Text>尋找叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
+      <Text>叢林會拖慢單位的移動。進入叢林單元格通常將消耗單位所有移動力。叢林會遮擋視野，讓單位無法看見叢林後的狀況。叢林通常十分炎熱且潮濕，不過這點在遊戲中不會造成影響。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
+      <Text>移動：叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
+      <Text>尋找濕地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
+      <Text>濕地會拖慢單位的移動。進入濕地單元格通常將消耗單位所有移動力。單位在濕地中很難進行防守，請務必小心！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
+      <Text>移動：濕地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
+      <Text>尋找山嶽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
+      <Text>地面單位只能繞行山嶽而無法穿越山嶽。山嶽在很遠便可看見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
+      <Text>移動：山嶽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
+      <Text>尋找河流</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
+      <Text>渡河會拖慢單位的移動。渡河通常將消耗單位所有移動力。渡河時單位無法很好作戰，因此請小心部署您的單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
+      <Text>移動：渡河</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
+      <Text>那是場徒勞無功的戰鬥。我們既沒有獲得任何利益，也沒能對敵人造成嚴重傷害。您需要派遣另一支單位以支援我們的軍隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
+      <Text>戰鬥平手</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
+      <Text>這次進攻對雙方來說損傷不相上下。如果附近還有其他單位，最好在敵軍出擊前，將其用於繼續進攻，讓敵軍疲於奔命！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
+      <Text>戰鬥平手</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_BODY">
+      <Text>單元格中一次只能容納一支軍事單位。在回合內，一支軍事單位可以穿越其他軍事單位，但在回合結束時不能停在任何已遭進駐之處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_DISPLAY">
+      <Text>每單元格一個單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_ACTIVATE_BUTTON">
+      <Text>尋找遠程單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
+      <Text>現在您擁有一支遠程單位。遠程單位可攻擊多個單元格外的敵人，但其在遭近戰攻擊時卻不堪一擊。將其部署在前線後方可保其安全，並發揮其最大作用。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
+      <Text>遠程單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_ACTIVATE_BUTTON">
+      <Text>尋找被佔領城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
+      <Text>近期佔領的這座城市並不樂意融入我們的文明，所以充斥著[ICON_HAPPINESS_4]不滿度。如果我們在這裡建造一座法院，市民們的[ICON_HAPPINESS_4]不滿度會有所改善。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
+      <Text>被佔領城市需要法院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_ACTIVATE_BUTTON">
+      <Text>尋找被佔領城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
+      <Text>近期佔領的這座城市[ICON_HAPPINESS_4]不滿度高漲。建造一座法院可以平息他們的不滿，不過我們缺乏所需的相關研究。研究數學才能建造法院，以使這些市民成為我們文明中的幸福成員。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
+      <Text>被佔領城市不滿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_BODY">
+      <Text>您可以用滑鼠右鍵引導您單位的移動。選擇了一支單位後，在單元格上點擊滑鼠右鍵，單位就會自動移到該處。如果按住滑鼠右鍵不放，便可看到該單位在此回合中所能移動的單元格。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_DISPLAY">
+      <Text>右鍵點擊移動</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
+      <Text>城市列表會列出您文明中所有的城市。這張列表可使您馬上瞭解您的文明現況；如果您要發動戰爭，也可輕鬆變更生產項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
+      <Text>城市列表</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_BODY">
+      <Text>廢話</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_DISPLAY">
+      <Text>城市視窗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
+      <Text>外交列表會列出您接觸的所有文明與城邦，及其積分。點擊項目便可與其進行聯繫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
+      <Text>外交列表</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
+      <Text>外交總覽是所有外交資訊的集散地。您可以看到各文明間的外交情況，查看現有貿易協議，以及能夠用來和其他文明進行交易的資源。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
+      <Text>外交總覽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
+      <Text>經濟總覽深入剖析您的所有城市。您也可以在這裡查閱您的[ICON_GOLD]金幣收入，並且考慮要將[ICON_GOLD]金幣花費在何處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
+      <Text>經濟總覽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_BODY">
+      <Text>透過外交貿易視窗，文明間可進行外交往來。各方可以建構自己的提案，然後與另一方進行交涉。一旦雙方達成協議，貿易視窗中的物品便會交換。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_DISPLAY">
+      <Text>外交貿易</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
+      <Text>軍事總覽深入剖析您文明中的所有單位，以及您單位耗費的補給與誕生大將軍的進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
+      <Text>軍事總覽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
+      <Text>在生產選擇框中，您可選擇城市要生產的單位、建築物或奇跡。城市一次只能進行一個生產項目。城市生產完成後您就會收到提示，這時城市就可以生產新項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
+      <Text>生產選擇框</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
+      <Text>在社會政策視窗中，您可選擇型塑您文明的社會政策。消耗您累積的[ICON_CULTURE]文化值來解鎖社會政策。部分分支在進入特定的科技時代前可能無法選擇。此外，還有部分分支無法同時啟用。（移動滑鼠至分支可瞭解其互斥分支。）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
+      <Text>社會政策</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
+      <Text>在科技選擇框中，您可選擇科技供您的帝國進行研究。完成之後您便會接獲提示以選擇其他科技開始進一步研究。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
+      <Text>科技選擇框</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_BODY">
+      <Text>科技樹顯示可研究科技的鳥瞰圖，以及這些科技間的關聯。關聯則可讓您瞭解解鎖新科技所需的前要科技。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_DISPLAY">
+      <Text>科技樹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_BODY">
+      <Text>單位列表顯示所有您可控制的單位。選擇這些單位便能鎖定其在地圖的位置並向其下達指令。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_DISPLAY">
+      <Text>單位列表</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
+      <Text>尋找開拓者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
+      <Text>使用開拓者可建立新城市。為了成長，城市附近需要許多優質的[ICON_FOOD]食物單元格，因此請務必在[ICON_FOOD]食物資源附近建立城市。[COLOR_ADVISOR_HIGHLIGHT_TEXT]將開拓者移至富饒之地並建立新城市。[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
+      <Text>在哪裡可以建造城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
+      <Text>尋找開拓者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
+      <Text>您的開拓者在邊界外孤立無援，可能會被俘擄。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令一支軍事單位護送您的開拓者[/COLOR]來防範蠻族或是想伺機入侵的敵方文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
+      <Text>保護您的開拓者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
+      <Text>尋找攻城單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
+      <Text>攻城單位的長處是可遠程擊潰敵方城市，但在遭受其他單位攻擊時卻無法防禦，因此請務必為其提供防禦幫助！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
+      <Text>攻城單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
+      <Text>我是您的科學顧問。在這一課裡我將指導您如何在地圖上移動您的單位。在此過程中您將會發現遠古遺跡、自然奇觀，甚至全新的大陸！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_DISPLAY">
+      <Text>移動與探索</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
+      <Text>我是您的經濟顧問。在這一課裡，我將指導您城市如何運作，如何新建城市，以及建立城市的理想地點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
+      <Text>生產開拓者並建立城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
+      <Text>我是您的經濟顧問。在這一課裡，我將指導您如何使用工人來強化城市。您可以命令工人建造商路來產出[ICON_GOLD]金幣，建造改良設施以協助城市成長、提高生產效能，並改良資源以使我們的人民更加幸福。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
+      <Text>利用工人來改良城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
+      <Text>我是您的軍事顧問，我的用處相信您已經猜到了。在這一課裡，我將指導您如何擊敗蠻族並摧毀其營地，以及如何征服敵對文明的城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
+      <Text>戰鬥與征服</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
+      <Text>我是您的外交顧問。在這一課裡，我將指導您與其他文明和城邦展開外交的基本概念。這是個複雜的課題，所以我們會先集中介紹兩個重要概念：發展對城邦的影響力，以及與鄰邦交易資源的方法。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
+      <Text>基礎外交</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_ACTIVATE_BUTTON">
+      <Text>地位城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
+      <Text>生產開拓者需要2點[ICON_CITIZEN]人口，所以為了加快您的進度，您的第一座城市可獲得額外的1點[ICON_CITIZEN]人口。但僅此一次，之後建立的城市一開始便只有1點[ICON_CITIZEN]人口。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
+      <Text>額外人口</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_ACTIVATE_BUTTON">
+      <Text>尋找受損單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
+      <Text>我們有支單位即將遭到殲滅。受損單位的戰鬥效能將大幅下降，而且很容易被敵人消滅，所以最好將其調往安全地點並命令該單位[COLOR_ADVISOR_HIGHLIGHT_TEXT]駐紮至回復[/COLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
+      <Text>治療您的單位！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
+      <Text>尋找可晉級單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
+      <Text>您可以花費[ICON_GOLD]金幣以晉級舊型單位，使其成為更強大的單位。要晉級單位，請將該單位移入您的領土，晉級單位按鈕隨後就會出現。[COLOR_ADVISOR_HIGHLIGHT_TEXT]點擊晉升按鈕[/COLOR]便可改良您的舊型單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
+      <Text>晉級單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
+      <Text>您人民的[ICON_HAPPINESS_4]不滿情緒高漲。我們的城市[ICON_PRODUCTION]生產力已急遽下降，並且單位將不再作戰。透過建造可提升幸福度的建築物、在資源上建造改良設施，或與其他領袖交易資源，便可以使人們更加幸福。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
+      <Text>您的人民十分生氣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
+      <Text>想要成為最偉大的文明並贏得遊戲有多種途徑。實際上，您可透過軍事、科技、外交與文化，這四種方法達成目標！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_DISPLAY">
+      <Text>如何獲得勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
+      <Text>尋找工作船</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
+      <Text>工作船能夠有助於您改良海上的魚群與鯨魚資源。在此類位置修建改良設施，將消耗工作船。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
+      <Text>工作船</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_ACTIVATE_BUTTON">
+      <Text>尋找工人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
+      <Text>現在我們有工人了，可以命令其建造改良設施以加速我們領土的產出。[COLOR_ADVISOR_HIGHLIGHT_TEXT]移動工人至高亮單元格並建造改良設施。[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
+      <Text>工人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
+      <Text>尋找工人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
+      <Text>我們有工人，但尚未改良任何單元格。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令您的工人建造改良設施[/COLOR]以使您城市周圍的單元格提供經濟加成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
+      <Text>工人需要工作</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_ACTIVATE_BUTTON">
+      <Text>尋找工人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
+      <Text>工人完全沒有防禦能力，所以將其移到國境之外時務必極度小心。目前我們只有一座城市，所以應該[COLOR_ADVISOR_HIGHLIGHT_TEXT]讓工人留在領土內[/COLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
+      <Text>保護工人的安全！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_BODY">
+      <Text>我想現在我們已經有了足夠的工人。或許您該在城市中做些其他建設了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_DISPLAY">
+      <Text>停止生產工人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
+      <Text>您城市周圍的土地還可擁有更高產出。[COLOR_ADVISOR_HIGHLIGHT_TEXT]生產工人[/COLOR]以改良您的領土。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
+      <Text>生產一個工人！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_ACTIVATE_BUTTON">
+      <Text>尋找單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
+      <Text>我們的單位正在敵人的控制區內。這表示您從敵方單位或城市鄰接的單元格移動到其鄰接的另一單元格時，您單位所有的移動力將在此回合內耗盡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
+      <Text>控制區</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
+      <Text>{1_CityName:textkey}已整裝待發並準備生產開拓者以擴展我們的帝國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_UNDER_THREAT">
+      <Text>請注意我們首都{1_CityName:textkey}的周圍。我們此處已發現了敵人的蹤跡，我們應該進行備戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
+      <Text>{1_CityName:textkey}已改良其所有海上資源。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_TILE_IMPROVERS">
+      <Text>我認為{1_CityName:textkey}現在不需要生產更多的工人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
+      <Text>{1_CityName:textkey}具有可強化我們部隊產量的建築物。我們應該在{1_CityName:textkey}為部隊生產新單位以提升效能。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
+      <Text>{1_CityName:textkey}為內陸城市，其沒有進入水域的通路。所以您應擔心是熊，而不是鯊魚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
+      <Text>{1_CityName:textkey}需要[ICON_FOOD]食物以便成為一座更大的城市。派遣您的工人在其周圍建造農場。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+      <Text>{1_CityName:textkey}需要[ICON_PRODUCTION]生產力以便加速生產建造。派遣您的工人在其周圍建造礦井。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
+      <Text>{1_CityName:textkey}附近有相當多的水域單元格。我們應專注於建造燈塔這類的建築物，以提高此類單元格的產量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
+      <Text>{1_CityName:textkey}在其水域中有未改良的資源，我們應派遣工作船前往改良！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_TILE_IMPROVERS">
+      <Text>{1_CityName:textkey}需要工人以改良其周圍單元格。我們應在{1_CityName:textkey}內生產工人，以改良周圍的單元格。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
+      <Text>您的城市{1_CityName:textkey}目前太小而無法建造如奇跡這類的大型建築。側重於發展{1_CityName:textkey}為大型城市後，便可進行大型計畫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_UNDER_BLOCKADE">
+      <Text>敵人一直試圖封鎖{1_CityName:textkey}！利用城市及附近船隻發動遠程攻擊，以擊退可能封鎖您的敵方艦艇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_WANT_TILE_IMPROVERS">
+      <Text>改良{1_CityName:textkey}周圍單元格將使其大量獲益。請考慮派遣一名工人以提供協助。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
+      <Text>很抱歉，目前我無法提供太多有用的建議。也許您應該建立更多城市？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_FOREIGN">
+      <Text>請稍微考慮一下我們的敵人可能進行的計畫，但別想太多。不然我就失業了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_MILITARY">
+      <Text>生產更多單位！但等等。目前我沒有太多的建議。等一下再來問我，也許那時我能想到些什麼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_SCIENCE">
+      <Text>我這口智慧之井現正乾涸著。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BEGIN_GAME_BUTTON">
+      <Text>開始您的旅程</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BEGIN_GAME_BUTTON_CONTINUE">
+      <Text>繼續您的旅程</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_ECONOMIC">
+      <Text>我們現在還沒有城市，所以我認為如果我們建立一座，將有助於我們的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_FOREIGN">
+      <Text>要想展開外交關係，我們可能需要建立一座城市。這樣，其他文明便可在想要與我們對話時找到我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_MILITARY">
+      <Text>建立一座城市，我們便可以開始生產更多軍事單位！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_SCIENCE">
+      <Text>我們可以建立一座城市讓我有地方放裝備嗎？我的手快酸死了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_ECONOMIC">
+      <Text>您的經濟顧問建議建造該項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_FOREIGN">
+      <Text>您的外交顧問建議建造該項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_MILITARY">
+      <Text>您的軍事顧問建議建造該項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_SCIENCE">
+      <Text>您的科技顧問建議建造該項目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_MORE">
+      <Text>在{2_CityName:textkey}附近有一處{1_ResourceName:textkey}。我們已經有這項資源，但我們可將多餘資源用作外交交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
+      <Text>我們沒有{1_ResourceName:textkey}了，但在{2_CityName:textkey}附近有一處這項資源。派遣工人前去改良，以便我們能夠獲取那項資源。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_BUILDING_LIST">
+      <Text>建築清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_IMPROVEMENT_LIST">
+      <Text>設施清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_MINOR_CIV_LIST">
+      <Text>城邦清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_PROMOTIONS_LIST">
+      <Text>強化清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_RESOURCES_LIST">
+      <Text>資源清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SOCIAL_POLICIES">
+      <Text>社會政策清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SPECIALISTS_AND_GREAT_PEOPLE">
+      <Text>專家與偉人清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TECHNOLOGY_LIST">
+      <Text>科技清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TERRAIN_LIST">
+      <Text>地形地貌清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_UNITS_LIST">
+      <Text>單位清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_WONDER_LIST">
+      <Text>奇觀清單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY">
+      <Text>再不想想辦法，我們將失去盟友{1_MinorCivName:textkey}。我們千辛萬苦才與其結盟，不能因一點疏忽就前功盡棄。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CLEAR_BARBARIANS">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。若要維持同盟，嘗試在其領土內或附近消滅蠻族。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們連結{2_ResourceName:textkey}；如果我們滿足要求，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們為其建造{@2_BldgName}；如果我們滿足要求，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_NATURAL_WONDER">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。我們可以透過發現自然奇觀獲得影響力以維持同盟，快去探索吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_PLAYER">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。若想維持同盟，我們可透過探索並試圖與{2_LongCivName:textkey}進行聯繫以獲得更多影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們得到一支{@2_UnitName}；如果我們滿足要求，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CAMP">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們摧毀附近的一個蠻族營地；如果我們滿足要求，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CITY_STATE">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們幫其打敗{2_MinorCivName:textkey}；如果我們滿足要求，會激怒其他勢力，但可維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_ROUTE">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。其想要我們建立一條連結其城市與我們首都的通路；如果我們滿足要求，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_WAR_WITH_MAJOR">
+      <Text>再不提高一些影響力，我們將失去盟友{1_MinorCivName:textkey}。他們現在需要我們協助其對抗{2_LongCivName:textkey};如果我們向此文明宣戰，便能維持同盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。如果您想繼續維持現在的關係，我們應該做些什麼以增加對其的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CLEAR_BARBARIANS">
+      <Text>再不提高一些影響力，我們將失去朋友{1_MinorCivName:textkey}。若要維持同盟，嘗試在其領土內或附近消滅蠻族。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONNECT_RESOURCE">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們連結{2_ResourceName:textkey}；如果我們滿足要求，便能維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONSTRUCT_WONDER">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們建造{@2_BldgName}；如果我們滿足要求，便能維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_NATURAL_WONDER">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。我們可透過發現自然奇觀獲得一些影響力以維持友誼，快去探索吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_PLAYER">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。若想維持友誼，我們可透過探索並與{2_LongCivName:textkey}進行聯繫以獲得更多影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們得到一支{@2_UnitName}；如果我們滿足要求，便能維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CAMP">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們摧毀附近的一個蠻族營地；如果我們滿足要求，便能維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CITY_STATE">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們打敗{2_MinorCivName:textkey}；如果我們滿足要求，會激怒其他勢力，但可維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_ROUTE">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們建立一條連結其城市與我們首都間的通路；如果我們滿足要求，便能維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_WAR_WITH_MAJOR">
+      <Text>再不想想辦法，我們將失去朋友{1_MinorCivName:textkey}。其想要我們協助其對抗{2_LongCivName:textkey}；如果我們向此文明宣戰，便可維持友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE">
+      <Text>贈送金幣與單位，便能獲得對{1_MinorCivName:textkey}的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CLEAR_BARBARIANS">
+      <Text>消滅{1_MinorCivName:textkey}境內或附近的蠻族，可獲得對其的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONNECT_RESOURCE">
+      <Text>連結{2_ResourceName:textkey}可以獲得對{1_MinorCivName:textkey}的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
+      <Text>建造{@2_BldgName}可以獲得對{1_MinorCivName:textkey}的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
+      <Text>找到自然奇觀可以獲得對{1_MinorCivName:textkey}的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
+      <Text>{1_MinorCivName:textkey}想要與{2_CivName:textkey}聯繫。如果我們能找到{2_CivName:textkey}，便可獲得一些影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_GREAT_PERSON">
+      <Text>如果我們能獲得一支{@2_UnitName}，{1_MinorCivName:textkey} 會對我們留下深刻印象。我們應馬上進行！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CAMP">
+      <Text>摧毀{1_MinorCivName:textkey}附近的一座蠻族營地，可獲得對其的影響力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CITY_STATE">
+      <Text>{1_MinorCivName:textkey}想要我們徹底消滅{2_MinorCivName:textkey}！為什麼他們要這樣做？聽起來很殘忍，但我相信他們有他們的理由。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_ROUTE">
+      <Text>派遣工人建立一條從我們首都前往{1_MinorCivName:textkey}的通路，可增進我們之間的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_WAR_WITH_MAJOR">
+      <Text>協助其{1_MinorCivName:textkey}對抗{2_LongCivName:textkey}，可增進我們之間的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_HIGH">
+      <Text>{1_LongCivName:textkey}似乎佔據了我們城市附近許多土地。我們得和他們談談。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_INCREDIBLE">
+      <Text>瘋狂擴張中的{1_CivName:textkey}似乎試圖以擴大邊界的手段來打壓我們的城市！我們必須有所行動了，否則最後只有選擇開戰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_MEDIUM">
+      <Text>{1_LongCivName:textkey}擴張得離我們更近了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
+      <Text>{1_MinorCivName:textkey}已被{2_LongCivName:textkey}佔領了。若我們佔領並解放該城市，我們便可復興{3_MinorCivName:textkey}城邦，同時可獲得大量對{3_MinorCivName:textkey}的影響力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_HIGH">
+      <Text>在我們邊界發現許多{1_LongCivName:textkey}的單位，這可能是攻擊的前奏。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_INCREDIBLE">
+      <Text>不好了，{1_LongCivName:textkey}在我們邊界集結了大軍！我們必須為偷襲做好準備。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_MEDIUM">
+      <Text>嗯…真是有趣。我們發現{1_LongCivName:textkey}的單位正向我們的邊界靠近。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
+      <Text>{1_LongCivName:textkey}的軍力和我們不相上下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_IMMENSE">
+      <Text>{1_LongCivName:textkey}的軍隊足以將我們從地圖上徹底抹去。我們必須想盡一切辦法與其維持和平，同時以最快的速度組建軍隊，以降低我們所面臨危險。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_PATHETIC">
+      <Text>我覺得{1_LongCivName:textkey}可能一支軍隊都沒有。我們的彈指一碰都可使其灰飛煙滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POOR">
+      <Text>{1_LongCivName:textkey}軍力不如我們，但我們最好不要在外交會議上取笑他們；他們可能會為此感到不安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POWERFUL">
+      <Text>不可小看{1_LongCivName:textkey}。其軍力强於我們，不到最後關頭我們不可攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
+      <Text>{1_LongCivName:textkey}的軍力强於我們。我們不可輕易與其交戰，我們應該先擴充我們的軍力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_WEAK">
+      <Text>我發現{1_LongCivName:textkey}只有一支單位，看起來相當淒涼。若其與我方勢力交戰，下場會很慘。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_FIERCE">
+      <Text>{1_LongCivName:textkey}正在急於破壞我們同{2_MinorCivName:textkey}的關係！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_STRONG">
+      <Text> {1_LongCivName:textkey}正與我們爭奪同{2_MinorCivName:textkey}結盟的機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_WEAK">
+      <Text>{1_LongCivName:textkey}已經開始與我們爭奪同{2_MinorCivName:textkey}結盟的機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_CRITICAL">
+      <Text>{1_LongCivName:textkey}真是個嗜血狂魔！依其對鄰邦的斑斑劣跡，其遲早攻擊我們！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MAJOR">
+      <Text>我覺得{1_LongCivName:textkey}就是一個以大欺小的小流氓。我母親告訴我最好的辦法就是以暴制暴！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MINOR">
+      <Text>{1_LongCivName:textkey}對其他文明的侵略性太強。我們應多其多留神。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_NONE">
+      <Text>看起來{1_LongCivName:textkey}對其他文明相當友善。我猜想其一定有什麼目的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_SEVERE">
+      <Text>{1_LongCivName:textkey}正在攻擊每一個人！把老弱婦孺藏起來，戍衛首都，以使其無法獲得壓倒性勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_PEACE">
+      <Text>{1_LongCivName:textkey}的軍力强於我們。這時與其宣戰是十分不明智的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_WAR">
+      <Text>我們同{1_LongCivName:textkey}的戰事進行的並不順利。我們應概率提出進行和談以結束戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_PEACE">
+      <Text>我們最好聰明點，不要招惹{1_LongCivName:textkey}。他們的戰鬥力對我們來說是摧毀性的，所以放輕腳步悄悄離開。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_WAR">
+      <Text>我強烈建議您與{1_LongCivName:textkey}議和；其對我們的生存造成嚴重威脅！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_PEACE">
+      <Text>{1_LongCivName:textkey}的軍力對我們來說簡直是小兒科。我們現在想要什麼東西，直接就去要吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
+      <Text>同{1_LongCivName:textkey}的戰事進行地十分順利。我們的軍力强於他們，繼續施壓，我們便可獲得勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
+      <Text>我們同{1_LongCivName:textkey}的軍力部分上下；這場戰役將考驗我們的氣魄。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_PEACE">
+      <Text>我們的軍力對{1_LongCivName:textkey}來說可謂強大。但我不建議欺凌他們，我們應該有目的地發揮實力以維持我們的榮耀國度！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_WAR">
+      <Text>我們的軍力可輕易摧毀{1_LongCivName:textkey}！在他們用淺薄的外交手段逃脫前，快點行動吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH">
+      <Text>我們有許多沿海城市，所以我們應致力於那些可改良沿海單元格產出的建築物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
+      <Text>我們有還未利用的水域資源。生產工作船並派遣其以協助我們的文明！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
+      <Text>我們還有擴張的空間，生產開拓者去建立新城市吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_EXPANSION">
+      <Text>比起新建城市，我們現在應該致力於發展並改良我們現有的城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON">
+      <Text>我們已經有足夠的探險者去探索這個世界。我們不必再生產新的地面探索單位了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON_SEA">
+      <Text>我們已經探索足夠的沿岸水域。我們不必再派遣更多單位去探索海洋了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
+      <Text>我們有一支開拓者了，現在找個好地方建造城市吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
+      <Text>我們正在建造大金字塔，所以我們不必在其他城市建造穀倉了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ISLAND_START">
+      <Text>我們的國土太小，已沒有太多擴展空間了。我們應致力於發展海上科技，以使我們能船運單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
+      <Text>我們必須增加我們的[ICON_GOLD]金幣收入以維持競爭力。解散舊型單位來可降低單位維護成本，派遣工人在單元格上建造改良設施以提高[ICON_GOLD]金幣產出，同時建造可以提高[ICON_GOLD]金幣收入的建築物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS">
+      <Text>我們人民的[ICON_HAPPINESS_1]幸福度值得關注。我們需要連結奢侈品資源、建造[ICON_HAPPINESS_1]幸福型建築物與奇跡，並採用有助於我們文明幸福的政策！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL">
+      <Text>我們的人民十分不滿！我們需要連結奢侈品資源、建造[ICON_HAPPINESS_1]幸福型建築物與奇跡，並採用有助於我們文明幸福的政策！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
+      <Text>我們發生了[ICON_FOOD]食物危機！派遣工人建造改良設施以提高單元格[ICON_FOOD]食物產量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+      <Text>我們發生了[ICON_PRODUCTION]生產力危機！派遣工人建造改良設施以提高單元格[ICON_PRODUCTION]生產力產量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON">
+      <Text>我們應該繼續探索世界以發現遠古遺跡、自然奇觀及其他文明！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON_SEA">
+      <Text>我們需要繼續探索海洋以發現可以開拓的新大陸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
+      <Text>現在不要建造港口，因為我們需要兩個沿海城市才能使用港口。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
+      <Text>我們現在已有可用港口連結的沿海城市了。在那些城市建造港口以形成商路，以獲得更多[ICON_GOLD]金幣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
+      <Text>我們的[ICON_PRODUCTION]生產力因為我們擁有的單位數量而逐漸減少。我們應該解散任何不需要的單位，這樣我們的文明能在全力生產下運作。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。以外交手段能獲得的金幣必定可在短期內提供幫助。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_BUILDING_MAINTENANCE">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為建築物維護費。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_DIPLOMACY">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為外交貿易。我們應在有機會的時候不再延續那些消耗金幣的貿易，而應進行新貿易以獲得[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_IMPROVEMENT_MAINTENANCE">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為改良設施維護費。我們不應建造更多的不需要的改良設施，並將那些無用的改良設施銷毀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_MAINTENANCE">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位維護費。刪除任何不絕對必要的單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_SUPPLY">
+      <Text>我們已經破產，沒有任何收入了！我們需要盡一切可能創造收入，終止負債。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位供給或支援境外單位。選擇將此類單位撤回境內或刪除，解決財務問題是急迫的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP">
+      <Text>我們快破產了，但還有些收入。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_BUILDING_MAINTENANCE">
+      <Text>我們快破產了，但還有些收入。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為建築物維護費。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_DIPLOMACY">
+      <Text>我們快破產了，但還有些收入。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為外交貿易。我們應在有機會的時候不再延續那些消耗金幣的貿易，而應進行新貿易以獲得[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_IMPROVEMENT_MAINTENANCE">
+      <Text>我們快破產了，但還有些收入。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為改良設施維護費。我們不應建造更多的不需要的改良設施，並將那些無用的改良設施銷毀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_MAINTENANCE">
+      <Text>我們快破產了，但還有些收入。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位維護費。刪除任何不絕對必要的單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_SUPPLY">
+      <Text>我們快破產了，但還有些收入。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位供給或支援境外單位。選擇將此類單位撤回境內或刪除，解決財務問題是急迫的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。我們需致力於扭轉經濟，以避免破產的恥辱！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_BUILDING_MAINTENANCE">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為建築物維護費。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_DIPLOMACY">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為外交協定。我們應在有機會的時候不再延續那些消耗金幣的協定，而應簽訂新協定以獲得[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_IMPROVEMENT_MAINTENANCE">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為改良設施維護費。應考慮建造少一點或移除那些不是很有用的改良設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_MAINTENANCE">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位維護費。考慮刪除任何舊型或不必要的單位以避免破產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_SUPPLY">
+      <Text>以我們消耗[ICON_GOLD]金幣的速度，我們將在幾回合後破產。當前我們最大的支出（每回合消耗{1_Num}[ICON_GOLD]金幣）為單位供給或支援境外單位。考慮將單位撤回境內或刪除不必要的單位以避免破產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY">
+      <Text>我們有錢，但是入不敷出。我們需致力於扭轉經濟，以避免破產的恥辱！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_BUILDING_MAINTENANCE">
+      <Text>我們有錢，但是入不敷出。當前我們最大的支出為建築維護費，每回合花費{1_Num}[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_DIPLOMACY">
+      <Text>我們有錢，但是入不敷出。當前我們最大的支出為外交貿易，每回合花費{1_Num}[ICON_GOLD]金幣。考慮在將來拒絕或進行其他外交貿易以獲得[ICON_GOLD]金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_IMPROVEMENT_MAINTENANCE">
+      <Text>我們有錢，但是入不敷出。當前我們最大的支出為改良設施維護費，每回合花費{1_Num}[ICON_GOLD]金幣。考慮建造少一些或移除那些不很有用的改良設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_MAINTENANCE">
+      <Text>我們有錢，但是入不敷出。當前我們最大的支出為單位維護費，每回合花費{1_Num}[ICON_GOLD]金幣。考慮刪除任何舊型或不必要的單位以使我們賺錢而不賠錢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_SUPPLY">
+      <Text>我們有錢，但是入不敷出。當前我們最大的支出為單位補給，每回合花費{1_Num}[ICON_GOLD]金幣。考慮將單位撤回境內</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY">
+      <Text>我們正創造收入！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
+      <Text>我們正創造收入！當前我們最大的支出為建築維護費，每回合花費{1_Num}[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_DIPLOMACY">
+      <Text>我們正創造收入！當前我們最大的支出為外交貿易，每回合花費{1_Num}[ICON_GOLD]金幣。考慮拒絕此類貿易或進行另一些可增加[ICON_GOLD]金幣的貿易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
+      <Text>我們正創造收入！當前我們最大的支出為改良設施維護費，每回合花費{1_Num}[ICON_GOLD]金幣。僅改良那些我們一應繼續改良的單元格，否則將支出無法控制。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_MAINTENANCE">
+      <Text>我們正創造收入！當前我們最大的支出為改良設施維護費，每回合花費{1_Num}[ICON_GOLD]金幣。考慮刪除任何舊型或不必要的單位，您才可收穫更大利益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_SUPPLY">
+      <Text>我們正創造收入！當前我們最大的支出為改良設施維護費，每回合花費{1_Num}[ICON_GOLD]金幣。考慮將單位撤回境內以減少支出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS">
+      <Text>尋找所有的{1_Num}座古遠古遺跡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS">
+      <Text>探索所有的{1_Num}座遠古遺跡。（已探索{2_Num}；尚餘{3_Num}座）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS">
+      <Text>發現{1_Num}個自然奇觀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_COMPLETE">
+      <Text>已完成：找到{1_Num}個自然奇觀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_PROGRESS">
+      <Text>發現{1_Num}個自然奇觀。（{2_Num}個已發現；尚餘{3_Num}個）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES">
+      <Text>建立{1_Num}座城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_COMPLETE">
+      <Text>已完成：找到{1_Num}座城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_PROGRESS">
+      <Text>建立{1_Num}座城市。（已建立{2_Num}座；尚餘{3_Num}座）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
+      <Text>建立{1_Num}塊農場並至少生產{2_Num}[ICON_FOOD]單位食物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
+      <Text>已完成：建立{1_Num}塊農場並至少生產{2_Num}[ICON_FOOD]單位食物！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
+      <Text>已完成：建立{1_Num}塊可至少生產{2_Num}[ICON_FOOD]單位食物的農場！（已建立{3_Num}塊生產{2_Num}[ICON_FOOD]單位食物的農場，尚餘{4_Num}塊農場未建立）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
+      <Text>建立{1_Num}個可至少生產{2_Num}[ICON_PRODUCTION]生產力的礦場。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
+      <Text>已完成：建立{1_Num}個可至少生產{2_Num}[ICON_PRODUCTION]生產力的礦場！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
+      <Text>建立{1_Num}個可至少生產{2_Num}[ICON_PRODUCTION]生產力的礦場。（已建立{3_Num}個生產{2_Num}[ICON_PRODUCTION]生產力的礦場，尚餘{4_Num}個礦場未建立）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS">
+      <Text>透過道路連接{1_Num}座城市到您的首都。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_COMPLETE">
+      <Text>已完成：透過道路連接{1_Num}座城市到您的首都！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_PROGRESS">
+      <Text>透過道路連接{1_Num}座城市到您的首都。（{2_Num}座已連接，尚餘{3_Num}座未連接）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES">
+      <Text>在{1_Num}座資源上建立改良設施。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_COMPLETE">
+      <Text>已完成：在{1_Num}座資源上建立改良設施！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_PROGRESS">
+      <Text>在{1_Num}座資源上建立改良設施。（{2_Num}座資源已改良，尚餘{3_Num}座資源未改良）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY">
+      <Text>征服敵方城市。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY_COMPLETE">
+      <Text>已完成：征服敵方城市！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS">
+      <Text>摧毀{1_Num}座蠻族營地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_COMPLETE">
+      <Text>已完成：摧毀{1_Num}座蠻族營地！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_PROGRESS">
+      <Text>摧毀{1_Num}座蠻族營地。（{2_Num}座已被摧毀，尚餘{3_Num}座）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV">
+      <Text>透過贈送城邦[ICON_GOLD]金幤以與其結盟並完成其委託。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV_COMPLETE">
+      <Text>已完成：透過贈送城邦[ICON_GOLD]金幤以與其結盟並完成其委託！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR">
+      <Text>與一個主要文明進行交易以獲得大理石。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR_COMPLETE">
+      <Text>已完成：與一個主要文明進行交易以獲得大理石！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ALONE">
+      <Text>我們並未發現在附近任何對手，所以我們應該持續探索並尋找其他的文明與城邦。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_AT_WAR">
+      <Text>我們正在交戰！生產建造更多單位與建築物以獲得勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE">
+      <Text>我們需要更多軍事單位來保衛我們的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL">
+      <Text>我們幾乎毫無防備！我們需要生產更多單位！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS">
+      <Text>我們的軍隊維護費很高。我們應停止生產更多軍事單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ERADICATE_BARBARIANS">
+      <Text>是時候清理下周圍的蠻族了。生產軍事單位並派遣其摧毀蠻族營地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_LOSING_WARS">
+      <Text>我們正節節敗退！我們應該考慮協商一份和平協定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_WINNING_WARS">
+      <Text>我們勝券在握！繼續進逼，爭取勝利！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_LUXURIES">
+      <Text>我們有多餘的而{2_LongCivName:textkey}沒有的{1_ResourceName:textkey}可用來交易。我們應設法與其達成交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
+      <Text>我們有多餘的而{1_ResourceName:textkey}沒有的{2_LongCivName:textkey}可用來交易。進行交易時需三思，因為其可能將此資源用於生產單位進而用於對付我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
+      <Text>因缺少[ICON_GOLD]金幣，研究無法繼續進行。缺少研究資金，我們將無助地出現倒退而成為歷史中一行註腳。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
+      <Text>我們文明的{2_Num}[ICON_CITIZEN]人口正產出{1_Num}[ICON_RESEARCH]科技值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
+      <Text>我們文明的{2_Num}[ICON_CITIZEN]人口正產出{1_Num}[ICON_RESEARCH]科技值。我們應該建造像是圖書館和大學等研究類建築物，來增進研究力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
+      <Text>我們文明的{2_Num}[ICON_CITIZEN]人口正產出{1_Num}[ICON_RESEARCH]科技值。現在效率十足！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
+      <Text>{1_CityName:textkey}的人口已大幅增加，但缺少一座{@2_BldgName}。如果我們建造一座{@3_BldgName}，就能大幅提高[ICON_RESEARCH]科技值產出進而獲得重大突破。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
+      <Text>如果我們研究{1_TechName:textkey}，便可獲得{@2_BldgName}；其將在建立完成後，可提供在城內生產的單位強化。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
+      <Text>如果我們研究{1_TechName:textkey}，便可獲得{@2_UnitName}。擁有現代軍隊是安全與有效攻擊的關鍵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_1">
+      <Text>如果我們研究{1_TechName:textkey}，便可在城內建造{@2_BldgName}。我們的研究就能攀上新巔峰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_2">
+      <Text>如果我們研究{1_TechName:textkey}，便可在城內建造{@2_BldgName}與{@3_BldgName}。我們的研究就能攀上新巔峰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_3">
+      <Text>如果我們研究{1_TechName:textkey}，便可在城內建造{@2_BldgName}、{@3_BldgName}與{@4_BldgName}。那都是研究類建築物！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TASK_LIST">
+      <Text>*目標*</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_ECONOMIC">
+      <Text>您的「經濟顧問」建議研究這項技術。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_FOREIGN">
+      <Text>您的「外交顧問」建議研究這項技術。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_MILITARY">
+      <Text>您的「軍事顧問」建議研究這項技術。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_SCIENCE">
+      <Text>您的「科學顧問」建議研究這項科技。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS">
+      <Text>我們應該研究{1_TechName:textkey}以解鎖獨特的{2_Adjective:textkey}文明加成！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_BUILDING">
+      <Text>我們應該研究{1_TechName:textkey}以建造{@2_BldgName}，其對我們{3_Adjective:textkey}文明來說可是獨特的建築物！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_IMPROVEMENT">
+      <Text>我們應該研究{1_TechName:textkey}以建造{@2_BldgName}，其對我們{3_Adjective:textkey}文明來說可是獨特的改良設施！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_UNIT">
+      <Text>我們應該研究{1_TechName:textkey}以生產{@2_UnitName}，其對我們{3_Adjective:textkey}文明來說可是獨特的單位！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_RESOURCE">
+      <Text>我們應該研究{1_TechName:textkey}以改良在我們境內的{2_ResourceName:textkey}。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_1_COMPLETE">
+      <Text>您已完成移動與探索的教學模式！幹得好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_2_COMPLETE">
+      <Text>您已完成建造城市的教學模式！幹得好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
+      <Text>您已完成改良城市的教學模式！幹得好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_4_COMPLETE">
+      <Text>您已完成戰鬥與征服的教學模式！幹得好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_5_COMPLETE">
+      <Text>您已完成基礎外交的教學模式！幹得好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0">
+      <Text>教學模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0_DESC">
+      <Text>第一次接觸文明帝國嗎？不知道從何開始？害怕凶殘的蠻族會在您初試身手前就蹂躪您剛剛起步的文明？讓您在遊戲中的顧問為您指導以瞭解遊戲的基本概念與各個階段！該全面性教學模式涵蓋了遊戲中所有重要的基本概念，包括下文列出的所有主題內容概要。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0_TITLE_ONLY">
+      <Text>邊玩邊學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1">
+      <Text>教學模式 1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_DESC">
+      <Text>探索就是搜尋或行經某地區（包括外太空），以發現資源或獲取資訊。在歷史長河中，人類對物質世界的探索在「大航海時代」達到顛峰，當時歐洲人致力於探索並接觸世界其他地區。在現代，對高科技概念和資訊的追求持續驅動人類探索的腳步前進地更遠。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_TITLE">
+      <Text>移動與探索</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_TITLE_ONLY">
+      <Text>移動與探索</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2">
+      <Text>教學模式 2</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_DESC">
+      <Text>城市和居住在其中的人們就是文明的核心。建立新的城市以增強帝國的影響力、財富和力量是玩家必需掌握的中心概念。並非所有的地點都適合建立新城市，一個位置不佳的城市將會擴展得極度緩慢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_TITLE">
+      <Text>建立城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_TITLE_ONLY">
+      <Text>建立城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3">
+      <Text>教學模式 3</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_DESC">
+      <Text>城市必須擴張並成長才可成為文明生產力的一員，利用工人改良也可增強其影響力。改良城市不僅可跟上世界的步伐，也可增加 其投入勞力工作的土地資源產量。縱觀歷史，一座城市若未能與鄰近國家同步成長和發展，將會迅速落後並淪落為被其他國家征服的目標。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_TITLE">
+      <Text>改良城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_TITLE_ONLY">
+      <Text>改良城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4">
+      <Text>教學模式 4</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_DESC">
+      <Text>有時候，某些人會覬覦您的東西卻又不開口要。人類歷史中充斥著戰爭和征服；無法抵禦外敵的文明連活著講述自身故事的資格都會失去。即使您不打算侵略他人，但瞭解戰鬥以及如何發動有效的戰爭也能保護您的文明免於危難。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_TITLE">
+      <Text>戰鬥與征服</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_TITLE_ONLY">
+      <Text>戰鬥與征服</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5">
+      <Text>教學模式 5</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_DESC">
+      <Text>透過外交、貿易、結盟以及協定是與鄰國相處的好辦法，而且有效的外交技巧通常可以把您從膠著而代價高昂的戰爭中解救出來。歷史上某些最有力的領袖都是外交藝術的大師；優秀的外交辭令往往比任何武器更有力，且更致命。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_TITLE">
+      <Text>基礎外交</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_TITLE_ONLY">
+      <Text>基礎外交</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

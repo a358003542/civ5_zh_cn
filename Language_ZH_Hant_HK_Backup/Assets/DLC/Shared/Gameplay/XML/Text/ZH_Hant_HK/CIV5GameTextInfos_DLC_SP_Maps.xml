@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_DESC">
+      <Text>探險家地圖包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_TITLE">
+      <Text>探險家</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

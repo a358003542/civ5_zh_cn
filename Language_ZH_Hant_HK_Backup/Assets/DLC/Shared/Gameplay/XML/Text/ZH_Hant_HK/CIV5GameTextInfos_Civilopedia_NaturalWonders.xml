@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_FEATURES_EL_DORADO_HELP">
+      <Text>第一位發現者可獲得500[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FEATURES_EL_DORADO_TEXT">
+      <Text>傳說中「失落的黃金國」吸引著無數夢想發現巨大財富的西班牙征服者前往新大陸。在將近三個世紀的時間裡，這個神秘的寶藏吸引了探險者前往南美洲沿岸，順便劫掠途中遇到的許多城市。對於黃金國的狂熱持續了數個世紀，直到1804年，還有探險隊在追尋先驅者的足跡，試圖確定黃金國的所在。然而，現在人們相信有關這個神秘城市的傳說跟穆伊斯卡族酋長有關，記載中在這個儀式裡酋長要在自己身上塗抹金粉，然後潛入瓜塔維塔湖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_HELP">
+      <Text>與其鄰接的所有單位在接下來的遊戲中可獲得雙倍回復速度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT">
+      <Text>有關這座傳說泉水的最早記載來自古希臘的希羅多德，據說喝了這種「生命之水」就能使人長生不老。類似的故事也在加勒比海和南美地區流傳，探索「不老泉」在西班牙殖民時代盛行一時。根據廣泛流傳的說法，西班牙征服者胡安·龐塞·德萊昂1513年時在波多黎各聽到了不老泉的傳說，隨即為了永恆的生命，開始四處找尋這座泉水。他搜尋不老泉毫無結果，卻在中途發現了佛羅里達成為最早踏足北美的歐洲人。青春之泉的傳說至今廣為傳頌，許多電影、書籍、漫畫和遊戲都在講述人們如何尋找不老泉，追求永恆的生命。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FEATURES_POTOSI_TEXT">
+      <Text>位於玻利維亞南部的富饒山，殖民時代時西班牙所有的白銀都產自該地。人們利用駱馬和騾子將開採出來的白銀運到海濱，然後用大帆船運往歐洲。200年間的白銀開採總量高達4·1萬噸，其中8200噸成為西班牙王室的財產。1800年後，富饒山銀礦的主礦接近枯竭，但直到今天當地的礦井還在繼續開採，部分是白銀，但大部分則是錫。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

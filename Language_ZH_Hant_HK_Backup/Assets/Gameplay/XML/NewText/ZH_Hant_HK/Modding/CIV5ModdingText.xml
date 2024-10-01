@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_INVALID_MAP_DESC">
+      <Text>無效地圖檔案。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INVALID_MAP_TITLE">
+      <Text>[COLOR_RED]{1_MapName}[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ADD_COMMENT">
+      <Text>補充註解：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ALREADY_INSTALLED">
+      <Text>已安裝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_AUTOUPDATEMODS">
+      <Text>自動更新模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BACK">
+      <Text>返回</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BLOCKS">
+      <Text>禁用{1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BLOCKS_ALL_OTHER_DLC">
+      <Text>所有其他擴充包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BROWSER">
+      <Text>瀏覽模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BROWSER_TITLE">
+      <Text>模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BROWSER_TT">
+      <Text>瀏覽已安裝/線上模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CANCELDOWNLOAD">
+      <Text>取消</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORIES_ALL">
+      <Text>所有</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORIES_HEADER">
+      <Text>目錄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_1">
+      <Text>全部轉變</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_10">
+      <Text>其他</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_11">
+      <Text>文明帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_12">
+      <Text>圖案</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_13">
+      <Text>地形</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_14">
+      <Text>單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_15">
+      <Text>城市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_16">
+      <Text>資源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_17">
+      <Text>改良設施</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_18">
+      <Text>領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_2">
+      <Text>史實</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_20">
+      <Text>地形</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_21">
+      <Text>改良設施</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_22">
+      <Text>資源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_23">
+      <Text>單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_24">
+      <Text>遠古單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_25">
+      <Text>中古單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_26">
+      <Text>文藝復興單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_27">
+      <Text>工業時代單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_28">
+      <Text>現代單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_29">
+      <Text>科幻單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_3">
+      <Text>科幻</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_30">
+      <Text>幻想單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_31">
+      <Text>其他單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_32">
+      <Text>劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_33">
+      <Text>遠古劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_34">
+      <Text>中古劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_35">
+      <Text>文藝復興劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_36">
+      <Text>工業革命劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_37">
+      <Text>現代劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_38">
+      <Text>科幻劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_39">
+      <Text>幻想場景</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_4">
+      <Text>幻想</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_40">
+      <Text>其他劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_41">
+      <Text>地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_42">
+      <Text>史實地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_43">
+      <Text>虛構地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_44">
+      <Text>多人玩家地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_45">
+      <Text>地圖描述</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_46">
+      <Text>史實地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_47">
+      <Text>虛構地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_48">
+      <Text>多人玩家地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_49">
+      <Text>史實</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_5">
+      <Text>遊戲規則</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_50">
+      <Text>創造的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_51">
+      <Text>史實</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_52">
+      <Text>創造的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_53">
+      <Text>城市建築</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_54">
+      <Text>建築物</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_55">
+      <Text>奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_56">
+      <Text>方案</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_57">
+      <Text>其他</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_6">
+      <Text>領導人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_7">
+      <Text>使用者介面</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_8">
+      <Text>外觀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CATEGORY_9">
+      <Text>小程式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CLOSEDOWNLOAD">
+      <Text>關閉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_COPYRIGHT">
+      <Text>版權 (c) 2010</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CUSTOMGAME">
+      <Text>自訂遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_CUSTOMGAME_TT">
+      <Text>建立模組自訂遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DATABASE_UNAVAILABLE">
+      <Text>模組資料庫暫不可用。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DELETEMOD">
+      <Text>刪除</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DEPENDENCIES_HEADER">
+      <Text>前提/參考資料/禁用</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DEPENDSON">
+      <Text>前提需求為{1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DESCRIPTION">
+      <Text>描述</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DETAILS_NOTHINGSELECTED">
+      <Text>沒有任何選項</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DISABLEMOD">
+      <Text>關閉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOAD_AGREEMENT">
+      <Text>即將下載模組或用戶自製軟體包，使用模組的風險自負。[NEWLINE][NEWLINE]2K與Firaxis遊戲公司非此模組的製作者，該模組可能含有病毒、蠕蟲、特洛伊木馬、竊錄或其他有害程式碼。[NEWLINE][NEWLINE]在下載此文件的同時即默認您已認知並承擔所有相關的風險；同時免除2K與Firaxis遊戲公司及其分支機構、其代理商因您使用該文件所導致的一切責任。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADER_NOTINITIALIZED">
+      <Text>因微軟編碼未啟動所以無法下載。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADING">
+      <Text>下載中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADMOD">
+      <Text>下載</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADS">
+      <Text>下載</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_0">
+      <Text>排隊中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_1">
+      <Text>連結中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_2">
+      <Text>傳送中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_3">
+      <Text>暫停</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_4">
+      <Text>錯誤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_5">
+      <Text>警告</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_6">
+      <Text>傳送</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_7">
+      <Text>完成</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_8">
+      <Text>取消</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ENABLEINSTRUCTIONS">
+      <Text>點擊右方欄目內的檢查框圖示，可開啟模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ENABLEMOD">
+      <Text>啟用</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_ALREADY_RATED">
+      <Text>您已評價過這個模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION">
+      <Text>發生連線錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION_TIMEOUT">
+      <Text>連線逾時。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_GENERIC">
+      <Text>發生一項錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FILE_NOT_FOUND">
+      <Text>HTTP 404 錯誤 – 檔案未找到。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FORBIDDEN">
+      <Text>HTTP 403 錯誤 – 禁止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_HTTP_REQUEST_REJECTED">
+      <Text>HTTP 4XX 錯誤 – 請求駁回。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_HTTP_SERVER_ERROR">
+      <Text>HTTP 5xx 錯誤 – 伺服器錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_HTTP_UNAUTHORIZED">
+      <Text>HTTP 401 錯誤 –未授權。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_INVALIDURL">
+      <Text>無效URL</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_REQUEST_CANCELLED">
+      <Text>請求被取消。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_SAVE_DLC_NOT_PURCHASED">
+      <Text>[COLOR_RED]未購買所需擴充包。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_SAVE_INCOMPATIBLE_MODS">
+      <Text>[COLOR_RED]目前啟動的模組與儲存的遊戲不相容。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_DLC">
+      <Text>[COLOR_RED]所需擴充包不可用。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_MODS">
+      <Text>[COLOR_RED]並非所有需要的模組都已安裝。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ERROR_SERVICE_DISABLED">
+      <Text>服務已被關閉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_EULA_ACCEPT">
+      <Text>接受</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_EULA_BODY">
+      <Text>您即將進入文明帝國5的模組資料庫（Mod Database）。模組（Mod）是玩家創作的軟體套件，可以「改變」您的遊戲體驗。[COLOR_WARNING_TEXT]您必須自行承擔使用模組的風險[ENDCOLOR]。我們不會檢查、監控、支援或保證這種由使用者創作的內容。使用模組前，應採取所有平常使用的預防措施，瞭解從網際網路下載檔案的安全性。使用前，亦請先詳閱您的遊戲手冊或參閱www.take2games.com/EULA的文件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_EULA_DECLINE">
+      <Text>拒絕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_EULA_TITLE">
+      <Text>EULA</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FILESIZE_B">
+      <Text>b</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FILESIZE_GB">
+      <Text>gb</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FILESIZE_KB">
+      <Text>kb</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FILESIZE_MB">
+      <Text>mb</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FILTER_LATEST_VERSION">
+      <Text>只顯示最新版本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FIRSTPAGE">
+      <Text>第一頁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_DESCRIPTION">
+      <Text>使用該項目來報告違反服務條款的模組。請閱讀說明以判斷檢舉對象，在下拉選單中選擇一個最接近或最適當的理由。欲深入暸解合規和違規的判定方法，請參閱我們的服務條款。違反服務條款的模組將被移除。該項目提交涵蓋於2K遊戲公司服務條款中。濫用此項目（如傳送垃圾訊息、誤報、騷擾）將導致您的帳號被永久封閉。所有與此項目提交相關的訊息均將儲存備案。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_MODERATION">
+      <Text>檢舉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_MODERATION_TOOLTIP">
+      <Text>檢舉具有攻擊性的或違反服務條款的內容。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_NOREASON">
+      <Text>沒有選擇任何理由</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_REASON_1">
+      <Text>侵犯著作權或商標權</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_REASON_2">
+      <Text>惡意（含有病毒或木馬程式）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_REASON_3">
+      <Text>有攻擊性的內容</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_FLAG_REASON_4">
+      <Text>其他</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_GAMEVERSION">
+      <Text>遊戲版本介於{1_LowVersion}與{2_HighVersion}之間</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_HEADING_DATESTARTED">
+      <Text>開始日期</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_HEADING_NAME">
+      <Text>姓名</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_HEADING_PROGRESS">
+      <Text>進度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_HEADING_STATE">
+      <Text>國家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_HOVERFORDETAILS">
+      <Text>{1_DownloadStatus}（將滑鼠指針指向該處瞭解詳情）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALL_MODS">
+      <Text>安裝模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALL_MODS_TT">
+      <Text>目前可安裝的模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALL_PROGRESS">
+      <Text>{1_ProcessedFiles}/{2_TotalFiles}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLED">
+      <Text>安裝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_COPYING">
+      <Text>複製檔案…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_ERROR">
+      <Text>安裝模組時發生錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_EXTRACTING">
+      <Text>檔案解壓縮…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_FINISHED">
+      <Text>完成！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_INSTALLING">
+      <Text>安裝模組…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_VALIDATING">
+      <Text>驗證模組…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_INSTALLER_VERIFYING">
+      <Text>驗證檔案…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELAFFECTSSAVEDGAMES">
+      <Text>覆蓋已儲存遊戲？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELAUTHOR">
+      <Text>作者：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELCATEGORIES">
+      <Text>目錄：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELDOWNLOADS">
+      <Text>下載：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELNO">
+      <Text>[COLOR_RED]否[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELRATING">
+      <Text>評價：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELSIZE">
+      <Text>尺寸大小：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELSPECIALTHANKS">
+      <Text>特別感謝：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELSTATUS">
+      <Text>狀態：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELSUPPORTSMULTIPLAYER">
+      <Text>多人模式？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELSUPPORTSSINGLEPLAYER">
+      <Text>單人模式？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELTAGS">
+      <Text>標籤：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELUPDATED">
+      <Text>最近更新：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELUPLOADEDBY">
+      <Text>上傳者：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELVERSION">
+      <Text>版本：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LABELYES">
+      <Text>[COLOR_GREEN]是[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LASTPAGE">
+      <Text>最後一頁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LIKE_IT">
+      <Text>喜歡它</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LIKE_IT_TOOLTIP">
+      <Text>給予正面的評價。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_LOADGAME">
+      <Text>載入遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MAINMENU">
+      <Text>主選單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MAPS">
+      <Text>遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MAPS_TT">
+      <Text>開始自訂地圖遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MENU_BACK">
+      <Text>返回</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_BAD_GAMEVERSION">
+      <Text>[COLOR_RED]遊戲版本與此模組不相容。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_BLOCKED_BY_OTHER_MOD">
+      <Text>[COLOR_RED]此模組被另一模組限定。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_EXCLUSIVE">
+      <Text>這是一項專屬模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+      <Text>[COLOR_RED]模組被專屬性限定。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_MISSING_DEPENDENCIES">
+      <Text>[COLOR_RED]模組遺失所需項目。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_PARTIALLY_EXCLUSIVE">
+      <Text>這是一個部分專屬模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MOD_VERSION_ALREADY_ENABLED">
+      <Text>[COLOR_RED]另一版本的此模組已開啟。[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MODSTATUS">
+      <Text>最初版|測試版|搶先版|展示版</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MULTIPLAYER">
+      <Text>多人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_MULTIPLAYER_TT">
+      <Text>開始模組化的多人遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NEXT">
+      <Text>下一步</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NEXTPAGE">
+      <Text>下一頁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NOACTIVEDOWNLOADS">
+      <Text>無可供下載。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NOASSOCIATIONS">
+      <Text>沒有</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NOMODSINSTALLED">
+      <Text>未安裝模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ONLINE">
+      <Text>線上</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_OPTIONS">
+      <Text>選項...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_PAUSEDOWNLOAD">
+      <Text>暫停</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_PREVPAGE">
+      <Text>前一頁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_PRIVACYPOLICY">
+      <Text>隱私權政策</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_PROGRESSNA">
+      <Text>不適用</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_RATING">
+      <Text>{1_Rating}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REFERENCES">
+      <Text>參考資料{1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REPORT">
+      <Text>檢舉侵權</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REPORT_REASON">
+      <Text>選擇檢舉理由：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REPORT_SUBMITED">
+      <Text>感謝您提出檢舉。一位2K代表將會盡快解決這個問題。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REPORT_TITLE">
+      <Text>檢舉侵權格式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_RESULTS_EMPTY">
+      <Text>未找到模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_RESUMEDOWNLOAD">
+      <Text>恢復</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SAVEDGAMES_TT">
+      <Text>開始前次儲存遊戲進度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SCENARIO_TITLE">
+      <Text>模組場景設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SCENARIOS">
+      <Text>場景</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SCENARIOS_TT">
+      <Text>進入一個場景。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SCREENSHOT">
+      <Text>螢幕快照瀏覽器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SEARCH_TOOLTIP">
+      <Text>搜尋一項模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SETUP_TITLE">
+      <Text>模組遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SHOW_SCREENSHOT">
+      <Text>顯示螢幕快照瀏覽器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SHOWDLCMODS">
+      <Text>顯示擴充包模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER">
+      <Text>單人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER_TT">
+      <Text>進入模組的單人遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_DOWNLOADS">
+      <Text>下載</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_ENABLED">
+      <Text>開啟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_NEWEST">
+      <Text>最新</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_RATING">
+      <Text>評價</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_RECENTLY_INSTALLED">
+      <Text>最近的安裝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SORT_TITLE">
+      <Text>標題</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SUBMIT">
+      <Text>提交…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_TITLE">
+      <Text>模組標題一</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_CONFIRM">
+      <Text>您確定要退訂並移除此模組嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_MOD">
+      <Text>取消訂閱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS">
+      <Text>更新所有模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS_TT">
+      <Text>將所有已安裝模組更新至線上最新版。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_MOD">
+      <Text>更新模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_MOD_LATEST_TT">
+      <Text>將模組更新至最新版。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_MOD_TT">
+      <Text>將模組更新至第{1_Version}版。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATEMOD">
+      <Text>更新</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_WORKSHOP">
+      <Text>獲取模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_WORKSHOP_TT">
+      <Text>點擊打開Steam並瀏覽可用模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT">
+      <Text>你喜歡它</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT_TOOLTIP">
+      <Text>你和{1}個其他人喜歡它。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODS_IN_USE">
+      <Text>使用中的模組：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NO_CUSTOM_GAMES">
+      <Text>無自訂遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELECT_CUSTOM_GAME">
+      <Text>選擇自訂遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELECT_SCENARIO">
+      <Text>選擇劇本</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
+      <Text>斐濟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
+      <Text>斐濟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL">
+      <Text>瓜達爾卡納爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL_ADJ">
+      <Text>瓜達爾卡納爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
+      <Text>吉里巴斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
+      <Text>吉里巴斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
+      <Text>馬久羅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
+      <Text>馬久羅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
+      <Text>諾魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
+      <Text>諾魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
+      <Text>恩德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
+      <Text>恩德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
+      <Text>波納佩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
+      <Text>波納佩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
+      <Text>萬那杜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
+      <Text>萬那杜</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

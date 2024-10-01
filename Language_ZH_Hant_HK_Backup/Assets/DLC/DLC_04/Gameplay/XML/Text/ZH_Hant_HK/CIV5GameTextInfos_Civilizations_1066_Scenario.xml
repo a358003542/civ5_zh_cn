@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_DESC">
+      <Text>盎格魯-撒克遜英格蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_ADJECTIVE">
+      <Text>諾曼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_DESC">
+      <Text>諾曼第公國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_SHORT_DESC">
+      <Text>諾曼第</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_ADJECTIVE">
+      <Text>挪威</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_DESC">
+      <Text>挪威王國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_SHORT_DESC">
+      <Text>挪威</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

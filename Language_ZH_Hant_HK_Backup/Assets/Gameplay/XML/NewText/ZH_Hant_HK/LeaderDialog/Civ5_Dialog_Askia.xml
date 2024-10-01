@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_1">
+      <Text>極好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_2">
+      <Text>好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_5">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_6">
+      <Text>這是必須的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_1">
+      <Text>你將被綁上火柱，我發誓。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_2">
+      <Text>蠢蛋。你已將自己的子民陷入熊熊烈火的深淵中。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_3">
+      <Text>猥瑣無賴！你會付出代價的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_1">
+      <Text>壞蛋！人神共憤的渾球！受死！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_2">
+      <Text>詛咒你們這個蠻族。我們會操縱浩大的正義之火將你們通通化為灰燼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_3">
+      <Text>無知的蠻族必須被清洗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_1">
+      <Text>蠻族僥倖獲勝，偉大文明不幸滅亡。如同夜幕降臨，湮沒萬家燈火。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_2">
+      <Text>我們已被憤怒和仇恨的火舌吞沒，盡情享受眼前的勝利吧–接下來你將付出沉重的代價！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_ANGRY">
+      <Text>如果不交出我們要的東西，正義火焰將從天而降落入你們的城市，將一切吞噬殆盡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
+      <Text>異教徒和賤民滋擾著世界，桑海帝國需要你們的幫助將他們一掃光。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_NEUTRAL">
+      <Text>交出我們想要的東西，否則有你們好看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_4">
+      <Text>當然是不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_1">
+      <Text>您好！我是桑海帝國的阿斯基亞。我們是正直之人–但是我們會消滅那些膽敢侵犯我們的人。避免重蹈他人覆轍，你便平安無事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_2">
+      <Text>祝福您。我是桑海帝國的阿斯基亞。我要樂於與眾人和平相處，但是必要時絕不避戰。如果你想活命，別逼我出戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_3">
+      <Text>您好！我是阿斯基亞，桑海帝國的國王。我們是開明的民族，尋求和別人和平地交換知識。但是，我們隨時準備著保護自己以防不測。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_4">
+      <Text>您好！我是桑海帝國的阿斯基亞，我們要和眾人和平相處。如果要麻煩，我勸你還是另尋他處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_6">
+      <Text>言盡於此。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_7">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_5">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_6">
+      <Text>有甚事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_1">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_2">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_3">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_4">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_6">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_7">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LOSEWAR_1">
+      <Text>感謝您結束了這場毫無意義的戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_1">
+      <Text>別惹我心煩，我生氣的時候是會天昏地暗。給不出出更好的提議就滾蛋吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_1">
+      <Text>這個確實沒法接受。您能給個更好的提議嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>想欺騙我們的人可要小心了。請提出更好的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再多給點好處嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>不怎麼行啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>還差一點點…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_ANGRY">
+      <Text>你把我們當傻子了吧？真該一刀砍了你這傲慢的傢伙。滾吧，趁你的腳還長在腿上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_HAPPY">
+      <Text>我沒辦法答應您的條件，因為對桑海子民不公平。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL">
+      <Text>你提議無法讓人接受，是故意想侮辱我們嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_ANGRY">
+      <Text>你的生意經可以彌補你其他方面的眾多缺點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_HAPPY">
+      <Text>公平公正。同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_NEUTRAL">
+      <Text>條件令人滿意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_ANGRY">
+      <Text>「請提出更好的條件，那樣我才可以讓軍隊裝備精良。然後，把你那可恥的文明，從這個星球上徹底滅亡。」</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_HAPPY">
+      <Text>您對這個交易感興趣否？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_NEUTRAL">
+      <Text>公平交易，我建議你接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_ANGRY">
+      <Text>無知的野狗！你應該慶幸沒有因自己的傲慢而被烤熟！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_HAPPY">
+      <Text>稍微對我們放鬆一些也許對您來說是個明智之舉。友誼是有限度的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_NEUTRAL">
+      <Text>你，你這異教徒笨蛋竟敢威脅我們？！失心瘋了吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_ANGRY">
+      <Text>好得很。你可以殺雞取卵，但是我保證你有一天會為此付出高昂的代價！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_HAPPY">
+      <Text>我們很高興能回報我們最堅定的朋友和盟友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_NEUTRAL">
+      <Text>看來我毫無選擇，只能答應你的要求，但是，要好好計算一下！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_1">
+      <Text>我們受此屈辱，你便需付出千倍代價！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_2">
+      <Text>這個遊戲很危險，你玩不起。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_3">
+      <Text>漂亮。下次我就不會這麼客氣了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_4">
+      <Text>太失望了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_5">
+      <Text>真是極度失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_6">
+      <Text>確定？你會沒有時間為自己的鼠目寸光而後悔的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_7">
+      <Text>你這傻瓜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WINWAR_1">
+      <Text>你還活著要感謝我們的刀下留情。別再考驗我們的實力！</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

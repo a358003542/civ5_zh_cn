@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_2">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_5">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_6">
+      <Text>那是必須的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_1">
+      <Text>你錯把我們對和平的熱愛當成弱點了─你會付出代價的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_2">
+      <Text>你這惡名昭彰的混蛋—你會後悔的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_3">
+      <Text>你應對你今天的所作所為而懊悔，你這個嗜血的惡棍！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_1">
+      <Text>看來你明白自己是自由的敵人—那就準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_2">
+      <Text>美國人民已發出怒吼。你肆無忌憚的侵略讓我別無選擇：準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_3">
+      <Text>你那不負責任的行為已將你的人民推向末日的深淵—準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_1">
+      <Text>除了榮譽，我失去了一切。我相信擁有勝利的你一定是仁慈的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_2">
+      <Text>今天的勝利屬於你。我希望凱旋的你能夠無比仁慈。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_3">
+      <Text>你打敗了我們，但只是暫時的。美國會東山再起的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_4">
+      <Text>我恭喜你的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_ANGRY">
+      <Text>你最好給把我們想要的東西給我們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_HAPPY">
+      <Text>您願意與有所需求的朋友和同盟分享以下物品嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_NEUTRAL">
+      <Text>我們希望你能上貢以下物品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_4">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_1">
+      <Text>美利堅合眾國的人民歡迎您。我相信您是自由之友吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_2">
+      <Text>我謹代表美利堅合眾國的公民，歡迎您的到來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_3">
+      <Text>很榮幸見到您。我誠摯地希望我們兩國的人民可以和平共處、繁榮昌盛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_4">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_5">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_6">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_7">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_5">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_6">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_1">
+      <Text>我們聽看看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_3">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_5">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_6">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_7">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_8">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LOSEWAR_1">
+      <Text>我們希望能與您偉大國家和平共處。我祈禱未來我們雙方人民不再有誤會產生。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_1">
+      <Text>紀律是軍隊的靈魂。其可使少數變得強大；促使弱者獲得成功；使所有都得到尊重。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_2">
+      <Text>政府不是理性；其不善雄辯；其實為力量。如同火焰，其既是危險的僕人，也是可怕的主人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_3">
+      <Text>如果我們不想受到羞辱，我們便必須有擊退它的能力；如果我們想維護和平--使我們繁榮昌盛最為有力的工具之一--那我們必須讓所有人知道，我們願意時刻為此奮戰到底。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_1">
+      <Text>這提議我無法接受。你必須提供更好的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我恐怕無法接受像現在這種條件的交易。您願意提出更好的提議嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>我不認為像現在這樣的交易能夠符合美國的最佳利益。您願意提出更好的提議嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_ANGRY">
+      <Text>當然不行！我們不是白癡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_HAPPY">
+      <Text>基於最高的敬意與友誼，我必須拒絕您的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_NEUTRAL">
+      <Text>我必須拒絕您的提議，這不符合我們的最佳利益。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_ANGRY">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_HAPPY">
+      <Text>我們同意了。感謝您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
+      <Text>美國接受您的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_ANGRY">
+      <Text>我們提出此項交易，你覺得怎樣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
+      <Text>您好！有興趣與美國進行交易嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_NEUTRAL">
+      <Text>您對以下交易有興趣嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_ANGRY">
+      <Text>你神經錯亂了嗎？我們是自由而高尚的人！我們從不會向地痞流氓屈服！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
+      <Text>我不能隨隨便便就將財富贈予他人，即使對象是朋友。我不是暴君─我必須遵從美國人民的心聲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_NEUTRAL">
+      <Text>你的要求羞辱了我們的主權，我們斷然拒絕。顯然你低估了我們的決心。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_ANGRY">
+      <Text>看來我別無選擇，只能同意你的要求。但這只是暫時的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_HAPPY">
+      <Text>我很樂意，您需要什麼就只管開口說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_NEUTRAL">
+      <Text>很好。看來我別無選擇，只能同意你的要求。但我警告你，別逼人太甚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_1">
+      <Text>你這是在剝奪美國的民主自由。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_2">
+      <Text>很好。但下次我可不會這麼客氣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_3">
+      <Text>多令人失望啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_4">
+      <Text>真太讓人失望了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_5">
+      <Text>真的嗎？不過我相信你可活不到為自己的短視後悔的那天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_6">
+      <Text>你真是白癡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WINWAR_1">
+      <Text>我相信你已經知道，美國可是不好惹的！</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

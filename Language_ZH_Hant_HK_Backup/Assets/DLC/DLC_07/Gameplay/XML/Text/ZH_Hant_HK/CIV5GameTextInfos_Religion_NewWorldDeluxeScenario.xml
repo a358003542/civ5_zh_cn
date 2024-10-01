@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_APU_SHORT">
+      <Text>阿普神力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_APU">
+      <Text>位於[ICON_CONNECTED]城市連結路線上的城市+3[ICON_PEACE]信仰值，交易站產出+1[ICON_GOLD]金幣，並且可使用[ICON_PEACE]信仰值購買工人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_COQUIHANI">
+      <Text>採石場產出+2[ICON_PEACE]信仰值，奇跡+15%[ICON_PRODUCTION]生產力，可使用[ICON_PEACE]信仰值建造工作坊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_COYOTE">
+      <Text>採石場產出+1[ICON_PEACE]信仰值，莊園產出+1[ICON_RESEARCH]科技值，可使用[ICON_PEACE]信仰值建造圖書館。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
+      <Text>沒有森林的凍土單元格產出+2[ICON_PEACE]信仰值，雪原單元格產出+4[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
+      <Text>沙漠單元格產出+2[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY">
+      <Text>每個鐵礦、寶石、黃金、白銀、銅礦與食鹽資源產出+2 [ICON_PEACE] 信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS">
+      <Text>牧場單元格產出+3[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND">
+      <Text>丘陵單元格產出+1[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND">
+      <Text>濕地與氾濫平原單元格產出+3[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_HUNAHPU">
+      <Text>營地產出+1[ICON_FOOD]食物，每個香蕉、柑橘與小麥資源產出+1[ICON_PEACE]信仰值，可使用 [ICON_PEACE]信仰值建造神廟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_INTI">
+      <Text>邊界成長加快15%，神廟提供+2[ICON_HAPPINESS_1]幸福度和+1[ICON_PEACE]信仰值，並且可使用[ICON_PEACE]信仰值購買開拓者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES">
+      <Text>可使用[ICON_PEACE]信仰值建造集會所。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT">
+      <Text>集會所</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
+      <Text>自然奇觀產出+8[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
+      <Text>莊園產出+2[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
+      <Text>[ICON_FOOD]成長率加快10%，花園產出+3[ICON_PEACE]信仰值，可使用[ICON_PEACE]信仰值建造水力磨坊與引水渠。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS">
+      <Text>叢林單元格產出+2[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS">
+      <Text>湖泊、海岸和海洋單元格產出+2[ICON_PEACE]信仰值。河邊的城市提供+1[ICON_HAPPINESS_1]幸福度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_SEDNA">
+      <Text>漁船產出+1[ICON_PEACE]信仰值，湖泊、海岸和海洋單元格產出+1[ICON_PRODUCTION]生產力，可使用[ICON_PEACE]信仰值建造燈塔。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
+      <Text>要塞產出+4[ICON_PEACE]信仰值，堡壘產出+2[ICON_PEACE]信仰值，城市[ICON_RANGE_STRENGTH]遠程戰鬥力+30%，可使用[ICON_PEACE]信仰值建造城牆。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_TOTEMISM">
+      <Text>營地產出+2[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_WORLD_TREES">
+      <Text>森林單元格產出+2[ICON_PEACE]信仰值。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BELIEF_XBALANQUE">
+      <Text>戰鬥勝利時可獲得[ICON_PEACE]信仰值，並且可使用[ICON_PEACE]信仰值來購買古典時代的地面單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COQUIHANI_SHORT">
+      <Text>可吉哈尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COYOTE_SHORT">
+      <Text>土狼盜火</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EARTHS_BOUNTY_SHORT">
+      <Text>大地恩賜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOLY_ANIMALS_SHORT">
+      <Text>聖獸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOLY_HIGH_GROUND_SHORT">
+      <Text>神聖高地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOLY_LOW_GROUND_SHORT">
+      <Text>神聖低地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUNAHPU_SHORT">
+      <Text>胡那普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTI_SHORT">
+      <Text>印蒂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_HOLY_WARRIORS">
+      <Text>可使用[ICON_PEACE]信仰值來購買晚地平線時代（以及之後時代）的地面單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
+      <Text>魁札爾科亞特爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_AZTEC_PANTHEON">
+      <Text>阿茲特克萬神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_INCA_PANTHEON">
+      <Text>印加萬神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_IROQUOIS_PANTHEON">
+      <Text>易洛魁萬神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_MAYA_PANTHEON">
+      <Text>馬雅萬神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_PANTHEON_NWS_PEDIA">
+      <Text>可無償獲得次要宗教；將滑鼠遊標移動到畫面上方資訊列的信仰值資訊部分，便可顯示宗教資訊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_SHOSHONE_PANTHEON">
+      <Text>肖松尼萬神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SEDNA_SHORT">
+      <Text>賽德娜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
+      <Text>索森多瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TOTEMISM_SHORT">
+      <Text>圖騰信仰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_TREES_SHORT">
+      <Text>世界樹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_XBALANQUE_SHORT">
+      <Text>巴蘭可</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

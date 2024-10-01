@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_2">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_5">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_6">
+      <Text>那是必須的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1">
+      <Text>你這可惡的白癡！你會為此後悔的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2">
+      <Text>混蛋！準備面對我的神之憤怒吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3">
+      <Text>可憐的傻瓜。你算是毀了你自己和你那可悲的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1">
+      <Text>你這只臭蟲，準備受死吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2">
+      <Text>你那野蠻的文明冒犯了我，準備迎戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3">
+      <Text>星象透漏了訊息。我必須毀滅你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1">
+      <Text>傻瓜！神是不會被打倒的！我的神之強力可隨時將你摧毀！我保證！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2">
+      <Text>你根本沒有勝利。即使打倒了我，我的靈魂也將永世糾纏你的心靈，直到深淵！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3">
+      <Text>多麼有趣啊！原來神也是可以被打敗的。恭喜你獲得勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY">
+      <Text>滿足我們之所欲，否則就面對我的神之憤怒吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，埃及樂於接受您慷慨的餽贈。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL">
+      <Text>如果你想活命的話，你最好把我們要的東西準備好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_4">
+      <Text>當然不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1">
+      <Text>您好！我是拉美西斯，強大埃及的統治者，同時也是神祉。你來找我需要相當大的勇氣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
+      <Text>歡迎！我是埃及的拉美西斯。星星已經預言了你的到來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
+      <Text>您好！我是拉美西斯神，埃及的化身，是所有文明的父母。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_6">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_1">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1">
+      <Text>我可以毀了你，這你是知道的，但是我今天覺得自己十分寬宏大量，所以我放你一馬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_1">
+      <Text>這就是你的提議？你敢再少點，小心遭天打雷劈。你必須提高你的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_1">
+      <Text>拜託，我本來想著您可以給得更多，當然您也肯定發現您提出的條件不是很公平吧。您能再提高點條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>你得知道，即使神也需要花銷，你必須提高你的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY">
+      <Text>我憑什麼要同你進行交易？你碰過的東西都骯髒無比。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY">
+      <Text>感謝您的提議，我的朋友，但是我不得不拒絕您的好意。天國中已有我們所有想要的東西了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL">
+      <Text>我可是神，怎麼會需要你提供的東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY">
+      <Text>很好！你很有前途。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY">
+      <Text>我十分滿意您的提議，非常好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL">
+      <Text>我接受你的提議，祝福你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY">
+      <Text>埃及向你提出此提議，敢拒絕的話，那就後果自負吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY">
+      <Text>無所不知的拉美西斯知道您會滿意這樣的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL">
+      <Text>慷慨的埃及向你提出以下提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY">
+      <Text>你最好在我詛咒你和你祖宗十八代之前滾開。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY">
+      <Text>我夜觀星象，得知今日不宜供物。您明天再來吧…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL">
+      <Text>你這瘋狗的子孫！你膽敢如此羞辱偉大的埃及！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY">
+      <Text>哦，很好。即使是對最下賤的生物，神也是非常慷慨的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY">
+      <Text>您的祈禱會得到回應的，我最忠實的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL">
+      <Text>當然可以。我很樂意獎賞我忠誠的臣民。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1">
+      <Text>你這是在挑釁危險。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_2">
+      <Text>很好。但下次我可不會這麼客氣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_3">
+      <Text>多令人失望啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4">
+      <Text>真太讓人失望了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5">
+      <Text>是嗎？我想你可沒辦法活著為你的短視而後悔了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6">
+      <Text>你真是太蠢了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1">
+      <Text>別再來惹我！下次我可不會再憐憫你那可悲的祈求了。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

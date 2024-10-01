@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_1">
+      <Text>極好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_2">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_5">
+      <Text>哦，非常好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_6">
+      <Text>我必須得同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_1">
+      <Text>很好—你要為後果負全部責任！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_3">
+      <Text>居然敢如此！你將因狂傲自大而受盡煎熬！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_1">
+      <Text>你對我們及我們忠實子民的侮辱必須受到懲罰—準備開戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_2">
+      <Text>承蒙上帝恩典，你苟活於世的日子已屈指可數。準備開戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_3">
+      <Text>彬彬有禮的時間已過—戰場上見！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_1">
+      <Text>我們戰敗了，恭賀您的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_2">
+      <Text>你已擊敗我們，但僅僅是暫時。終有一天，英格蘭將東山再起，強勢回歸！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_3">
+      <Text>您擊敗了我們，今天是屬於您的一天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_ANGRY">
+      <Text>快把我們想要的都拿出來，否則後果不堪設想。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY">
+      <Text>親愛的朋友，您能在無私幫助處於艱難時日中的我們嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL">
+      <Text>英格蘭有需求—這些需求只有你能滿足。我們相信你是懂得隨機應變的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_4">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_1">
+      <Text>您好！我們希望兩族人民以友相見，而非以敵相戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_2">
+      <Text>相見甚歡！我祈禱祥瑞之風將我們團結在一起。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_3">
+      <Text>我們很高興見到您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_4">
+      <Text>歡迎來到英格蘭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_6">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_7">
+      <Text>滾開。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_1">
+      <Text>幸會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_2">
+      <Text>嗨，又見面了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_4">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_5">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_6">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_1">
+      <Text>我們聽看看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_3">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_5">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_6">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_7">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_8">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LOSEWAR_1">
+      <Text>好吧，風平浪靜了。我只希望未來我們能保持和平友好的雙邊關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_QUOTE_1">
+      <Text>我親愛的人民，那些為我們安全擔憂的人士一直在試圖說服我致力於組成武裝部隊以抵禦可能出現的叛亂。但是我向你們保證，我完全信任我忠誠、親愛的人民。內心的恐懼只屬於暴君！上帝明鑑，我節制自己，而將最主要力量和防衛僅僅用於守護我忠實臣民的忠心和善意。因此，此刻我站到你們之中，不是為了娛樂消遣，而是下定決心在如火如荼的戰場上與你們同生共死！為了我的上帝，為了我的王國，為了我的人民、榮譽和家族，即使捐軀黃土也在所不惜。我雖有一副柔弱女子的身軀，但卻有一顆作為君王的心，一顆作為英格蘭國王的雄心。我鄙視那些膽敢冒犯我們邊境的帕爾瑪公爵、西班牙君王或者任何一位歐洲君主。與其遭受這樣的恥辱，不如讓我也拿起武器！我將親自統領你們，指引你們並獎賞你們在戰場上的所有成就。我知道，你們勇往直前的氣概現在就應該得到嘉獎。我以君王的身分向你們保證，你們必將得到應得的賞賜。同時我的中將，從來就沒有一位君王統率過的如此高貴且值得敬佩的將領，將代我指揮；毫無疑問，當你們服從我的將軍，加以軍營中的團結和戰場上的勇氣，我們很快便將獲得傑出的勝利，戰勝這些我的上帝、王國和人民的共同敵人！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_QUOTE_2">
+      <Text>我親愛的子民，此刻我站到你們之中，不是為了娛樂消遣，而是下定決心在如火如荼的戰場上與你們同生共死！為了我的上帝，為了我的王國，為了我的人民、榮譽和家族，即使捐軀黃土也在所不惜。我雖有一副柔弱女子的身軀，但卻有一顆作為君王的心，一顆作為英格蘭國王的雄心。我鄙視那些膽敢冒犯我們邊境的帕爾瑪公爵、西班牙君王或者任何一位歐洲君主。與其遭受這樣的恥辱，不如讓我也拿起武器！毫無疑問，當你們服從我的將軍，加以軍營中的團結和戰場上的勇氣，我們很快便將獲得傑出的勝利，戰勝這些我的上帝、王國和人民的共同敵人！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_1">
+      <Text>英格蘭沒有那麼大方。你必須提出更好的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_1">
+      <Text>拜託！英格蘭再怎麼慷慨，也不至於如此大方，就算對朋友也是！您能不能再給出更好點的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>拜託！以你的身分，怎麼會如此吝嗇！你肯定可以提出更好的提議吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_ANGRY">
+      <Text>你的要求侮辱了英格蘭，我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_HAPPY">
+      <Text>我親愛的朋友，雖然私下我們願意給予您所有東西，甚至最後一枚銅板。但是我們的顧問遠沒有我們這麼大方。所以，很抱歉，我得拒絕您的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_NEUTRAL">
+      <Text>我們懇請你不要為這般傻事浪費我們的時間。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_ANGRY">
+      <Text>哦，很好。我想我不得不接受了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_HAPPY">
+      <Text>祝賀您是如此的能言善辯與聰慧！我們接受您的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_NEUTRAL">
+      <Text>你的提議不錯，我們接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_ANGRY">
+      <Text>這就是我們提出的方案—已經比你應該得到的好多了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_HAPPY">
+      <Text>我親愛的朋友，有興趣與英格蘭締結貿易協定嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_NEUTRAL">
+      <Text>商業往來就是文明社會的命脈，您同意嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY">
+      <Text>你竟敢冒昧向我們要求貢品？走開，你這可恨的小人！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_HAPPY">
+      <Text>不可如此對待朋友。我們對你這種冒失的行為感到訝異。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_NEUTRAL">
+      <Text>你可真有趣，當然是不可能了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY">
+      <Text>你現在擁有天時地利，但不可能長期擁有。我們會記住這件事的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY">
+      <Text>在朋友位於艱難處境中時，我們非常樂意提供幫助。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_NEUTRAL">
+      <Text>哦，好吧，我想也無其他可選。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_1">
+      <Text>太失望了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_2">
+      <Text>實在令人失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_3">
+      <Text>真的？你會因鼠目寸光而命喪黃泉。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_4">
+      <Text>你真是傻得可以。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_5">
+      <Text>如不好自為之，你愚蠢的傲慢帶給你的將是滅亡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_6">
+      <Text>很好，後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_WINWAR_1">
+      <Text>英格蘭在她的敵人面前永遠都能升起勝利的旗幟！將來你應該好好記住這點。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

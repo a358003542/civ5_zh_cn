@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_BAZAAR_DESC">
+      <Text>阿拉伯市集</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_DESC">
+      <Text>陵墓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_DESC">
+      <Text>水上園圃</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
+      <Text>長屋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MONASTERY_DESC">
+      <Text>修道院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MONUMENT_DESC">
+      <Text>紀念碑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC">
+      <Text>土塔清真寺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PAPER_MAKER_DESC">
+      <Text>造紙作坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_DESC">
+      <Text>總督府</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STADIUM_DESC">
+      <Text>體育場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_TEMPLE_DESC">
+      <Text>神廟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WAT_DESC">
+      <Text>僧院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_CULTURED_ADJECTIVE">
+      <Text>文化型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MARITIME_ADJECTIVE">
+      <Text>航海型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_ADJECTIVE">
+      <Text>軍事型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_FRIENDLY">
+      <Text>友善</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE">
+      <Text>仇外</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL">
+      <Text>無理</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_NEUTRAL">
+      <Text>中立</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_CITIZENS_TEXT">
+      <Text>市民</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_CULTURE_TEXT">
+      <Text>文化值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_GOLD_TEXT">
+      <Text>金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_GREAT_PEOPLE_TEXT">
+      <Text>偉人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_PROD_TEXT">
+      <Text>生產力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_REGULARBUILDING_TEXT">
+      <Text>建築物</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_RESEARCH_TEXT">
+      <Text>科技值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_SPECIAL_TEXT">
+      <Text>專家建築物</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYVIEW_WONDERS_TEXT">
+      <Text>奇跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILIAN_UNIT">
+      <Text>非戰鬥單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOMAIN_AIR">
+      <Text>空中單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOMAIN_IMMOBILE">
+      <Text>固定單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOMAIN_LAND">
+      <Text>地面單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOMAIN_SEA">
+      <Text>水域單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_0">
+      <Text>遠古時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_1">
+      <Text>古典時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_2">
+      <Text>中古時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_3">
+      <Text>文藝復興時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_4">
+      <Text>工業時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_5">
+      <Text>現代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ERA_6">
+      <Text>未來時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_ATOLL">
+      <Text>環礁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_CRATER">
+      <Text>巴林傑隕石坑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_FALLOUT">
+      <Text>輻射塵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_FLOOD_PLAINS">
+      <Text>氾濫平原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_FOREST">
+      <Text>森林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_GEYSER">
+      <Text>老忠實泉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_GIBRALTAR">
+      <Text>直布羅陀巨岩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_ICE">
+      <Text>浮冰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_JUNGLE">
+      <Text>叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_LAKE_TITICACA">
+      <Text>的的喀喀湖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_MARSH">
+      <Text>濕地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_MESA">
+      <Text>大平頂山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_MT_EVEREST">
+      <Text>珠穆朗瑪峰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_MT_FUJI">
+      <Text>富士山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_NATURAL_WONDER">
+      <Text>自然奇觀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_OASIS">
+      <Text>綠洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_REEF">
+      <Text>大堡礁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FEATURE_VOLCANO">
+      <Text>喀拉喀托火山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_EPIC">
+      <Text>史詩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_MARATHON">
+      <Text>馬拉松</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_QUICK">
+      <Text>快速</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_STANDARD">
+      <Text>標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOLD">
+      <Text>金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_CHIEFTAIN">
+      <Text>酋長</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_DEITY">
+      <Text>天神</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_EMPEROR">
+      <Text>皇帝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_IMMORTAL">
+      <Text>不朽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_KING">
+      <Text>國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_PRINCE">
+      <Text>親王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_SETTLER">
+      <Text>開拓者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_WARLORD">
+      <Text>軍閥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
+      <Text>學院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
+      <Text>營地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
+      <Text>要塞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS">
+      <Text>城市廢墟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE">
+      <Text>海關</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_ENCAMPMENT">
+      <Text>蠻族營地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_FARM">
+      <Text>農場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_FISHING_BOATS">
+      <Text>漁船</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_FORT">
+      <Text>堡壘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT">
+      <Text>遠古遺跡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
+      <Text>地標</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_LUMBERMILL">
+      <Text>鋸木廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
+      <Text>製造廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_MINE">
+      <Text>礦場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
+      <Text>鑽油平臺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
+      <Text>牧場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
+      <Text>莊園</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
+      <Text>採石場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
+      <Text>交易站</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_WELL">
+      <Text>油井</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INVISIBLE_SUBMARINE">
+      <Text>潛艇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARY_UNIT">
+      <Text>軍事單位</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROCESS_RESEARCH">
+      <Text>研究</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROCESS_WEALTH">
+      <Text>財富</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
+      <Text>阿波羅計畫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT">
+      <Text>曼哈頓計畫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_COMBAT1">
+      <Text>戰鬥一級</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_COMBAT2">
+      <Text>戰鬥二級</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_COMBAT3">
+      <Text>戰鬥三級</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_ALUMINUM">
+      <Text>鋁材</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_BANANAS">
+      <Text>香蕉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_CATTLE">
+      <Text>牛群</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_COAL">
+      <Text>煤炭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_COTTON">
+      <Text>棉花</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_DEER">
+      <Text>鹿群</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_DYES">
+      <Text>染料</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_FISH">
+      <Text>魚群</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_FURS">
+      <Text>毛皮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_GEMS">
+      <Text>寶石</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_GOLD">
+      <Text>黃金</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_HORSES">
+      <Text>馬匹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_INCENSE">
+      <Text>沉香</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_IRON">
+      <Text>鐵礦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_IVORY">
+      <Text>象牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_MARBLE">
+      <Text>大理石</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_OIL">
+      <Text>石油</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_PEARLS">
+      <Text>珍珠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_SHEEP">
+      <Text>羊群</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_SILK">
+      <Text>絲綢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_SILVER">
+      <Text>白銀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_SPICES">
+      <Text>香料</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_STONE">
+      <Text>石材</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_SUGAR">
+      <Text>食糖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_URANIUM">
+      <Text>鈾礦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_WHALES">
+      <Text>鯨魚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_WHEAT">
+      <Text>小麥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_WINE">
+      <Text>葡萄酒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ROUTE_RAILROAD">
+      <Text>鐵路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ROUTE_ROAD">
+      <Text>道路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ARTIST">
+      <Text>藝術家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ARTIST_SLOTS">
+      <Text>藝術家席位：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ARTIST_TITLE">
+      <Text>大藝術家點數：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_CITIZEN">
+      <Text>失業市民</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ENGINEER">
+      <Text>工程師</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ENGINEER_SLOTS">
+      <Text>工程師席位：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_ENGINEER_TITLE">
+      <Text>大工程師點數：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_GREAT_ARTIST">
+      <Text>大藝術家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_GREAT_ENGINEER">
+      <Text>大工程師</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_GREAT_MERCHANT">
+      <Text>大商業家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_GREAT_PRIEST">
+      <Text>大預言家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_GREAT_SCIENTIST">
+      <Text>大科學家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_MERCHANT">
+      <Text>商業家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_MERCHANT_SLOTS">
+      <Text>商業家席位：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_MERCHANT_TITLE">
+      <Text>大商業家點數：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_SCIENTIST">
+      <Text>科學家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_SLOTS">
+      <Text>科學家席位：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_TITLE">
+      <Text>大科學家點數：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_BOOSTER">
+      <Text>太空船助推器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_CASING">
+      <Text>太空船外殼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_COCKPIT">
+      <Text>太空船駕駛艙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_DOCKING_BAY">
+      <Text>太空船停靠港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_ENGINE">
+      <Text>太空船引擎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
+      <Text>太空船維生系統</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
+      <Text>太空船休眠艙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SS_THRUSTERS">
+      <Text>太空船推進器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE">
+      <Text>雪梨歌劇院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_DESERT">
+      <Text>沙漠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_GRASS">
+      <Text>草原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_HILL">
+      <Text>丘陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
+      <Text>山嶽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_OCEAN">
+      <Text>海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_PLAINS">
+      <Text>平原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_SNOW">
+      <Text>雪原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TERRAIN_TUNDRA">
+      <Text>凍土</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRADE_CULTURE">
+      <Text>文化值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRADE_RESEARCH">
+      <Text>研究</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TURNTIMER_FAST">
+      <Text>快速</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TURNTIMER_MEDIUM">
+      <Text>中等</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TURNTIMER_SLOW">
+      <Text>緩慢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORY_CULTURAL">
+      <Text>文化</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORY_DIPLOMATIC">
+      <Text>外交</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORY_DOMINATION">
+      <Text>統治</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORY_SPACE_RACE">
+      <Text>科技</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORY_TIME">
+      <Text>時間</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_DEBUG">
+      <Text>偵錯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_DUEL">
+      <Text>決鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_HUGE">
+      <Text>極大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_LARGE">
+      <Text>大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_SMALL">
+      <Text>小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_STANDARD">
+      <Text>標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_TINY">
+      <Text>極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_YIELD_FOOD">
+      <Text>食物</Text>
+    </Row>
+    <Row Tag="TXT_KEY_YIELD_GOLD">
+      <Text>金幣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_YIELD_PRODUCTION">
+      <Text>生產力</Text>
+    </Row>
+    <Row Tag="TXT_KEY_YIELD_SCIENCE">
+      <Text>科技值</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,1835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_ACTIVE_MODS">
+      <Text>可用模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_CHOOSE_SPEED">
+      <Text>選擇遊戲速度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_GAME_SPEED_SETTING">
+      <Text>遊戲速度：{1_gamePace}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_HANDICAP_SETTING">
+      <Text>難易程度：{1_handicap}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_MAP_DESC_FORMAT">
+      <Text>{1_description} [NEWLINE]文明數量：{2_civs}      最高回合數： {3_num}      開啟時代：{4_era}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_MAP_SIZE_SETTING">
+      <Text>地圖尺寸：{1_mapSize}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_MAP_TYPE_SETTING">
+      <Text>地圖類型：{1_mapType}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SELECT_DIFFICULTY">
+      <Text>選擇難度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SELECT_MAP_SIZE">
+      <Text>選擇地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_ADD_AI_PLAYER">
+      <Text>新增AI玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_ADD_AI_PLAYER_TT">
+      <Text>新增一個AI玩家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_ADD_DEFAULT_TT">
+      <Text>重設選項為預設值</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_ADVANCED_OPTIONS">
+      <Text>進階設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_CITY_STATES">
+      <Text>城邦：{1_number}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_CIVILIZATION">
+      <Text>文明帝國：{1_count}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_DEFAULT">
+      <Text>重設</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_GAME_ERA">
+      <Text>遊戲時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_GAME_OPTIONS">
+      <Text>遊戲選項</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_GAME_SPEED">
+      <Text>遊戲速度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_GAME_TURN_MODE">
+      <Text>回合模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_HANDICAP">
+      <Text>難易度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAP">
+      <Text>地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAP_SIZE">
+      <Text>地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAP_TYPE">
+      <Text>地圖類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS">
+      <Text>最高回合</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS_1">
+      <Text>最高回合數：{1_NumTurns}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_MAX_TURNS_TT">
+      <Text>遊戲將在達到最高回合數後自行結束。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_NO_BARBARIANS">
+      <Text>沒有蠻族</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_NO_BARBARIANS_TT">
+      <Text>移除地圖上的所有蠻族。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_NUCLEAR_FIRST_STRIKE">
+      <Text>AI首次核攻擊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_NUCLEAR_FIRST_STRIKE_TT">
+      <Text>允許AI在真人玩家擁有核武前使用該物。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_PLAYER_COUNT">
+      <Text>玩家：{1_PlayerCount}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_RAGING_BARBARIANS">
+      <Text>蠻族之怒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_RAGING_BARBARIANS_TT">
+      <Text>開關遊戲中的蠻族之怒。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER">
+      <Text>移除AI</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_REMOVE_AI_PLAYER_TT">
+      <Text>移除此AI玩家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_START_ERA">
+      <Text>開啟時代：{@1_Era}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AD_SETUP_UNKNOWN_PLAYERS">
+      <Text>玩家數目未知[NEWLINE][NEWLINE]（選擇地圖尺寸以編輯玩家數目）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVANCED_OPTIONS">
+      <Text>進階遊戲選項： </Text>
+    </Row>
+    <Row Tag="TXT_KEY_AI_NICKNAME">
+      <Text>AI</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANY_MAP_SCRIPT">
+      <Text>任何地圖類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANY_MAP_SCRIPT_HELP">
+      <Text>這局遊戲將任意匹配地圖的種類（非地球）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANY_MAP_SIZE">
+      <Text>任何地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANY_MAP_SIZE_HELP">
+      <Text>這局遊戲將任意匹配地圖的大小。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AUTOSAVES">
+      <Text>自動儲存</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BAD_TEAMS">
+      <Text>您必須至少有2個團隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CHOOSE_MAP_SIZE">
+      <Text>選擇地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATES_FORMAT">
+      <Text>城邦：{1_number}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVS_FORMAT">
+      <Text>文明帝國：{1_number}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CLOSE">
+      <Text>關閉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CLOSE_HELP">
+      <Text>關閉這組選項。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CONNECTED">
+      <Text>已連結</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS">
+      <Text>製作人員名單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_TT">
+      <Text>遊戲製作人員名單</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEFAULT_GAME_CONFIGURATION_NAME">
+      <Text>遊戲配置</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DISCONNECTED">
+      <Text>連線中斷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DLC_ALLOWED">
+      <Text>允許擴充包： </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ESC_TO_EXIT">
+      <Text>按ESC退出</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXIT_BUTTON">
+      <Text>退出</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXIT_TT">
+      <Text>退出至Windows。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FILE_INFO_NOT_FOUND">
+      <Text>找不到地圖資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FIND_GAME">
+      <Text>尋找遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FIND_SCENARIO">
+      <Text>尋找劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_ADVANCED_SETUP">
+      <Text>進階設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_IN_PROGRESS">
+      <Text>遊戲進行中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_LOADING">
+      <Text>載入中...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_DYNAMIC_TURNS">
+      <Text>混合</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_DYNAMIC_TURNS_HELP">
+      <Text>玩家依照其戰爭狀態進行回合。[NEWLINE]交戰中的真人玩家依順序進行回合。[NEWLINE]無交戰的玩家同時進行回合。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_END_TURN_TIMER_ENABLED">
+      <Text>回合時計</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_END_TURN_TIMER_ENABLED_HELP">
+      <Text>計時器倒時結束後回合自動結束。[NEWLINE]0=遊戲將動態計算回合時間。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_PITBOSS">
+      <Text>Pitboss</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_PITBOSS_HELP">
+      <Text>玩家（除創建者外）可隨時進入/結束遊戲。輪到玩家時，會有通知。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_QUICK_COMBAT">
+      <Text>快速戰鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_QUICK_COMBAT_HELP">
+      <Text>單位戰鬥時無動畫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_QUICK_MOVEMENT">
+      <Text>快速移動</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_QUICK_MOVEMENT_HELP">
+      <Text>單位移動時無動畫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_SEQUENTIAL_TURNS">
+      <Text>順序</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_SEQUENTIAL_TURNS_HELP">
+      <Text>玩家依順序進行回合。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_SIMULTANEOUS_TURNS">
+      <Text>同時</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_OPTION_SIMULTANEOUS_TURNS_HELP">
+      <Text>玩家同時進行回合。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_SELECTION_SCREEN">
+      <Text>遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_SETUP_RANDOMIZE">
+      <Text>隨機</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAME_SPEED">
+      <Text>遊戲速度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESTART_COUNTDOWN_FORMAT">
+      <Text>遊戲開始前：{1_number}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HALL_OF_FAME">
+      <Text>名人堂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HALL_OF_FAME_TT">
+      <Text>最高分。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP">
+      <Text>難度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOST">
+      <Text>創建人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOST_GAME">
+      <Text>創建遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOST_MIGRATION">
+      <Text>現在是遊戲創建人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOST_SCENARIO">
+      <Text>創建劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOURS">
+      <Text>小時</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INVALID_SAVE_GAME">
+      <Text>無法開啟已儲存的遊戲。[NEWLINE][NEWLINE]檔案或損毀或無效。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_JOINING_GAME_IN_PROGRESS">
+      <Text>加入進行中的遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KICKED">
+      <Text>已移除</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LATEST_NEWS">
+      <Text>最新消息</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LATEST_NEWS_TT">
+      <Text>請看最新消息（需要開啟網際網路連線）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LAUNCH_GAME_BLOCKED_PLAYER_JOINING">
+      <Text>有一個玩家正要加入遊戲，請稍候。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LB_NOLEADERBOARD">
+      <Text>排行榜暫無得分排名。[NEWLINE]要成為第一個登錄排行榜的玩家，請先完成一次單人遊戲！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LB_NOSCORES_FRIENDS">
+      <Text>您和您的朋友暫無排行榜得分排名。[NEWLINE]請先完成一次單人遊戲後再與您的朋友比一比吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LB_NOSCORES_PERSONAL">
+      <Text>您暫無排行榜得分排名。[NEWLINE]請先完成一次單人遊戲再與全世界的玩家比一比吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LB_NOTSUPPORTEDBYMOD">
+      <Text>您目前的模組配置不支援排行榜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LB_REQUESTINGSCORES">
+      <Text>排行榜分數載入中…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD">
+      <Text>排行榜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_CIV5BASE_NAME">
+      <Text>文明帝國 5</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_CIV5EXP1_NAME">
+      <Text>眾神與諸王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_CIV5EXP2_NAME">
+      <Text>美麗新世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_FRIENDS">
+      <Text>朋友</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_FRIENDS_TT">
+      <Text>顯示您與好友的排行榜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_GLOBAL">
+      <Text>全世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_GLOBAL_TT">
+      <Text>顯示世界頂尖玩家的排行榜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_PERSONAL">
+      <Text>個人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_PERSONAL_TT">
+      <Text>顯示您在全世界排行榜的排名。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_PULLDOWN">
+      <Text>排行榜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_PULLDOWN_TT">
+      <Text>所有已安裝的遊戲內容、擴充包和模組的排行榜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_RANKING">
+      <Text>排名</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_REFRESH_TT">
+      <Text>檢索最新的排行榜分數。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADERBOARD_TT">
+      <Text>跟好友與世界比較分數（需要有效的網路連線）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_LOBBIES_INTERNET">
+      <Text>大廳：網際網路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_LOBBIES_INTERNET_TT">
+      <Text>網際網路上的Steam大廳。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_FAVORITES">
+      <Text>伺服器：我的最愛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_FAVORITES_TT">
+      <Text>將Steam專用伺服器設為我的最愛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_FRIENDS">
+      <Text>伺服器：好友</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_FRIENDS_TT">
+      <Text>好友建立的網際網路Steam專用伺服器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_HISTORY">
+      <Text>伺服器：歷史紀錄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_HISTORY_TT">
+      <Text>您最近加入過的Steam專用伺服器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_INTERNET">
+      <Text>伺服器：網際網路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_INTERNET_TT">
+      <Text>網際網路上的Steam專用伺服器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_LAN">
+      <Text>伺服器：區域連線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LIST_SERVERS_LAN_TT">
+      <Text>區域連線上的Steam專用伺服器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_GAME">
+      <Text>載入遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_GAME_TT">
+      <Text>載入一個儲存遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MAP">
+      <Text>載入地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MAP_TT">
+      <Text>載入特定的地圖進行遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MENU_DLC">
+      <Text>擴充包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MENU_MODS">
+      <Text>模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MENU_REQUIRED_DLC">
+      <Text>需以下的擴充包方可讀取該存檔：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MENU_REQUIRED_MODS">
+      <Text>此遊戲儲存需以下模組：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_MOD">
+      <Text>載入模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_REPLAY_MENU_INVALID_REPLAY_FILE">
+      <Text>無效或是過時的重播檔案。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_REPLAY_MENU_PLEASE_SELECT_REPLAY">
+      <Text>請選擇一個重播檔案</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_REPLAY_MENU_SELECT_REPLAY">
+      <Text>選擇重播</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_REPLAY_MENU_TITLE">
+      <Text>選擇重播</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOAD_SCENARIO">
+      <Text>載入劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOADING_SAVED_GAME">
+      <Text>正在載入儲存遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOBBY_REQUIRED_DLC">
+      <Text>所需擴充包：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LOCKED">
+      <Text>鎖定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAIL_PASSWORD_USAGE_INFO">
+      <Text>文明帝國5基於安全的理由，不會儲存或傳送您的電子信箱（SMTP）密碼。請重新輸入您的電子信箱密碼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_AMAZON">
+      <Text>亞馬遜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_AMAZON_HELP">
+      <Text>一個近似於南美亞馬遜叢林的地區，但有隨機元素的加入。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ANCIENT_LAKES">
+      <Text>上古湖泊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ANCIENT_LAKES_HELP">
+      <Text>地圖全為陸地，其中心為一火山口湖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ARBOREA">
+      <Text>阿爾博雷亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ARBOREA_HELP">
+      <Text>一個幾乎覆蓋在森林裡的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ARCHIPELAGO">
+      <Text>群島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ARCHIPELAGO_HELP">
+      <Text>這個世界由許多島嶼組成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_BIG_AND_SMALL">
+      <Text>大型與小型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_BIG_AND_SMALL_HELP">
+      <Text>一個有著大陸地區與小島嶼的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_BOREAL">
+      <Text>寒帶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_BOREAL_HELP">
+      <Text>一個整個都是凍土並林產豐富的廣大地區。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CONTINENTS">
+      <Text>大洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CONTINENTS_HELP">
+      <Text>由數個大陸與一些小島嶼組成的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS">
+      <Text>加強型大洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CONTINENTS_PLUS_HELP">
+      <Text>類似大洲的地形，但是多了額外編輯的島鏈與城邦配置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CUSTOM_CONTINENTS">
+      <Text>自訂大洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_CUSTOM_CONTINENTS_HELP">
+      <Text>比大陸少了點隨機性，但是您可以控制大陸的數量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_DONUT">
+      <Text>甜甜圈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_DONUT_HELP">
+      <Text>一個圓形的盤古大陸。您可以選擇中心的地形類型。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_EARTH">
+      <Text>類地球</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_EARTH_HELP">
+      <Text>一個橫跨整個星球的地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FANTASY">
+      <Text>幻想國度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FANTASY_HELP">
+      <Text>一個沒有海洋的小世界。氣候與資源外觀違反天氣的物理法則。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL">
+      <Text>其他地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOLDER_ADDITIONAL_HELP">
+      <Text>遊戲中可以使用的其他地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOUR_CORNERS">
+      <Text>四分天下</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FOUR_CORNERS_HELP">
+      <Text>這個地圖被水分成四個均等分，在正中間有陸地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FRACTAL">
+      <Text>破碎之地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_FRACTAL_HELP">
+      <Text>一個呈彎窄蛇形大洲狀的高度隨機地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS">
+      <Text>球狀高地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_GLOBAL_HIGHLANDS_HELP">
+      <Text>一個非常大的世界，俯視於丘陵與山脈。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_GREAT_PLAINS">
+      <Text>大平原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_GREAT_PLAINS_HELP">
+      <Text>一個類似北美大平原的地區，但多了隨機的元素。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HEMISPHERES">
+      <Text>半球狀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HEMISPHERES_HELP">
+      <Text>一個擁有兩個大又幾乎平衡的大陸的世界。適合進行決鬥或是讓兩隊玩家對戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HIGHLANDS">
+      <Text>高地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HIGHLANDS_HELP">
+      <Text>一個俯視於丘陵與山脈的大地區。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HUB">
+      <Text>集線器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_HUB_HELP">
+      <Text>每一個文明擁有它自己的次大陸。全部人連線到北極地區的地圖中央。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ICE_AGE">
+      <Text>冰河時代</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ICE_AGE_HELP">
+      <Text>一個嚴重被冰覆蓋的世界，只有靠近赤道的地區適合居住。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_INLAND_SEA">
+      <Text>內海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_INLAND_SEA_HELP">
+      <Text>一個全是陸地的地區，中央有個巨大的鹹水海。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_LAKES">
+      <Text>湖泊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_LAKES_HELP">
+      <Text>一個沒有海洋的世界，僅有較小的水域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_LARGE_ISLANDS">
+      <Text>大型島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_LARGE_ISLANDS_HELP">
+      <Text>一個擁有很多大型島嶼的世界，島嶼大小大致上相等，但是地形多變化。文明會被置於最好的島嶼上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MAZE">
+      <Text>迷宮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MAZE_HELP">
+      <Text>在一個迷宮上發揮出來的新穎地圖類型，由陸地與航道組成。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MEDITERRANEAN">
+      <Text>地中海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MEDITERRANEAN_HELP">
+      <Text>一個差不多位於地中海的地區，但是有個隨機的元素。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MEDIUM_AND_SMALL">
+      <Text>中型與小型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MEDIUM_AND_SMALL_HELP">
+      <Text>一個有著大陸地區與小島嶼的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MIRROR">
+      <Text>鏡像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_MIRROR_HELP">
+      <Text>一個一半反射或映出另一半的世界。主要為多人遊戲所設計。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_NORTH_VS_SOUTH">
+      <Text>南北對抗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_NORTH_VS_SOUTH_HELP">
+      <Text>一個由沙漠水平切開的地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OASIS">
+      <Text>綠洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OASIS_HELP">
+      <Text>一個由貧瘠的沙漠從中間二等分切開的富饒地區。適合進行決鬥或讓兩隊玩家對戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ABUNDANT">
+      <Text>豐富</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_AMOUNT_OF_TINY_ISLANDS">
+      <Text>眾多極小島嶼的數量</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ARCHIPELAGO">
+      <Text>群島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ARID">
+      <Text>乾旱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_BALANCED_RESOURCES">
+      <Text>平衡的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_BARREN">
+      <Text>貧瘠的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_BODIES_OF_WATER">
+      <Text>水域</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_BUFFER_ZONES">
+      <Text>緩衝區</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_BUFFER_ZONES_HELP">
+      <Text>在為每個文明創造的地區間選擇某處來增加較小的大陸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CENTER_REGION">
+      <Text>中央地區</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CLUSTERS">
+      <Text>叢集</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CLUSTERS_HELP">
+      <Text>外型奇特的山脈：又大又胖的叢集，但數量小。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CONTINENTS_SIZE">
+      <Text>大陸的大小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_COOL">
+      <Text>涼爽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_COPY">
+      <Text>複製</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CRAZY">
+      <Text>瘋狂的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CRAZY_HELP">
+      <Text>資源將被放置在不合理的地區，某些類型的資源會有很瘋狂的總量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_CYLINDER">
+      <Text>圓柱體</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_DENSE">
+      <Text>稠密的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_DESERT">
+      <Text>沙漠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_DOMINANT_TERRAIN">
+      <Text>優勢地形</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_DRY">
+      <Text>乾燥的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_DRY_HELP">
+      <Text>唯一的淡水來自沙漠中的綠洲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_EXTRAS">
+      <Text>額外的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FEW_TINY_ISLANDS">
+      <Text>少數極小的島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FIVE_BILLION_YEARS">
+      <Text>50 億年</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FIVE_PER_CONTINENT">
+      <Text>5</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FIVE_PER_CONTINENT_HELP">
+      <Text>一個包含五大洲地圖樣板將被選擇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FLAT">
+      <Text>平坦的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FOUR_BILLION_YEARS">
+      <Text>40 億年</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FOUR_CORNERS">
+      <Text>四分天下</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FOUR_PER_CONTINENT">
+      <Text>4</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_FOUR_PER_CONTINENT_HELP">
+      <Text>一個包含四大洲地圖樣板將被選擇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE">
+      <Text>全球氣候</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_GLOBAL_CLIMATE_HELP">
+      <Text>一個標準的氣候，猶如地圖代表整個世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_HIGH">
+      <Text>高</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_HILLS">
+      <Text>丘陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_HOT">
+      <Text>炎熱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_INVERSION">
+      <Text>反轉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_IRRATIONAL">
+      <Text>不規則破碎的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_IRRATIONAL_HELP">
+      <Text>資源會被放置在不合理的地方，例如香蕉出現在雪原中。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISLAND_REGION_SEPARATE">
+      <Text>小島地區分隔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISLANDS">
+      <Text>島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_MIXED_IN">
+      <Text>島嶼混和</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_OVERLAP">
+      <Text>島嶼重疊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISLANDS_SIZE">
+      <Text>島嶼大小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ISTHMUS_WIDTH">
+      <Text>地峽寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_JUNGLE">
+      <Text>叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LAND_SHAPE">
+      <Text>土地形狀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LANDMASS_TYPE">
+      <Text>大陸類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LARGE_CONTINENTS">
+      <Text>大型大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LARGE_ISLANDS">
+      <Text>大型島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES">
+      <Text>大型湖泊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LARGE_LAKES_HELP">
+      <Text>大型湖泊與一些極小的海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LEFT_VS_RIGHT">
+      <Text>左右對抗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LEGENDARY_START">
+      <Text>傳奇開局</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LOGICAL">
+      <Text>合邏輯的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LOGICAL_HELP">
+      <Text>資源會以通常又合邏輯的方式遵守標準的規則。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_LOW">
+      <Text>低</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MANY_TINY_ISLANDS">
+      <Text>許多極小的島嶼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MAZE_WIDTH">
+      <Text>迷宮寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MEDIUM">
+      <Text>中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MILD">
+      <Text>溫和的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MIRROR_TYPE">
+      <Text>鏡像類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MODERATE">
+      <Text>適度的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_DENSITY">
+      <Text>山脈密度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MOUNTAIN_PATTERN">
+      <Text>山脈格局</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_MOUNTAINS">
+      <Text>山嶽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NARROW_CONTINENTS">
+      <Text>狹窄的大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NATURAL">
+      <Text>自然的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NATURAL_HELP">
+      <Text>有可能會有半島與海灣。這是最隨機化的土地形狀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NEUTRAL_TERRITORY">
+      <Text>中立領地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NO">
+      <Text>否</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NO_BUFFER_ZONES_HELP">
+      <Text>選擇不要在文明間增加任何額外的土地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NO_JUNGLES">
+      <Text>沒有叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NO_TINY_ISLANDS">
+      <Text>沒有極小的島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NORMAL">
+      <Text>正常</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NUM_CONTINENTS">
+      <Text>大陸的數目</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_NUMBER_OF_MAIN_ISLANDS">
+      <Text>主要島嶼的數目</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_OCEAN">
+      <Text>海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_CONTINENT">
+      <Text>每塊大陸一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_CONTINENT_HELP">
+      <Text>將被選定的地圖模組可支援每隊一個大洲（最大數量：6）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_ONE_PER_PLAYER">
+      <Text>每位玩家一個</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_OPPOSITE">
+      <Text>相反</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PANGAEA">
+      <Text>盤古大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_FIVE">
+      <Text>5 塊的寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_FOUR">
+      <Text>4 塊的寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_FOUR_HELP">
+      <Text>連接次大陸的橋樑是四個地塊寬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_ONE">
+      <Text>1 塊的寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_THREE">
+      <Text>3 塊的寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_THREE_HELP">
+      <Text>連接次大陸的橋樑是三個地塊寬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO">
+      <Text>2 塊的寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PLOTS_WIDE_TWO_HELP">
+      <Text>連接次大陸的橋樑是兩個地塊寬。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PRESSED">
+      <Text>按下</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_PRESSED_HELP">
+      <Text>較精細的海岸線形狀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RAINFALL">
+      <Text>降雨量</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RANDOM">
+      <Text>隨機</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RANGES">
+      <Text>距離</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RANGES_HELP">
+      <Text>外型奇特的山脈：中度、彎曲、罕見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_REFLECTION">
+      <Text>陰影</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RESOURCE_APPEARANCE">
+      <Text>資源出現</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RESOURCES">
+      <Text>資源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES">
+      <Text>山脊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIDGELINES_HELP">
+      <Text>排列成構造物的樣式，加上隨機的短線條。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RING_WIDTH">
+      <Text>輪寬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIVERS">
+      <Text>河流</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS">
+      <Text>河流跟海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIVERS_AND_SEAS_HELP">
+      <Text>大湖跟海洋，還有一些河流。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_RIVERS_HELP">
+      <Text>蜿蜒的河流由中央山脈地帶流下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SCATTERED">
+      <Text>稀疏的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SCATTERED_HELP">
+      <Text>外型奇特的山脈：多數小型為者並分散在各地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEA_LEVEL">
+      <Text>海平面</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEAS">
+      <Text>海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEAS_HELP">
+      <Text>大部分水體有著現代鹹水海域的特性，並且外觀差異極大。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEVERAL_EXTRAS">
+      <Text>數個額外的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEVERE">
+      <Text>嚴重</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SEVERITY">
+      <Text>沙漠地帶的嚴峻環境</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SIX_PER_CONTINENT">
+      <Text>6</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SIX_PER_CONTINENT_HELP">
+      <Text>一個包含六大洲地圖樣板將被選擇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SMALL_CONTINENTS">
+      <Text>小型大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SMALL_ISLANDS">
+      <Text>小島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SMALL_LAKES">
+      <Text>小湖泊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SMALL_LAKES_HELP">
+      <Text>許多小型湖泊分散在地圖上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SOLID">
+      <Text>堅固</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SOLID_HELP">
+      <Text>每個文明的大陸都是堅固的點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SPARSE">
+      <Text>稀少</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_SPOKE_WIDTH">
+      <Text>幅寬度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_STANDARD">
+      <Text>標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_START_ANYWHERE">
+      <Text>隨處開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_START_SEPERATED">
+      <Text>分隔開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_START_TOGETHER">
+      <Text>同處開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_STRATEGIC_BALANCE">
+      <Text>戰略平衡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TEAM_PLACEMENT">
+      <Text>團隊組成</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TEAM_SETTING">
+      <Text>團隊設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TEMPERATE">
+      <Text>適宜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TEMPERATURE">
+      <Text>溫度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_THIN">
+      <Text>稀薄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_THREE_BILLION_YEARS">
+      <Text>30 億年</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_THREE_PER_CONTINENT">
+      <Text>3</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_THREE_PER_CONTINENT_HELP">
+      <Text>一個包含三大洲地圖樣板將被選擇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TINY_ISLANDS">
+      <Text>米粒般的小島嶼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TOP_VS_BOTTOM">
+      <Text>頂端與底部</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TOROID">
+      <Text>環形</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TWO_PER_CONTINENT">
+      <Text>2</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_TWO_PER_CONTINENT_HELP">
+      <Text>一個包含二大洲地圖樣板將被選擇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_VARIED">
+      <Text>多變的</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_VARIOUS_TINY_ISLANDS">
+      <Text>許多米粒般的小島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WATER_SETTING">
+      <Text>水體設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WET">
+      <Text>潮濕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WIDE_CONTINENTS">
+      <Text>廣闊的大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WITHOUT_OCEANS">
+      <Text>無海洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WORLD_AGE">
+      <Text>世界年齡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_WORLD_WRAP">
+      <Text>世界包裹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX">
+      <Text>是（最多10文明）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OPTION_YES_10_CIVS_MAX_HELP">
+      <Text>在文明之間增加額外的島嶼（僅在最多10個文明時有效）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OVAL">
+      <Text>橢圓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_OVAL_HELP">
+      <Text>一塊周圍有不規則海灣的橢圓形盤古大陸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_PANGAEA">
+      <Text>盤古大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_PANGAEA_HELP">
+      <Text>所有玩家由一塊寬廣的大陸開始遊戲，主大陸周邊也許有小島嶼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_PANGAEA_PLUS">
+      <Text>加強型盤古大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_PANGAEA_PLUS_HELP">
+      <Text>與盤古大陸相似但有散佈成串的島嶼鏈與城邦分佈。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_POLYNESIA">
+      <Text>波里尼西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_POLYNESIA_HELP">
+      <Text>與太平洋波里尼西亞群島相似且組合不一的區域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_RAINFOREST">
+      <Text>雨林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_RAINFOREST_HELP">
+      <Text>一個完全被叢林掩蓋的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_RING">
+      <Text>環形地帶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_RING_HELP">
+      <Text>每一個文明擁有它自己的次大陸。所有次大陸都以順時鐘方式相連結。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ROCKY_MOUNTAINS">
+      <Text>洛磯山脈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ROCKY_MOUNTAINS_HELP">
+      <Text>一處與北美洛磯山脈相似且組合不一的區域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SAHARA">
+      <Text>撒哈拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SAHARA_HELP">
+      <Text>一處與非洲撒哈拉沙漠相似且組合不一的區域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SANDSTORM">
+      <Text>沙塵暴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SANDSTORM_HELP">
+      <Text>一個主要由沙漠及稀疏植物與綠洲組成的嚴苛世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT">
+      <Text>地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT">
+      <Text>沙漠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_DESERT_HELP">
+      <Text>一個四處零星散佈著丘陵的巨大沙漠！水源設定非常重要。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST">
+      <Text>森林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_FOREST_HELP">
+      <Text>一處四處零星散佈著草原的青蔥雨林。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS">
+      <Text>草原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_GRASSLANDS_HELP">
+      <Text>大草原上零星散佈著丘陵跟森林。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS">
+      <Text>丘陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_HILLS_HELP">
+      <Text>崎嶇的高地上零星散佈著草原山谷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE">
+      <Text>叢林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP">
+      <Text>一處超茂密的叢林，四處零星散佈著丘陵與森林。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS">
+      <Text>平原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP">
+      <Text>大平原上零星散佈著少數混合型地形。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA">
+      <Text>凍土</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP">
+      <Text>一處僅有少許綠色植物的寒帶地形。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SIBERIA">
+      <Text>西伯利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SIBERIA_HELP">
+      <Text>一處與亞洲北部西伯利亞相似且組合不一的區域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SIZE_FORMAT">
+      <Text>地圖尺寸：{1_string}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SKIRMISH">
+      <Text>小規模戰鬥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SKIRMISH_HELP">
+      <Text>一個為了雙人戰鬥設計的平衡地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SMALL_CONTINENTS">
+      <Text>小型大陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SMALL_CONTINENTS_HELP">
+      <Text>這世界包含一些中型大陸與小島嶼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SOUTH_PACIFIC">
+      <Text>南太平洋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_SOUTH_PACIFIC_HELP">
+      <Text>一處與南太平洋，相似的區域，其中包括澳洲、東南亞與許多小島嶼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TEAM_BATTLEGROUND">
+      <Text>團體戰場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TEAM_BATTLEGROUND_HELP">
+      <Text>為多人快速團體戰量身訂製的小型、多陸地區域遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TERRA">
+      <Text>星球</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TERRA_HELP">
+      <Text>一處與地球類似的廣大世界，所有的文明像亞歐非大陸一樣的開始。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TILTED_AXIS">
+      <Text>傾斜地軸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TILTED_AXIS_HELP">
+      <Text>一個其南極總是傾斜與太陽相對的廣袤世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TINY_ISLANDS">
+      <Text>米粒般的小島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TINY_ISLANDS_HELP">
+      <Text>這個世界包含許多米粒般的小島。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TITLE">
+      <Text>選擇要改裝的地圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_TYPE_TITLE">
+      <Text>選擇地圖類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_WEST_VS_EAST">
+      <Text>西方與東方</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_WEST_VS_EAST_HELP">
+      <Text>一個中間由廣大水域垂直隔開的世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_WHEEL">
+      <Text>輪子</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_WHEEL_HELP">
+      <Text>每一個文明擁有它自己的次大陸。由輻射狀與環狀路橋來連接這些區域。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAX_TURN_FORMAT">
+      <Text>最多回合：{1_number}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MINUTES">
+      <Text>分鐘數</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISC_ADV_SETUP">
+      <Text>進階設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISC_BACK">
+      <Text>返回</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISC_RANDOMIZE">
+      <Text>隨機化</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISC_START_GAME">
+      <Text>開始遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MOD_INTERNET_LOBBY">
+      <Text>網際網路模組遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MOD_LAN_LOBBY">
+      <Text>區域網路模組遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MOD_MP_GAME_SETUP_HEADER">
+      <Text>設定多人模組遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODS">
+      <Text>模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODS_SELECT_MULTIPLAYER_TYPE">
+      <Text>多人模組遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODS_TT">
+      <Text>使用玩家創建的模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_DISABLE_SLOT">
+      <Text>關閉位置</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_ENABLE_SLOT">
+      <Text>開啟位置</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_HOST_LOST">
+      <Text>連結至主機的網路已斷線。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_JOIN_FAILED">
+      <Text>加入多人模式出錯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_JOIN_FAILED_MISSING_RESOURCES">
+      <Text>參加多人遊戲發生錯誤。尚未安裝某些所需的擴充包/模組。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_KICK_PLAYER">
+      <Text>移除玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_KICKED">
+      <Text>創建者已將您從遊戲中移出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_LAST_PLAYER">
+      <Text>您是遊戲中所剩的最後一位真人玩家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_LOCK_SLOT">
+      <Text>鎖定AI玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_NETWORK_CONNECTION_LOST">
+      <Text>網路連線中斷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_NICK_NAME">
+      <Text>綽號</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_PASSWORD">
+      <Text>密碼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_READY_CHECK">
+      <Text>就緒狀態</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_READY_CHECK_UNAVAILABLE_DATA_HELP">
+      <Text>無法準備就緒，因您並未安裝另一位玩家正使用的擴充包。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_RETYPE_PASSWORD">
+      <Text>重新輸入</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_ROOM_FULL">
+      <Text>此遊戲已達玩家數量上限。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+      <Text>切換到這個玩家的席位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_UNLOCK_SLOT">
+      <Text>解鎖AI玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_USE_PASSWORD">
+      <Text>使用密碼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_USE_PASSWORD_TT">
+      <Text>使用密碼以開始玩家的回合。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_VERSION_MISMATCH_FOR_HOST">
+      <Text>版本與玩家不匹配：{1_PlayerName}。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MP_VERSION_MISMATCH_FOR_PLAYER">
+      <Text>版本與創建人不匹配。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER">
+      <Text>多人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_AUTOSAVES">
+      <Text>自動儲存</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_BROWSE_GAMES">
+      <Text>瀏覽遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_CANCEL_LOAD_TT">
+      <Text>取消載入多人模式的儲存。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_CONNECT_TO_IP">
+      <Text>連線至IP位址</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_CONNECT_TO_IP_TT">
+      <Text>連線至位於給定公用IP位址的PITBOSS遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DEDICATED_SERVER_ROOM">
+      <Text>專用伺服器房</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DEFAULT_PLAYER_NAME">
+      <Text>玩家{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DEFAULT_SERVER_NAME">
+      <Text>伺服器{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DEFAULT_SERVER_PLAYER_NAME">
+      <Text>伺服器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DEFAULT_TEAM_NAME">
+      <Text>團隊{1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_DLCHOSTED">
+      <Text>擴充包</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_GAME_SETUP_HEADER">
+      <Text>多人模式設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_GAMES_FOUND">
+      <Text>找到遊戲：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOST_GAME">
+      <Text>建立遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOST_GAME_TT">
+      <Text>開始多人遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN">
+      <Text>建立區域網遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOST_LAN_DESC">
+      <Text>選擇遊戲選項並建立一項遊戲。所有在您區域網中的玩家，可在大廳中看到新增的遊戲，並可加入。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOST_PRIVATE_GAME">
+      <Text>創建私人遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOTSEAT_GAME">
+      <Text>熱座模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_HOTSEAT_GAME_TT">
+      <Text>開始一場多人遊戲，玩家輪流使用該機器。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_DESC">
+      <Text>選擇您想玩的遊戲種類，系統會將您與其他正在搜尋相同遊戲種類的玩家配對。如想建立一個能夠邀請朋友加入的遊戲，而非隨意讓任何玩家加入，查看「建立私人遊戲」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_GAME">
+      <Text>網際網路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_GAME_TT">
+      <Text>開始一場網際網路多人遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INTERNET_LOBBY">
+      <Text>網際網路遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INVITE">
+      <Text>邀請</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_INVITE_TT">
+      <Text>邀請朋友加入遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_JOIN_GAME">
+      <Text>加入遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_JOINING_GAMESTATE">
+      <Text>正在擷取主機資訊...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_JOINING_HOST">
+      <Text>正在連接主機...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_JOINING_PLAYERS">
+      <Text>正在連接玩家...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_JOINING_ROOM">
+      <Text>加入房間…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LAN_GAME">
+      <Text>區域網路</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LAN_GAME_TT">
+      <Text>開始一場區域網路多人遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LAN_LOBBY">
+      <Text>區域網路遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LAUNCH_GAME">
+      <Text>遊戲開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LOBBY_NO">
+      <Text>否</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_LOBBY_YES">
+      <Text>是</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_MEMBERS">
+      <Text>成員</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_MODSHOSTED">
+      <Text>模組</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_OBSERVER_TEAM_NAME">
+      <Text>旁观玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_GAME">
+      <Text>Pitboss</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_GAME_TT">
+      <Text>進行多人遊戲，並由專門伺服器長時間控制遊戲進行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_PITBOSS_LOBBY">
+      <Text>PITBOSS遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_PLAYER_STATUS_READY">
+      <Text>就緒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_PRIVATE_GAME">
+      <Text>私人遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_RECONNECT">
+      <Text>重新與前次遊戲連線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_REFRESH_GAME_LIST">
+      <Text>刷新</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+      <Text>獲取最新遊戲列表資訊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_RESUME_LAST_GAME">
+      <Text>重新開始前次遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_SEARCHING_GAME">
+      <Text>搜尋遊戲…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_SELECT_MULTIPLAYER_TYPE">
+      <Text>多人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_SELECT_SAVED_GAME">
+      <Text>選擇已儲存的遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_SERVER_NAME">
+      <Text>伺服器名稱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM">
+      <Text>準備房間</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM_GAME_OPTIONS_TT">
+      <Text>更改遊戲選項。（唯遊戲創建人可選）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM_HEADER_CIVILIZATION">
+      <Text>文明帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM_HEADER_PLAYER">
+      <Text>玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STAGING_ROOM_HEADER_PLAYER_TT">
+      <Text>顯示玩家名單。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STANDARD_GAME">
+      <Text>標準模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STANDARD_GAME_TT">
+      <Text>進行多人遊戲，玩家按回合制輪流採取行動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STATUS_LISTING">
+      <Text>狀態</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+      <Text>停止刷新</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+      <Text>停止獲取遊戲列表資訊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_STRING">
+      <Text>多人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_TO_ALL">
+      <Text>致所有人：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MULTIPLAYER_TT">
+      <Text>區域網路或網際網路多人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NAME_CIV_TITLE">
+      <Text>為您的文明命名！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NAME_REENTER_MAIL_PASSWORD">
+      <Text>重新輸入您的電子郵件密碼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NO_REPLAYS">
+      <Text>無可用重播檔案</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NO_SAVED_GAMES">
+      <Text>無遊戲存檔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NUMBERING_FORMAT">
+      <Text>{1_number}。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OPTIONS">
+      <Text>選項</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OPTIONS_TT">
+      <Text>遊戲和系統設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OTHER">
+      <Text>其他</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OTHER_MENU_VIEW_REPLAYS">
+      <Text>觀看重播</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OTHER_MENU_VIEW_REPLAYS_TT">
+      <Text>觀看之前遊戲重播。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_OTHER_TT">
+      <Text>其他資訊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_CHIEFTAN">
+      <Text>酋長</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_CIVILIZATION_POINTS">
+      <Text>我的文明點數：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_CIVNAME">
+      <Text>文明帝國名稱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_CONTINENTS">
+      <Text>大洲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_DEBUG_MICRO">
+      <Text>除錯微型軟體</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_DIFFICULTY">
+      <Text>選擇難度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_DIPLOSTATUS">
+      <Text>外交狀況</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_EMPEROR">
+      <Text>皇帝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_FRACTAL">
+      <Text>破碎之地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_GAME_SPEED">
+      <Text>選擇遊戲速度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_HUB">
+      <Text>集線器</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_IMMORTAL">
+      <Text>不朽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_LEADERNAME">
+      <Text>領袖姓名</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_MAPSIZE">
+      <Text>選擇地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_MAPTYPE">
+      <Text>選擇地圖類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_SMALL">
+      <Text>小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_SPEED_EPIC">
+      <Text>史詩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_SPEED_QUICK">
+      <Text>快</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_SPEED_STANDARD">
+      <Text>標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_STANDARD">
+      <Text>標準</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_TINY">
+      <Text>極小</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PGSCREEN_WHEEL">
+      <Text>輪子</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLAY_NOW">
+      <Text>快速開始</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLAY_NOW_SETTINGS">
+      <Text>以當前設定進行遊戲：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLAY_NOW_TT">
+      <Text>以最近選項進行遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLAYER_TYPE_HUMAN">
+      <Text>真人玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_CIV">
+      <Text>隨機文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_LEADER">
+      <Text>隨機領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_LEADER_CIV">
+      <Text>{1_Leader} - {2_Civ}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_LEADER_HELP">
+      <Text>遊戲將為您隨機選擇一名領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_MAP_SCRIPT">
+      <Text>隨機地圖類型</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_MAP_SCRIPT_HELP">
+      <Text>遊戲會隨機選取一個地圖類型供您遊戲（非地球）。您無法知道所選地圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_MAP_SIZE">
+      <Text>隨機地圖尺寸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RANDOM_MAP_SIZE_HELP">
+      <Text>遊戲會隨機選取一個地圖尺寸供您遊戲。您無法知道所選尺寸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_REFRESH_GAME_LIST_TT">
+      <Text>返回遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SAVE_GAME_CONFIGURATION_TT">
+      <Text>儲存遊戲起始配置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCENARIOS">
+      <Text>劇本模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SECONDS">
+      <Text>秒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELECT_MAP_TYPE_BACK">
+      <Text>返回</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELECT_MAP_TYPE_BACK_HELP">
+      <Text>回到上層資料夾。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELECT_SAVE_GAME">
+      <Text>請選擇一項已存遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SETUP_GAME">
+      <Text>遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SETUP_GAME_TT">
+      <Text>修改遊戲設定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SINGLE_PLAYER">
+      <Text>單人模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_AI">
+      <Text>AI玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_AI_TT">
+      <Text>AI玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_CLOSED">
+      <Text>關閉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_CLOSED_TT">
+      <Text>玩家無法使用已關閉的位置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_HUMAN_TT">
+      <Text>真人玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_HUMANREQ">
+      <Text>真人玩家位置</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_HUMANREQ_TT">
+      <Text>真人玩家位置需要真人玩家加入後，才可開始遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_OBSERVER">
+      <Text>旁觀玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_OBSERVER_TT">
+      <Text>旁觀玩家只可旁觀而不可參與遊戲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_OPEN">
+      <Text>打開</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SLOTTYPE_OPEN_TT">
+      <Text>加入遊戲的玩家可佔有空缺位置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SOMEONE_STILL_LOADING">
+      <Text>仍有玩家在載入遊戲中</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SORTBY_LASTMODIFIED">
+      <Text>以最新修改排序</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SORTBY_NAME">
+      <Text>以名稱排序</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STAGING_ROOM_TIME_MS">
+      <Text>毫秒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STAGING_ROOM_TIME_S">
+      <Text>秒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STAGING_ROOM_UNDER_1_MS">
+      <Text>&lt;1毫秒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_START_ERA_FORMAT">
+      <Text>開始時代：{1_string}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_START_GAME">
+      <Text>開始遊戲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_START_SCENARIO">
+      <Text>開始劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STEAM_EMPTY_SAVE">
+      <Text>空儲存槽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STEAMCLOUD">
+      <Text>Steam雲端</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STEAMCLOUD_SAVE">
+      <Text>{1_SaveNumber}· {2_SaveName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TITLE_BAR">
+      <Text>標題</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TITLE_BODY_DESCRIPTION">
+      <Text>標題之下的相關內容</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL">
+      <Text>教學模式</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_TT">
+      <Text>遊戲概念介紹劇本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNAVAILABLE_LEADER">
+      <Text>不可用的領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNAVAILABLE_LEADER_HELP">
+      <Text>擴充包「{1_string}」尚未安裝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNAVAILABLE_LEADER_TT">
+      <Text>無法選擇此領袖，因部分玩家無所需擴充包「{1_string}」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UPDATING_GAME_DATA">
+      <Text>遊戲數據配置中…請稍候。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_VICTORYS_FORMAT">
+      <Text>勝利方式：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAITING_FOR_INVITE_RESPONSE">
+      <Text>等待{1_player}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_SIZE">
+      <Text>世界規模</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

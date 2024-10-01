@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_CHANGCHUN">
+      <Text>長春</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FE_ALA">
+      <Text>佛阿拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FUSHUN">
+      <Text>撫順</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GIRIN_ULA">
+      <Text>吉林烏拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARBIN">
+      <Text>哈爾濱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JINAN">
+      <Text>濟南</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIANYUNGANG">
+      <Text>連雲港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIAOYANG">
+      <Text>遼陽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIAOYUAN">
+      <Text>遼源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUKDEN">
+      <Text>盛京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NANLING">
+      <Text>南陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NINGDOTA">
+      <Text>寧古塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NINGYUAN">
+      <Text>寧遠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_QINGHE">
+      <Text>清河</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SARHU">
+      <Text>薩爾滸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHANHAIGUAN">
+      <Text>山海關</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SIPING">
+      <Text>四平</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIELING">
+      <Text>鐵嶺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UIJU">
+      <Text>義州</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XINGJING">
+      <Text>興京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YENDEN">
+      <Text>赫圖阿拉</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

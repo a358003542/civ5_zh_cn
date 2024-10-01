@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_HEADING">
+      <Text>巴比倫弓手</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_HELP">
+      <Text>遊戲中最早的遠程單位之一，巴比倫的特色單位，替代普通弓箭手。巴比倫弓手比一般弓箭手抵禦近戰攻擊的能力更強。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_INFO">
+      <Text>巴比倫弓手是遠古時代遠程步兵單位，能夠遠距離殺傷敵軍。該巴比倫特色單位比一般弓箭手相比更能防禦近戰攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_STRATEGY">
+      <Text>巴比倫弓手是巴比倫的特色單位，替代了普通弓箭手。該單位擁有比弓箭手更強的攻防能力，能夠支援一線作戰；其更高的戰鬥力能夠避免其被輕易壓制。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_TEXT">
+      <Text>多虧了一幅表現他們的軍隊投入戰鬥的亞述鑲嵌畫，我們今天才能夠相當精確地描繪巴比倫弓手的形象。巴比倫弓手穿著彩色長袍，攜帶四英呎長的弓，身後背著一個箭袋。他們還帶著長矛或短劍，相信是為了在敵軍接近時保護自己之用。
+[NEWLINE][NEWLINE]另外一些士兵拿著與人等高的盾牌配合弓手作戰，構成一座有效率的移動堡壘。弓手部隊是巴比倫軍隊的主力，在數量上比騎兵更容易訓練和補充。弓手還負責駐守著名的巴比倫城牆沿線的眾多高塔。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_FACTOID_HEADING">
+      <Text>巴比倫軼聞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_FACTOID_TEXT">
+      <Text>在建造羅德島太陽神銅像之前，巴比倫人所建設的伊什塔爾城門被認為是古代世界的七大奇跡。位於巴比倫內城的8座大門，伊什塔爾城門設計成出入口兼巴比倫女神伊什塔爾的神殿，她所代表的是性、豐饒和愛。[NEWLINE][NEWLINE]著名的巴比倫城牆在當時也被認為是世界七大奇跡之一。在古希臘歷史學家希羅多德的記載中，這些環繞著城市的牆壁高達300英呎，80英呎厚，而長達56英哩，儘管以現今的考古學來看值得懷疑。
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_2">
+      <Text>地形和氣候</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_3">
+      <Text>古巴比倫帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_4">
+      <Text>紀錄保持和數學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_5">
+      <Text>週期性的混亂，加上偶然的大屠殺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_6">
+      <Text>新巴比倫帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_7">
+      <Text>尼布甲尼撒二世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_8">
+      <Text>巴比倫帝國的沒落</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_9">
+      <Text>結論</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_STATBOX">
+      <Text>[NEWLINE]        領袖：尼布甲尼撒二世[NEWLINE]        特色單位：巴比倫弓手[NEWLINE]        特色建築：巴比倫城牆[NEWLINE][NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_1">
+      <Text>與其說巴比倫帝國是一個新文明，不如說是烏爾城的原蘇美帝國的復興，其位於今伊拉克南部地區這塊肥沃月灣之上。巴比倫是由十多個城邦聯合組成的，並以它們的首都巴比倫城的名字為國家名稱（早帝國建立前，巴比倫城至少在西元前24世紀就已存在了）。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_2">
+      <Text>巴比倫位於新月沃土，在幼發拉底河與底格里斯河的環繞之下，這個地區有極為肥沃的土壤，向西延伸到地中海，向下穿過現在的以色列。新月沃土不但有著得天獨厚的土地和兩條古代兩河流域的灌溉，而且它也位於三塊主要大陸的交界點：非洲、亞洲與歐洲，表示這三塊大陸的昆蟲、植物與動物天然資源都聚集其上。因此這個地區的生物的豐富多樣性是世界上任何地方都無與倫比的。這也表示居住在此地的人們擁有數量龐大的植物與動物進行探索實驗，並瞭解到如何耕種並駕馭動物，也解釋了為什么這個地區的人民發展十分迅速。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_3">
+      <Text>這個地區原本是一盤散沙，西元前1728年在漢摩拉比的治理之下，巴比倫城和整個巴比倫地區開始發展成文化、貿易與宗教的中心。漢摩拉比是我們所知第一個統一巴比倫的統治者，也是其中最偉大的立法者。漢摩拉比法典特別詳注了罪犯的各種行為，應該施以什麼樣的懲罰。市民可以依據法律，不再受到法官或是貴族那善變、突發奇想的判斷所苦。巴比倫人的法典如此廣泛，所以在帝國長達1200年的光陰中，法律條文與政府系統鮮少變更。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_4">
+      <Text>正如蘇美帝國的後裔，巴比倫是一個醉心於保持記錄的國家。從漢摩拉比開始，一直持續到帝國在居魯士大帝與偉大的波斯帝王的手中分化，每一條財政交易、每一筆法院裁定、每一條合約，幾乎一切都會記錄下來書寫在泥板上。由於法律的附屬條文幾乎包括了生活起居的一切，因而留下了數量龐大的資料，在現代一一被開採出土。學者甚至發現幾種類似放大鏡的光學儀器，用來讓保管記錄的人以更小的楔型文字來撰寫，讓每一塊泥板上能夠容納更多的資料。[NEWLINE][NEWLINE]儘管政權數度變更，巴比倫人所受的教育程度極高。科技上的成就，像是創造了以60為基礎的「六十分數」數學系統，一直延用到現在。每六十秒為一分鐘；每六十分鐘為一小時，現代的時間觀念其實是巴比倫人的時間觀念。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_5">
+      <Text>西元前1750年漢摩拉比逝世，帝國的勢力與影響也慢慢的衰弱。在西臺的侵略之下城市變得殘破，並在約西元前1600年，被出現在現今伊朗山上的加喜特人征服。加喜特人控制巴比倫達500年，將這座城市改名為卡蘭杜尼亞什。[NEWLINE][NEWLINE]在1234亞述人國王圖庫爾提·尼努爾塔一世暫時佔領了這座城市，剛好在西元前1158年埃蘭人洗劫城市之後加喜特人再度獨立。之後巴比倫人再度取回城市的控制權（可能是因為埃蘭人已經把任何侵略者想要的東西都搶光了）。在西元前1124年，巴比倫人的尼布甲尼撒一世洗劫了埃蘭城市蘇薩，為他們早期攻擊巴比倫報以一箭之仇。但是在西元前1000年，巴比倫再度受到復甦的亞述人威脅。一直到西元前627年，巴比倫都一直籠罩在亞述的統治陰影之下。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_6">
+      <Text>西元前627年，巴比倫人發動了一場起義成功脫離了亞述的統治。起義領導者是那波帕拉薩爾，他統治巴比倫大約二十年，接著就把王位傳給他在後來更著名的兒子。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_7">
+      <Text>尼布甲尼撒二世是那波帕拉薩爾之子，在西元前605到561年間統治巴比倫。早期他以軍事領袖自居，帶領父親在亞述所留下來的軍隊，稍後在獨自號令之下對抗埃及，在迦基米施摧毀了埃及軍隊並讓巴比倫控制整個敘利亞。[NEWLINE][NEWLINE]尼布甲尼撒對巴比倫城展開全力建設，在他的治理下，整座城市宛如新生。尼布甲尼撒參與各種復興城市的計畫、復原了古老的神廟與建築，建造了大規模的城市防禦等等。他也建立了巴比倫空中花園。他雇用了鄰國的工人做為粗活的勞工，卻戲劇性地對於城市人口的增長有額外的貢獻。尼布甲尼撒死於西元前561年。更多有關尼布甲尼撒的資料，可以參考有關他的百科內容。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_8">
+      <Text>尼布甲尼撒之後的統治者都沒有太多作為，不到三十年時間內巴比倫的國力和聲望迅速下降。據說西元前539年波斯國王居魯士二世發動攻擊時，巴比倫城是在沒有抵抗的情況下被功陷。巴比倫被波斯統治直至西元前331年被亞歷山大大帝終結，亞歷山大去世後又歸屬於塞琉古王朝。從此之後，巴比倫幾乎完全毀滅了，只剩下一片廢墟等待著考古學家去解開其中神秘的面紗。2003年美國佔領伊拉克後，又有許多巴比倫的文物遭到破壞。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_9">
+      <Text>巴比倫人在全世界的法律制定方面都扮演了十分重要的角色。《漢摩拉比法典》的創造，以及後續者的熱情，不管是否具有血源上的關係都維護法律的推行，並為整個歷史作出了示範，一個有著良好組織的政府體制能使一個國家變得無比成功和富裕。巴比倫的其他歷史提醒了我們沒有任何東西可以永存，就算是最偉大的帝國，有一天也不過是下一個帝國雙輪戰車、或是戰車履帶之下的塵埃。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_TITLE">
+      <Text>巴比倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_HEADING">
+      <Text>巴比倫城牆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_INFO">
+      <Text>巴比倫城牆提高城市遠程攻擊的殺傷力及防禦力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_STRATEGY">
+      <Text>巴比倫城牆是巴比倫特色建築，替代城牆。與普通城牆相比，巴比倫城牆不但能夠顯著增強城市防禦力，還能使城市在進行遠程攻擊時的殺傷力更大。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_TEXT">
+      <Text>原本名列安提帕特的古代世界七大奇跡之中的巴比倫城牆，不但將城市環繞起來、保護城市不受傷害，甚至還橫跨了幼發拉底河（穿過城市中心）。外牆有10英哩長，約為25英呎厚，傳說有些部位高出城市320英呎。在主牆壁後面還有一些包圍城市的矮牆，可以在第一道防線失守之後繼續發揮防禦線的作用。將近有250座塔分散在城牆上，提供極佳的視野，也是技術精湛的巴比倫弓手作戰中心。對當年的任何攻城技術來說，城牆是不可能穿越的障礙，在河流的底端裝設了巨大的鐵柵門以預防任何從河底潛入的入侵者，並打造了八座巨大的城門，用來管制行人的流量（最著名的就是的伊什塔爾城門）。這些城牆有效地保護了城市將近一百年。[NEWLINE][NEWLINE]一直到西元前539年才找出繞過城牆的方式；居魯士大帝想出一個計畫，從幼發拉底河上流將水引道，把水位降到任何人都可以涉足的程度。他的軍隊在夜色的掩護下，溜過河道的金屬柵門，並從內部攻下城市。雖然城牆可以阻擋任何猛烈的直接攻擊，但卻擋不住一個人的決心與足智多謀。[NEWLINE][NEWLINE]許多遠古的城牆到現在仍然健在，就是它們強大防禦力的明證。在1983年，薩達姆·海珊展開在古城遺址的改建計畫，包括修復原本的城牆，並重建伊什塔爾城門。這個計畫一直未付諸實行，但是伊拉克希望能夠繼續修復城牆，並再次讓巴比倫成為奇觀聖地。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_HEADING">
+      <Text>尼布甲尼撒二世傳說</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_TEXT">
+      <Text>尼布甲尼撒的名字，用阿卡得語，粗譯為「啊，拿布主神，留下我的第一個兒子」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_2">
+      <Text>早期經歷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_3">
+      <Text>掌握政權</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_4">
+      <Text>外交</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_5">
+      <Text>內政</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_6">
+      <Text>歷史評價</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_LIVED">
+      <Text>約634 BC-562 BC</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_NAME">
+      <Text>尼布甲尼撒二世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_SUBTITLE">
+      <Text>巴比倫領袖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_1">
+      <Text>尼布甲尼撒二世是巴比倫的國王，在位期間約43年（西元前605年至西元前562年）。他最著名的就是一連串的征戰以及巴比倫城的重建。根據聖經的記載，尼布甲尼撒二世還曾經征服猶太王國，迫使以色列人遷往巴比倫，更因此而聞名世界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_2">
+      <Text>尼布甲尼撒是創立巴比倫迦勒底王朝的國王那波帕拉薩爾的長子。起初，他在父親麾下參與了多場軍事行動，西元前606年他指揮軍隊在卡切米什打敗了埃及軍隊，將整個敘利亞都納入巴比倫的版圖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_3">
+      <Text>西元前605年，那波帕拉薩爾去世，尼布甲尼撒於是回到巴比倫繼承王位。即位不久之後，他又繼續發展軍事行動，征服了包括猶太王國在內的一系列小國。西元前600年，尼布加尼撒繼續往外擴張勢力，但被埃及軍隊擊敗，猶太和其他一些被征服的小國趁機發動叛亂。[NEWLINE][NEWLINE]尼布甲尼撒花了兩年的時間重整軍隊，西元前598年他捲土重來，然後在西元前597年佔領了耶路撒冷，廢黜猶太國王約雅斤，並將約雅斤和其他士紳帶往巴比倫囚禁（可能是為了防止猶太人再次叛亂）。在尼布甲尼撒的統治後期，他持續繼續軍事行動，並成功消滅了地中海東岸、小亞細亞和中東地區的許多強權勢力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_4">
+      <Text>尼布加尼撒不僅是一位軍事領袖，他在外交領域也十分活躍，並且與鄰近王國也交換了許多使節。他最廣為人知的其中一項事蹟，就是曾經派遣一位使節調停小亞細亞地區的米底和呂底亞之間的衝突。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_5">
+      <Text>除了四處征戰之外，尼布加尼撒還著重於重建巴比倫城，並強化其防禦系統。他重建造了許多神廟、鋪設了道路、開鑿了運河，並沿著城牆修建了一道護城河。此外，他還建造了巴比倫的空中花園，傳說是因為他的王后思念家鄉米底的青山，為了取悅王后所以建造了這座空中花園。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_6">
+      <Text>雖然尼布加尼撒征服了猶太王國，並囚禁了以色列人，但是聖經仍然對他讚賞有加。據說他保護了受迫害的猶太先知和市民，先知耶利米顯然相信尼布加尼撒是受神指派來懲罰作惡者的。
+尼布加尼撒二世於西元前562年在巴比倫去世。他是一位成功的軍事領袖，不但大幅拓展了帝國的疆土面積，還加強和改造了首都的設施，對待臣民也很好。「尼布加尼撒大帝」之稱，對他而言是當之無愧的。
+</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TITLES_1">
+      <Text>尼布甲尼撒二世</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_BUILDING_ACADEMY">
+      <Text>學院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ANGKOR_WAT">
+      <Text>吳哥窟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_AQUEDUCT">
+      <Text>引水渠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ARMORY">
+      <Text>軍械庫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ARSENAL">
+      <Text>兵工廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BANK">
+      <Text>銀行</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BARRACKS">
+      <Text>軍營</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BIG_BEN">
+      <Text>大笨鐘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BRANDENBURG_GATE">
+      <Text>勃蘭登堡門</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BROADCAST_TOWER">
+      <Text>廣播塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CASTLE">
+      <Text>城堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CHICHEN_ITZA">
+      <Text>契琴伊薩城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CIRCUS">
+      <Text>馬戲場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CIRCUS_MAXIMUS">
+      <Text>大競技場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_COLOSSEUM">
+      <Text>競技場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_COLOSSUS">
+      <Text>太陽神銅像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_COURTHOUSE">
+      <Text>法院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CRISTO_REDENTOR">
+      <Text>耶穌巨像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_EIFFEL_TOWER">
+      <Text>艾菲爾鐵塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FACTORY">
+      <Text>工廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FORBIDDEN_PALACE">
+      <Text>紫禁城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FORGE">
+      <Text>煉冶廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GARDEN">
+      <Text>花園</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GRANARY">
+      <Text>穀倉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY">
+      <Text>大圖書館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GREAT_LIGHTHOUSE">
+      <Text>大燈塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GREAT_WALL">
+      <Text>長城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GROCER">
+      <Text>雜貨店</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HAGIA_SOPHIA">
+      <Text>聖索菲亞大教堂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HANGING_GARDEN">
+      <Text>空中花園</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HARBOR">
+      <Text>港口</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HERMITAGE">
+      <Text>埃爾米塔日博物館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC">
+      <Text>英雄史詩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HIMEJI_CASTLE">
+      <Text>姬路城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HOSPITAL">
+      <Text>醫院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HYDRO_PLANT">
+      <Text>水力發電廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_IRONWORKS">
+      <Text>煉鐵廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_KREMLIN">
+      <Text>克里姆林宮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_KREPOST_DESC">
+      <Text>俄羅斯營壘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LABORATORY">
+      <Text>研發實驗室</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LIBRARY">
+      <Text>圖書館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE">
+      <Text>燈塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LOUVRE">
+      <Text>羅浮宮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MACHU_PICHU">
+      <Text>馬丘比丘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MARKET">
+      <Text>市場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MEDICAL_LAB">
+      <Text>醫學實驗室</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MILITARY_ACADEMY">
+      <Text>軍校</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MILITARY_BASE">
+      <Text>軍事基地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MINT">
+      <Text>鑄幣廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_DESC">
+      <Text>蒙兀兒城塞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MUSEUM">
+      <Text>博物館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE">
+      <Text>國立學院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC">
+      <Text>民族史詩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY">
+      <Text>國家金庫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NOTRE_DAME">
+      <Text>聖母院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT">
+      <Text>核能發電廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_OBSERVATORY">
+      <Text>天文臺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE">
+      <Text>歌劇院</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ORACLE">
+      <Text>祭司神殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY">
+      <Text>牛津大學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PALACE">
+      <Text>宮殿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PARK">
+      <Text>公園</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PENTAGON">
+      <Text>五角大廈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PORCELAIN_TOWER">
+      <Text>大報恩寺塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL">
+      <Text>公立學校</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PYRAMID">
+      <Text>大金字塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SEAPORT">
+      <Text>海運碼頭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SISTINE_CHAPEL">
+      <Text>西斯汀禮拜堂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT">
+      <Text>太陽能發電廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY">
+      <Text>太空船工廠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STABLE">
+      <Text>馬廄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STATUE_OF_LIBERTY">
+      <Text>自由女神像</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STOCK_EXCHANGE">
+      <Text>證券交易所</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STONE_WORKS">
+      <Text>石工作坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STONEHENGE">
+      <Text>巨石陣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_TAJ_MAHAL">
+      <Text>泰姬瑪哈陵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_TEMPLE">
+      <Text>神廟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_THEATRE">
+      <Text>劇場</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS">
+      <Text>聯合國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_UNIVERSITY">
+      <Text>大學</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WALLS">
+      <Text>城牆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WATERMILL">
+      <Text>水力磨坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WINDMILL">
+      <Text>風力磨坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WORKSHOP">
+      <Text>工作坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_UTOPIA_PROJECT">
+      <Text>烏托邦計畫</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

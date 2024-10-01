@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_ALMARIKH">
+      <Text>阿爾馬利克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ATLAY">
+      <Text>阿特雷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BARUUNURT">
+      <Text>巴蘭烏特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BATSHIREET">
+      <Text>巴特希里特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAYANHONGOR">
+      <Text>巴彥洪哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BESHBALIK">
+      <Text>別斯八里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHOYBALSAN">
+      <Text>喬巴山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHOYR">
+      <Text>喬倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DALANDZADGAD">
+      <Text>達蘭扎達加德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DARHAN">
+      <Text>達爾汗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERDENET">
+      <Text>額爾登特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EREEN">
+      <Text>艾里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARAYRAG">
+      <Text>漢亞拉格</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HOVD">
+      <Text>赫烏德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HSIA">
+      <Text>中興</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARAKORUM">
+      <Text>哈拉和林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAZAN">
+      <Text>喀山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MANDALGOVI">
+      <Text>曼達爾戈壁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NALAYH">
+      <Text>納拉赫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEWSARAI">
+      <Text>新薩萊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OLDSARAI">
+      <Text>老薩萊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OTRAR">
+      <Text>歐特拉爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMARQAND">
+      <Text>撒馬爾罕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANCHU">
+      <Text>桑楚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TABRIZ">
+      <Text>大不里士</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TES">
+      <Text>特斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIFLIS">
+      <Text>第弗利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOSONTSENGEL">
+      <Text>圖蘇姆塞格爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TSETSERLEG">
+      <Text>車車爾勒格</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TURFAN">
+      <Text>吐魯番</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ULAANBAATAR">
+      <Text>烏蘭巴托</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ULAANGOM">
+      <Text>烏蘭固木</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ULIASTAY">
+      <Text>烏里雅蘇臺</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

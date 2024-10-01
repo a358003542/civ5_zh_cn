@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
+      <Text>阿崗昆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
+      <Text>阿崗昆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
+      <Text>阿納薩齊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
+      <Text>阿納薩齊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
+      <Text>阿拉瓦克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
+      <Text>阿拉瓦克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA">
+      <Text>卡魯沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA_ADJ">
+      <Text>卡魯沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
+      <Text>加勒比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
+      <Text>加勒比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
+      <Text>切羅基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
+      <Text>切羅基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
+      <Text>霍皮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
+      <Text>霍皮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
+      <Text>因紐特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
+      <Text>因紐特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA">
+      <Text>坎貝巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA_ADJ">
+      <Text>坎貝巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA">
+      <Text>卡蘭卡瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA_ADJ">
+      <Text>卡蘭卡瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
+      <Text>拉科塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
+      <Text>拉科塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
+      <Text>馬普切</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
+      <Text>馬普切</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC">
+      <Text>密西特克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC_ADJ">
+      <Text>密西特克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
+      <Text>穆伊斯卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
+      <Text>穆伊斯卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
+      <Text>馬斯科吉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
+      <Text>馬斯科吉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
+      <Text>塞米諾爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
+      <Text>塞米諾爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA">
+      <Text>泰羅納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA_ADJ">
+      <Text>泰羅納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN">
+      <Text>特茲特祖恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN_ADJ">
+      <Text>特茲特祖恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
+      <Text>瓦巴納基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
+      <Text>瓦巴納基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT">
+      <Text>文達特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT_ADJ">
+      <Text>文達特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
+      <Text>亞諾瑪米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
+      <Text>亞諾瑪米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CALUSA_TEXT">
+      <Text>當歐洲人胡安·龐塞·德萊昂於西元1513年抵達時，大沼澤地及南佛羅里達是由卡魯沙人所統治的地帶。他們藉由水產養殖發展出複雜的文化與商業活動，經濟影響範圍最北可達今日的喬治亞州。根據西班牙人的記錄，他們會和其他部族交易漁網、魚鉤、西波爾麻、浮標、魚籠、船槳、碗、耳飾、面具、木板、柏木及「錦旗」。卡魯沙人與歐洲人之間緊張的和平共存關係在1702年西英戰爭時徹底瓦解，獲得英國人武裝援助及同盟的克里克與雅瑪西人幾乎滅絕了所有卡魯沙人，少數的殘存者則逃入沼澤地帶深處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KAMBEBA_TEXT">
+      <Text>坎貝巴（亦稱歐馬瓜）人是亞馬遜盆地深處的土著部族，其領土在全盛時期曾到達祕魯一帶。最先踏上他們土地的歐洲人，是西元1541年的西班牙探險家法蘭西斯科．德．奧雷亞納，而當時他所見到的，是一個領土遍及沿河數百英里地帶，並且是以農業為主、人口眾多、經濟繁榮且高度組織化的王國。雖然他們沒有留下建築物（可能是因為僅有木造建築之故），但出土的陶器顯示他們有著高度發達的文化。歐洲人帶來的傳染病在16到17世紀之間重創了坎貝巴人，他們的王國也因而分崩離析，成了四散各地的半游牧部族。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KARANKAWA_TEXT">
+      <Text>卡蘭卡瓦人是散居於德州海岸一帶的原住民部族群，儘管彼此間存在著諸多歧異，但卻有著共同的文化及語言，且據報有食人儀式的存在。男性有儀式刺青、穿環及紋身之習俗。與卡蘭卡瓦人共同生活的卡韋薩．德．巴卡也提到，他們的文化中有三種性別角色，分別是男性、女性、以及由部分男性所擔任的「博達切」（雙靈人）。雙靈人在宗教祭典及某些活動當中扮演著特殊的角色。卡蘭卡瓦人首次接觸歐洲人的記錄是西元1697年。他們與白人處於和平共存的狀態，直到德州獨立戰爭期間，卡蘭卡瓦人效命於墨西哥一方，並於戰後潰散，亡命四方。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MIXTEC_TEXT">
+      <Text>密西特克人是中美洲的原住民部族，並且是墨西哥地區在前哥倫布時期最重要的王國之一，首都位於堤蘭通戈，其他大型城鎮也有十二個之多。他們的富裕程度遠近馳名，技巧高超的工匠所創作出的木雕、石刻及貴金屬藝品，在當地一帶被視為珍寶，也為王國帶來滾滾財源。雖然在歷史上，密西特克人向來臣屬於阿茲特克帝國，但他們大多數的城鎮都享有高度的自治權。阿茲特克滅國後，密西特克人頑強抵抗西班牙統治，但最後仍不敵科爾特茲的副手佩德羅．德．阿爾瓦拉多的武力進攻。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TAIRONA_TEXT">
+      <Text>泰羅納王國是由聖塔瑪莉亞內華達山脈（如今的哥倫比亞）一帶的酋邦，透過鬆散的盟約所形成的國家，其年代可追溯至西元1世紀。他們與西班牙入侵者的接觸有限，直到西元1599年，泰羅納人起身反抗宗教迫害，攻擊了教堂及牧師。西班牙人迅速揮軍當地，到了1602年，泰羅納人便宣告戰敗，四散奔逃。泰羅納地區的傳統習俗相當不同於南美洲大多數地區，當地接納離婚及同性戀，同時也有「嚼食古柯葉之惡習」，因此與天主教廷水火不容。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TZINTZUNTZAN_TEXT">
+      <Text>塔拉斯堪人的首都特茲特祖恩位於帕茲卡洛湖泊地帶，他們的小王國自西元13世紀成立以來，便未曾受過阿茲特克的統治。在全盛時期，特茲特祖恩是人口在三萬左右的貿易中心，城中的大型廣場周遭有著貴族與祭司的宅邸，並有五座面向湖泊的亞卡塔（半圓形金字塔）坐鎮。這座城鎮長久以來主宰著中南墨西哥一帶的貿易，但西班牙人在1520年代征服該國，並於1529年將亡國之君唐安佐恩二世處以火刑。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WENDAT_TEXT">
+      <Text>文達特人是加拿大的原住民，在他們接觸歐洲人的當時，主要是居住於安大略湖北岸。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

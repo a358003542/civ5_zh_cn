@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE">
+      <Text>土地普查郡法庭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE">
+      <Text>末日審判書</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

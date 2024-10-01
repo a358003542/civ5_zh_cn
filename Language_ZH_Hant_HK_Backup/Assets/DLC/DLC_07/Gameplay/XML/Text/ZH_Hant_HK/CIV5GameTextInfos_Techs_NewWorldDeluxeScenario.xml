@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY">
+      <Text>高級海盜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
+      <Text>「海盜黃金年代」是介於西元1650年到1730年之間的一段時期，當時的西屬加勒比海域，可說是亨利·摩根、巴沙洛繆·羅伯茨與凱利寇·傑克·拉克罕等海盜之輩的天下。海盜活動之所以如此猖獗，是因為從新世界運往歐洲的財富實在太過驚人，同時，造船技術的進展也使得快速而靈巧的單桅帆船、雙桅帆船及縱帆船，能夠搭載更沉重的武裝及更多的船員。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
+      <Text>讓您可建造[COLOR_POSITIVE_TEXT]海上乞丐[ENDCOLOR]，這種強大的海盜船能在您領土以外的海域修復損傷。此科技也使您能夠建造[COLOR_POSITIVE_TEXT]巧克力館[ENDCOLOR]，一種增加[ICON_GOLD]金幣的建築。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「我乃海盜之王！成為海盜之王，是我的榮耀！」[NEWLINE][TAB][TAB] - W.S.吉爾伯特，《彭贊斯的海盜》[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_BANKING_HELP">
+      <Text>讓您可建造[COLOR_POSITIVE_TEXT]銀行[ENDCOLOR]以及[COLOR_POSITIVE_TEXT]東印度公司[ENDCOLOR]，這兩種建築能增加城市的[ICON_GOLD]金幣產出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+      <Text>對發展[ICON_RESEARCH]科學有許多好處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+      <Text>帝國主義</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+      <Text>讓您可生產專精於海外偵查及殖民活動的[COLOR_POSITIVE_TEXT]征服者[ENDCOLOR]單位。這項科技也讓你可以建造[COLOR_POSITIVE_TEXT]法院[ENDCOLOR]，該建築能減少[ICON_OCCUPIED]佔領城市的[ICON_HAPPINESS_4]不滿度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE">
+      <Text>戰列線</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
+      <Text>雖然「戰列線」這項戰術概念首次投入實戰的時間仍有待商榷（介於西元 1502年到1652年之間），但到了1675年，它的確是歐洲海軍最常使用的海戰陣型。相較於一般的近距離海戰，戰列線中的每一艘戰艦都可以廣範圍開火而不需顧忌傷及友艦，因此在火力的集中性及連續性上都能有不錯的發揮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
+      <Text>讓您可建造[COLOR_POSITIVE_TEXT]證券交易所[ENDCOLOR]及[COLOR_POSITIVE_TEXT]風帆戰艦[ENDCOLOR]，前者是能增加[ICON_GOLD]金幣的建築，後者則是火力最強大、射程也最遠的單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「艦長只管把艦身側面朝向敵艦就對了。」[NEWLINE][TAB][TAB] - 霍雷肖．納爾遜[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET">
+      <Text>商業艦隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
+      <Text>面臨海盜及私掠船的威脅，西葡兩國在16世紀中葉開始讓大西洋航道上的定期航行商船組成早期形式的艦隊。雖然財寶船隊通常有戰艦隨行，但民間的商業艦隊可沒有這項福利，因此許多滿載著菸草、香料、木材、糖、穀物、珍珠及其他奢侈品，準備前往歐洲市場販售的西班牙大帆船，通常都會裝有加農砲與臼砲，用以擊退較為小型的海盜船。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
+      <Text>讓您可建造速度最快的[COLOR_POSITIVE_TEXT]克拉克帆船[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]「黃金就是寶貝，在這世上只要有黃金，一切皆能如願以償。」[NEWLINE][TAB][TAB] -克里斯多福．哥倫布[NEWLINE][TAB]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+      <Text>海上傳統</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+      <Text>海盜行為</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+      <Text>職業軍人</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+      <Text>讓您可生產最強悍的近戰單位[COLOR_POSITIVE_TEXT]西班牙方陣士兵[ENDCOLOR]，以及能增加所有單位經驗值的[COLOR_POSITIVE_TEXT]軍校[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+      <Text>宗教秩序</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+      <Text>讓你可使用[ICON_PEACE]信仰值建造建築，以及建造能讓所有傳教士傳教三次的[COLOR_POSITIVE_TEXT]大神廟[ENDCOLOR]。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+      <Text>皇家衛隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+      <Text>財寶艦隊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+      <Text>戰船</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+      <Text>讓您可生產[COLOR_POSITIVE_TEXT]巡防艦[ENDCOLOR]與[COLOR_POSITIVE_TEXT]槍騎兵[ENDCOLOR]，後者是不需耗用移動力就能進行劫掠的騎兵單位。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

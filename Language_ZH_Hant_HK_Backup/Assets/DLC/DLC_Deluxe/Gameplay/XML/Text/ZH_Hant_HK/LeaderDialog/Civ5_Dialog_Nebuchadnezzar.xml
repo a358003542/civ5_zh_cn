@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_1">
+      <Text>肯尼斯，頻率是多少？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_2">
+      <Text>不错！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_3">
+      <Text>當然！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_4">
+      <Text>同意！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_5">
+      <Text>噢，非常好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_6">
+      <Text>一言為定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_AGREE_SHORT_7">
+      <Text>成交。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_1">
+      <Text>我想在晚飯時來碗粥調劑一下胃口。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_2">
+      <Text>你知道我們會消滅你的。只不過你還記得自己吃過多少片麵包嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_ATTACKED_3">
+      <Text>既然如此。我原本以為你知道自己在做甚麼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DECLAREWAR_1">
+      <Text>戰爭的化身駕馭著鐵騎在我腦海里留下了深刻的烙印—恐怖！畏懼！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DECLAREWAR_2">
+      <Text>我被告知我得向你宣戰。我想知道為甚麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DECLAREWAR_3">
+      <Text>惡魔們因渴求著戰士的鮮血而咆哮。開戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEFEATED_1">
+      <Text>幹得漂亮。我應該在惡魔面前褒美你幾句。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEFEATED_2">
+      <Text>一切都結束了。或許現在我也算是歸於安寧了吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEFEATED_3">
+      <Text>我真的被打敗了嗎？真是有趣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_ANGRY">
+      <Text>如果你拒絕了我的要求，那麼你將會遭受比萬蠱噬心更慘絕人寰的痛苦。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_HAPPY">
+      <Text>我在想赤裸裸且盲目的貪婪是否讓我變成了一個壞蛋？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DEMANDTRIBUTE_NEUTRAL">
+      <Text>以下貢品能陶冶我的情操，更能大幅提高你看到明天的太陽的幾率。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_1">
+      <Text>亡者在我耳邊輕語，「不」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_2">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_3">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_4">
+      <Text>我拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_5">
+      <Text>別想了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_6">
+      <Text>無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_7">
+      <Text>你在開國際玩笑嗎！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_DISAGREE_SHORT_8">
+      <Text>不好意思？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_1">
+      <Text>我是巴比倫的尼布甲尼撒。外面那些傻瓜說我是個神靈，但這明顯不可能。您又是哪位？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_2">
+      <Text>我是尼布甲尼撒，巴比倫的統治者。我誠摯祈禱您不是又一個來浪費我時間的白痴。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_FIRSTGREETING_3">
+      <Text>我是尼布甲尼撒。您是真實存在，還是源自我苦楚的魅影？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_1">
+      <Text>我深感自己壓抑不住心頭的怒火。你最好現在就趕緊走。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_2">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_3">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_4">
+      <Text>現在就給我走開！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_5">
+      <Text>就這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GOODBYE_6">
+      <Text>離我遠點—讓我獨飲絕望的苦酒吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_1">
+      <Text>歡迎。請不要介意那些歡呼尖叫。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_2">
+      <Text>我們應該見過面吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_4">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_5">
+      <Text>什麼？大聲點。我的腦袋昏沉沉的，幾乎聽不到你在說甚麼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_6">
+      <Text>您想要幹什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_1">
+      <Text>說吧，讓我們沉溺於耳語中。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_2">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_3">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_4">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_5">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_6">
+      <Text>你在說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_7">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LETSHEARIT_8">
+      <Text>再說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_LOSEWAR_1">
+      <Text>太愚蠢了，居然留我一命。你應該把敵人徹底斬草除根。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_ANGRY_1">
+      <Text>不要惹怒我，否則我不能保證因為憤怒會做出什麼事來。所以給我更好的互惠提議吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_ANGRY_2">
+      <Text>那還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_ANGRY_3">
+      <Text>你必須提出更好的互惠提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_ANGRY_4">
+      <Text>差不多了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我的顧問說您的互惠提議不能接受。不管怎樣，神怎會需要「顧問」呢？他們總是像猴子一樣喋喋不休。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這是你能做出的最大讓步？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_HAPPY_3">
+      <Text>差不多就成了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_HAPPY_4">
+      <Text>差不多了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>無法接受。不能提出更好的互惠提議的話，就趕緊走吧—我還得去喂蝎子。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>再多點好處行嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>那還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>差不多了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NO_ANGRY">
+      <Text>我已假裝自己是個盲人，試著克服討厭你的心情。但是答案還是「不」。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NO_HAPPY">
+      <Text>我很抱歉，但很多人告訴我－我必須拒絕您的互惠提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_NO_NEUTRAL">
+      <Text>我無法接受你的互惠提議。一旦我接受你的任何條件，我感覺就像受到了侮辱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_YES_ANGRY">
+      <Text>我被告知能讓你最快離開的方法就是答應你的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_YES_HAPPY">
+      <Text>很好！並不是說這對我們雙方都有長遠的幫助－畢竟人皆有一死，你懂的。太棒了，就這麼定了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_YES_NEUTRAL">
+      <Text>相較於其他人，你並不那麼令我討厭；我接受你開出的條件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADEREQUEST_ANGRY">
+      <Text>只要接受以下條件，你將減輕使我精疲力盡的苦難：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADEREQUEST_HAPPY">
+      <Text>你的存在價值在於跟我交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADEREQUEST_NEUTRAL">
+      <Text>我很訝異您有我需要的東西，您願意交易嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_ANGRY">
+      <Text>這簡直是天方夜譚，不可能。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_HAPPY">
+      <Text>在冥府我可以給你上千名唱歌的嬪妃，但在這個世界，你甚麼都不會得到。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_NO_NEUTRAL">
+      <Text>愚蠢的騙子—你可以在備受崇拜的埃及做得很好，但在這裡你甚麼都不會得到。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_ANGRY">
+      <Text>你的「口臭」快讓我窒息了！要什麼就拿去，然後立刻離開！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_HAPPY">
+      <Text>在這裡，我只是個夢魘和瘋神—這些東西能給我帶來什麼好處？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRIBUTE_YES_NEUTRAL">
+      <Text>我同意，只是為了打擊那些執意於反對意見的顧問們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_1">
+      <Text>鼓聲滾滾！響徹了我的腦海，充斥著復仇的念頭！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_2">
+      <Text>真失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_3">
+      <Text>太令我失望了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WARBLUFF_4">
+      <Text>下一次我就不會那麼仁慈了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_WINWAR_1">
+      <Text>真令人重振雄風啊！如果惡魔滿足了，或許會讓我們喘口氣。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

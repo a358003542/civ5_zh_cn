@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_1066_SCENARIO_ALLY_GAINED">
+      <Text>來自城邦{1_CityStateName}的軍事單位已經加入您的軍隊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_ALLY_LOST">
+      <Text>來自城邦{1_CityStateName}的單位現在要回國了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_HELP">
+      <Text>每回合提供5枚[ICON_GOLD]金幣收入。在倫敦建造末日審判書之前，必須先建成6座土地普查郡法庭。只能在原本由盎格魯-撒克遜英格蘭控制的城市中建造，且該城市必須距離倫敦8格或更遠。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_PEDIA">
+      <Text>土地普查郡法庭是在征服者威廉統治時期在各地設立的土地及稅收調查機構，負責將居民領主們聚集起來進行末日審判的調查。英格蘭人民十分厭惡郡法庭，所以往往向法庭官員低報自己的土地面積和牲畜數目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_STRATEGY">
+      <Text>建造土地普查郡法庭以委託其普查該郡土地和資產。一旦建成，您將獲得該地區公民的稅收。當您建成6個郡法庭後，就可以在倫敦建造末日審判書，并征服英格蘭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_HELP">
+      <Text>在倫敦建造該國家奇跡即可贏得該劇本的勝利。建造該國家奇跡前，您的帝國必須擁有6座土地普查郡法庭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_PEDIA">
+      <Text>末日審判書就是在西元1085年征服者威廉統治時期記載英格蘭人民擁有牲畜與土地的記錄。威廉想出了這個主意，用這種方法假借懺悔者愛德華之名計算未支付的稅款。就這樣，末日審判書也稱為「審判之書」，因為其中由官員編寫的內容就是最終決議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_STRATEGY">
+      <Text>完成奇跡-末日審判書表明您關於英格蘭的土地與資產的大型調查已經完成。同時您也已經成為了這片土地的主人。建造該國家奇跡以贏得該劇本的勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_TEXT_1">
+      <Text>丹麥王國在西元8至11世紀維京時代成長茁壯，在11世紀初捲入與挪威的戰爭。挪威國王哈拉爾·哈達拉，在1047年馬格努斯國王逝世後，對於斯文繼承丹麥王位有爭議，他也成為丹麥國王斯文二世的主要競爭對手。多年來，兩國不斷有小型軍事衝突，最後歷經將近15年，事實證明雙方都無法獲勝時才決定和解。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_TEXT_1">
+      <Text>隨著懺悔者愛德華在1065年去世，亦稱為「國會」的英格蘭貴族迅速地將英國王位授予哈羅德·葛溫森。不久之後，挪威國王哈拉爾哈達拉以及另一位具舉足輕重地位的人物諾曼第公爵威廉這兩人的入侵，永遠改變了英格蘭的政治景觀。1066年9月於斯坦福橋之戰功擊敗哈拉爾之後，短短幾星期後，葛溫森不得不迅速重整旗鼓，朝南方前進迎戰威廉。然而，由威廉率領的諾曼第軍隊使葛溫森吃不消。他們在1066年的黑斯廷斯戰役擊敗葛溫森的軍隊，哈羅德·葛溫森喪命，英格蘭也處於被佔領的境地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_TEXT_1">
+      <Text>諾曼第公國在法國魯昂地區形成，最初在西元9世紀末被斯堪迪納維亞的維京人殖民，西元911年簽署聖克萊爾河畔厄普特條約後正式成立，法國國王查爾斯三世承認境內的海盜領袖羅洛，創造了後來諾曼第的基礎。征服者威廉，也就是諾曼第公爵，成為其最著名的領導人，在1066年奪取了英格蘭的王位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_TEXT_1">
+      <Text>挪威，在國王哈拉爾希古德松「強硬統治者」的統治下，企圖篡奪丹麥王位，在11世紀面臨與丹麥對陣的諸多軍事行動。1047年，馬格努斯一世逝世後，哈拉爾不認為斯文二世是丹麥的合法統治者，兩人因此成了舉世聞名的對手。儘管多次嘗試，哈拉爾從未成功征服斯文，後來反而將目光投向英格蘭王位。1066年9月，哈拉爾入侵英格蘭，結果卻在斯坦福橋戰役被哈羅德·葛溫森的軍隊殺死。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_CIV5_DAWN_VIKING_TEXT">
+      <Text>劇本描述[NEWLINE]萬歲，偉大的維京領主！英格蘭國王懺悔者愛德華已死，撒克遜·哈羅德·葛溫森已經迅速奪取王位，但他可說是最沒有立場的一位，諾曼第的威廉、挪威的哈拉爾·哈達拉和丹麥的斯文國王都有權繼承王位。您能不能从這些維京領主中脫穎而出，並成為下一個偉大的英格蘭國王？登上您的船，向世界證明了您才是被主神奧丁選中的戰士。[NEWLINE][NEWLINE]勝利條件[NEWLINE]您必須在時間結束之前在倫敦建成国家奇迹末日審判書（英格蘭土地普查記錄），以贏得勝利。您必須先在原本由盎格魯-撒克遜英格蘭所控制的城市中建造6座土地普查郡法庭，之後才可以開始建造末日審判書。這些郡法庭只能建造在距離倫敦8格或更遠的城市中。[NEWLINE][NEWLINE]特殊規則[NEWLINE]在整個劇本中，所有四個勢力被強制彼此交戰。科技、政策和幸福度度系統全部關閉。您在遊戲過程中不會獲得任何新技術或社會政策。您所控制或征服的所有城市可自由發展，您不必擔心幸福度的問題。如果你獲得一個盟友城邦，他們的單位在同盟期間都將受您控制。所有單位皆擁有海運防禦的強化能力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_DESC">
+      <Text>懺悔者愛德華國王已死，英格蘭王位面臨群雄爭霸。您能帶領您的戰士成功擊敗其他也想爭奪王位的維京海盜嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_LIVED">
+      <Text>約1022 AD-1066 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_NAME">
+      <Text>哈羅德葛溫森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_SUBTITLE">
+      <Text>英格蘭國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_TEXT_1">
+      <Text>哈羅德·葛溫森曾短暫地當過英格蘭國王，統治期間從1066年1月，直到同年10月他在黑斯廷斯戰役被打敗，同時也是最後一位盎格魯撒克遜國王。儘管成功抵禦北邊哈拉爾·哈達拉的入侵，不到一個月後，葛溫森和他的軍隊將在一整天的戰鬥中被征服者威廉擊潰。相傳，一支箭射入葛溫森的眼睛，奪走了他的性命。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_LIVED">
+      <Text>約1015 AD-1066 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_NAME">
+      <Text>哈拉爾·哈達拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_SUBTITLE">
+      <Text>挪威國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_TEXT_1">
+      <Text>哈拉爾·西古德松，也被稱為哈拉爾·哈達拉或是強硬統治者哈拉爾，從1047到1066年是挪威國王。哈達拉最為人所知的事蹟是他入侵英格蘭，以及1066年9月在斯坦福橋之役戰敗，此一事件非正式地宣告維京時代的結束。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_LIVED">
+      <Text>約1019 AD-約1075 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_NAME">
+      <Text>斯文二世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_SUBTITLE">
+      <Text>丹麥國王</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_TEXT_1">
+      <Text>斯文二世從1047至1074擔任丹麥國王。在他統治期間，長期與挪威哈拉爾·哈德拉（他多次試圖征服斯文）的敵對關係導致兩人之間無數的戰鬥。斯文一生中，生了20多個孩子，其中包括5個未來的丹麥國王，這五人在接下來的60年間和平地相繼繼承王位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_LIVED">
+      <Text>約1028 AD-1087 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_NAME">
+      <Text>征服者威廉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_SUBTITLE">
+      <Text>諾曼第公爵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_TEXT_1">
+      <Text>征服者威廉（也被稱為威廉一世）成功地帶領諾曼第征服英格蘭，且成為英格蘭第一位諾曼第國王。在1066年10月黑斯廷斯戰役中戰勝哈羅德·葛溫森的軍隊後，威廉最後擊敗英格蘭的抵抗且統治超過20年之久，直到他於1087年去世。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_LONDON_STATUS">
+      <Text>倫敦的控制者：{1_CivilizationName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_NEW_RECRUITS">
+      <Text>新兵們已經耳聞在英格蘭的掠奪以及可供占領的大片土地這些傳說。您可以在首都附近找到{1_NumUnits}個新單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_SHIRE_COURT_STATUS">
+      <Text>已建成的郡法庭：{1_NumBuildings}/6</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_TAX_COLLECTION">
+      <Text>稅吏已從英格蘭各郡返回。從市民處徵收了{1_GoldCollected}枚[ICON_GOLD]金幣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_TITLE">
+      <Text>1066年：維京人的命運之年</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+      <Text>不列顛同盟</Text>
+    </Row>
+    <Row Tag="TXT_KEY_1066_SCENARIO_TURNSREMAINING">
+      <Text>剩餘回合數：{1_TurnsRemaining}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY">
+      <Text>建造一個城寨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_HELP">
+      <Text>任何駐紮在此單元格的單位+100%[ICON_STRENGTH]防禦力。任何在城寨旁結束回合的敵方單位都將受到3點傷害。不會消耗單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_REC">
+      <Text>其將提高任何駐紮在此單元格的單位[ICON_STRENGTH]防禦力，並使鄰接結束回合的敵方單位受到傷害。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HADRIANS_WALL_TEXT">
+      <Text>依據下令興建的羅馬皇帝哈德良所命名的哈德良長城，是從西元122年開始修建，是座劃分英格蘭北部邊界的宏偉防禦工事。城牆綿延約73英哩（117公里），從西海岸的博尼斯一直延伸到東海岸的沃爾森德（這裡曾是羅馬要塞格迪納）。這座主要由石灰石修築的城牆在建成之後的許多年時間裡，除了本身的防禦能力外，其上更興建了十數個大型要塞，每個要塞可駐守多達一千名羅馬士兵。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP">
+      <Text>由諾曼劍士修建的城寨，可以為該單元格內的任何單位提供+100%的[ICON_STRENGTH]防禦力。而任何在城寨旁結束回合的敵方單位，都將遭受3點損傷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_TEXT">
+      <Text>「城寨」（Motte-and-Bailey）最早是由諾曼人在10世紀時所設計，是一種在人工堆高的防禦地墩上修築的高聳城堡。「土壘」（Motte）是指先在城堡預定地的周圍挖掘一圈塹溝，並將挖出來的土石倒到中間堆壘成一座人造丘陵或土墩，再在其上修建城堡本體。「堡場」（Bailey）是指地勢較低的寬闊庭院，通常四周有高牆圍起，其內建有軍營、僕役住所和倉庫等建築。部署於土壘堡場內的任何單位，均可獲得100%的防禦力量加成。此外，任何在土壘堡場旁結束回合的敵方單位，都將遭受3點損傷。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
+      <Text>諾曼軍隊中的騎士曾在11世紀時於英格蘭的征戰中大顯身手。他們通常身穿及膝的鏈甲，就是我們所說的「鎖子甲」，以及可以讓弓箭偏移（理論上）的尖錐式頭盔。諾曼騎士最為著名的裝備，可能是他們隨身攜帶的「鳶盾」。這種瘦長型的盾牌可以在騎士們專注於近身戰鬥時有效保護他們的腿部。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SAXON_HUSCARL_TEXT">
+      <Text>中古時期的盎格魯-撒克遜侍衛是一群負責保護國王和貴族的戰士，他們受過專門訓練並領有高額報酬，相當於今天的保鏢。這些侍衛披掛著覆蓋至腰身的鏈甲，手揮威武的戰斧，在11至12世紀期間有絕對足以震懾他人的防禦力量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_HADRIANS_WALL">
+      <Text>哈德良長城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IMPROVEMENT_MOTTE_BAILEY">
+      <Text>城寨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS">
+      <Text>劍士建立城寨的時間與一名工人建立堡壘的時間相同。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS_SHORT">
+      <Text>城堡建造者</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_NORMAN_KNIGHT">
+      <Text>中古時代重裝騎乘單位，對長槍兵較弱，可以進行「閃電戰」強化。取代標準的騎士，專屬於諾曼地文明的軍事單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_SAXON_HUSCARL">
+      <Text>中古時代重裝近戰單位，對騎乘和遠程單位攻擊力極佳，可以進行「隱蔽一級與對騎乘單位加成（50）」強化。取代劍士，專屬於英國文明的軍事單位。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
+      <Text>諾曼騎士是諾曼的特色單位，取代了標準騎士。這種單位是增強急襲能力的騎士，使其能夠在每回合進行不只一次的攻擊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL_STRATEGY">
+      <Text>重衛兵是盎格魯-撒克遜英格蘭的特色單位，替代長劍士。當遭遇攻擊時，他可以組成盾牆，獲得隱蔽一級和對騎乘單位加成（50）的強化。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

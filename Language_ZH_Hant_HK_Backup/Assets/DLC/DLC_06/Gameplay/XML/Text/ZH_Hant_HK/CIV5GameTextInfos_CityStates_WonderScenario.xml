@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS">
+      <Text>比布魯斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_ADJ">
+      <Text>比布魯斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_DESC">
+      <Text>腓尼基人的定居點比布魯斯位於今黎巴嫩境內，是世界上最古老的城市之一，約建立於西元前5000年。該城本名迦巴勒，「比布魯斯」是後來希臘人所起的名字，在希臘語中意為紙莎草紙，因為該城是埃及紙莎草紙的主要輸入地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM">
+      <Text>埃蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_ADJ">
+      <Text>埃蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_DESC">
+      <Text>古代埃蘭地區範圍很廣，包括今伊朗數省和伊拉克的一部分。其歷史約始於西元前3000年，並持續存在了數千年之久，最終因內部的動亂及外來的入侵而於1世紀初滅亡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI">
+      <Text>恩科米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_ADJ">
+      <Text>恩科米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_DESC">
+      <Text>恩科米城在西元前2000年時期是一個重要的黃銅貿易中心。它位於賽普勒斯，而恩科米的繁榮一直持續到約西元前1050年，當時的一場大地震對其造成了毀滅性的打擊後人民就棄城而去。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS">
+      <Text>克諾索斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_ADJ">
+      <Text>克諾索斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_DESC">
+      <Text>克諾索斯古城座落於希臘的克里特島，是遠古青銅時代米諾斯文明的所在地。克諾索斯的米諾斯人在西元前2000年期間影響著希臘社會文化發展，據說他們手工藝技術相當優秀，並經常與埃及人進行貿易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE">
+      <Text>昔蘭尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_ADJ">
+      <Text>昔蘭尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_DESC">
+      <Text>昔蘭尼是古希臘人的一處殖民點，座落於今利比亞境內，由來自錫拉島的希臘殖民者於西元前630年建立。此後昔蘭尼逐步發展為一處貿易中心，有多條通往該地區其他希臘殖民點的商路在此交匯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN">
+      <Text>納希切萬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_ADJ">
+      <Text>納希切萬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_DESC">
+      <Text>納希切萬由陸地所包圍的地區橫跨亞美尼亞、伊朗和土耳其，據認為在5000多年前被移居為殖民地。歷史上該地區經歷了從波斯帝國到馬其頓帝國時期的多場軍事戰亂。納希切萬仍然以一個地區的形式存在於今亞塞拜然境內。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS">
+      <Text>所托波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_ADJ">
+      <Text>所托波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_DESC">
+      <Text>所托波利斯由色雷斯國王塞奧底斯三世於西元前4世紀建立，在此之後一直作為奧德裡西亞王朝的首都，直到西元前281年被凱爾特人攻陷。所托波利斯的遺址已在今保加利亞境內發現。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN">
+      <Text>沙魯亨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_ADJ">
+      <Text>沙魯亨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_DESC">
+      <Text>古老的沙魯亨城坐落於今以色列南部的內蓋夫沙漠中，西元前16世紀被逐出埃及的希克索人曾在此避難。後來該定居點被埃及法老阿赫摩斯一世摧毀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI">
+      <Text>斯托比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_ADJ">
+      <Text>斯托比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_DESC">
+      <Text>古老的斯托比城曾是羅馬帝國「馬其頓薩盧塔裡斯」行省的首府，坐落於今馬其頓境內。斯托比作為凱爾納河與阿西奧斯河流域的貿易中心而擁有重要戰略地位，該城在西元518年毀於一場地震。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY">
+      <Text>特洛伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_ADJ">
+      <Text>特洛伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_DESC">
+      <Text>傳奇之城特洛伊據推測於西元前3000年至2000年間達至其頂峰時期，曾是愛琴海濱一處繁榮的貿易中心。作為荷馬史詩《伊利亞德》故事的主要發生地，特洛伊一直都被認為是個純粹虛構的城市。然而，19世紀時考古學家在今土耳其境內發現了據信為特洛伊古城的遺址。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT">
+      <Text>烏加里特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_ADJ">
+      <Text>烏加里特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_DESC">
+      <Text>古老的烏加里特城位於地中海東岸今敘利亞境內。約在西元前6000年時期即有人在此定居，並逐漸發展為一座繁榮的港口城市，在此後兩千年間同埃及和希臘都有大量貿易往來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI">
+      <Text>瓦蘇卡尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_ADJ">
+      <Text>瓦蘇卡尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_DESC">
+      <Text>瓦蘇卡尼城是古代米坦尼人於西元前2000年時期建立的胡裡安王國的首都。該城的確切位置在今天仍然是個謎，但通常認為其延綿於喀布爾河畔。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

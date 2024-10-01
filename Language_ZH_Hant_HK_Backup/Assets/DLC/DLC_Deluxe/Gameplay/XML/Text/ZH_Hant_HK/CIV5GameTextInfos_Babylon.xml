@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_DAWN_BABYLON_TEXT">
+      <Text>願天堂的祝福與您同在，噢，尼布甲尼撒！偉大的古巴比倫王！在五千年前薩爾貢建造巴比倫時，世界還如此年輕。在法律的賜予者，神聖的漢摩拉比法典下，逐漸成長和繁榮，終於在西元前18世紀建立了第一個帝國。雖然後來為卡賽人和亞述人所征服，巴比倫還是忍辱負重。儘管面對著許多敵人，她還是像鳳凰一般浴血重生再次獨立。巴比倫實質是古老世界的藝術和學習中心！[NEWLINE][NEWLINE]噢，尼布甲尼撤！您的帝國在您死後無法撐太久，相繼落到了波斯人及希臘人手中，直到這座偉大的城市在西元前141年被摧毀。偉大的尼布甲尼徹！但巴比倫真的永遠消失了嗎？您的人民盼望著您再次帶領著帝國重生！您會接受這個挑戰嗎？您能建起一個經得住時間考驗的文明嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_BABYLON_TITLE">
+      <Text>巴比倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_INGENIOUS">
+      <Text>研究完「書寫」後將獲得無償的大科學家。大科學家的誕生速度提升50%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_INGENIOUS_SHORT">
+      <Text>匠心獨運</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TEXT">
+      <Text>您好，噢，偉大的鐵木真，堅不可摧的蒙古帝國的不朽帝王！您的鐵拳粉碎城牆，使您的敵人聞風喪膽。噢大汗，您將亞洲北部混戰的各部族納入帝國，建立了世上所曾見過最具威力的鐵騎軍隊！您的下屬運用靈活的外交手段分化敵人，讓他們在蒙古大軍來臨之前就感到無力和絕望。在短短幾年內，您手下的士兵就已征服大部分的中國和東亞，而且帝國還在持續擴張，西至歐洲，南達朝鮮。沒錯，這是世上曾見過最偉大的帝國，這偉大的成就讓羅馬人或希臘人那些征戰顯得渺小不已。[NEWLINE][NEWLINE]鐵木真，您的人民又再一次呼喚您來領導他們開疆闢土！世界會再一次因為來自大草原的鐵騎所發出轟隆雷聲而震顫嗎？您能建起一個經得住時間考驗的文明嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TITLE">
+      <Text>蒙古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TERROR">
+      <Text>與城邦本身或其單位戰鬥時[ICON_STRENGTH]戰鬥力+30%。所有騎乘單位[ICON_MOVES]移動力+1。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TERROR_SHORT">
+      <Text>蒙古戰慄</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

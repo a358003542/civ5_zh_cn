@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+  <Languages>
+    <Row>
+      <ID>9</ID>
+      <Type>zh_Hant_HK</Type>
+      <Name>汉语/漢語 (Chinese)</Name>
+      <TableName>Language_ZH_HANT_HK</TableName>
+      <PluralRule>1</PluralRule>
+      <UseExtendedFont>1</UseExtendedFont>
+      <FontName>SimHei</FontName>
+	  <FontWidthScale>0.48</FontWidthScale>
+	  <FontHeightScale>0.96</FontHeightScale>
+    </Row>
+  </Languages>
+</GameData>

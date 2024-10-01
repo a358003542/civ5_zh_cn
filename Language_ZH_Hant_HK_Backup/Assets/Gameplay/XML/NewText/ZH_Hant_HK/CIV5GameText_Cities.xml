@@ -1,0 +1,2657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_AARHUS">
+      <Text>阿爾胡斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ABUSIR">
+      <Text>阿布什爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ABYDOS">
+      <Text>阿拜多斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ADANA">
+      <Text>阿達納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ADEN">
+      <Text>亞丁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AFYON">
+      <Text>阿菲永</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AGRA">
+      <Text>阿格拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AGRIPPINA">
+      <Text>阿哥里皮納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AHMEDABAD">
+      <Text>阿默達巴德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AINU">
+      <Text>愛奴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AIX_EN_PROVINCE">
+      <Text>普羅旺斯地區艾克斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AKHETATEN">
+      <Text>阿肯塔頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AKHMIN">
+      <Text>艾赫米姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AKITA">
+      <Text>秋田</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AKORIS">
+      <Text>阿科利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALBAFUCENS">
+      <Text>阿爾巴弗森斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALBUQUERQUE">
+      <Text>阿布奎基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALEMANNI">
+      <Text>阿勒曼尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALEPPO">
+      <Text>阿勒頗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALEXANDRIA">
+      <Text>亞歷山卓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALGIERS">
+      <Text>阿爾及爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALMATY">
+      <Text>阿拉木圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ALTINTEPE">
+      <Text>奧爾庭泰佩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMARA">
+      <Text>阿馬拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMARAVATI">
+      <Text>阿馬拉瓦蒂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMASYA">
+      <Text>阿馬西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMBRACIA">
+      <Text>安布拉基亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMIENS">
+      <Text>亞眠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMPHIPOLIS">
+      <Text>安菲波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMRAH">
+      <Text>阿姆拉赫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANASAZI">
+      <Text>阿那薩基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANCHORAGE">
+      <Text>安哥拉治</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANGLE">
+      <Text>盎格魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANIBA">
+      <Text>阿尼巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANJAR">
+      <Text>安加爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANKARA">
+      <Text>安卡拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANTALYA">
+      <Text>安塔利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANTIUM">
+      <Text>安提姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANTWERP">
+      <Text>安特衛普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AOMORI">
+      <Text>青森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_APACHE">
+      <Text>阿帕契</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_APOLLONIA">
+      <Text>阿波羅尼亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_APOLYTON">
+      <Text>阿波利頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AQUILEIA">
+      <Text>阿奎雷亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARDEA">
+      <Text>阿迪亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARGOS">
+      <Text>阿爾哥斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARKHANGELSK">
+      <Text>阿爾漢格爾斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARMANT">
+      <Text>阿爾曼特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARMINIUM">
+      <Text>阿爾米尼姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARPINUM">
+      <Text>阿爾皮姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARRETIUM">
+      <Text>阿雷提姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARSHADA">
+      <Text>阿爾薩達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARTAKOANA">
+      <Text>阿塔卡那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARTAXATA">
+      <Text>阿爾塔薩塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARTUIN">
+      <Text>阿圖因</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ARYAN">
+      <Text>雅利安</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASPABOTA">
+      <Text>阿斯帕波塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASSYRIAN">
+      <Text>亞述</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASTRAKHAN">
+      <Text>阿斯特拉罕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASYUT">
+      <Text>艾斯尤特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ATHENS">
+      <Text>雅典</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ATHRIBIS">
+      <Text>阿斯利比斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ATLANTA">
+      <Text>亞特蘭大</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ATZCAPOTZALCO">
+      <Text>阿茨卡波察爾科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AUGUSTADORUM">
+      <Text>奧古斯塔多姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AURELIANORUM">
+      <Text>奧雷利亞諾魯姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AUTIYARA">
+      <Text>奧提亞拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AVAR">
+      <Text>阿瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AVARIS">
+      <Text>阿瓦利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AVIGNON">
+      <Text>阿維尼翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AYDAB">
+      <Text>艾伊達布</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AYODHYA">
+      <Text>阿約提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AYOTZINCO">
+      <Text>阿約濟可</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BACTRA">
+      <Text>巴克特拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BACTRIAN">
+      <Text>巴克特里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BADARI">
+      <Text>巴達利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAGACUM">
+      <Text>巴格庫姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAGASTANA">
+      <Text>巴加斯拉納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAGHDAD">
+      <Text>巴格達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAI_BALIQ">
+      <Text>拜巴裡克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BALAT">
+      <Text>巴拉特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BALKH">
+      <Text>巴爾克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BALTIMORE">
+      <Text>巴爾的摩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAMPUR">
+      <Text>巴姆普爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BANGALORE">
+      <Text>班加羅爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BANTU">
+      <Text>班圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAODING">
+      <Text>保定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BASRA">
+      <Text>巴斯拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BATH">
+      <Text>巴斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BATTAMBANG">
+      <Text>馬德望</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAXTRI">
+      <Text>巴克西特裡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAYONNE">
+      <Text>巴榮納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAYT_RAS">
+      <Text>拜特拉斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BEHISTUN">
+      <Text>貝西斯頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BEIJING">
+      <Text>北京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BELFAST">
+      <Text>貝爾法斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BELGIUM">
+      <Text>比利時</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BELGRADE">
+      <Text>貝爾格萊德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BENIHASAN">
+      <Text>貝尼哈桑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BERGEN">
+      <Text>卑爾根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BERLIN">
+      <Text>柏林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BERN">
+      <Text>伯爾尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BERWICK">
+      <Text>貝里克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BIELEFELD">
+      <Text>比勒菲爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BIRMINGHAM">
+      <Text>伯明罕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BITLIS">
+      <Text>比特利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BIZEN">
+      <Text>備前</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BLACKPOOL">
+      <Text>黑潭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BOCHUM">
+      <Text>波鴻</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BODHGAYA">
+      <Text>菩提伽耶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BODRUM">
+      <Text>波德魯姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BOISE">
+      <Text>波伊西</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BONN">
+      <Text>波恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BORAZJAN">
+      <Text>波拉茲加姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BORDEAUX">
+      <Text>波爾多</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BOSTON">
+      <Text>波士頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BOURGES">
+      <Text>布爾日</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRAUNSCHWEIG">
+      <Text>布勞恩斯威格</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BREMEN">
+      <Text>不萊梅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BREST">
+      <Text>布勒斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRIGHTON">
+      <Text>布萊頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRISTOL">
+      <Text>布里斯托爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRUNDISIUM">
+      <Text>布倫迪西姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRUSSELS">
+      <Text>布魯塞爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BRYANSK">
+      <Text>巴爾楊斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUBASTIS">
+      <Text>布巴斯提斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUCHAREST">
+      <Text>布加勒斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUDAPEST">
+      <Text>布達佩斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUFFALO">
+      <Text>水牛城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUKHARA">
+      <Text>布哈拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BULGAR">
+      <Text>保加利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUNYAN">
+      <Text>邦楊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BURGUNDIAN">
+      <Text>勃艮第</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BURSA">
+      <Text>布爾薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUSIRIS">
+      <Text>布西利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUTO">
+      <Text>布托</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BYBLOS">
+      <Text>比布魯斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAEN">
+      <Text>卡昂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAESARAUGUSTA">
+      <Text>凱撒奧古斯塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAESAREA">
+      <Text>凱撒里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CALAIS">
+      <Text>加來</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CALCUTTA">
+      <Text>加爾各答</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CALIXTLAHUACA">
+      <Text>卡里特斯特拉華克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAMBODIA">
+      <Text>柬埔寨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAMBRIDGE">
+      <Text>劍橋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANNES">
+      <Text>戛納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTERBURY">
+      <Text>坎特伯里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAPISA">
+      <Text>加皮沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CARCASSONNE">
+      <Text>卡爾卡松</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CARIB">
+      <Text>加勒比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CARLISLE">
+      <Text>卡萊爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CASABLANCA">
+      <Text>卡薩布蘭卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CASTRUMNOVUM">
+      <Text>卡斯特倫諾烏姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CEMPOALA">
+      <Text>森保拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CENTRALIA">
+      <Text>森特勒利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHALCHIUITES">
+      <Text>恰齊輝提斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHALCO">
+      <Text>恰可</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHALKIS">
+      <Text>哈爾基斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHAPULTEPEC">
+      <Text>恰普提普克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHARLESTON">
+      <Text>查理斯頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHARSADDA">
+      <Text>薩爾沙達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHARTRES">
+      <Text>夏特爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHEHALIS">
+      <Text>奇黑利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHELYABINSK">
+      <Text>車里雅賓斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHEMNITZ">
+      <Text>開姆尼斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHENGDU">
+      <Text>成都</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHERBOURG">
+      <Text>瑟堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHEROKEE">
+      <Text>切諾基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHIAUHITA">
+      <Text>加烏提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHICAGO">
+      <Text>芝加哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHICONAUTLA">
+      <Text>齊克瑙特拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHINOOK">
+      <Text>奇努克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHIOS">
+      <Text>開俄斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHITA">
+      <Text>赤塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHONGQING">
+      <Text>重慶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CIMMERIAN">
+      <Text>辛梅里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CINCINNATI">
+      <Text>辛辛那提</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CIRCASSIAN">
+      <Text>切爾克斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CIRCEI">
+      <Text>西爾塞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CLEVELAN">
+      <Text>克利夫蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CLUSIUM">
+      <Text>克魯西姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COATEPEC">
+      <Text>寇提普克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COLCHESTER">
+      <Text>科爾切斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COLOGNE">
+      <Text>科隆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COLUMBUS">
+      <Text>哥倫布市</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COPENHAGEN">
+      <Text>哥本哈根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CORFINIUM">
+      <Text>科弗尼姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CORINTH">
+      <Text>科林斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COVENTRY">
+      <Text>考文垂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COYOTEPEC">
+      <Text>可約提普克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CREMONA">
+      <Text>克雷莫納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CUMAE">
+      <Text>庫米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CUMAN">
+      <Text>庫曼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CURIA">
+      <Text>庫里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DAKYANUS">
+      <Text>達克亞努斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DALIAN">
+      <Text>大連</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DALLAS">
+      <Text>達拉斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DAMANHUR">
+      <Text>達馬胡爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DAMASCUS">
+      <Text>大馬士革</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DAPHNAI">
+      <Text>達普耐</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DARIUSHKABIR">
+      <Text>大流士卡比爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DARMASA">
+      <Text>達爾馬沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DARMSTADT">
+      <Text>達姆施塔特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DASHUR">
+      <Text>達蘇爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DEBRECEN">
+      <Text>德布勒森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DELHI">
+      <Text>德里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DENIZLI">
+      <Text>德尼茲利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DENMARK">
+      <Text>丹麥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DENVER">
+      <Text>丹佛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DETROIT">
+      <Text>底特律</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DIYARBAKIR">
+      <Text>迪亞巴克爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DJENNE">
+      <Text>德傑恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DJION">
+      <Text>第戎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DORTMUND">
+      <Text>多特蒙德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DOVER">
+      <Text>多佛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DRAPSAKA">
+      <Text>德拉普沙卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DRESDEN">
+      <Text>德雷斯頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DUBLIN">
+      <Text>都柏林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DUISBURG">
+      <Text>杜伊斯堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DUNHUANG">
+      <Text>敦煌</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DURAEUROPOS">
+      <Text>杜拉歐羅普斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DUSSELDORF">
+      <Text>杜塞朵夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EBURACUM">
+      <Text>埃伯拉庫姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ECATEPEC">
+      <Text>艾卡提普克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ECBATANA">
+      <Text>厄克巴塔納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ECHIGO">
+      <Text>越後</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ECHIZEN">
+      <Text>越前</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EDFU">
+      <Text>埃德富</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EDINBURGH">
+      <Text>愛丁堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EDIRNE">
+      <Text>埃迪爾內</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EION">
+      <Text>埃翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EKATOMPYLOS">
+      <Text>和櫝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELASHMUNEIN">
+      <Text>埃爾-阿姆內因</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELEPHANTINE">
+      <Text>埃里芬提納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELIS">
+      <Text>艾裡斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELKAB">
+      <Text>埃爾-卡伯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ELLAHUN">
+      <Text>埃爾-拉胡恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EPHESUS">
+      <Text>以弗所</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EREGLI">
+      <Text>埃瑞格利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERETRIA">
+      <Text>埃勒特里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERFURT">
+      <Text>埃爾福特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERGILI">
+      <Text>埃爾吉里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERLANGEN">
+      <Text>埃爾蘭根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ERZURUM">
+      <Text>埃爾祖魯姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ESKISEHIR">
+      <Text>埃斯基謝希爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ESPOO">
+      <Text>埃斯波</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ESSEN">
+      <Text>埃森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ESTRUSCAN">
+      <Text>埃斯楚斯坎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EXETER">
+      <Text>埃克賽特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FEZ">
+      <Text>菲茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FINLAND">
+      <Text>芬蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRANKFURT">
+      <Text>法蘭克福</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FREGELLAE">
+      <Text>弗雷格萊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FREIBURG">
+      <Text>弗萊堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FUKUOKA">
+      <Text>福岡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FUKUSHIMA">
+      <Text>福島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FUSTAT">
+      <Text>弗斯塔特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GABAE">
+      <Text>嘉俳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GANDUTAVA">
+      <Text>甘杜塔瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GANSU">
+      <Text>甘肅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAOYU">
+      <Text>高郵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAUGAMELA">
+      <Text>高加美拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAUL">
+      <Text>高盧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAUR">
+      <Text>高爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAZIANTEP">
+      <Text>加齊安泰普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GELSENKIRCHEN">
+      <Text>蓋爾森基興</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GEPID">
+      <Text>格皮德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GHULAMAN">
+      <Text>古拉曼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GHURAB">
+      <Text>科姆麥迪奈特古拉伯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GHUZZ">
+      <Text>古茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GIZA">
+      <Text>吉薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GLASGOW">
+      <Text>格拉斯哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GLOUCESTER">
+      <Text>格洛斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GORDION">
+      <Text>戈爾迪翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GORDIUM">
+      <Text>哥爾蒂姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GORTYN">
+      <Text>哥爾泰恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GOTEBORG">
+      <Text>哥德堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GOTH">
+      <Text>哥德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GOTTINGEN">
+      <Text>哥庭根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GRENOBLE">
+      <Text>格勒諾布爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GUANGZHOU">
+      <Text>廣州</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GULBARGA">
+      <Text>古爾伯加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GWALIOR">
+      <Text>瓜廖爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HADRIA">
+      <Text>哈德利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAERBIN">
+      <Text>哈爾濱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAGEN">
+      <Text>哈根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAKODATE">
+      <Text>函館</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HALICARNASSUS">
+      <Text>哈里卡爾納蘇斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HALLE">
+      <Text>哈列</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAMA">
+      <Text>哈馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAMBURG">
+      <Text>漢堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAMM">
+      <Text>哈姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HANDAN">
+      <Text>邯鄲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HANGZHOU">
+      <Text>杭州</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HANNOVER">
+      <Text>漢諾威</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HANOI">
+      <Text>河內</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARAPPAN">
+      <Text>哈拉帕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARMOZEIA">
+      <Text>哈莫澤亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HASANLU">
+      <Text>哈桑盧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HASTINGS">
+      <Text>哈斯丁斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAWARA">
+      <Text>哈瓦拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HELIOPOLIS">
+      <Text>赫里奧波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HELSINKI">
+      <Text>赫爾辛基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERAKLEIA">
+      <Text>赫拉克雷亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERAKLEOPOLIS">
+      <Text>赫拉克利奧波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERAT">
+      <Text>赫拉特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERMONTHIS">
+      <Text>赫蒙利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERMOPOLIS">
+      <Text>赫爾莫波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HERNE">
+      <Text>赫爾內</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HEYUAN">
+      <Text>河源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HIERACONPOLIS">
+      <Text>海爾拉康波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HILDESHEIM">
+      <Text>希爾德斯海姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HIROSHIMA">
+      <Text>廣島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HISPALIS">
+      <Text>希斯帕利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HITTITE">
+      <Text>西臺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HONOLULU">
+      <Text>檀香山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HOUSTON">
+      <Text>休斯頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HSUNGNU">
+      <Text>匈奴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUANGSHI">
+      <Text>黃石</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUBEI">
+      <Text>湖北</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUEXOTLA">
+      <Text>惠克索特拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HULL">
+      <Text>赫爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUN">
+      <Text>胡恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUNGARY">
+      <Text>匈牙利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HUNT_VALLEY">
+      <Text>狩獵谷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HURRIAN">
+      <Text>胡里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HYDERABAD">
+      <Text>海德拉巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IASI">
+      <Text>雅西</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ILLINOIS">
+      <Text>伊利諾斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDRAPRASTHA">
+      <Text>印達巴斯塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INEBOLU">
+      <Text>伊內博盧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INTERRAMA">
+      <Text>因特拉瑪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IPSWICH">
+      <Text>伊普斯威奇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IRELAND">
+      <Text>愛爾蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IRKUSTK">
+      <Text>伊爾庫茨克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ISE">
+      <Text>伊勢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ISTAKHR">
+      <Text>伊斯塔克爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ISTANBUL">
+      <Text>伊斯坦布爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ITZAPALAPA">
+      <Text>伊特扎帕拉帕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IXTAPALUCA">
+      <Text>伊薩塔帕魯卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZATA">
+      <Text>伊扎塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZMIR">
+      <Text>伊茲米爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZMIT">
+      <Text>伊茲米特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZTAPAM">
+      <Text>伊茲塔潘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZUMI">
+      <Text>山梨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_IZUMO">
+      <Text>出雲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JACKSONVILLE">
+      <Text>傑克遜維爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JAIPUR">
+      <Text>賈伊普爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JAUNPUR">
+      <Text>焦恩普爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JILOTZINGO">
+      <Text>濟羅金哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JINJAN">
+      <Text>金加恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JUTE">
+      <Text>朱特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KABUL">
+      <Text>喀布爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAGOSHIMA">
+      <Text>鹿兒島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAHUN">
+      <Text>卡宏城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAIFENG">
+      <Text>開封</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAIROUAN">
+      <Text>凱魯萬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAMAKURO">
+      <Text>鐮倉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAMPADA">
+      <Text>卡姆帕達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KANDAHAR">
+      <Text>坎大哈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KANSAS_CITY">
+      <Text>堪薩斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAPISA">
+      <Text>卡皮沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARACHI">
+      <Text>卡拉齊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARAGANDA">
+      <Text>卡拉干達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARLSRUHE">
+      <Text>卡爾斯魯厄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARMANA">
+      <Text>卡爾馬納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KARNAK">
+      <Text>卡爾納克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KASSEL">
+      <Text>卡塞爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KASSITE">
+      <Text>卡塞特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAYSERI">
+      <Text>開塞利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAZAKH">
+      <Text>哈薩克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KHABAROVSK">
+      <Text>哈巴羅夫斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KHAZAK">
+      <Text>卡扎克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KHOISAN">
+      <Text>科伊桑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KHURASAN">
+      <Text>呼羅珊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KIEL">
+      <Text>基爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KNIDOS">
+      <Text>克尼多斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KNOSSOS">
+      <Text>克諾索斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOBE">
+      <Text>神戶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOBLENZ">
+      <Text>科布倫茨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOCHI">
+      <Text>高知</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOLHAPUR">
+      <Text>科拉普爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KONYA">
+      <Text>科尼亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOPTOS">
+      <Text>科普托斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOREA">
+      <Text>朝鮮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOS">
+      <Text>科斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOSTROMA">
+      <Text>克斯特羅馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOUNAXA">
+      <Text>科烏納夏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOZUKE">
+      <Text>上野</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KRAKOW">
+      <Text>克拉科夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KRASNOYARSK">
+      <Text>克拉斯諾亞斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KREFELD">
+      <Text>克列菲爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUFAH">
+      <Text>庫法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUGANAKA">
+      <Text>庫加納卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUNMING">
+      <Text>昆明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KURSK">
+      <Text>庫斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUSHANS">
+      <Text>貴霜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KUSHINAGAR">
+      <Text>庫什那加爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KYOTO">
+      <Text>京都</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KYRESKHATA">
+      <Text>凱列斯卡塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LA_ROCHELLE">
+      <Text>拉羅歇爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAHORE">
+      <Text>拉合爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAMIA">
+      <Text>拉彌亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LANCASTER">
+      <Text>蘭卡斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LARISSA">
+      <Text>拉裡薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAS_VEGAS">
+      <Text>拉斯維加斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAURIACUM">
+      <Text>勞里亞庫姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LE_BAM">
+      <Text>列班</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LE_HAVRE">
+      <Text>勒阿弗爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LE_MANS">
+      <Text>勒芒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LEEDS">
+      <Text>利茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LEICESTER">
+      <Text>雷切斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LEIPZIG">
+      <Text>萊比錫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LEVERKUSEN">
+      <Text>列維爾庫森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LHASA">
+      <Text>拉薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIAONING">
+      <Text>遼陽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIBYAN">
+      <Text>利比亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIGURIAN">
+      <Text>利古里亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIJIANG">
+      <Text>麗江</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LILLE">
+      <Text>裡爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIMOGES">
+      <Text>裡摩日</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LISBON">
+      <Text>里斯本</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LISHT">
+      <Text>利希特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LITTLE_ROCK">
+      <Text>小岩城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LIVERPOOL">
+      <Text>利物浦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LONDINIUM">
+      <Text>倫迪尼姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LONDON">
+      <Text>倫敦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LOS_ANGELES">
+      <Text>洛杉磯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LOURDES">
+      <Text>盧爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LOYANG">
+      <Text>洛陽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUCERIA">
+      <Text>盧塞利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUDWIGSHAFEN">
+      <Text>路德維希港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUGDUNUM">
+      <Text>路格杜姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUXOR">
+      <Text>盧克索</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LYONS">
+      <Text>里昂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MACAU">
+      <Text>澳門</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MADURAI">
+      <Text>馬杜賴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAGADAN">
+      <Text>馬加丹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAGNITOGORSK">
+      <Text>馬格尼托哥爾斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAGYAR">
+      <Text>馬扎爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MALATYA">
+      <Text>馬拉蒂亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MALI">
+      <Text>馬利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MALINALCO">
+      <Text>馬里納科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MANCHESTER">
+      <Text>曼徹斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MANSURA">
+      <Text>曼蘇拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAOMING">
+      <Text>茂名</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARAKANDA">
+      <Text>馬拉坎達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARMARIS">
+      <Text>馬爾馬裡斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARRAKECH">
+      <Text>馬拉喀什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARSEILLES">
+      <Text>馬賽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MARSIN">
+      <Text>馬爾欣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MATHURA">
+      <Text>馬圖拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MATSUYAMA">
+      <Text>松山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAURYAN">
+      <Text>毛利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MAYA">
+      <Text>馬雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MECCA">
+      <Text>麥加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MEDINA">
+      <Text>麥地那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MEDIOLANUM">
+      <Text>米底歐蘭姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MEGARA">
+      <Text>麥加拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MEMPHIS">
+      <Text>孟斐斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MENDES">
+      <Text>孟得斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MERIMDE">
+      <Text>梅利姆德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MERV">
+      <Text>梅爾夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MERW">
+      <Text>馬魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MESSENE">
+      <Text>墨塞奈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MIAMI">
+      <Text>邁阿密</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MILETOS">
+      <Text>米利托斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MILWAUKEE">
+      <Text>密爾瓦基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MINNEAPOLIS">
+      <Text>明尼阿波里斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MINOAN">
+      <Text>米諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MONCHENGLADBACH">
+      <Text>明興格拉德巴赫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MONTEREY">
+      <Text>蒙特雷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MONTPELLIER">
+      <Text>蒙彼利埃</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MOSCOW">
+      <Text>莫斯科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MOSUL">
+      <Text>摩蘇爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUGLA">
+      <Text>穆哥拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MULHEIM">
+      <Text>穆爾海姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUMBAI">
+      <Text>孟買</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUMBLES">
+      <Text>博恩默斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUNICH">
+      <Text>慕尼黑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUNSTER">
+      <Text>明斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MURMANSK">
+      <Text>莫曼斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUSCAT">
+      <Text>馬斯喀特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MYCENAE">
+      <Text>邁錫尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MYCENIAN">
+      <Text>邁錫尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MYTILENE">
+      <Text>麥提雷尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAFPLION">
+      <Text>納夫普利翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAGANO">
+      <Text>長野</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAGASAKI">
+      <Text>長崎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAGOYA">
+      <Text>名古屋</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAHA">
+      <Text>那霸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAJRAN">
+      <Text>奈季蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NANCY">
+      <Text>南錫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NANJING">
+      <Text>南京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NANTES">
+      <Text>南特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NANTONG">
+      <Text>南通</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NARA">
+      <Text>奈良</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAUTAKA">
+      <Text>納烏塔卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAVAJO">
+      <Text>納瓦霍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NAXOS">
+      <Text>納克索斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEAPOLIS">
+      <Text>尼亞波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEGADE">
+      <Text>內加德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEUSS">
+      <Text>諾伊斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEW_ORLEANS">
+      <Text>紐奧良</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEW_YORK">
+      <Text>紐約</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEWCASTLE">
+      <Text>紐塞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NICE">
+      <Text>尼斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NICOPOLIS">
+      <Text>尼克波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NIMES">
+      <Text>尼姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NINGBO">
+      <Text>寧波</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NIZHNIYNOVGOROD">
+      <Text>下諾夫哥羅德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NORWAY">
+      <Text>挪威</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NORWICH">
+      <Text>諾威奇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NOTTHINGHAM">
+      <Text>諾丁漢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NOVGOROD">
+      <Text>諾夫哥羅德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NOVOSIBIRSK">
+      <Text>新西伯利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUBIAN">
+      <Text>努比亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUMIDIAN">
+      <Text>努米底亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OAKLAND">
+      <Text>奧克蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OBERHAUSEN">
+      <Text>奧伯豪森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OIDU">
+      <Text>奧依度</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OLDENBURG">
+      <Text>奧登堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OLMEC">
+      <Text>奧爾梅克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OLYMPIA">
+      <Text>奧林匹亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OMAHA">
+      <Text>奧馬哈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OMBOS">
+      <Text>歐姆波斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OMI">
+      <Text>近江</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OMSK">
+      <Text>鄂木斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OPORTO">
+      <Text>奧博托</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORAN">
+      <Text>奧蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORCHOMENOS">
+      <Text>奧爾霍邁諾斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORDU_BALIQ">
+      <Text>奧爾杜巴拉奇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORENBURG">
+      <Text>奧倫堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORLANDO">
+      <Text>奧蘭多</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORLEANS">
+      <Text>奧爾良</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ORYX">
+      <Text>歐利克斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OSAKA">
+      <Text>大阪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OSLO">
+      <Text>奧斯陸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OSNABRUCK">
+      <Text>歐斯納布魯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OSTIA">
+      <Text>歐斯提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OXFORD">
+      <Text>牛津</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PAISHIYAUVADA">
+      <Text>派什亞烏瓦達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PALENQUE">
+      <Text>帕倫克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PALMYRA">
+      <Text>帕爾邁拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PALO_ALTO">
+      <Text>帕羅奧多</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PARIS">
+      <Text>巴黎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PAROS">
+      <Text>帕羅斯島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PARTHIAN">
+      <Text>帕提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PASARGADAE">
+      <Text>帕薩爾加達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PATALIPUTRA">
+      <Text>帕塔裡普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PATIGRBANA">
+      <Text>帕提格巴納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PATRAS">
+      <Text>佩特雷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PELLA">
+      <Text>佩拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PERGAMON">
+      <Text>帕爾加蒙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PERM">
+      <Text>彼爾姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PERSEPOLIS">
+      <Text>波斯波利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PESHAWAR">
+      <Text>白沙瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHARSALOS">
+      <Text>法薩洛斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHEONICIAN">
+      <Text>腓尼基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHILADELPHIA">
+      <Text>費城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHNOM_PENH">
+      <Text>金邊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHOCAEA">
+      <Text>弗卡亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHOENIX">
+      <Text>鳳凰城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHRADA">
+      <Text>弗拉達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PHRYGIAN">
+      <Text>弗利吉亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PIRAMESSES">
+      <Text>培爾-拉美西斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PITHOM">
+      <Text>皮索姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PITTSBURGH">
+      <Text>匹茲堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PLACENTIA">
+      <Text>普拉森提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH">
+      <Text>普利茅斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_POITIERS">
+      <Text>普瓦捷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_POLAND">
+      <Text>波蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_POLYNESIAN">
+      <Text>玻里尼西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PORTLAND">
+      <Text>波特蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PORTSMOUTH">
+      <Text>普茲茅斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PORTUGAL">
+      <Text>葡萄牙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_POTSDAM">
+      <Text>波茨坦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PRAYAGA">
+      <Text>缽羅耶伽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PRISTINA">
+      <Text>普裡什蒂納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PSKOV">
+      <Text>普斯科夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PTEIRA">
+      <Text>普泰拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PUSAN">
+      <Text>釜山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PYLOS">
+      <Text>皮洛斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_QATNA">
+      <Text>卡特納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAJAGRIHA">
+      <Text>王捨城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAQOTE">
+      <Text>拉括特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAVENNA">
+      <Text>拉文那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_READING">
+      <Text>雷丁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RECKLINGHAUSEN">
+      <Text>雷克林豪森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_REIMS">
+      <Text>蘭斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RENNES">
+      <Text>雷恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RENO">
+      <Text>雷諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_REY">
+      <Text>雷伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RHEIMS">
+      <Text>特魯瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RHODES">
+      <Text>羅得斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RICHMOND">
+      <Text>里奇蒙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROMANIA">
+      <Text>羅馬尼亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROME">
+      <Text>羅馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROSTOCK">
+      <Text>羅斯托克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROSTOV">
+      <Text>羅斯托夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROUEN">
+      <Text>魯昂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAARBRUCKEN">
+      <Text>薩爾布魯肯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SACRAMENTO">
+      <Text>山克拉門都</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SADO">
+      <Text>佐渡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAIGON">
+      <Text>西貢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAINT_ETIENNE">
+      <Text>聖埃蒂安</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAKAE">
+      <Text>沙凱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SALISBURY">
+      <Text>梳士巴利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SALT_LAKE_CITY">
+      <Text>鹽湖城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMARA">
+      <Text>薩馬拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMOS">
+      <Text>薩摩斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMSUN">
+      <Text>薩姆松</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAN_ANTONIO">
+      <Text>聖安東尼奧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAN_DIEGO">
+      <Text>聖地牙哥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAN_FRANCISCO">
+      <Text>舊金山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANAA">
+      <Text>薩那阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANTA_CRUZ">
+      <Text>聖克魯茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANTA_FE">
+      <Text>聖大非</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANTA_MONICA">
+      <Text>聖塔莫尼卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAPPORO">
+      <Text>札幌</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SARATOV">
+      <Text>薩拉托夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SARDIS">
+      <Text>薩迪斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SARMATIAN">
+      <Text>薩爾馬提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SATICULA">
+      <Text>薩提庫拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SATRICUM">
+      <Text>薩特里庫姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SATSUMA">
+      <Text>薩摩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAVANNAH">
+      <Text>沙凡那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXON">
+      <Text>撒克遜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SCOTLAND">
+      <Text>蘇格蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SCYTHIAN">
+      <Text>塞西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SEATTLE">
+      <Text>西雅圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SEBENNYTUS">
+      <Text>塞本尼圖斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SEMNA">
+      <Text>塞姆納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SENAGALLICA">
+      <Text>塞納加利卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SEOUL">
+      <Text>首爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SERBIA">
+      <Text>塞爾維亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SETIA">
+      <Text>塞提亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHANDONG">
+      <Text>山東</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHANGHAI">
+      <Text>上海</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHANGIAN">
+      <Text>桑及亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHAOGUAN">
+      <Text>韶關</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHEFFIELD">
+      <Text>謝菲爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHENYANG">
+      <Text>瀋陽</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHIGATSE">
+      <Text>日喀則</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHIHR">
+      <Text>席赫爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHIMONOSEKI">
+      <Text>下關</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHIRAZ">
+      <Text>設拉子</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SICYON">
+      <Text>西塞翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SIGNIA">
+      <Text>西格尼亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SILIFKE">
+      <Text>西利夫克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SINOP">
+      <Text>錫諾普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SIRMIUM">
+      <Text>希爾米姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SIVAS">
+      <Text>錫瓦斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SMOLENSK">
+      <Text>斯摩稜斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SMYRNA">
+      <Text>士麥那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SOLEB">
+      <Text>索列伯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SOLINGEN">
+      <Text>索林根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SORA">
+      <Text>索拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SOUTHAMPTON">
+      <Text>南安普頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SPARTA">
+      <Text>斯巴達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SPOKANE">
+      <Text>史坡堪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SPRINGFIELD">
+      <Text>春田</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SRAVASTI">
+      <Text>捨瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ST_LOUIS">
+      <Text>聖路易斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STARAYARUSSA">
+      <Text>斯塔拉亞羅薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STOCKHOLM">
+      <Text>斯德哥爾摩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STPETERSBURG">
+      <Text>聖彼得堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STRASBOURG">
+      <Text>斯特拉斯堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_STUTTGART">
+      <Text>斯圖加特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUESSA">
+      <Text>蘇埃薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUHAR">
+      <Text>蘇哈爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUO">
+      <Text>周防</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUSA">
+      <Text>蘇撒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUTRIUM">
+      <Text>蘇特利姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUZDAL">
+      <Text>蘇茲達爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SUZHOU">
+      <Text>蘇州</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SWEDEN">
+      <Text>瑞典</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SWITZERLAND">
+      <Text>瑞士</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SYRACUSE">
+      <Text>敘拉古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TABUK">
+      <Text>塔布克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TACOMA">
+      <Text>塔科馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAIF">
+      <Text>塔伊夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAINAN">
+      <Text>臺南</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAIPEI">
+      <Text>臺北</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAIYUAN">
+      <Text>太原</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAKAYAMA">
+      <Text>高山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAMPA_BAY">
+      <Text>坦帕灣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAMUIN">
+      <Text>塔木因</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TANGIER">
+      <Text>丹吉爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TANIS">
+      <Text>塔尼斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TARENTUM">
+      <Text>塔倫圖姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TARSUS">
+      <Text>塔爾蘇斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TARTAR">
+      <Text>韃靼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TASA">
+      <Text>塔沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEAYO">
+      <Text>提約</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEGEA">
+      <Text>特吉亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TENOCHTITLAN">
+      <Text>提諾奇蒂特蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEOIHUACAN">
+      <Text>提奧伊華坎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEOTIHUACAN">
+      <Text>提歐提華肯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEPETLAOXTOC">
+      <Text>提普特洛克斯托克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEPEXPAN">
+      <Text>特佩斯潘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEQUIXQUIAC">
+      <Text>提魁克斯魁亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEURNIA">
+      <Text>突尼亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEXCOCO">
+      <Text>特斯科科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THANJAVUR">
+      <Text>珊賈伍爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THEBES">
+      <Text>底比斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THIS">
+      <Text>利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_THRACIAN">
+      <Text>色雷斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIANJIN">
+      <Text>天津</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIBET">
+      <Text>西藏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIKAL">
+      <Text>蒂卡爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIMBUKTU">
+      <Text>廷巴克圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIRUCHIRAPALLI">
+      <Text>蒂魯吉拉伯利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIRYNS">
+      <Text>提林斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TLACOPAN">
+      <Text>特拉克帕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TLALMANALCO">
+      <Text>特拉曼納可</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TLAPANALOYA">
+      <Text>特拉潘那洛亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TLATELOLCO">
+      <Text>特拉特洛克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TLAXCALA">
+      <Text>得拉克卡拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOBOLSK">
+      <Text>托波爾斯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOKYO">
+      <Text>東京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOULON">
+      <Text>土倫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOULOUSE">
+      <Text>圖盧茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOURS">
+      <Text>圖爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOYAMA">
+      <Text>富山</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TRABZON">
+      <Text>特拉布宗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TRES_ZAPOTES">
+      <Text>特雷斯薩波特斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TREVERI">
+      <Text>都靈維利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TRIPOLI">
+      <Text>的黎波里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TULA">
+      <Text>圖拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TULTITAN">
+      <Text>圖提特蘭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUNIS">
+      <Text>突尼斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TURENGTEPE">
+      <Text>土倫泰佩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUSHPA">
+      <Text>圖什帕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TVER">
+      <Text>特維爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TZINTZUNTZEN">
+      <Text>特茲特祖恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UIGHUR">
+      <Text>維吾爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UJJAIN">
+      <Text>烏賈因</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ULUNDI">
+      <Text>烏倫迪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UMGUNGUNDLOVU">
+      <Text>姆貢貢德洛烏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_URATYUBE">
+      <Text>烏拉提烏貝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_URFA">
+      <Text>烏爾法</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UZBEK">
+      <Text>烏茲別克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VAN">
+      <Text>瓦恩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VANDAL">
+      <Text>汪達爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VARANASI">
+      <Text>瓦拉納西</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VELITRAE">
+      <Text>維利特萊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VERONA">
+      <Text>維羅納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM">
+      <Text>越南</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIJAYANAGARA">
+      <Text>維查耶納伽爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIROCONIUM">
+      <Text>威洛科斯尼姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VISIGOTH">
+      <Text>西哥德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VLADIMIR">
+      <Text>弗拉基米爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VLADIVOSTOK">
+      <Text>海參威</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VOLOGDA">
+      <Text>沃洛格達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VORONEZH">
+      <Text>沃羅涅什</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WARSAW">
+      <Text>華沙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WARWICK">
+      <Text>瓦立克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WASHINGTON">
+      <Text>華盛頓</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WEIFANG">
+      <Text>濰坊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WIESBADEN">
+      <Text>威斯巴登</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WINCHESTER">
+      <Text>溫徹斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WOLFSBURG">
+      <Text>沃爾夫斯堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WUPPERTAL">
+      <Text>烏珀塔爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WURZBURG">
+      <Text>維爾茨堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WUXI">
+      <Text>無錫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XIAN">
+      <Text>西安</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XIKANG">
+      <Text>康定</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XINYU">
+      <Text>新余</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XINZHENG">
+      <Text>新鄭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_XOCHICALCO">
+      <Text>索奇克爾克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YAKUTSK">
+      <Text>雅庫茨克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YAMAMA">
+      <Text>葉麻默</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YANGJIANG">
+      <Text>陽江</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YANGZHOU">
+      <Text>揚州</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YAROSLAVI">
+      <Text>雅羅斯拉夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YAYOI">
+      <Text>彌生</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YEKATERINBURG">
+      <Text>凱薩琳堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YICHANG">
+      <Text>宜昌</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YINGTAN">
+      <Text>鷹潭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YOKOHAMA">
+      <Text>橫濱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YORK">
+      <Text>約克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_YUECHI">
+      <Text>月氏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZAPOTEC">
+      <Text>薩波特克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZHOU">
+      <Text>周</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZITLALTEPEC">
+      <Text>齊特拉提普克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZOHAK">
+      <Text>佐哈克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZONGULDAK">
+      <Text>宗古爾達克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZULU">
+      <Text>祖魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZURICH">
+      <Text>蘇黎世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_AKRON">
+      <Text>亞克朗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_AKWESASNE">
+      <Text>阿克威薩森</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_BAY_OF_QUINTE">
+      <Text>昆特灣</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_BRANTFORD">
+      <Text>布蘭特福德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_BUFFALO">
+      <Text>水牛鎮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_BUFFALO_CREEK">
+      <Text>水牛溪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_CANAJOHARIE">
+      <Text>卡納卓裡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_CANANDAIGUA_LAKE">
+      <Text>卡南代瓜湖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_CAYUGA_CASTLE">
+      <Text>卡尤加堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_CHONDOTE">
+      <Text>科恩多特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_CUBA">
+      <Text>古巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_GANIENKEH">
+      <Text>加尼恩科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_GENESSE_RIVER">
+      <Text>金尼斯河</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_GOWANDA">
+      <Text>哥萬達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_GRAND_RIVER">
+      <Text>格蘭裡佛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_GREEN_BAY">
+      <Text>格林貝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_HAHTA">
+      <Text>哈塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_KANATSIOKAREKE">
+      <Text>卡納克西奧卡雷克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_KANAWALE">
+      <Text>卡拉瓦勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_KANESATAKE">
+      <Text>卡尼薩塔可</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_KANONWALOHALE">
+      <Text>卡農瓦拉哈勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_LAKE_SIMCOE">
+      <Text>希姆科湖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_MOHAWK_VALLEY">
+      <Text>莫霍克谷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_MONTREAL">
+      <Text>蒙特利爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_NEDROW">
+      <Text>內德羅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_ONEIDA_LAKE">
+      <Text>歐奈達湖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_ONONDAGA">
+      <Text>奧內達加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_OSININKA">
+      <Text>奧塞內卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_SALAMANCA">
+      <Text>薩拉曼卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_SCHOHARIE">
+      <Text>斯科哈里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_SOUTHWOLD">
+      <Text>索思沃爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_SYRACUSE">
+      <Text>敘拉古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_IROQ_CITY_NAME_TYENDINAGA">
+      <Text>泰迪納加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_AYUTTHAYA">
+      <Text>阿瑜陀耶</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_BAN_PHAI">
+      <Text>班徘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_CHAINAT">
+      <Text>猜納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_CHIANG_THONG">
+      <Text>清洪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_HONGSAWADEE">
+      <Text>虹沙瓦蒂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_KAMPHAENG_PHET">
+      <Text>甘烹碧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_KHAN_KAEN">
+      <Text>孔敬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_LAMPANG">
+      <Text>南邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_LAP_BURI">
+      <Text>拉布裡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_LOCI">
+      <Text>洛奇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_LUANG_PRABANG">
+      <Text>琅勃拉邦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_MARTABAN">
+      <Text>馬達班</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_MUANG_SALUANG">
+      <Text>孟沙朗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_CHUM">
+      <Text>那空春</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_SAWAN">
+      <Text>那空沙旺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_NAKHON_SI_THAMMARAT">
+      <Text>那空是灘瑪叻</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_NAN">
+      <Text>那安</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_PHITSANULOK">
+      <Text>彭世洛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_PHRAE">
+      <Text>帕府</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_RATCHASIMA">
+      <Text>叻差是瑪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_SI_SATCHANALAI">
+      <Text>西撒查那來</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_SUKHOTHAI">
+      <Text>素可泰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_SUPHANBURI">
+      <Text>素攀府</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_SURIN">
+      <Text>素林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_TAK">
+      <Text>達府</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_TAPHAN_HIN">
+      <Text>竹板杏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_THAWAII">
+      <Text>沙瓦伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_UTHAI_THANI">
+      <Text>烏泰他尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_UTTARADIT">
+      <Text>程逸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SIAM_CITY_NAME_VIENTIANE">
+      <Text>萬象</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_AGADEZ">
+      <Text>阿加德茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_ARGUNGU">
+      <Text>阿爾貢古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_AWDAGHOST">
+      <Text>奧達高斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_BAMAKO">
+      <Text>巴馬科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_BAMBA">
+      <Text>班巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_BOUSSA">
+      <Text>布薩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_DAKAR">
+      <Text>達喀爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_DORI">
+      <Text>多里</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_GAO">
+      <Text>加奧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_GWANDU">
+      <Text>關圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_JENNE">
+      <Text>傑內</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_KANO">
+      <Text>卡諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_KAYES">
+      <Text>卡耶斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_KEBBI">
+      <Text>凱比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_KUKIA">
+      <Text>庫基亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_KUMBI_SALEH">
+      <Text>庫姆比沙雷赫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_MOPTI">
+      <Text>莫普提</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_NIAMEY">
+      <Text>尼亞美</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_OUADANE">
+      <Text>瓦旦諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_OUATAGOUNA">
+      <Text>卡塔工納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_SEGOU">
+      <Text>塞古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TADMEKKET">
+      <Text>塔德梅科特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TAGHAZA">
+      <Text>塔加扎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TEGDAOUST">
+      <Text>臺格道斯特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TEKEDDA">
+      <Text>特克達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TOMBOUCTU">
+      <Text>托姆布科圖</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TONDIBI">
+      <Text>通迪比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_TORODI">
+      <Text>托羅迪</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_WA">
+      <Text>瓦阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SONG_CITY_NAME_WALATA">
+      <Text>瓦拉塔</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

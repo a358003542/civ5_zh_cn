@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_ADJECTIVE">
+      <Text>拜占庭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_DESC">
+      <Text>拜占庭帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_SHORT_DESC">
+      <Text>拜占庭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_ADJECTIVE">
+      <Text>金國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_DESC">
+      <Text>金帝國</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_SHORT_DESC">
+      <Text>金國</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

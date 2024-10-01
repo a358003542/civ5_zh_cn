@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
+      <Text>和城（Wajo）是日本的特色改良設施，替代劇本中的堡壘。必須要建於海岸單元格上，可以提高任何駐紮其中的單位的50%防禦力。鄰近和城的對手結束回合後，會受到2點傷害。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT">
+      <Text>和城是一種獨特的改良設施，它不增加單元格的生產力，也無益於獲取資源。相反地，敵方單位在其周圍結束回合時會受到2點傷害，且在其中駐紮的單位可獲得50%的防禦加成。但和城在敵方領土上無法提供防禦加成。[NEWLINE][NEWLINE]在日本侵略朝鮮的戰爭，「萬曆朝鮮戰爭」時，日軍在匆忙之中，沿著海岸線建造許多堡壘，稱為和城，大部分分布於朝鮮的東南沿海海岸，作為哨所與駐軍之用。日本軍隊按照一定規格來搭建這種「人工山陵」或「高地」，在上面布置木牆、高塔，以及和日本傳統城堡風格很搭配的內部結構。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BRIEFING">
+      <Text>簡介</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO">
+      <Text>建造[LINK=IMPROVEMENT_WAJO]和城[\LINK]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_HELP">
+      <Text>駐紮於該單元格的任何單位+50%[ICON_STRENGTH]防禦力。僅能由日本建造，而且必須建於近海單元格上。任何在和城旁結束回合的敵方單位會受到2點傷害。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_REC">
+      <Text>可提昇駐紮於該單元格的任何軍事單位的[ICON_STRENGTH]防禦力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_HELP">
+      <Text>[ICON_GOLD]金幣+4。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
+      <Text>造紙作坊是中國的特色建築，替代銀行。造紙作坊可以提高城市的金幣收入。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PORCELAIN_TOWER_STRATEGY">
+      <Text>大報恩寺塔可提高近戰和海上單位的生產速度。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_TEXT_1">
+      <Text>中國的滿族王朝，也稱為清朝，其根源可追溯到居住於歷史上稱為滿洲地區的女真族。女真王朝最初於十七世紀由女真首領努爾哈赤建立，在他的領導下滿族人致力於領土擴張並與強盛的明朝開戰。最終他們推翻了明朝，並占據了後者大部分的領土。滿族王朝統治中國近三百年，也是中華人民共和國建立前中國的最後一個封建王朝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_ADJECTIVE">
+      <Text>滿族</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_DESC">
+      <Text>滿族王朝</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_ANTIQUITY_SETTLER_TEXT">
+      <Text>女真氏族是滿族王朝及其子民的祖先，居住於名為滿洲的地方，也就是現今的中國東北。在滿族王朝於十七世紀興起之前，女真族在十二世紀時也僅是金朝旗幟下的一個統一的部落。縱觀其歷史，女真族以精熟的獵人和騎術著名，以身為天生的騎兵自豪。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_CHINA_TEXT">
+      <Text>劇本描述[NEWLINE]願神賜福於您，大人-願上天的旨意能引導您渡過這段艱苦的日子，因為變革之風已吹至我們這裡，進而將襲捲東亞。日本的太閣豐臣秀吉在歷經千辛萬苦之後統一了那座島國。他對日本新獲得的火銃極具信心，因此他立刻將他那極具野心的目光投向西邊。位於中原大地的大明王朝及其位於半島上的盟國朝鮮，你們都得警醒了！而且聽說在中國北方的滿洲平原上，有股新勢力正在崛起。訓練好您的士兵、騎手和海軍：全副武裝、枕戈待旦，以應付即將拉開帷幕的泛黃海圈領土爭霸戰！[NEWLINE][NEWLINE]勝利條件[NEWLINE]日本或滿族其中之一占領首爾以及北京即可獲勝。中國與朝鮮守住他們原有的城市直到1600年後即可獲勝。若以上條件皆未觸發，在一百回合之後獲得最多點數的文明即為獲勝方。請注意，殺死敵軍單位和控制首爾和北京皆能獲得額外點數。[NEWLINE][NEWLINE]特別規則[NEWLINE]在遊戲初始即可購買政策以平衡您的幸福度與經濟。唯一可以建造新城市的文明為滿族。朝鮮與中國在遊戲初始時互為盟友，而與日本交戰。科技功能不開啟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_JAPAN_TEXT">
+      <Text>劇本描述[NEWLINE]願神賜福於您，大人-願上天的旨意能引導您渡過這段艱苦的日子，因為變革之風已吹至我們這裡，進而將襲捲東亞。日本的太閣豐臣秀吉在歷經千辛萬苦之後統一了那座島國。他對日本新獲得的火銃極具信心，因此他立刻將他那極具野心的目光投向西邊。位於中原大地的大明王朝及其位於半島上的盟國朝鮮，你們都得警醒了！而且聽說在中國北方的滿洲平原上，有股新勢力正在崛起。訓練好您的士兵、騎手和海軍：全副武裝、枕戈待旦，以應付即將拉開帷幕的泛黃海圈領土爭霸戰！[NEWLINE][NEWLINE]勝利條件[NEWLINE]日本或滿族其中之一占領首爾以及北京即可獲勝。中國與朝鮮守住他們原有的城市直到1600年後即可獲勝。若以上條件皆未觸發，在一百回合之後獲得最多點數的文明即為獲勝方。請注意，殺死敵軍單位和控制首爾和北京皆能獲得額外點數。[NEWLINE][NEWLINE]特別規則[NEWLINE]在遊戲初始即可購買政策以平衡您的幸福度與經濟。唯一可以建造新城市的文明為滿族。朝鮮與中國在遊戲初始時互為盟友，而與日本交戰。科技功能不開啟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_KOREA_TEXT">
+      <Text>劇本描述[NEWLINE]願神賜福於您，大人-願上天的旨意能引導您渡過這段艱苦的日子，因為變革之風已吹至我們這裡，進而將襲捲東亞。日本的太閣豐臣秀吉在歷經千辛萬苦之後統一了那座島國。他對日本新獲得的火銃極具信心，因此他立刻將他那極具野心的目光投向西邊。位於中原大地的大明王朝及其位於半島上的盟國朝鮮，你們都得警醒了！而且聽說在中國北方的滿洲平原上，有股新勢力正在崛起。訓練好您的士兵、騎手和海軍：全副武裝、枕戈待旦，以應付即將拉開帷幕的泛黃海圈領土爭霸戰！[NEWLINE][NEWLINE]勝利條件[NEWLINE]日本或滿族其中之一占領首爾以及北京即可獲勝。中國與朝鮮守住他們原有的城市直到1600年後即可獲勝。若以上條件皆未觸發，在一百回合之後獲得最多點數的文明即為獲勝方。請注意，殺死敵軍單位和控制首爾和北京皆能獲得額外點數。[NEWLINE][NEWLINE]特別規則[NEWLINE]在遊戲初始即可購買政策以平衡您的幸福度與經濟。唯一可以建造新城市的文明為滿族。朝鮮與中國在遊戲初始時互為盟友，而與日本交戰。科技功能不開啟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+      <Text>劇本描述[NEWLINE]願神賜福於您，大人-願上天的旨意能引導您渡過這段艱苦的日子，因為變革之風已吹至我們這裡，進而將襲捲東亞。日本的太閣豐臣秀吉在歷經千辛萬苦之後統一了那座島國。他對日本新獲得的火銃極具信心，因此他立刻將他那極具野心的目光投向西邊。位於中原大地的大明王朝及其位於半島上的盟國朝鮮，你們都得警醒了！而且聽說在中國北方的滿洲平原上，有股新勢力正在崛起。訓練好您的士兵、騎手和海軍：全副武裝、枕戈待旦，以應付即將拉開帷幕的泛黃海圈領土爭霸戰！[NEWLINE][NEWLINE]勝利條件[NEWLINE]日本或滿族其中之一占領首爾以及北京即可獲勝。中國與朝鮮守住他們原有的城市直到1600年後即可獲勝。若以上條件皆未觸發，在一百回合之後獲得最多點數的文明即為獲勝方。請注意，殺死敵軍單位和控制首爾和北京皆能獲得額外點數。[NEWLINE][NEWLINE]特別規則[NEWLINE]在遊戲初始即可購買政策以平衡您的幸福度與經濟。唯一可以建造新城市的文明為滿族。朝鮮與中國在遊戲初始時互為盟友，而與日本交戰。科技功能不開啟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HEADING">
+      <Text>滿族八旗鐵騎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HELP">
+      <Text>這是滿族的特色單位，替代常規的騎士。其擁有強力的遠程攻擊力、高移動力並且還能以雙倍的速度獲取強化的經驗值。單位戰鬥時還能貢獻兩倍偉人點數以加快大將軍的誕生。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_INFO">
+      <Text>八旗鐵騎是滿族的特色單位，可在中古時代開始生產。替代常規的騎士，其移動速度加快、獲得強化經驗值的速度加倍，而且能貢獻兩倍偉人點數，以加快誕生大將軍。八旗鐵騎也可使用強力的遠程攻擊從遠處攻擊敵人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_STRATEGY">
+      <Text>八旗鐵騎是替代騎士的特色單位，滿族在中古時代開始可以生產該單位。八旗鐵騎擁有強力的遠程攻擊以及較高的移動力（總共5點），這讓他在執行打帶跑戰術時顯得極其出色。不僅如此，八旗鐵騎還以其他單位雙倍的速度獲取強化經驗值，還能貢獻兩倍偉人點數，以加快誕生大將軍。單單這支馬上勁旅就能讓滿族掌控開闊的平原。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_TEXT">
+      <Text>由滿族王朝的奠基人努爾哈赤在十七世紀早期創建的八旗制度，是一種用來管理王朝軍隊的組織制度。創立的初衷是用來將士兵劃分成不同軍種之用，但後來卻被用來區分不同的民族，使得由滿族人、漢人及蒙古人組成的滿族軍隊不致相互參雜。滿族與蒙古族旗軍是完美的騎兵，他們經年累月的遊牧生活和天賦異稟的馬術，養育出強大的騎乘軍隊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_DESC">
+      <Text>太閣豐臣秀吉已統一日本。為了讓他的武士們不致無所事事，現在他的目光投向西邊的朝鮮。他是否能夠擴大他的帝國？還是朝鮮的中國盟友能夠及時抵達？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+      <Text>{1_Num}來自戰鬥擊殺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_TECH">
+      <Text>{1_Num}來自首爾與北京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_EXTRA_MANCHU_UNITS">
+      <Text>另一支女真部落聽說了滿族國勢強盛而來加入滿族的行列。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_GUERILLAS_SPAWNED">
+      <Text>朝鮮接收了新的游擊單位，因其為正義之師。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_HOLD_CITIES">
+      <Text>必須守住城市直到1600年。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO">
+      <Text>和城</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_JAPANESE_REINFORCEMENTS">
+      <Text>日本的援軍已經在朝鮮半島登陸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_FIRSTGREETING_1">
+      <Text>光榮善戰的滿族人向您致意。對我們尊重一點，這樣也許你還能看到明天的日出。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_HEADING_1">
+      <Text>歷史</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_LIVED">
+      <Text>1558 AD-1626 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_NAME">
+      <Text>女真的努爾哈赤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_SUBTITLE">
+      <Text>後金王朝的可汗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_TEXT_1">
+      <Text>倍受敬仰的女真首領努爾哈赤，一統中國境內游牧的女真各部族，厥功至偉，奠定了滿州王朝的根基。努爾哈赤是後金的第一位可汗，在位時期為16世紀後半葉，在他死後后金改國號為清或被稱為滿州王朝。在他統治期間，號令群臣揮軍南下，擊敗了中原的明朝大軍，甚至還征服了朝鮮半島上的朝鮮王朝。努爾哈赤因開創八旗制度而功勳顯赫，八旗是一種軍隊的組織制度，把部隊分成不同大小的旗軍。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_MANCHU_DOW">
+      <Text>剛完成統一的滿州部族親眼目睹中國和朝鮮因與日本爭戰不斷而國力衰竭，乃藉此機會宣戰！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_MAP_TITLE">
+      <Text>東亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_CONQUER">
+      <Text>佔領目標：</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_REGAIN">
+      <Text>待收復城市：{1_CitiesToRegain}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_NINGXIA_REBELLION_OVER">
+      <Text>中國軍隊已經擊敗了盤踞寧夏西部的一支叛軍。新的中國援軍即將抵達。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
+      <Text>[NEWLINE]氏族只能在至少擁有2名[ICON_CITIZEN]市民的城市生產。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_POLICY_COLLECTIVE_RULE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]集體統治[ENDCOLOR][NEWLINE]購買單位的[ICON_GOLD]金幣花費降低33%。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_TECH_SPREAD">
+      <Text>您已擊敗{1_UnitName}並解鎖了{2_TechName}科技！現在您可以在自己的城市生產 {3_UnitName}。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_TITLE">
+      <Text>萬曆朝鮮之役</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_TURNSREMAINING">
+      <Text>剩餘回合：{1_TurnsRemaining}[NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
+      <Text>該單位可建立新城市，擴張您的帝國。每個新城市初始就擁有紀念碑、穀倉和市場。[NEWLINE][NEWLINE]當城市生產該單位時，城市人口的[ICON_FOOD]成長會停止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_VP_FUTURE_TECH">
+      <Text>戰鬥擊殺</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_VP_TECH">
+      <Text>首爾和北京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_WAJO_REINFORCEMENTS">
+      <Text>日本的援軍登陸，進駐和城，和城是日本軍隊在朝鮮半島建造的堡壘。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KOREA_SCENARIO_WONDER_PORCELAIN_TOWER_HELP">
+      <Text>生產近戰或海上單位時，+15%[ICON_PRODUCTION]生產力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW">
+      <Text>遊擊撤離</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW_HELP">
+      <Text>單位在遭到近程攻擊時會撤退。但在遭受快速敵方單位或後方開闊地帶有限時，撤離的幾率會下降。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY">
+      <Text>永遠不會在遊戲中被消滅，即使他們失去最後一個城市。其定期接收無償單位以便收復被佔領的城市。這些單位包括擁有面臨近戰攻擊時撤退能力的龜船和弓箭手。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY_SHORT">
+      <Text>義勇軍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS">
+      <Text>當毀滅一個蠻族營地後，之前的營地守衛將加入您的一方。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
+      <Text>八旗</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

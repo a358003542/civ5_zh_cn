@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_1">
+      <Text>很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_2">
+      <Text>好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_3">
+      <Text>當然。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_4">
+      <Text>同意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_5">
+      <Text>哦，很好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_6">
+      <Text>那是必須的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_7">
+      <Text>太棒了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_1">
+      <Text>這真令人印象深刻：看不出你還有兩下子。很好，那就開戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_2">
+      <Text>你這無能的白癡。你的貪婪將是你衰落的墊腳石。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_3">
+      <Text>白癡！你已將你的人民帶向絕路！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_1">
+      <Text>你的持續存在威脅到了我的人民。我必須將你摧毀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_2">
+      <Text>我看你活得已經夠久了。準備迎戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_3">
+      <Text>我以我鬍鬚與肚腩啟誓，你的死期到了。準備迎戰吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_1">
+      <Text>太糟了！我竟然輸了！我的鬍鬚與肚腩啊，這是怎麼一回事啊？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_2">
+      <Text>我的軍隊全軍覆沒。這怎麼可能？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_3">
+      <Text>這是事實還是夢魘？你怎麼可能打得倒我？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_ANGRY">
+      <Text>答應我以下要求，我就可免你一死。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，能否不吝將以下的物資給予您親密的朋友及夥伴呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_NEUTRAL">
+      <Text>如果你願意提供我們所需要的東西，對你而言是有極大好處的—春季攻勢就要來臨，而我的將軍們正等候我的指令。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_1">
+      <Text>不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_2">
+      <Text>當然不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_3">
+      <Text>我們拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_4">
+      <Text>絕對不行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_5">
+      <Text>我們無法接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_6">
+      <Text>你開什麼玩笑。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_7">
+      <Text>你說什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_1">
+      <Text>我以我的鬍鬚與肚腩之名，向您致意，很高興見到您！我是我是蘇萊曼，強大的鄂圖曼領袖！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_2">
+      <Text>鄂圖曼歡迎您，陌生人！我是蘇萊曼！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_3">
+      <Text>您好！陌生人！我是蘇萊曼，鄂圖曼的領袖。讓我們舉杯同慶這歡樂時刻吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_1">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_2">
+      <Text>再會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_3">
+      <Text>再見。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_4">
+      <Text>後會有期。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_5">
+      <Text>恕不遠送。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_6">
+      <Text>就這樣！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_7">
+      <Text>事畢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_1">
+      <Text>歡迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_2">
+      <Text>嗨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_3">
+      <Text>您好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_4">
+      <Text>日安。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_5">
+      <Text>喔，是你啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_6">
+      <Text>嗯？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_7">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_1">
+      <Text>說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_2">
+      <Text>繼續說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_3">
+      <Text>我在聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_4">
+      <Text>什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_5">
+      <Text>你是說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_6">
+      <Text>然後呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_7">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LOSEWAR_1">
+      <Text>祝賀你贏得了勝利，我希望之後和平可以長久延續下去。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_1">
+      <Text>你的提議我無法接受。你可以提供更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_2">
+      <Text>條件還不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_3">
+      <Text>還要更好的條件才行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_1">
+      <Text>來來來！你想把我搞窮嗎？您一定可以提出更高的條件吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_2">
+      <Text>這就是您能給出的最好條件？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_3">
+      <Text>已經很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>你就像個生了一打孩子的魚販一樣貪婪。想必你能提供更好的條件！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>能再提個更好的條件嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>條件遠遠不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>很接近了…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_ANGRY">
+      <Text>我可沒時間跟你胡鬧。滾去跳博斯普魯斯海峽吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_HAPPY">
+      <Text>我的朋友，您是不是曬太陽忘記帶您的頭巾，曬昏頭了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_NEUTRAL">
+      <Text>荒唐！你喝多了嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_ANGRY">
+      <Text>你時不時還能顯出一點判斷力。或許你還是有那麼點希望的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_HAPPY">
+      <Text>以天雷之名，這個主意太好了，同意！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_NEUTRAL">
+      <Text>太棒了！我們贊成！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_ANGRY">
+      <Text>我相信連你都可以看出這項提議多你們多有利吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_HAPPY">
+      <Text>我的朋友，這項提議您可以接受嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_NEUTRAL">
+      <Text>來，讓我們商量商量，這樣合你心意嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_ANGRY">
+      <Text>你這猴子的子孫！你當真想從我這勒索財寶嗎？我看你瘋得不輕！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_HAPPY">
+      <Text>朋友是這樣當的嗎？以我鬍鬚與肚腩之名，我可不這麼認為！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_NEUTRAL">
+      <Text>要不你把我的長子也一併拿去？不行！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_ANGRY">
+      <Text>好吧，你說了算。但以我的鬍鬚與肚腩之名，風水會輪流轉的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_HAPPY">
+      <Text>沒問題！我可是出了名的慷慨，對吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_NEUTRAL">
+      <Text>我猜花點小錢打發你比直接滅了你要划算。那好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_1">
+      <Text>我看你是在用彎刀抹自己脖子。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_2">
+      <Text>那好！下次我就不會這麼客氣了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_3">
+      <Text>多令人失望啊！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_4">
+      <Text>真太讓人失望了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_5">
+      <Text>真的嗎？不過我相信你可活不到為自己的短視後悔的那天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_6">
+      <Text>你真是白癡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WINWAR_1">
+      <Text>我奉勸你別再來煩我們了。下次我可沒這麼仁慈！</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

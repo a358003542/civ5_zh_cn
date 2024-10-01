@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_ANUTA">
+      <Text>阿努塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AOTEAROA">
+      <Text>奧特亞羅瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BELLONA">
+      <Text>貝羅納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BORA_BORA">
+      <Text>波拉·波拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_EMAE">
+      <Text>埃邁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FUTUNA">
+      <Text>富圖納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HILO">
+      <Text>希洛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAILUA">
+      <Text>凱盧阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KAPINGAMARANGI">
+      <Text>卡平加馬蘭基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KIRITIMATI">
+      <Text>克瑞提馬提</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LAHAINA">
+      <Text>拉海納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MANGAREVA">
+      <Text>曼加瑞瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MUNGAVA">
+      <Text>曼加瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NIUE">
+      <Text>紐埃</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUGURIA">
+      <Text>努古利亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUKUHIVA">
+      <Text>努庫希瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUKUMANU">
+      <Text>努庫馬努</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NUKUORO">
+      <Text>努庫歐洛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OAHU">
+      <Text>瓦胡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ONTONGJAVA">
+      <Text>翁通爪哇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PILENI">
+      <Text>皮列尼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAIATEA">
+      <Text>賴阿特亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAKAHANGA">
+      <Text>拉卡罕加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAPANUI">
+      <Text>拉帕·努伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_RAROTONGA">
+      <Text>拉羅湯加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_REKOHU">
+      <Text>瑞科胡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROTUMA">
+      <Text>羅圖馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAMOA">
+      <Text>薩摩亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SIKAIANA">
+      <Text>斯凱亞納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAHITI">
+      <Text>大溪地</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TAKUU">
+      <Text>塔庫烏</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TEWAIPOUNAMU">
+      <Text>特·威波納姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TIKOPIA">
+      <Text>提科皮亞島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TOKELAU">
+      <Text>托克勞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA">
+      <Text>東加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUAMOTU">
+      <Text>土阿莫土</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUBUAI">
+      <Text>土布艾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TUVALU">
+      <Text>圖瓦盧</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_UVEA">
+      <Text>烏維阿</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

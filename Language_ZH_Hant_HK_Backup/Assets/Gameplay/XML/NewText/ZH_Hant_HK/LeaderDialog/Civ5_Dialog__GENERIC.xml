@@ -1,0 +1,1466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我注意到你在我的邊界附近部署了大量單位。我要求你將其移到別處，以免對我的人民造成不必要的困擾。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ALEXANDER_EXPANSION_SERIOUS_WARNING_1">
+      <Text>嘿，你想和我開戰嗎？立即停止在我帝國附近擴張，否則後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ALEXANDER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我看到你的軍隊了。來戰吧，讓你明白與我這麼偉大的將軍過招的下場是什麼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ASKIA_EXPANSION_SERIOUS_WARNING_1">
+      <Text>別跟我嘻嘻哈哈的。如果你繼續在強大的桑海帝國旁建設城市，那麼它們很快就會成為我的城市。我這把劍可不是鬧著玩的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ASKIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>如果你的軍隊在我邊境附近發動進攻，我會滅了他們。因為我們受神的眷顧，百戰不殆。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ATTACKED_PROTECTED_CITY_STATE_1">
+      <Text>您對{@1_MinorCivName}的肆意侵略已經被注意到。如果繼續攻擊，將面臨嚴重的後果。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AUGUSTUS_EXPANSION_SERIOUS_WARNING_1">
+      <Text>如果你在激怒我，那你快要成功了。如果你繼續向羅馬的領土擴張，你就將見識我的怒火。而你一定會後悔的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AUGUSTUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>你那些在我帝國附近的士兵近來似乎頗為亢奮。該不會是他們愚蠢的領領袖想要挑起戰爭吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BISMARCK_EXPANSION_SERIOUS_WARNING_1">
+      <Text>我們是一個驕傲而強大的民族。不要愚蠢到去強佔屬於德國的土地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BISMARCK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>你得知道，當你的軍隊大肆進攻時，德國的全部強大力量將釋出並壓倒你的國家。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CATHERINE_EXPANSION_SERIOUS_WARNING_1">
+      <Text>告訴你，俄國人民非常珍視自己的國土。向我們的邊境移民是一種挑釁行為，請不要再一意孤行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CATHERINE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>天啊！天啊！…你的軍隊離俄羅斯帝國太近了，實在太近了。建議你趕緊將他們調開，立刻，馬上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COOP_WAR_REQUEST_1">
+      <Text>我與{1_PlayerName:textkey}的分歧已達到頂點，這情況只能在戰場上解決，朋友，您會加入我的行列嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COOP_WAR_REQUEST_2">
+      <Text>{1_PlayerName:textkey}已造成困擾，只能透過戰爭處理。我正尋求盟友－可以把您列入其中嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COOP_WAR_REQUEST_3">
+      <Text>{1_PlayerName:textkey}已對這穩定世界構成威脅，是時候一次將他們解決的時候了。你願意支援我嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COOP_WAR_TIME_1">
+      <Text>是時候向{1_PlayerName:textkey}開戰了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DARIUS_EXPANSION_SERIOUS_WARNING_1">
+      <Text>波斯不會忍受侮辱。而你在我們邊境新建城市便是一種侮辱。快說，你要怎麼辦？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DARIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我看見附近你的軍隊了。想你這麼愚蠢的人，是沒有膽量向光榮無上的波斯帝國宣戰的，我沒說錯吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEC_FRIENDSHIP_1">
+      <Text>在這個世界，很難找到有價值的朋友。我想要發表一個公開的友好宣言，告知其他帝國我國人民的團結性。請問有何指教？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEC_FRIENDSHIP_2">
+      <Text>偉大的領袖，您會介意向全世界發表友好宣言？我希望在我兩帝國之間建立一個長久的聯盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEC_FRIENDSHIP_3">
+      <Text>讓我們向全世界發表友好宣言以種下光明未來的種子，您認為如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DEC_FRIENDSHIP_4">
+      <Text>這個世界是殘忍的，只有在他人的協助下，我們才能夠面對它！是否該向世界宣示我們的友好宣言？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENOUNCE_1">
+      <Text>我向全世界說出你罪行的時候了。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟公開指責我們！注意：您並未與之開戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENOUNCE_2">
+      <Text>我已經提醒其他領袖了，讓他們知道你是個不值得信任的人。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟公開指責我們！注意：您並未與之開戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENOUNCE_3">
+      <Text>正是您聽到的那樣，其他領袖已經知道您那邪惡的一面了。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟公開指責我們！注意：您並未與之開戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENOUNCING_FRIEND_1">
+      <Text>受夠你了！我已經告訴其他領袖與你合作是一個錯誤。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟然公開譴責我們！注意：您並未與之交戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DENOUNCING_FRIEND_2">
+      <Text>好，真是夠了，早就該告訴所有人你的惡行。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟然公開譴責我們！注意：您並未與之交戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOMACY_ANYTHING_ELSE">
+      <Text>還有其他的嗎?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_WHAT">
+      <Text>你想討論什麼?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOF_AI_DENOUNCE_REQUEST_1">
+      <Text>朋友，我有嚴肅的事情要討論。我和{1_CivName}的關係已經破裂了，我需要您譴責他們以表示支持。您覺得呢？​</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOF_AI_WAR_REQUEST_1">
+      <Text>我發現我自己處在一個嚴重的狀況。和{1_CivName}開戰的時刻到了，而我需要您的參戰。您覺得呢？（會立即宣戰）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOF_NOT_HONORED_1">
+      <Text>可悲呀，你終於顯露出本色了。現在全世界都知道了你不光彩的一面。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟然公開譴責我們！注意：您並未與之交戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DOF_NOT_HONORED_2">
+      <Text>原來你就是這樣的盟友？全世界其餘的領袖都會耳聞你的背叛。[NEWLINE][NEWLINE]（[COLOR_WARNING_TEXT]他們竟公開譴責我們！注意：您並為與之交戰。[ENDCOLOR]）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ELIZABETH_EXPANSION_SERIOUS_WARNING_1">
+      <Text>如果你想加入我英格蘭帝國，那麼歡迎你。但如果你只是想要奪取本屬於我的土地，你最好停手。懂嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ELIZABETH_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>耀武揚威是嚇不倒英格蘭的。調走你那些士兵，不然我就要他們好看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+      <Text>我們簽署的對付{1_PlayerName:textkey}的保密協定已經走到了盡頭。我很感謝您這些來的協助。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_DEFAULT_1">
+      <Text>大勢已變，而我也認為我們已經沒有必要繼續履行我們的合作協定了。希望您能理解</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_DEFAULT_2">
+      <Text>十分抱歉，但我們的合作協定不得不終止了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_LAND_1">
+      <Text>我擔心我們過近的距離註定會危害我們的關係。仔細考慮後，我們的合作協定已經終止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_MINORS_1">
+      <Text>我無法接受你與我勢力範圍內的城邦交易。仔細考慮後，我們的合作協定已經終止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_VICTORY_1">
+      <Text>我很清楚我們正在不同的道路上前進將使你我分道揚鑣。仔細考慮後，我們的合作協定已經終止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_WARMONGER_1">
+      <Text>我也不想事情發展成這樣，但我實在看不慣你那副好戰分子的樣子。仔細考慮後，我們的合作協定已經終止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_END_WORK_WITH_US_WONDERS_1">
+      <Text>你對世界奇跡貪婪地蒐集已經成為了個大問題。仔細考慮後，我們的合作協定已經終止。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_BROKEN_PROMISE_1">
+      <Text>你不在我國領土附近擴張的保證似乎是一句空話。這會讓你付出代價的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_SERIOUS_WARNING_1">
+      <Text>你的擴張行為對我國是一種冒犯。這會讓你付出代價的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_WARNING_1">
+      <Text>我注意到你已擴張到我認為屬於我的土地來了。我要求你三思而後行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_WARNING_2">
+      <Text>很多人都已經注意到，你把發現的每寸土地都據為己有。我建議你最好別再這樣做。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_WARNING_3">
+      <Text>如果你繼續我認為是我的土地上擴張，恐怕會毀掉我們之間的友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXPANSION_WARNING_4">
+      <Text>你的人民在我所主權的領土旁新建城市，將導致我們兩國的關係緊張。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GANDHI_EXPANSION_SERIOUS_WARNING_1">
+      <Text>印度人民對你強佔本屬於他們的土地感到憤怒。請不要用這種魯莽的行為破壞我們之間的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GANDHI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>印度對你的士兵毫無畏懼。你要使攻擊的話，那將是個巨大的錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+      <Text>這正是我擔心的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+      <Text>我只希望這的確是事實。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_BETRAYED_1">
+      <Text>利用他人的信任實在是太卑鄙了。大家都會知道你的背叛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_1">
+      <Text>如果你想戰，我絕不退縮。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_2">
+      <Text>跟你過招是我的榮幸。請拿出真本事來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_3">
+      <Text>這下有趣了。我正等著機會修理像你這樣的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_4">
+      <Text>很好！讓我們決一死戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_1">
+      <Text>笨蛋。你犯了一個很嚴重的錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_2">
+      <Text>你真可悲，我會告訴你我對此完全不會感到驚訝嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_3">
+      <Text>你這個野蠻的畜生。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_4">
+      <Text>你連統治最爛的王國的資格都沒有。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_5">
+      <Text>你的審判之日要到了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+      <Text>你違背了自己的諾言。不要犯錯，因為世界會知道你的背叛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_1">
+      <Text>你的行為真讓我難過。地獄一定為像你這樣的人準備好了位置。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_2">
+      <Text>你要這樣攻擊我嗎？你太傲慢無知了。希望有一天你會為此受到審判。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_3">
+      <Text>沒必要利用他人的弱點來獲得勝利。難道沒有更好的方法了嗎?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_4">
+      <Text>你怎麼能這樣做？滾開，你這卑鄙的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_EXCITED_1">
+      <Text>哈哈，不是我要質疑你的決定，但顯然你犯了很大的錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_1">
+      <Text>你真的以為可以打敗我嗎？蠢蛋。很好，那麼就來玩場遊戲吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_2">
+      <Text>歡迎你的軍隊來享受即將降臨的毀滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_3">
+      <Text>攻擊我是個錯誤。很快你就知道為什麼了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_4">
+      <Text>宣戰是嚴重的判斷失誤。我已經說了，我絕對會讓你後悔。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_5">
+      <Text>我會毫不猶豫地讓你明白自己做出了多麼愚蠢的決定。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_6">
+      <Text>很好。那麼就來吧。我要趁這次機會毀了你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_7">
+      <Text>卑鄙的蠢蛋。我要無情地碾碎你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_EXCITED_1">
+      <Text>現在可能不是與你交鋒的最好時機。但考慮到能削弱你，還是值得一試。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_1">
+      <Text>即使無法戰勝你的邪惡，我也絕不會手軟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_2">
+      <Text>鑒於當前的情況，打敗你會讓勝利果實變得更加甜美。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_3">
+      <Text>有種你就放馬過來。我絕對不會輕易在你面前倒下。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_4">
+      <Text>就這樣吧。我的軍隊會與你的邪惡力量誓死作戰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_5">
+      <Text>你會永遠背著掠奪弱者的惡名。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_BOOT_KISSING_1">
+      <Text>大家都知道您是英明偉大的統治者。希望您能憐憫像我這樣的弱者。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_BOOT_KISSING_2">
+      <Text>噢，偉大的領袖！希望您在力量與美德方面永遠是我這般弱者的典範。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_COMPLIMENT_1">
+      <Text>我想讓您知道，我很珍惜我們之間的友誼，希望其能夠地久天長。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_COOP_WAR_SOON_1">
+      <Text>這個提議很吸引人，我願意接受，但是我的帝國尚未準備完全。請給我10個回合，待我準備好了再過來找你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_COOP_WAR_YES_1">
+      <Text>這一招聽起來不錯。讓我們用在戰場上吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_CULTURE_BOMBED_1">
+      <Text>你膽子還真大！知道後果會怎樣嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_CULTURE_BOMBED_2">
+      <Text>如果你是要挑起戰爭，那麼你辦到了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLARATION_ABANDON_CITY_STATE_1">
+      <Text>{2_MajorCivName:textkey}收回其保護{1_MinorCivName:textkey}的承諾。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
+      <Text>{2_MajorCivName:textkey}向世界宣佈庇護{1_MinorCivName:textkey}。進攻該城邦或者向其索取進貢會嚴重損害雙邊關係，甚至可能會引起戰爭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLINE_1">
+      <Text>我必須拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLINE_2">
+      <Text>抱歉，但不行。也許下次可以。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLINE_3">
+      <Text>恐怕這樣的安排對我不利，所以我必須拒絕。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DEMAND_1">
+      <Text>你有我要的東西。如果你不乖乖交出來，我就只好把它搶過來了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_NO_1">
+      <Text>不可接受！我乃一國之君，有權按照自己的意願移民。這次的冒犯我不會忘記。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_NO_2">
+      <Text>你膽敢這樣侮辱我？我不會忘記的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_NO_3">
+      <Text>你好大的膽子！你以為我意志薄弱嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_NO_4">
+      <Text>這不可能。我看你得溫習下外交手段了，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_YES_1">
+      <Text>很好！我同意現在開始不在貴國附近定居。也許在將來，你會成為親切的鄰居。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DONT_SETTLE_YES_2">
+      <Text>那就這樣吧。我不會在你的領土附近定居。看來合作不是你的特長。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOT_DOT_DOT">
+      <Text>...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_1">
+      <Text>假裝與你友好很不禮貌，但歷史上也很少有人以有禮貌而聞名。願你早日入土。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_2">
+      <Text>你的弱點就是我的機會。你選擇信任我是個錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_3">
+      <Text>說我暗箭傷人也太難聽了。不如就說我只是「重新詮釋」了我們假定的友誼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_4">
+      <Text>我得承認自己從來沒有真正喜歡你。假裝喜歡這套已經老掉牙了。寒暄的時間結束了，受死吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_1">
+      <Text>雖然這也許不大現實，但我會嘗試摧毀你和你的一切。不成功便成仁。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_2">
+      <Text>你確實很強大。但我絕對會找到打敗你的方法。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_3">
+      <Text>你是個絕世惡人。我打自內心知道，我一定要毀了你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_4">
+      <Text>你的強大無可匹敵，但我會找到打敗你的方法。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_5">
+      <Text>是時候做出行動了。雖然我不佔優勢，但我會找到打敗你的方法。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_6">
+      <Text>無論你多強大也無法阻止我找出打敗你的方法。希望命運能夠眷顧我。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_7">
+      <Text>雖然我不希望這樣，但恐怕這是打敗你的唯一機會了。我們戰場上一決勝負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_8">
+      <Text>也許我會被殲滅，但若我退縮了，我將毫無疑問的被擊敗。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_1">
+      <Text>顯然我們兩個帝國都相互看不順眼。那麼只有在戰場上解決問題了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_2">
+      <Text>我有預感，將來我們會在戰場上碰面。現在便可預見誰會勝利了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_3">
+      <Text>是時候戰鬥了。願能者獲勝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_LAND_1">
+      <Text>相鄰的我們命中註定將為敵。讓我們看看誰能最後屹立在這片土地上吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_LAND_2">
+      <Text>你離我們太近了。我的帝國需要更多的生存空間。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_LAND_3">
+      <Text>你的土地將劃入我的地界。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_1">
+      <Text>我占得先鋒，現在要摧毀你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_2">
+      <Text>我已經等得夠久了。我已洞悉你防禦系統的缺漏，會好好利用這一點的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_3">
+      <Text>這一天我已經等很久了。現在是時候整理下你自己的事情了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_4">
+      <Text>這是我的時代。我會將你踩在腳下，使我離勝利更近一步。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_5">
+      <Text>命運沒有站在你那邊。如此弱小還膽敢撲入我的路徑，你會很快意識到這是個錯誤，那時悔恨已晚。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_6">
+      <Text>當前有著不可忽視的情況。機不可失啊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_7">
+      <Text>我可沒辦法忽視這個清除潛在對手的機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_8">
+      <Text>很抱歉，但你的弱點對我來說是個絕佳的機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_REGRET_1">
+      <Text>我相信來世我們會是朋友。可惜現在的情況並非如此。祝你的軍隊好運。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_REGRET_2">
+      <Text>我的朋友，我恐怕只能與你斷絕關係，揮劍相斥了。希望你有天能原諒我。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_REGRET_3">
+      <Text>儘管我無法相信，但是的，這事就這樣發生了。我感到無比悲傷，可我必須告訴你，我們的友誼結束了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WEAK_BETRAYAL_1">
+      <Text>雖然機會渺茫，但我也無法再掩蓋我的偽裝。我現在只能祈求我的軍隊能成功。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_1">
+      <Text>這個世界註定是我的。是時候讓你知道這句話是什麼意思了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_2">
+      <Text>命運使我成為統一這決裂世界的救星。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_3">
+      <Text>當我打敗了像你這樣的人及那些在我周圍苟且的蛆蟲時，歷史將對我微笑。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_4">
+      <Text>實話跟你說吧，我要把你與同所有人統統消滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_5">
+      <Text>你只不過是我一統世界的墊腳石罷了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_6">
+      <Text>現在是時候開始我偉大的計畫了。也是時候讓你像其他的笨蛋一樣死去。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GIFT_ITEM_1">
+      <Text>請接受這份禮物，偉大的領袖。願我們的友誼長存。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GIFT_ITEM_2">
+      <Text>朋友就應該互相扶持，一起克服這個世界的挑戰。請接受這份禮物，偉大的領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_EXPANSION_1">
+      <Text>趁此機會，我想提醒一下你的擴張行為已經讓我的官員們感到不安了。我希望這不會在將來產生麻煩。你想談些什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_MILITARY_1">
+      <Text>你軍隊的位置讓人不安。為了將來的和平，建議你撤軍。那麼你想要談些什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+      <Text>你最近購買我國附近土地的趨勢讓我有些擔心。為了我們長久的雙邊關係發展，我建議你謹慎為好。有點跑題了，今天你來此有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_1">
+      <Text>來求我憐憫你嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_2">
+      <Text>失去戰鬥的意志了嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_3">
+      <Text>怎麼？厭煩戰鬥了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_1">
+      <Text>這還不是結束這場戰爭的時候嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_2">
+      <Text>為了我們兩國好，讓我們共創和平吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_3">
+      <Text>是時候放下我們的武器了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_BROKEN_MILITARY_PROMISE_1">
+      <Text>像你這樣無恥的人是為了什麼來到這裡？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_1">
+      <Text>我感覺，不久後我們就得與{1_ThirdPlayerName:textkey}決戰了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_2">
+      <Text>希望你也同我一樣期待{1_ThirdPlayerName:textkey}被毀滅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_3">
+      <Text>很快我們就會與{1_ThirdPlayerName:textkey}一決勝負了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_AI_1">
+      <Text>啊，好吧。那你現在想談了，是嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_AI_2">
+      <Text>在你說過那些話之後還敢來這裡露臉？在我把你丟出去之前，快說出你的目的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_BY_AI_1">
+      <Text>是你？你要幹嘛？我已經受夠了同你這樣的人打交道。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_BY_AI_2">
+      <Text>你以為你在這裡做什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+      <Text>啊，你好。很高興能跟其他領袖分享我對{1_PlayerName}的厭惡。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+      <Text>喔，是你。老實說，我不歡迎那些侮辱{1_PlayerName}的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DESTRUCTION_LOOMS_1">
+      <Text>這一切馬上要結束了。你還想說點什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_DESTRUCTION_LOOMS_2">
+      <Text>當我看起來挫敗時，我就知道結果了。你是來談條件的嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+      <Text>您帝國的強大經濟聞名遐邇。也許將來您會願意與您的朋友分享一點您的秘訣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_MILITARY_1">
+      <Text>我聽說了許多關於您強大軍隊的故事。這個世界的惡人聰明的話，應該懂得懼怕您的力量。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+      <Text>你的城市與人民像瘟疫一樣擴散並侵襲著大地。我希望有一天這一切不再出現在我眼前。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+      <Text>我在我的邊界附近看到你的軍隊了。你是傻到來這裡威脅我，還是單純浪費我的時間？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+      <Text>在你的帝國中所有盜竊而來的土地很好地展現了你的貪婪。你知道最終你還是會被抓到的，對吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_1">
+      <Text>有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_2">
+      <Text>你怎麼在這裡？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_3">
+      <Text>你在此有何事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_4">
+      <Text>怎麼又是你？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_5">
+      <Text>趕緊說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+      <Text>你那小小的戰事進展得如何了？希望不是太好。你想要幹嘛？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+      <Text>小東西來了。我們正談到你，不過我保證都不是什麼好事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+      <Text>啊，那個嗜血狂魔露臉了。那他來找我又有什麼事呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+      <Text>悄悄地告訴你，你的軍隊對這世界來說就是個笑話。不過不要擔心，我保證很快就有人來結束你那可悲的命運了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_REPEAT_1">
+      <Text>除了跟我胡說八道外，你就沒別的事可做了？或許你還真沒有。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_REPEAT_2">
+      <Text>你這次又想幹嘛？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_HUMAN_AT_WAR_1">
+      <Text>祝您這次戰鬥順利。我能為您做什麼呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_1">
+      <Text>您好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_3">
+      <Text>您想討論什麼?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_4">
+      <Text>今天是什麼風把您吹到這裡來了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_5">
+      <Text>繼續。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_6">
+      <Text>讓我們開始吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+      <Text>這是什麼？我沒太多時間陪那些跟{1_PlayerName}瞎混的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+      <Text>啊，好呀！很榮幸能同{1_PlayerName}的朋友聊天。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_1">
+      <Text>您好，朋友。今天是什麼風把您帶到我家來了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_2">
+      <Text>同您聊天總是讓人愉悅。您想談些甚麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_3">
+      <Text>你好，朋友，我們又見面了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_4">
+      <Text>很高興見到您。帶來的是消息，還是提議？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_REPEAT_1">
+      <Text>這麼快就回來了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_REPEAT_2">
+      <Text>你真很喜歡與我聊天，不是嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_RESEARCH_AGREEMENT_1">
+      <Text>您好！研究協定進展地如何了？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_WORKING_AGAINST_1">
+      <Text>{1_ThirdPlayerName:textkey}這個惡徒真讓人感到頭痛。您不覺的嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_WORKING_AGAINST_2">
+      <Text>您好！我希望我們不用花太久時間，就能一勞永逸解決掉{1_ThirdPlayerName:textkey}。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_WORKING_AGAINST_3">
+      <Text>有什麼應付{1_ThirdPlayerName:textkey}的新計劃嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_WORKING_WITH_1">
+      <Text>同您合作是我的榮幸，朋友。今天是什麼風把您吹來我家的？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+      <Text>好吧，至少你很誠實，不過這也許是你唯一的優點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+      <Text>說的比唱的好聽。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+      <Text>我們等著瞧吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+      <Text>是啊，沒錯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_ATTACKED_MINOR_GOOD_1">
+      <Text>很好。我會關注事態的發展。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+      <Text>你膽敢用這種態度羞辱我？如果你真的很想要一件東西，那麼就盡全力從我這裡奪走吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+      <Text>你要踩過我的屍體才能得到它。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+      <Text>如果你想要的話，那就想辦法來奪走它。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_4">
+      <Text>不可接受！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_5">
+      <Text>別傻了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+      <Text>你太貪心了。我才不會壓榨我的人民來滿足你的貪婪。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+      <Text>不，我有我的尊嚴。我拒絕將如此大得恩惠拱手於你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_3">
+      <Text>你想從我的土地奪取如此多的財富是讓人無法忍受的。不要那麼貪心。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+      <Text>你這麼快又來威脅我了？我拒絕你的要求，你這下流的畜牲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+      <Text>這麼快就又來索要了？偉大的領袖，你可要知道貪婪是最可惡的…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_3">
+      <Text>你又要奪取其他人的勞動所得了？你真是我所見過最貪心的人，我是不會屈服的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_1">
+      <Text>拜託，你可沒有下這樣指令的資格。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_2">
+      <Text>你應該有自覺，自己無力抵禦那些威脅吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_3">
+      <Text>你無法再欺騙任何人了，我一點也不怕你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_4">
+      <Text>哈哈！你還沒有強大到向我下如此指令。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_1">
+      <Text>很好。我會採取必要手段維持我領土的和平。 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_2">
+      <Text>我會不計代價維持和平。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_3">
+      <Text>好吧。但你要知道這樣的舉動只會玷污你自己的名聲。不過，這也是你自找的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_EXPANSION_WARNING_GOOD_1">
+      <Text>很好。我希望我們可以繼續有所共識。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_KILLED_MINOR_GOOD_1">
+      <Text>那你建議怎麼做？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+      <Text>很好。我希望我們可以繼續有所共識。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_BAD_1">
+      <Text>看起來跟你沒辦法講道理。真可惜！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_BAD_2">
+      <Text>那我跟像你這樣的人沒什麼好說的了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_BAD_3">
+      <Text>你讓我們失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_BAD_4">
+      <Text>你知道此舉只會引起我們兩國間的局勢緊張。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_1">
+      <Text>真可惜。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_2">
+      <Text>那下次再說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_3">
+      <Text>真令人失望。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_1">
+      <Text>非常好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_2">
+      <Text>太棒了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_3">
+      <Text>很高興聽到您這麼說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_4">
+      <Text>聽到這個消息真好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_1">
+      <Text>我感謝您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_2">
+      <Text>您真是一個偉大的領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_3">
+      <Text>您的功績將永垂青史。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+      <Text>那您有何建議？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+      <Text>那您有何建議？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_BULLY_1">
+      <Text>世上居然還有領袖會以欺負弱者為樂，真是丟人啊！你不覺得嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_CITIES_1">
+      <Text>我注意到你的帝國已一蹶不振。你是忘了擴展領土，還是遇到了麻煩？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_1">
+      <Text>真是個荒涼的景象…你的帝國看來如此落後。你的人民整天都在做些什麼，聚在一起敲石頭嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_2">
+      <Text>外頭傳言你們國家的文化就是個笑話，連蠻族都恥於經過你的土地。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_1">
+      <Text>我已注意到你的可悲情況了。在我瞭解你狀況後，我便忍不住與他人分享了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_2">
+      <Text>啊，再次看到我最喜愛的城邦總是令人愉悅。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_3">
+      <Text>我真是厭倦再看到你的臉了。我希望有一天你可以走開或去乾點別的事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_4">
+      <Text>啊，是你。真不好意思，有時候我會把你跟那些我必須不時驅趕的蠻族搞混。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_MILITARY_1">
+      <Text>想來你也許會願意知道你的軍隊有點弱這個事實。小心為上。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_MILITARY_2">
+      <Text>你的軍隊真弱，我很驚訝你的帝國居然還沒有被蠻族征服。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_NUKE_1">
+      <Text>我們說的話可是有核子武器在背後撐腰的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_POPULATION_1">
+      <Text>商旅告訴我們你的帝國經濟情況已瀕臨崩潰。如果你稍微求我一下，我也許會伸出援手…好吧…其實我不會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_UNHAPPINESS_1">
+      <Text>我在自己的國家里都已經聽說你的人民已經窮困潦倒。如果你再不做點什麼的話，他們也許很快便會收拾行裝去尋找真正可以賴以維生的文明了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_INSULT_UNHAPPINESS_2">
+      <Text>你的人民在如此不滿的情況下，還奉你為領袖，這真是讓我感到驚訝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_LETS_HEAR_IT_1">
+      <Text>讓我們聽聽你的提議。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_LETS_HEAR_IT_2">
+      <Text>你的提議是什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_LUXURY_TRADE_1">
+      <Text>你有一種我想要的奢侈品資源。你覺得這項提議如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_1">
+      <Text>我注意到你與{1_MinorCivName:textkey}的關係有點友好了。容我提醒你，他們在我的勢力範圍內，我希望你最好能離他們遠點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_2">
+      <Text>我注意到你與{1_MinorCivName:textkey}的關係了。雖然那很不錯，但你最好讓我們來保護他們。我不想我們任何一方插足到對方的地盤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_NO_PEACE_1">
+      <Text>和平？下次再說吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_NO_PEACE_2">
+      <Text>現在可不是談判的時候。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_NO_PEACE_3">
+      <Text>我們還有事情要解決呢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_EXCHANGE_1">
+      <Text>我相信我們兩個偉大帝國間互相開通自由通行權是互利雙邊的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_EXCHANGE_2">
+      <Text>彼此開放我們的邊界只會讓我們的友誼更加堅固。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_OFFER_1">
+      <Text>我想要同您交涉在您領土內通行的事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_OUR_WORDS_ARE_BACKED">
+      <Text>我們說的話可是有核子武器在背後撐腰的！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+      <Text>我很高興看到這場衝突結束了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+      <Text>能看到這場可怕的戰爭結束真好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_1">
+      <Text>是時候結束這場戰役了。你怎麼想？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_2">
+      <Text>這場衝突再持續下去已無意義。讓我們握手言和吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_3">
+      <Text>我們一定不要讓戰爭來決定誰是誰非。握手言和的時刻到了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+      <Text>你的提議是什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+      <Text>你的建議是？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+      <Text>和平的代價是什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_PLAN_RESEARCH_AGREEMENT_1">
+      <Text>我計劃跟貴國簽訂研究協定。我們每人需要支付150[ICON_GOLD]以簽立協定。您認為呢？[NEWLINE][NEWLINE]（確定同意還不能簽立研究協定）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_1">
+      <Text>這項交易曾強固了我們國家與友誼。我們是否應該再進行一次來共享繁榮？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REPEAT_NO_1">
+      <Text>我們之前已經談過了。我的答案仍舊是不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REPEAT_TOO_MUCH">
+      <Text>...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_1">
+      <Text>我不是已經告訴你要做得更好些了嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_2">
+      <Text>我已經告訴你了，不是公平的交易就別想再談。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_3">
+      <Text>你又在提那些明知我不會接受的提議了嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_1">
+      <Text>很不幸，這裡事情進展的不太順利。您能向朋友提供些幫助嗎？我會在事情好轉後報答您的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_2">
+      <Text>雖然這麼做對我來說真是痛苦，不過朋友我必須請求您幫個忙。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_3">
+      <Text>您偉大的力量是其他所有帝國的典範。請求您對那些較為不幸的國家施捨您的慷慨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RESEARCH_AGREEMENT_OFFER_1">
+      <Text>我覺得「研究協定」會是對我們雙方都有利的一項安排，有助於堅固我們之間的友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_1">
+      <Text>我對您解救那些俘虜們表示衷心感謝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_2">
+      <Text>我很感謝您代表我的人民所採取的那些行動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_3">
+      <Text>感謝您。願後人記住這讓我們偉大帝國更加親密的歷史事件。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_SO_BE_IT_1">
+      <Text>那就這樣吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_SO_BE_IT_2">
+      <Text>你要為此事的後果負責。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_SO_BE_IT_3">
+      <Text>你會為此感到後悔。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_DOF_1">
+      <Text>很抱歉，但我不認為我們已經認識夠久可以心安理得地這樣做了。也許我們可以以後再來討論這件事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_DOF_2">
+      <Text>就我們現在的關係來看，發表此類宣言是不成熟的。下次再說吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TOO_SOON_NO_PEACE_1">
+      <Text>你在開玩笑吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_1">
+      <Text>那樣就行得通。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_2">
+      <Text>那樣就行了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_3">
+      <Text>很好！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_AI_DEMAND_1">
+      <Text>很高興能與您交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_AI_DEMAND_2">
+      <Text>鄰居間能如此相處實在太好了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_1">
+      <Text>您的提議很慷慨，我接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_2">
+      <Text>我坦然接受了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_3">
+      <Text>我必須要接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+      <Text>同意！我相信這個交易將有助於恢復我們的友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_HUMAN_CONCESSIONS_2">
+      <Text>我很感謝您的慷慨。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_1">
+      <Text>你覺得這樣如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_2">
+      <Text>我們能否做項交易？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_3">
+      <Text>讓我們做個交易吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_1">
+      <Text>這項交易一提出來，我就覺得不錯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_2">
+      <Text>這項交易實際上比看起來還好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_3">
+      <Text>我看這樣不錯。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_NO_DEAL_POSSIBLE_1">
+      <Text>我很抱歉，但我不認為有辦法能進行這場交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_NO_DEAL_POSSIBLE_2">
+      <Text>這可沒有辦法交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_1">
+      <Text>我們無法接受這項交易。如果你希望我們之間有所進展的話，你最好提出一個公平的交易。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_2">
+      <Text>不可接受！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_3">
+      <Text>這個交易跟公平一點也沾不上邊。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_1">
+      <Text>恐怕我必須要求你拿出更多東西來交換。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_2">
+      <Text>我很抱歉，但是那項提議對我並沒有好處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_3">
+      <Text>那個提議不夠好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WANT_MORE_RENEW_DEAL_1">
+      <Text>這項交易在我們眼中已隨著時間的流逝而失效。想要恢復這項交易，我們需要獲得更多。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WARMONGER_1">
+      <Text>我們注意到了你那極具侵略性的行為。如一意孤行，它最終會將你引向滅亡之路。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WARMONGER_2">
+      <Text>很明顯，你真的是一個野蠻的禽獸。我必須警告你，你的行為已經開始引起許多人的注意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WARMONGER_3">
+      <Text>你的好戰是這些日子以來的熱點話題。你最好當心一點。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WARMONGER_4">
+      <Text>你已經開始引起很多注意，這不是件好事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WE_ATTACKED_MINOR_BAD_1">
+      <Text>我堅信我所做的決定對我的人民與國家來說是最明智的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WORK_AGAINST_SOMEONE_YES_1">
+      <Text>同意！讓我們盡力試試看。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_1">
+      <Text>那會成功的。希望堅固的友誼會讓我們的帝國走向強盛之路。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_2">
+      <Text>真棒的想法。祝願我們的結盟讓全世界嫉妒。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_3">
+      <Text>我樂意地接受。願我們的帝國友誼長久、繁榮興盛。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HARUN_EXPANSION_SERIOUS_WARNING_1">
+      <Text>你膽敢在此殖民玷辱真主的土地？要有自知之明，異教徒。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HARUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>你在真正阿拉面前是無法隱藏的，同樣在阿拉伯面前也是一樣。如果你選擇同我們開戰，就等同於詛咒自己墮入永世地獄。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HIAWATHA_EXPANSION_SERIOUS_WARNING_1">
+      <Text>原野並不僅僅屬於你。身為其守護者，我必須要求你停止向易洛魁的領土擴張。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HIAWATHA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>聖靈警告我強大的邪惡已逼近了我們。不要因為殺害別人而褻瀆了人們對你先祖的懷念。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我看到你的軍隊在我的帝國四周聚集。如果你想想攻擊我們的話，儘管來吧。不要像孩子一樣藏身在暗處。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+      <Text>我想你也許想知道我已經開始入侵你小小的附屬城邦。他們的土地和資源將會讓我更強大。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
+      <Text>噢哦，我似乎攻擊了你的一個小友邦。想要關心一下，為他們做點什麼嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+      <Text>我相信你說的{1_CivName}只會是那些世界上已開化帝國的問題而已。也許我們的共同譴責能讓他們學點教訓。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DOF_1">
+      <Text>很顯然，任何你不想和睦相處的人都值得我們去建立友誼。請向{1_CivName}致上我的敬意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DENOUNCED_ENEMY_1">
+      <Text>很高興知道世上還有人跟我一樣討厭{1_CivName}。顯然他們很不值得信任。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DENOUNCED_FRIEND_1">
+      <Text>我想讓你知道{1_CivName}和我以前曾一起合作過，而且我非常尊敬他們。只是先跟你說一聲，讓你知道這件事。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_1">
+      <Text>噢，太棒了！害蟲們正在生產。現在我必須一同處理你和{1_CivName}嗎？我一定要狠狠教訓他們。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_1">
+      <Text>考慮到我和您目前的關係如此良好，因此我沒辦法不注意到您已和{1_CivName}成為友邦，如同我們一樣。也許這個暫時的結盟可以在未來做出一番大事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DOFED_ENEMY_1">
+      <Text>我建議你最好不要跟{1_CivName}走得太近。不然的話…我們之間的同盟可能會有問題。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HUMAN_DOFED_FRIEND_1">
+      <Text>啊…我注意到你跟{1_CivName}成為了朋友。很高興聽到這件事。我自己已經跟他們間建立了良好的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_KILLED_PROTECTED_CITY_STATE_1">
+      <Text>看來你的話毫無價值，就如同你征服{@1_MinorCivName}時所顯示出的樣子。真惡劣！全世界都將知道你的惡行。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_HOSTILE_HELLO_1">
+      <Text>如汝般鼠輩居然還有膽量出現在強大的希臘帝國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_NEUTRAL_HELLO_1">
+      <Text>歡迎！希望您同我一樣，感受到希臘帝國是如此令人讚歎！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_POLITE_HELLO_1">
+      <Text>啊！嗨，又見面了朋友！我這個偉大的將軍能為您做些什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LUXURY_TRADE_1">
+      <Text>當好王國的領袖不容易。但是和朋友做生意確實可以使這稍微簡單一些。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_OPEN_BORDERS_EXCHANGE_1">
+      <Text>彼此開放邊境定能有助於雙方帝國的防衛，您覺得呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_RESPONSE_REQUEST_1">
+      <Text>我們做朋友已不是一時半會了對吧？能幫我一把么？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_HOSTILE_HELLO_1">
+      <Text>如果你樂意，我可以證明桑海戰士的劍鋒是如何銳利…不？那麼，你想怎樣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_NEUTRAL_HELLO_1">
+      <Text>我相信是神祉指引您來到桑海，偉大的領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_POLITE_HELLO_1">
+      <Text>什麼把您帶到桑海這個神祇鍾愛之地，我的朋友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LUXURY_TRADE_1">
+      <Text>神祇教導我們要互相學習、互相尊重。經由交易，我感覺我們得以更進一步彼此瞭解。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_OPEN_BORDERS_EXCHANGE_1">
+      <Text>我正在尋找朝聖的路線。進入我的領土對您應該也有好處。讓我們開放邊境吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_RESPONSE_REQUEST_1">
+      <Text>桑海的近況不佳，朋友。我相信是神祉在教導我們不可獨享勝利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_HOSTILE_HELLO_1">
+      <Text>不要浪費羅馬的時間，我政務繁忙。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_NEUTRAL_HELLO_1">
+      <Text>有事快奏。需要我操心的事還很多。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_POLITE_HELLO_1">
+      <Text>喔，睿智的領袖，什麼緣故讓你來到羅馬？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LUXURY_TRADE_1">
+      <Text>讓大眾安心至關重要。此交易可助我們雙方輕鬆解決。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_OPEN_BORDERS_EXCHANGE_1">
+      <Text>似乎我們可以輕鬆達成開放雙方邊界的協議，你同意嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_RESPONSE_REQUEST_1">
+      <Text>即便強如羅馬亦會面臨難題。可以請您幫忙嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_HOSTILE_HELLO_1">
+      <Text>說明來意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_NEUTRAL_HELLO_1">
+      <Text>德國總是期待和強大的王國，像是你們，建立友好的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_POLITE_HELLO_1">
+      <Text>德國問候您。一直以來都還好吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LUXURY_TRADE_1">
+      <Text>貿易是眾多壯大帝國的方法之一，你覺得這個提議如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_OPEN_BORDERS_EXCHANGE_1">
+      <Text>德國尋求強而有力的盟友，開放我們的邊界有助於將共同防衛進一步提升。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_RESPONSE_REQUEST_1">
+      <Text>對困乏的德國伸出援手，將確保您自己遇到困難時有一個可靠的盟友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_HOSTILE_HELLO_1">
+      <Text>你是想來獲得我的青睞的嗎？如果是的話，那你就可有事要做了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_NEUTRAL_HELLO_1">
+      <Text>太好了，我一直都很喜歡其他偉大領袖的拜訪！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_POLITE_HELLO_1">
+      <Text>太棒了，我一直期待著能盡快再見到您！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LUXURY_TRADE_1">
+      <Text>哈，你好唷！這個提議你應該會感興趣。怎麼樣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_OPEN_BORDERS_EXCHANGE_1">
+      <Text>讓雙方人民加深瞭解的唯一方法就是拆除阻隔他們的柏林牆。開放邊境吧，您覺得怎麼樣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_RESPONSE_REQUEST_1">
+      <Text>天…天啊，看看這是誰來了，我一直期盼著能找到您呢。俄羅斯經濟現在有些困難，您能伸出援手嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_HOSTILE_HELLO_1">
+      <Text>就你這樣子，還敢來強大的波斯？你想幹嘛？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_NEUTRAL_HELLO_1">
+      <Text>你到浩瀚高貴的波斯帝國來，有何貴幹？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_POLITE_HELLO_1">
+      <Text>我們可以攜手，共同贏取世界的財富！您這次來波斯有何貴幹，朋友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LUXURY_TRADE_1">
+      <Text>貿易是任何王國的命脈，波斯也不例外。您覺得這個交易如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_OPEN_BORDERS_EXCHANGE_1">
+      <Text>波斯從世界各地尋求知識和機會，也許您有相同的目標，我們開放邊境，如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_RESPONSE_REQUEST_1">
+      <Text>偉大的波斯帝國正經歷困境，您的投資確保了我們雙方光明的未來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_HOSTILE_HELLO_1">
+      <Text>我沒整天的時間跟你耗。有事就快說，說完就快離開。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_NEUTRAL_HELLO_1">
+      <Text>歡迎來到英格蘭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_POLITE_HELLO_1">
+      <Text>歡迎您回到英格蘭，我的朋友。相信您的旅途還算愉快吧？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_LUXURY_TRADE_1">
+      <Text>透過貿易來累積財富，是所有文明國家的責任。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_OPEN_BORDERS_EXCHANGE_1">
+      <Text>開放彼此的邊境，可以促成巨大的商機，你同意嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ELIZABETH_RESPONSE_REQUEST_1">
+      <Text>願意幫助我們嗎？您完全可以把它當做與強大英格蘭建立關係的一種投資。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_HOSTILE_HELLO_1">
+      <Text>雖然我不喜歡和你說話，但我希望同你談話後，印度可以有更美好的未來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_NEUTRAL_HELLO_1">
+      <Text>印度時刻歡迎您的到訪。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
+      <Text>嗨，又見面了！親愛的朋友，印度張開雙臂熱烈歡迎您。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LUXURY_TRADE_1">
+      <Text>啊！哈囉，我的朋友。我們或許可以做把互利互惠的買賣。您覺得如何？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_OPEN_BORDERS_EXCHANGE_1">
+      <Text>印度希望透過移除使我們分隔的無形障礙，使得我們的友誼更加穩固。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_RESPONSE_REQUEST_1">
+      <Text>親愛的朋友，能分些東西給印度嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_GREETING_HOSTILE_HELLO_1">
+      <Text>連真主都唯恐避之不及的人，是不應該出現在這裡的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_GREETING_NEUTRAL_HELLO_1">
+      <Text>您今天拜訪一定是真主的旨意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_GREETING_POLITE_HELLO_1">
+      <Text>真主向您微笑，我的朋友。我能為您做點什麼？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_LUXURY_TRADE_1">
+      <Text>盡可能低尋找合作機會，讓我們的臣民進行交易，乃是上帝之所願。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_OPEN_BORDERS_EXCHANGE_1">
+      <Text>開放邊境將向上帝證明我們雙方均為開化的文明。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HARUN_RESPONSE_REQUEST_1">
+      <Text>朋友，我們現在亟需幫助。上帝將保佑那些慷慨解囊的人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_HOSTILE_HELLO_1">
+      <Text>圍繞在我們身邊的祖靈告訴我說你不值得信任。你這樣認為嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_NEUTRAL_HELLO_1">
+      <Text>您來到這荒郊野嶺，有何貴幹，領袖？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_POLITE_HELLO_1">
+      <Text>祖靈預言了您的拜訪。您到這裡有何貴幹，朋友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_LUXURY_TRADE_1">
+      <Text>大自然的恩惠原本就是應該共享的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_OPEN_BORDERS_EXCHANGE_1">
+      <Text>土地渴望從人為設置的邊界囚籠中釋放出來。消除兩國間的邊界吧，你怎麼說？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_HIAWATHA_RESPONSE_REQUEST_1">
+      <Text>魂靈托夢告知我麻煩即將到來。藉助您的大力相助，希望可以安然度過這次禍患。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_HOSTILE_HELLO_1">
+      <Text>你是自己跑這來想要成為祭品的嗎？不是嗎？那我建議你最好快點離開。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_NEUTRAL_HELLO_1">
+      <Text>如果你喜歡，我願意帶你自己參觀我的祭壇。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_POLITE_HELLO_1">
+      <Text>朋友，歡迎您！我要獻祭十名俘虜，以紀念此次會面！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LUXURY_TRADE_1">
+      <Text>來吧，做個交易。奢侈品交易會平息群眾的怨氣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_OPEN_BORDERS_EXCHANGE_1">
+      <Text>開放邊境對運送祭品到我的聖壇大有幫助，我覺得對你也很有用！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_RESPONSE_REQUEST_1">
+      <Text>讓你提供這些東西和下一批的十個獻祭品是你們的榮幸！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_HOSTILE_HELLO_1">
+      <Text>你找世界最偉大的領袖有什麼事嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_NEUTRAL_HELLO_1">
+      <Text>你是來這裡向法國帝國致敬，還是來做生意呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_POLITE_HELLO_1">
+      <Text>啊！嗨！又見面了，您最近沒惹什麼麻煩吧，朋友？ </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_LUXURY_TRADE_1">
+      <Text>啊，似乎我們的一些商品可以讓彼此互惠互利。可以交易嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_OPEN_BORDERS_EXCHANGE_1">
+      <Text>開放我們雙方邊界將極有利於軍隊的快速移動，這是非常有必要的。您覺得呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_NAPOLEON_RESPONSE_REQUEST_1">
+      <Text>法蘭西雖強，卻仍有艱難時刻。請贈與我們禮物，我保證您將得到公正的回報。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_GREETING_HOSTILE_HELLO_1">
+      <Text>你面前的這個武士願意傾聽。現在快說，別浪費了這次機會。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_GREETING_NEUTRAL_HELLO_1">
+      <Text>謹以卑微的地主之身恭迎您的到來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_GREETING_POLITE_HELLO_1">
+      <Text>向您致敬，偉大的領袖。我誠摯祝願您萬事如意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_LUXURY_TRADE_1">
+      <Text>並不是我自以為是，但我堅信貿易可以互惠互利。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_OPEN_BORDERS_EXCHANGE_1">
+      <Text>我請求我們能通行於彼此的國度，以示相互尊重。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ODA_RESPONSE_REQUEST_1">
+      <Text>你覺得面前的卑微武士會低下他的頭請求你的慷慨嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_HOSTILE_HELLO_1">
+      <Text>你應該感激神聖的法老讓你倖存到了現在。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_NEUTRAL_HELLO_1">
+      <Text>埃及之神及法老，歡迎您的到來。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_POLITE_HELLO_1">
+      <Text>歡迎您，偉大的領袖。您與埃及之神間有何貴事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LUXURY_TRADE_1">
+      <Text>我願以尼儸河大地富饒的產物，與您進行同等的交換。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_OPEN_BORDERS_EXCHANGE_1">
+      <Text>埃及願意徹底敞開她那神聖的土地，只願您也能同樣這麼做。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_RESPONSE_REQUEST_1">
+      <Text>您願意向眾神之國埃及奉獻點東西嗎，我相信你們世世代代都過著豐衣足食的生活吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_HOSTILE_HELLO_1">
+      <Text>每次見到你都讓我渾身不自在，但我得為暹羅人民作出犧牲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_NEUTRAL_HELLO_1">
+      <Text>希望您能在暹羅找到您想要的東西。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_POLITE_HELLO_1">
+      <Text>啊，您好！我們該如何舉行您重返暹羅的慶典呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LUXURY_TRADE_1">
+      <Text>貿易是兩大國家間友好關係結出的甜美果實。您覺得這項提議如何，我的朋友？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_OPEN_BORDERS_EXCHANGE_1">
+      <Text>真正的領袖都明白只有合作共事才可同登巔峰。讓我們互開門戶，讓人民自由來往，怎樣？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_RESPONSE_REQUEST_1">
+      <Text>如果您能饋贈此等大禮，我將毫不猶豫地向全世界歌頌您這崇高的舉動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_HOSTILE_HELLO_1">
+      <Text>我有個只願同優秀的領袖談話的習慣。不過我可以為你破例一次，有話快說。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_NEUTRAL_HELLO_1">
+      <Text>歡迎來到鄂圖曼帝國，文明中的珍寶。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_POLITE_HELLO_1">
+      <Text>啊，歡迎回來。鄂圖曼帝國一向樂於招待她的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LUXURY_TRADE_1">
+      <Text>我願拿出我偉大財富的部分同您分享，如果您也願意這樣做的話！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_OPEN_BORDERS_EXCHANGE_1">
+      <Text>真正能瞭解這個世界的方式只有見多識廣。讓我們開放彼此的邊境，拓展我們的視野，共同瞭解這個世界吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_RESPONSE_REQUEST_1">
+      <Text>鄂圖曼帝國似乎遭遇了點困難。我可以向我的好友請求協助嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_HOSTILE_HELLO_1">
+      <Text>噢？像你這樣的人，會與美國有什麼事情呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_NEUTRAL_HELLO_1">
+      <Text>歡迎來到美國。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_POLITE_HELLO_1">
+      <Text>歡迎回到美利堅合眾國，我的朋友。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LUXURY_TRADE_1">
+      <Text>我希望透過貿易，美國與您偉大的帝國能夠變得更為親密。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_OPEN_BORDERS_EXCHANGE_1">
+      <Text>美國認為我們雙方能互開邊境的話，一定可以鞏固我們之間的友誼。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_RESPONSE_REQUEST_1">
+      <Text>如果您是來協助我們的話，美國向您表示感激。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_HOSTILE_HELLO_1">
+      <Text>輕藐九州之罪，汝可敢當？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_NEUTRAL_HELLO_1">
+      <Text>幸會。覲見天朝，所求何事？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_POLITE_HELLO_1">
+      <Text>久違，摯友。春去秋來，照應彼此方乃長遠之計。汝可認同？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LUXURY_TRADE_1">
+      <Text>中原地大物博，琳琅滿目。汝愿互易否？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_OPEN_BORDERS_EXCHANGE_1">
+      <Text>朕堅信如若相互疆土皆可暢行，則益於彼此文治之世。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_RESPONSE_REQUEST_1">
+      <Text>此等九州齊喑、華夏失色之事令朕心如刀絞，然朕須請汝之援助。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONTEZUMA_EXPANSION_SERIOUS_WARNING_1">
+      <Text>如果你的開拓者膽敢在我的國土附近定居，他們將會成為我下次的祭品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MONTEZUMA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>來吧，傻子。你的這些士兵將會是獻給神的最佳祭品。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NAPOLEON_EXPANSION_SERIOUS_WARNING_1">
+      <Text>想趁我不注意竊取我的土地嗎？你再這樣做，我會讓你吃驚苦頭。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NAPOLEON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>哈！你的軍隊在我領土附近做什麼。如果你想開戰，你得知道，你是不可能打得過我的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOW_ENEMY_1">
+      <Text>就這樣的情況下，我別無選擇只能假設你是我的敵人。所以，我會為保衛我的利益而行動。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOW_UNFORGIVABLE_1">
+      <Text>你的行動是無法被原諒的。我們兩國之間永遠無法達成和解。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ODA_EXPANSION_SERIOUS_WARNING_1">
+      <Text>像你這樣肆意佔領土地是無法成為一名偉大領袖的。我們不得不要求你停止這樣做。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ODA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>如果你想要開戰，那就來吧。別用那些心念邪惡毫無下限的戰術。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLOT_BUYING_BROKEN_PROMISE_1">
+      <Text>所以當你告訴我們你的帝國會停止購買我們國家附近的土地，似乎是個謊言。我不會輕易接受這種侮辱。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLOT_BUYING_BROKEN_PROMISE_2">
+      <Text>對你並未停止購買我國附近的土地，我非常失望。我原本希望你是個更可敬的領袖。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLOT_BUYING_SERIOUS_WARNING_1">
+      <Text>你購買我們領土附近的土地的那種侵略性態度真是種侮辱。我原本希望你是個更好的鄰居。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PLOT_BUYING_WARNING_1">
+      <Text>你在我領土附近購買土地的行為，造成了一些驚慌。我得在這個問題變得更嚴重前警告你。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RAMESSES_EXPANSION_SERIOUS_WARNING_1">
+      <Text>你居然膽敢在神聖的尼儸河旁建立城市？你再繼續這樣干的話，我保證會把你送到陰曹地府。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RAMESSES_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>你若敢發動攻擊，法老與埃及之神會將你碾碎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RAMKHAMHAENG_EXPANSION_SERIOUS_WARNING_1">
+      <Text>我真誠地希望暹羅和你的帝國能友好相處。但如果你繼續向我們的邊境擴張，恐怕我們將會變成敵人。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RAMKHAMHAENG_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我無法接受你在暹羅附近部署軍隊。請立即撤離。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_1">
+      <Text>就這樣了嗎？很好。我不會忘記的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_2">
+      <Text>不要讓愚蠢的舉動毀了你的名聲。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_3">
+      <Text>你犯了愚蠢的錯誤。我不會忘記這件事的。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_4">
+      <Text>我覺得跟你談根本是在浪費時間。根本不曉得怎麼會這樣。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SULEIMAN_EXPANSION_SERIOUS_WARNING_1">
+      <Text>拜託，你認為你在干什麼？為什麼要擴張得離鄂圖曼帝國如此之近？請立即停止這樣做。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SULEIMAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>告訴我。你是否是打在偉大的鄂圖曼帝國的主意？你軍隊部署的位置看來說明了這一切。我給你點建議—這將是你犯下的天大錯誤。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR_DEMAND_REFUSED_1">
+      <Text>那好吧。我會將我的軍隊從你土地上撤走。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR_DEMAND_REFUSED_2">
+      <Text>那就開戰吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WASHINGTON_EXPANSION_SERIOUS_WARNING_1">
+      <Text>你的領土正向美國主權的邊境進行擴張。這是對你的最後一次警告。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WASHINGTON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>我無法接受你在我邊境的駐軍。立即將其撤離，否則後果自負。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
+      <Text>我發現我貌似攻擊了一個過去與你有交情的城邦。我無意與你的帝國過意不去，但確實這樣做了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
+      <Text>我被告知，我的帝國開始攻擊一個與您友好的城邦。我向您保證，這是無意的，希望不會影響我們的關係。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_AGAINST_SOMEONE_1">
+      <Text>我與{1_PlayerName:textkey}的關係已經惡化。我要找人來幫我隔離壞蛋。可以麻煩你和我擬定一份保密協定嗎？[NEWLINE][NEWLINE]（不會導致與你宣戰的）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_AGAINST_SOMEONE_2">
+      <Text>{1_PlayerName:textkey}已是一個很大的麻煩，我希望能找到有類似想法的人。可以麻煩您起草一份保密協定嗎？[NEWLINE][NEWLINE]（不會導致您宣戰）</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_WITH_US_1">
+      <Text>在這個世界，很難找到有價值的朋友。我想打造與您偉大帝國的合作協定。請問有何指教？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_WITH_US_2">
+      <Text>偉大的領袖，您願意加入合作協定嗎？我希望在我兩帝國之間建立一個長久的聯盟。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_WITH_US_3">
+      <Text>讓我們藉由擬定合作協定，為光明的未來播下種子。你認為呢？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORK_WITH_US_4">
+      <Text>這個世界是殘酷的。只有藉由他人的協助，才能夠克服挑戰。我們應該參予合作協定嗎？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WUZETIAN_EXPANSION_SERIOUS_WARNING_1">
+      <Text>朕之天朝實為富庶之國，唯不請自來者，朕不願迎之。汝向中國擴境之舉，需務必止也。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WUZETIAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>汝若膽敢集大軍以跨我國之境，朕與中國之百萬盛怒天軍，必將汝之匹夫碎屍萬段。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

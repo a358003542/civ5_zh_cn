@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
+      <Text>阿卡普爾科</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
+      <Text>安提瓜</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
+      <Text>阿桑松</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
+      <Text>布宜諾斯艾利斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CALLAO">
+      <Text>卡爾勞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
+      <Text>卡塔格納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
+      <Text>卡宴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
+      <Text>皇家查理堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
+      <Text>多米尼加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
+      <Text>卡羅琳堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
+      <Text>聖皮埃爾堡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
+      <Text>法屬南極</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HAVANA">
+      <Text>哈瓦那</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
+      <Text>詹姆斯敦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
+      <Text>格林納達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
+      <Text>蒙特利爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
+      <Text>諾佈雷德迪歐斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA">
+      <Text>巴拿馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
+      <Text>普利茅斯鎮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
+      <Text>皇家港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
+      <Text>普羅維登斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
+      <Text>魁北克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
+      <Text>羅安諾科島</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
+      <Text>聖克裡斯多夫</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SALEM">
+      <Text>薩雷姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
+      <Text>聖胡安</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
+      <Text>聖多明各</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
+      <Text>塞布魯克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
+      <Text>聖喬治</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
+      <Text>聖約翰鎮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
+      <Text>聖馬利亞鎮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
+      <Text>塔多薩克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
+      <Text>三河鎮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
+      <Text>瓦爾帕萊索</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
+      <Text>維拉克魯茲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
+      <Text>威塞斯菲爾德</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
+      <Text>溫莎</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>
