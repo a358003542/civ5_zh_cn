@@ -112,5 +112,6 @@ for testfile in file_list:
 # 移入优化的Chinese.xml
 src_chinese = os.path.join(temp_data_folder, 'Chinese.xml')
 dst_chinese = os.path.join(steam_app_path, 'Assets', 'Gameplay', 'XML','NewText', 'Chinese.xml')
-shutil.copyfile(src_file, dst_file)
+shutil.copyfile(src_chinese, dst_chinese)
+
 logger.debug(f'优化后的Chinese.xml已移入目的地: {dst_chinese}')
