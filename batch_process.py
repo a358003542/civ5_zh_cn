@@ -73,6 +73,10 @@ for testfile in file_list:
 
     logging.debug(f'working on {testfile_path}')
 
+    if not os.path.exists(testfile_path):
+        logger.warning(f'文件不存在： {testfile_path} ')
+        continue
+
     content = check_file_content(testfile_path)
 
     doc = etree.XML(content)
